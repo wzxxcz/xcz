@@ -122,6 +122,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+      "key": "csp_土豪",
+      "name": "🅱️土豪影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/土豪影视.json"
+    },
+{
   "key": "csp_七月",
   "name": "🌛七月影视",
   "type": 3,
