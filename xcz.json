@@ -112,15 +112,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "csp_七月",
-      "name": "🅱️七月影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/七月影视.json"
-    },
+  "key": "csp_七月",
+  "name": "🌛七月影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/七月影视.json"
+},
 {
   "key": "csp_午舞",
   "name": "🍊午舞影视",
