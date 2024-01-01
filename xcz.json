@@ -72,6 +72,16 @@
   "ext": "./lib/疯狗影视.json"
 },
 {
+  "key": "csp_TVB",
+  "name": "🍊TVB云播",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/TVB云播.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
@@ -81,16 +91,6 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
-{
-      "key": "csp_TVB",
-      "name": "🅱️TVB云播|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/TVB云播.json"
-    },
 {
   "key": "csp_农民",
   "name": "🌾农民影视",
