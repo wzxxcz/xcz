@@ -82,6 +82,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "csp_xBPQ_玖八",
+  "name": "🍊玖八影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/98影视.json"
+},
+{
   "key": "csp_农民",
   "name": "🌾农民影视",
   "type": 3,
