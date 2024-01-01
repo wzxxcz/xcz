@@ -142,15 +142,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "csp_七年",
-      "name": "🅱️七年影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/七年影视.json"
-    },
+  "key": "csp_七年",
+  "name": "🍊七年影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/七年影视.json"
+},
 {
   "key": "csp_黑狐",
   "name": "🦊黑狐影视",
