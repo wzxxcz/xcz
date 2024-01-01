@@ -62,6 +62,16 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
+  "key": "csp_疯狗",
+  "name": "🐕疯狗影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/疯狗影视.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
