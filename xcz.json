@@ -163,6 +163,13 @@
   "ext": "./lib/耐看影视.json"
 },
 {
+  "key": "少泽影客（APP）",
+  "name": "🌙少泽影客",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "ext": "https://yk.shaozeyy.com/api.php/app/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
