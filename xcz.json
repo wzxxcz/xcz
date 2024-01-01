@@ -142,6 +142,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "csp_非凡",
+  "name": "🍊非凡资源",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/非凡资源网.json"
+},
+{
   "key": "csp_七年",
   "name": "🍊七年影视",
   "type": 3,
