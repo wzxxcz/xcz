@@ -122,6 +122,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+      "key": "csp_达龟",
+      "name": "🅱️达龟影院|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/达达龟影视.json"
+    },
+{
   "key": "csp_土豪",
   "name": "🫅土豪影视",
   "type": 3,
