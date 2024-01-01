@@ -142,6 +142,17 @@
   "ext": "./lib/量子资源网.json"
 },
 {
+  "key":"万达影视",
+  "name":"🍊万达秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "playerType": "1",
+  "ext":"./lib/wandays.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
