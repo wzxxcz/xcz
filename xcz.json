@@ -102,6 +102,16 @@
   "ext": "./lib/超前B站.json"
 },
 {
+  "key": "csp_佳能",
+  "name": "🍊佳能影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/348影视.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
@@ -111,16 +121,6 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
-{
-      "key": "csp_佳能",
-      "name": "🅱️佳能影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/348影视.json"
-    },
 {
   "key": "csp_七月",
   "name": "🌛七月影视",
