@@ -327,6 +327,16 @@
   "ext":"./lib/voflix.json"
 },
 {
+  "key": "开心果",
+  "name": "🍊开心果影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
