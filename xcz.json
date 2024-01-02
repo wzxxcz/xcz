@@ -732,6 +732,15 @@
   "ext": "https://www.69mj.com/xgapp.php/v2/"
 },
 {
+  "key":"csp_biubiu_大米星球",
+  "name":"🍛大米星球",
+  "type": 0,
+  "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
