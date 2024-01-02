@@ -434,6 +434,16 @@
   "ext": "./lib/胖虎影院.json"
 },
 {
+  "key":"csp_盒子",
+  "name":"🍊盒子秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/hezi.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
