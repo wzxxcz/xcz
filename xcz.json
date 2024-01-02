@@ -655,6 +655,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "港剧网",
+  "name": "🍊港剧影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+        "分类url": "https://www.aitv1.com/show/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$dy#连续剧$lianxuju#综艺$zy#动漫$dm#纪录片$jilupian"
+      }
+},
+{
   "key": "牛牛",
   "name": "🐂牛牛TV",
   "type":1,
