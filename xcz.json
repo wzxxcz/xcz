@@ -603,6 +603,17 @@
       ]
 },
 {
+  "key":"XBPQsj",
+  "name":"🍊爱新视觉",
+  "type":3,
+  "playerType":2,
+  "api":"csp_XBPQ",
+  "filterable":1,
+  "quickSearch":1,
+  "searchable":1,
+  "ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6080.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
