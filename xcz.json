@@ -306,6 +306,17 @@
   "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
 },
 {
+  "key": "A8影视",
+  "name": "🍊A8影视",
+  "type": 3,
+  "playerType": 2,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
