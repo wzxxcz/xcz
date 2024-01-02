@@ -614,6 +614,18 @@
   "ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6080.json"
 },
 {
+  "key": "横版影院",
+  "name": "🍊良子短剧",
+  "type": 1,
+  "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "categories": [
+        "短剧"
+      ]
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
