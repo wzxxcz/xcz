@@ -484,6 +484,16 @@
   "ext":"./lib/cdd.json"
 },
 {
+  "key": "csp_乌鸦",
+  "name": "🦜纯白乌鸦",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/乌鸦.json?ref_type=heads"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
