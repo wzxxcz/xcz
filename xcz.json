@@ -317,6 +317,16 @@
   "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
 },
 {
+  "key":"csp_Voflix",
+  "name":"🍊Voflix影视",
+  "type":3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./lib/voflix.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
