@@ -414,6 +414,16 @@
   "ext": "https://drpy.cainisi.cf/js/B站影视.js"
 },
 {
+  "key":"555影视",
+  "name":"🍊555蓝光",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/555.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
