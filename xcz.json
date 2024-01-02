@@ -296,6 +296,16 @@
     \"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
 },
 {
+  "key": "益达影视",
+  "name": "🍊美益达影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
