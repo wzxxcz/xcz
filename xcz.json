@@ -722,6 +722,16 @@
   "ext": "https://www.kuin.one/api.php/app/" 
 },
 {
+  "key": "csp_MeiJu69",
+  "name": "🗽六九影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.69mj.com/xgapp.php/v2/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
