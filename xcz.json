@@ -655,6 +655,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"360",
+  "name":"🍊360官网",
+  "type":3,
+  "api":"csp_SP33",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1
+},
+{
   "key": "港剧网",
   "name": "🍊港剧影视",
   "type": 3,
