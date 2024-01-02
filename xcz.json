@@ -677,6 +677,12 @@
   "filterable": 1
 },
 {
+  "key": "乐视",
+  "name": "🍊乐视资源",
+  "type": 1,
+  "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
