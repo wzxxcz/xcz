@@ -559,6 +559,15 @@
   "ext": "./lib/haixingys.json"
 },
 {
+  "key": "加速器",
+  "name": "😎加速影视",
+  "type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
