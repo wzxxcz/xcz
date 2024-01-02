@@ -645,14 +645,17 @@
     \"分类url\":\"https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html\"}"
 },
 {
-  "key": "csp_骚火",
-  "name": "🔥骚火影视",
+  "key": "奈落",
+  "name": "🍂奈落影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/骚火影视.json"
+  "ext": {
+  "线路数组": "data-dropdown-value=&&</div>",
+  "播放数组": "<div class=\"scroll-content&&</div>",
+  "线路标题": "耐落-+<span>&&</small>[替换:</span><small>>>共]+集",
+  "分类url": "https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+  "分类": "电影$1#剧集$2#综艺$4#动漫$3"
+      }
 },
 {
   "key":"360",
@@ -663,6 +666,16 @@
   "quickSearch":1,
   "filterable":1,
   "changeable":1
+},
+{
+  "key": "csp_骚火",
+  "name": "🔥骚火影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/骚火影视.json"
 },
 {
   "key": "港剧网",
