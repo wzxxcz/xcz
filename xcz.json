@@ -267,6 +267,16 @@
   "ext": "./lib/熊猫影视.json"
 },
 {
+  "key":"无限影视",
+  "name":"🔆无限风光",
+  "type":3,
+  "api":"csp_AppYsV2",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://www.wxtv.net/api.php/app/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
