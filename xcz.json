@@ -549,6 +549,13 @@
   "ext" : "http://52bsj.vip:81/api/v3/file/get/155350/007%E5%BD%B1%E8%A7%86.js?sign=EkntLloZ5Uy72KNgioKclay4YDRZtPXWpw2hCdQApuE%3D%3A0"
 },
 {
+  "key": "drpy_js_网飞.TV",
+  "name": "🍊网飞影视",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
