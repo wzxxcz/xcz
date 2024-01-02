@@ -424,6 +424,16 @@
   "ext":"./lib/555.json"
 },
 {
+  "key": "meowtv_phys",
+  "name": "🐅胖虎App",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/胖虎影院.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
