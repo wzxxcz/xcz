@@ -494,6 +494,16 @@
   "ext": "./lib/乌鸦.json?ref_type=heads"
 },
 {
+  "key": "csp_kle",
+  "name": "🍊可乐影视",
+  "type": 3,
+  "api": "csp_Cokemv",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+}, 
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
