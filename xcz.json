@@ -494,18 +494,6 @@
   "ext": "./lib/乌鸦.json?ref_type=heads"
 },
 {
-  "key": "csp_XYQHiker_COKEMV影院",
-  "name": "🍊小橙子乐乐",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/COKEMV影院.json"
-},
-
-{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
