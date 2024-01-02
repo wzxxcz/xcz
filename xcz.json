@@ -683,6 +683,16 @@
   "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
 },
 {
+  "key": "csp_SP33",
+  "name": "🍊三三解析",
+  "type": 3,
+  "api": "csp_SP33",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
