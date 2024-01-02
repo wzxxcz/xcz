@@ -668,6 +668,15 @@
   "changeable":1
 },
 {
+  "key": "meowtv_kkys",
+  "name": "🍊快看影院",
+  "type": 3,
+  "api": "csp_Kuaikan",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
