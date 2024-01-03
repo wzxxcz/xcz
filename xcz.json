@@ -835,6 +835,15 @@
   "ext":"./lib/sc1080.json"
 },
 {
+  "key": "B站影视",
+  "name": "🍊B站影视",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/B站影视.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
