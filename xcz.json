@@ -934,6 +934,16 @@
       }
 },
 {
+  "key": "csp_Kuaikan",
+  "name": "👀快看影视",
+  "type":3,
+  "api":"csp_Kuaikan",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "jar":""
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
