@@ -936,11 +936,9 @@
 {
   "key":"一起看 ",
   "name":"🍊一起App",
-  "type": 3,
-  "api": "csp_YQKan",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+  "type":3,
+  "api":"csp_YQKAPP",
+  "ext":"https://api-aws.ctdy.cc",
 },
 {
   "key": "csp_骚火",
@@ -954,7 +952,7 @@
 },
 {
   "key": "高清资源网",
-  "name": "🎦️高清2K",
+  "name": "🍊高清2K",
   "type": 1,
   "api": "https://api.1080zyku.com/inc/apijson.php",
   "searchable": 1,
