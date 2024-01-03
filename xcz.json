@@ -963,6 +963,16 @@
   "quickSearch":1
 },
 {
+  "key": "csp_wy",
+  "name": "🍃梧叶秋声",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./lib/梧叶秋声.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
