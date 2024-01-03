@@ -1022,6 +1022,15 @@
   "ext": "https://drpy.cainisi.cf/js/乐鱼影视.js"
 },
 {
+  "key": "咕噜[V2]",
+  "name": "🍊咕噜影视",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/咕噜[V2].js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
