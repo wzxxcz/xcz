@@ -1003,6 +1003,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "兰花影院",
+  "name": "🥦兰花影视",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/兰花影院.js"
+},
+{
   "key":"奈飞狗",
   "name":"🐶奈飞狗仔",
   "type":3,
