@@ -983,6 +983,16 @@
   "ext":"https://yanetflix.me/api.php/app/"
 },
 {
+  "key": "萌猫影视",
+  "name": "🐈‍⬛萌猫影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/萌猫影视.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
