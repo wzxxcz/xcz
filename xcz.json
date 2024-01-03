@@ -844,6 +844,16 @@
   "ext": "https://drpy.cainisi.cf/js/B站影视.js"
 },
 {
+  "key": "feiyun",
+  "name": "☁️飞云影视",
+  "type": 3,
+  "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+  "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
