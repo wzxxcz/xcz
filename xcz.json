@@ -781,6 +781,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "優質资源网",
+  "name": "🍊优质资源",
+  "type": 0,
+  "api": "https://api.1080zyku.com/inc/api.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "A",
   "name": "🍊采集一站",
   "type": 1,
