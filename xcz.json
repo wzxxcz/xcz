@@ -760,6 +760,17 @@
   "ext":"./lib/xiaoxiao.json"
 },
 {
+  "key": "快影",
+  "name": "🍊快影App",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "http://iosa.xn--654a.cc/api.php/app/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
