@@ -96,15 +96,15 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
-      "key": "fan_Wogg",
-      "name": "👽饭佬玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
+  "key": "fan_Wogg",
+  "name": "🍊饭佬玩偶",
+  "type": 3,
+  "api": "csp_WoGG",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+},
 {
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
