@@ -983,6 +983,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"csp_ql",
+  "name":"🍊奇乐无穷",
+  "type":3,
+  "api":"csp_AppYsV2",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://yuzhitu.cn/qingdoujiekou.php/v1.vod"
+},
+{
   "key": "酷茶影视",
   "name": "🍵酷茶影视",
   "type": 3,
