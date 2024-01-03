@@ -964,6 +964,24 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"csp_XBPQ_dudu30",
+  "name":"🍹嘟嘟影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"{
+    \"请求头\":\"手机\",
+    \"简介\":\"介绍：&&</span>\",
+    \"副标题\":\"class=\\\"other\\\">&&</p>\",
+    \"线路数组\":\"playerico ico-Azhan&&/li>\",
+    \"线路标题\":\"</i>&&<\",
+   
+    \"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",
+    \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"
+},
+{
   "key": "高清资源网",
   "name": "🍊高清2K",
   "type": 1,
