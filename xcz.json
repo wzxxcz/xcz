@@ -954,6 +954,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"光棍影视",
+  "name":"👨‍🔬男神影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/guangun.json"
+},
+{
   "key": "高清资源网",
   "name": "🍊高清2K",
   "type": 1,
