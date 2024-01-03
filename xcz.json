@@ -993,6 +993,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"奈飞狗",
+  "name":"🐶奈飞狗仔",
+  "type":3,
+  "api":"csp_AppYs",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://netflixdog.club/api.php/app/"
+},
+{
   "key":"csp_ql",
   "name":"🍊奇乐无穷",
   "type":3,
