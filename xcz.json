@@ -953,6 +953,17 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "高清资源网",
+  "name": "🎦️高清2K",
+  "type": 1,
+  "api": "https://api.1080zyku.com/inc/apijson.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+  "categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]
+},
+{
   "key": "優質资源网",
   "name": "🍊优质资源",
   "type": 0,
