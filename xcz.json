@@ -863,16 +863,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%83%E6%9C%88%E5%BD%B1%E8%A7%86.json"
-}, 
-{
-  "key": "csp_骚火",
-  "name": "🔥骚火影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/骚火影视.json"
 },
 {
   "key": "03影院",
@@ -898,6 +888,16 @@
   "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
         "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
       }
+}, 
+{
+  "key": "csp_骚火",
+  "name": "🔥骚火影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/骚火影视.json"
 },
 {
   "key": "優質资源网",
