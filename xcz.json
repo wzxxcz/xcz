@@ -890,6 +890,16 @@
       }
 }, 
 {
+  "key": "csp_xBPQ_348",
+  "name": "🍊348影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "./lib/348影院.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
