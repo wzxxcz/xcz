@@ -954,6 +954,15 @@
   "ext":"./lib/guangun.json"
 },
 {
+  "key":"天翼资源",
+  "name":"🍊长天比翼",
+  "type":1,
+  "api":"https://www.911ysw.top/tianyi.php/provide/vod/",
+  "playUrl":"",
+  "searchable":1,
+  "quickSearch":1
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
