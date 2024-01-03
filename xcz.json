@@ -1003,6 +1003,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "csp_XBPQ_lz",
+  "name": "🍊黑乎影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/黑乎影视.json"
+},
+{
   "key": "兰花影院",
   "name": "🥦兰花影视",
   "type": 3,
