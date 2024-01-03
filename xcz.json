@@ -823,7 +823,17 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0
-}
+},
+{
+  "key": "耐看点播",
+  "name": "🍊耐看影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+  "分类数组":"swiper-wrapper\"*&&</ul>",
+  "分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
+         }
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
