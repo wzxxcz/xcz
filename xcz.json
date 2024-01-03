@@ -934,6 +934,15 @@
       }
 },
 {
+  "key":"一起看 ",
+  "name":"🍊一起App",
+  "type": 3,
+  "api": "csp_YQKan",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
