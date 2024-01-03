@@ -844,6 +844,16 @@
   "ext": "https://drpy.cainisi.cf/js/B站影视.js"
 },
 {
+  "key":"csp_星辰",
+  "name":"🍊星辰秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/xcys.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
