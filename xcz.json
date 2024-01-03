@@ -855,13 +855,15 @@
   "ext":"./lib/xcys.json"
 },
 {
-  "key":"星星",
-  "name":"🌠星星之火",
-  "type":3,
-  "api":"csp_qiao",
-  "playerType":2,
-  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing"
-},
+  "key": "qiyue",
+  "name": "🍊七月蓝光",
+  "type": 3,"playerType":2,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%83%E6%9C%88%E5%BD%B1%E8%A7%86.json"
+}, 
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
