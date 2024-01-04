@@ -1169,11 +1169,11 @@
   "ext":"./lib/zizi.json"
 },
 {
-      "key": "四个圈",
-      "name": "四个圈资源",
-      "type": 1,
-      "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
-    },
+  "key": "四个圈",
+  "name": "🍊四个圈资源",
+  "type": 1,
+  "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
