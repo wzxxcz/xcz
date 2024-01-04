@@ -1117,6 +1117,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "速博资源",
+  "name": "🍊速播采集",
+  "type": 1,
+  "api": "https://subocaiji.com/api.php/provide/vod/",
+  "playUrl": "",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "天空",
   "name": "️🍊天空采集",
   "type": 1,
