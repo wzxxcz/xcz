@@ -1134,6 +1134,13 @@
 				"分类": "电影$20#连续剧$26#美剧$21#日韩$28#动漫$25"
 			}
 },
+{ 
+  "key": "畅梦",
+  "name": "🌜畅梦影视", 
+  "type": 3, 
+  "api": "http://cf.weixine.net/js/lib/drpy2.min.js",
+  "ext": "http://cf.weixine.net/js/changmeng.js" 
+}, 
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
