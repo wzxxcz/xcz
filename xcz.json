@@ -1051,6 +1051,16 @@
   "ext": "https://www.tvkuys.xyz/api.php/app/"
 },
 {
+  "key": "meowtv_348D",
+  "name": "🪐蓝光影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/蓝光电影.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
