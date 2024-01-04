@@ -1145,6 +1145,20 @@
   "ext": "./lib/花花.json"
 },
 {
+  "key": "卧龙资源",
+  "name": "🍊卧龙影院",
+  "type": 1,
+  "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "categories": [
+                "国产剧",
+                "香港剧",
+                "恐怖片",
+                "动作片"
+            ]
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
