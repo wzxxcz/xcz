@@ -1169,6 +1169,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"鱼乐资源",
+  "name":"🎣鱼乐采集",
+  "type":1,
+  "api":"https://api.ylzy.me/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "categories":[]
+},
+{
   "key": "feifei67.com",
   "name": "🕊️飞飞影视",
   "type": 1,
