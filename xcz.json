@@ -1145,6 +1145,13 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "熊掌",
+  "name": "🐻熊掌秒播",
+  "type": 1,
+  "api": "https://xzcjz.com/api.php/provide/vod"
+
+},
+{
   "key": "金鹰资源",
   "name": "🦅金鹰采集",
   "type": 1,
