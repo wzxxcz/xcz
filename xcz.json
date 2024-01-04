@@ -1087,6 +1087,16 @@
       ]
 },
 {
+  "key":"360-02",
+  "name":"🍊360影视",
+  "type":3,
+  "api":"csp_AppYsV2",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://1.12.76.190:6647/api.php/app/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
