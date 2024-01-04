@@ -1087,6 +1087,16 @@
       ]
 },
 {
+  "key": "蜂鸟1",
+  "name": "🐝蜂鸟追剧",
+  "type": 3,
+  "api": "csp_AppSK",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA=",
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
