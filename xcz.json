@@ -1169,6 +1169,18 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "feifei67.com",
+  "name": "🕊️飞飞影视",
+  "type": 1,
+  "api": "http://www.feifei67.com/api.php/provide/vod/",
+  "searchable": 1,
+  "recordable": 0,
+  "style": {
+  "type": "rect",
+  "ratio": 1.33
+      }
+},
+{
 	"key": "zycj_天天",
 	"name": "🌐天天影视",
 	"type": 1,
