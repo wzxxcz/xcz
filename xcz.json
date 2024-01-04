@@ -1113,6 +1113,15 @@
   "ext": "http://ys.kzou.cn:67/api.php/app/"
 },
 {
+  "key":"祥祥资源",
+  "name":"🫕祥子采集",
+  "type":1,
+  "api":"http://141.147.146.105/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
