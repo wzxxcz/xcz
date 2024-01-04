@@ -1117,6 +1117,32 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "天空",
+  "name": "️🍊天空采集",
+  "type": 1,
+  "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+  "playUrl": "",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "直播",
+        "短片",
+        "国产剧",
+        "综艺",
+        "影片库",
+        "动漫"
+      ]
+},
+{
   "key": "淘片资源",
   "name": "🍊淘片采集",
   "type": 1,
