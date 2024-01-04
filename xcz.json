@@ -1175,6 +1175,17 @@
   "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
 },
 {
+      "key": "csp_JianPian",
+      "name": "🔨荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+    },
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
