@@ -1169,6 +1169,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "七新影视",
+  "name":"🍊七新秒播",
+  "type":3,
+  "api":"csp_XYQHiker",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/qixinyingshi.json"
+},
+{
   "key":"鱼乐资源",
   "name":"🎣鱼乐采集",
   "type":1,
