@@ -1155,6 +1155,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"csp_CandyMuj_jxyc",
+  "name":"🍊自营一站",
+  "type":3,
+  "api":"csp_CandyMuj_jxyc",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://xc1080.xn--654a.cc"
+},
+{
   "key": "熊掌",
   "name": "🐻熊掌秒播",
   "type": 1,
