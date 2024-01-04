@@ -1155,6 +1155,22 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+	"key": "zycj_天天",
+	"name": "🌐天天影视",
+	"type": 1,
+	"searchable": 1,
+	"changeable": 1,
+	"api": "https://api.1080zyku.com/inc/apijson.php",
+	"playUrl": "",
+	"categories": [
+				"国产剧",
+				"国产动漫",
+				"韩国剧",
+				"欧美剧",
+				"大陆综艺"
+			]
+},
+{
   "key": "熊掌",
   "name": "🐻熊掌秒播",
   "type": 1,
