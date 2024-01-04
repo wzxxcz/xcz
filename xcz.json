@@ -1107,6 +1107,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"圆涂影视",
+  "name":"⭕️圆涂影视",
+  "type":3,
+  "api":"csp_AppYs",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://m51.gotto.top/api.php/v1.vod"
+},
+{
       "key": "zy_新浪",
       "name": "🏄🏻新浪资源",
       "type": 1,
