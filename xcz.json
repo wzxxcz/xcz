@@ -1169,6 +1169,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "热播",
+  "name": "⭐星星影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+},
+{
   "key":"鱼乐资源",
   "name":"🎣鱼乐采集",
   "type":1,
