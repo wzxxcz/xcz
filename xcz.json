@@ -1117,6 +1117,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "最大资源",
+  "name": "🍊最大采集",
+  "type": 1,
+  "api": "http://zuidazy.me/api.php/provide/vod/",
+  "playUrl": "",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "速博资源",
   "name": "🍊速播采集",
   "type": 1,
