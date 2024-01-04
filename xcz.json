@@ -1185,6 +1185,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "八戒资源",
+  "name": "🐗八戒资源",
+  "type": 1,
+  "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+  "playUrl": "",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "csp_xml_红牛",
   "name": "🦬红牛资源",
   "type": 1,
