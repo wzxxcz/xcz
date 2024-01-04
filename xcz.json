@@ -1117,6 +1117,14 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "淘片资源",
+  "name": "🍊淘片采集",
+  "type": 1,
+  "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key":"虎牙资源",
   "name":"🐯虎口拔牙",
   "type":1,
