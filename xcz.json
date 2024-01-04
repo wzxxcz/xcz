@@ -1575,14 +1575,6 @@
       }
 },
 {
-  "key": "牛牛",
-  "name": "🐂牛牛TV",
-  "type":1,
-  "api":"https://api.guangsuapi.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1
-},
-{
   "key":"光速资源",
   "name":"🍊光速资源",
   "type":1,
