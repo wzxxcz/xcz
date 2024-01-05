@@ -1240,6 +1240,14 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
         }
 },
+ {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/南瓜.js"
+    },
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
