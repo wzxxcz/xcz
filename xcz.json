@@ -1846,6 +1846,20 @@
       }
     },
     {
+      "name": "亮亮🌾",
+      "type": 1,
+      "url": "https://m.jialiangos.com/jx/?url=",
+      "ext": {
+        "flag": [
+          "K_JL",
+          "JIALIANGCODE"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
       "name": "巧技",
       "type": 1,
       "url": "https://www.qiaoji8.com/tvbox/wudi.php?url=",
