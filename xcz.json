@@ -1204,13 +1204,13 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "热播库",
-      "name": "🔥热播┃BPQ",
-      "type": 3,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
+  "key": "热播库",
+  "name": "🔥热播BPQ",
+  "type": 3,
+  "changeable": 1,
+  "api": "csp_XBPQ",
+  "playerType": "1",
+  "ext": {
         "主页url": "https://rebozj.pro",
         "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
         "图片": "data-original=\"&&\"",
@@ -1231,8 +1231,8 @@
         "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
         "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
         "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
-      }
-    },
+        }
+},
 {
   "key": "八戒资源",
   "name": "🐗八戒资源",
