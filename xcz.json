@@ -1240,15 +1240,6 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
         }
 },
- {
-      "key": "蜂鸟",
-      "name": "🕊️┃蜂鸟┃影视",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
-    },
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
