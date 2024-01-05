@@ -1204,16 +1204,6 @@
   "changeable": 0
 },
 {
-      "key": "九六",
-      "name": "🎀九六┃直连",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
