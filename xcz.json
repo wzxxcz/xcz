@@ -1175,6 +1175,15 @@
   "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
 },
 {
+      "key": "加速",
+      "name": "🐰加速┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://122.228.84.103:6117/api.php/app/"
+    },
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
