@@ -1194,6 +1194,17 @@
   "changeable": 0
 },
 {
+      "key": "赞赞",
+      "name": "➕赞赞┃切片",
+      "type": 3,
+      "jar": "http://xmm.0.qtwl.icu/down.php/bb155c3f0133bbce4756ad52003f5968.jpg;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://111.230.51.151:9696//api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
