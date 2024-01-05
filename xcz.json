@@ -1251,6 +1251,15 @@
   "ext": "https://www.tvkuys.xyz/api.php/app/"
 },
 {
+  "key":"HLTV",
+  "name": "🍊华乐影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {"图片":"data-src=\"&&\"","线路标题":"</i>&nbsp;&&</a>","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
+  "分类url":"https://huale.tv/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+  "分类":"电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"}
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
