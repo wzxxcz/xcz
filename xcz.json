@@ -1175,25 +1175,24 @@
   "api": "https://pg.fenwe078.cf/api.php/provide/vod/"
 },
 {
-      "key": "加速",
-      "name": "🐰加速┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://122.228.84.103:6117/api.php/app/"
-    },
-     {
-      "key": "亮亮",
-      "name": "💡亮亮┃APP",
-      "type": 3,
-      
-      "api": "csp_AppYsV2",
-      "ext": "http://api.jialiangos.com:65533/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+  "key": "加速",
+  "name": "🐰加速APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "ext": "http://122.228.84.103:6117/api.php/app/"
+},
+{
+  "key": "亮亮",
+  "name": "💡亮亮APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "ext": "http://api.jialiangos.com:65533/api.php/app/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
@@ -1204,6 +1203,22 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
+{
+      "key": "双黄",
+      "name": "🥚双黄┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
+        "请求头": "手机#Referer$https://www.dandanju.cc/",
+        "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+        "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
+        "搜索模式": "1",
+        "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
+        "搜索数组": "<li class=\"active clearfix&&</li"
+      }
+    },
 {
   "key": "八戒资源",
   "name": "🐗八戒资源",
