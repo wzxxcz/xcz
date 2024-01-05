@@ -1203,17 +1203,17 @@
   "quickSearch": 1,
   "changeable": 0
 },
- {
-      "key": "乌鸦",
-      "name": "🐦乌鸦┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "站名": "乌鸦影视",
+{
+  "key": "乌鸦",
+  "name": "🐦乌鸦影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "playerType": 2,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+  "站名": "乌鸦影视",
         "主页url": "https://wyys.wuyays.top/appto/v1/home/cateData?id=1",
         "请求头": "User-Agent$Dart/2.19 (dart:io)",
         "二次截取": "\"data\"*[&&]",
@@ -1238,8 +1238,8 @@
         "搜索模式": "1",
         "分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-      }
-    },
+        }
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
