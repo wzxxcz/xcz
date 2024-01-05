@@ -1241,6 +1241,17 @@
         }
 },
 {
+      "key": "csp_XYQHiker_电影牛影院",
+      "name": "🐮 电影牛 ",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影牛影院.json"
+    },
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
