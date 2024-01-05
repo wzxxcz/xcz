@@ -1183,6 +1183,17 @@
       "quickSearch": 1,
       "ext": "http://122.228.84.103:6117/api.php/app/"
     },
+     {
+      "key": "亮亮",
+      "name": "💡亮亮┃APP",
+      "type": 3,
+      
+      "api": "csp_AppYsV2",
+      "ext": "http://api.jialiangos.com:65533/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
@@ -1801,6 +1812,38 @@
       "name": "MeowTV",
       "type": 1,
       "url": "http://jx.meowtv.cn/?url="
+    },
+    {
+      "name": "飞云🌾",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url=",
+      "ext": {
+        "flag": [
+          "FYNB",
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
     },
     {
       "name": "巧技",
