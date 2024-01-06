@@ -1325,6 +1325,25 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "看片狂人",
+  "name": "🧩狂人影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+        "免嗅": "1",
+        "副标题": "小橙子专属+module-item-text\">&&</span>",
+        "简介": "以下是剧情简介：&&</div>",
+        "线路数组": "class=\"fed-drop-btns fed-padding&&</li>",
+        "线路标题": "小橙子专属+>&&</a>",
+        "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}--{class}-{year}--.html[https://www.kpkuang.fun/vodtype/{cateId}/]",
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
+      }
+},
+{
   "key": "热播库",
   "name": "🔥热播BPQ",
   "type": 3,
