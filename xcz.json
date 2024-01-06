@@ -46,26 +46,6 @@
   "ext":"./lib/开心HK影视.json"
 },
 {
-  "key": "csp_NanGua",
-  "name": "🍈南瓜影视",
-  "type": 3,
-  "api": "csp_NanGua",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1
-},
-{
-  "key": "csp_YQKan",
-  "name": "🎉一起看",
-  "type": 3,
-  "api": "csp_YQKan",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
   "key": "csp_WoGG",
   "name": "🎈橙子玩偶",
   "type": 3,
@@ -1254,6 +1234,26 @@
   "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
   "分类url":"https://laowang.lol/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
   "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation"}
+},
+{
+  "key": "csp_NanGua",
+  "name": "🍈南瓜影视",
+  "type": 3,
+  "api": "csp_NanGua",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1
+},
+{
+  "key": "csp_YQKan",
+  "name": "🎉一起看",
+  "type": 3,
+  "api": "csp_YQKan",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },
 {
   "key": "csp_骚火",
