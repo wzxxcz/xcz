@@ -1,16 +1,16 @@
 {
-	"spider": "./Yoursmile.jar",
-    "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
-    "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-	"sites":[
+  "spider": "./Yoursmile.jar",
+  "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
+  "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
+  "sites":[
 {
-	"key":"csp_DouDou",
-	"name":"🍊小橙子影视",
-	"type":3,
-	"api":"csp_DouDou",
-	"searchable":0,
-	"quickSearch":0,
-	"filterable":1
+  "key":"csp_DouDou",
+  "name":"🍊小橙子影视",
+  "type":3,
+  "api":"csp_DouDou",
+  "searchable":0,
+  "quickSearch":0,
+  "filterable":1
 },
 {
   "key": "小橙子综合",
@@ -74,6 +74,17 @@
   "quickSearch": 1,
   "changeable": 0,
   "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+},
+{
+      "key": "csp_WoGG",
+      "name": "🍊玩偶哥哥",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
 },
 {
   "key": "csp_疯狗",
@@ -902,16 +913,6 @@
         "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
-},
-{
-  "key": "csp_Kuaikan",
-  "name": "👀快看影视",
-  "type":3,
-  "api":"csp_Kuaikan",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "jar":""
 },
 {
   "key":"光棍影视",
