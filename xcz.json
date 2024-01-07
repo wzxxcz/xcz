@@ -1374,6 +1374,12 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+      "key": "xml_花旗",
+      "name": "花旗资源(官)",
+      "type": 0,
+      "api": "https://seacms.huaqi.live/zyapi.php"
+    },
+{
   "key": "csp_xml_飞速",
   "name": "🚁飞速影视",
   "type": 1,
