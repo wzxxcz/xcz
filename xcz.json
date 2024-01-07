@@ -1431,6 +1431,20 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "快车资源",
+  "name": "🚅快车资源",
+  "type": 1,
+  "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "categories": [
+        "国产剧",
+        "战争片",
+        "动作片",
+        "香港剧"
+      ]
+},
+{
   "key": "csp_xml_无尽",
   "name": "🍊无尽资源",
   "type": 1,
