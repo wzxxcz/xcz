@@ -1515,6 +1515,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "奇虎资源",
+  "name": "🐅奇虎资源",
+  "type": 1,
+  "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+  "playUrl": "",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "快车资源",
   "name": "🚅快车资源",
   "type": 1,
