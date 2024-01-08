@@ -1487,6 +1487,24 @@
   "jar": "http://小盒酷玩.xyz:76/禁止贩卖"
 },
 {
+  "key": "萌米",
+  "name": "🌮萌米TV",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "csp_Appto",
+  "jar": "http://小盒酷玩.xyz:75/禁止贩卖",
+  "playerType": 2,
+  "ext": {
+        "key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ",
+        "ic": "",
+        "token": "",
+        "url": "http://app.mervod.com:9527",
+        "configurl": "/addons/apptov4/app.php/v1/config/get?p=android",
+        "api": "/addons/apptov4/app.php/v1/"
+      }
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
