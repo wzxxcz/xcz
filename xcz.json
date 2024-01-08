@@ -1526,7 +1526,7 @@
 },
 {
   "key": "csp_Nmys",
-  "name": "🧑农民直连",
+  "name": "🌾农民影视",
   "type": 3,
   "api": "csp_Nmys",
   "searchable": 1,
@@ -2316,16 +2316,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/蛋蛋影视.json"
-},
-{
-  "key": "csp_农民",
-  "name": "🌾农民影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/农民影视.json"
 },
 {
   "key": "csp_威士",
