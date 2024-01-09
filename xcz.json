@@ -1568,6 +1568,13 @@
   "ext": "./lib/aiqiyi.js"
 },
 {
+  "key": "搜狗",
+  "name": "🍊搜狗(官)",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/caigou.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
