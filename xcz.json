@@ -1558,14 +1558,14 @@
          }
 },
 {
-      "key": "jp",
-      "name": "磁力荐片",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_JP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  "key": "jp",
+  "name": "🔨荐片影视",
+  "type": 4,
+  "api": "http://home.jundie.top:9520/spider/csp_JP",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
