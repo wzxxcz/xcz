@@ -1575,6 +1575,13 @@
   "ext": "./lib/caigou.js"
 },
 {
+  "key": "芒果",
+  "name": "🥭芒果(官)",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/mangguo.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
