@@ -45,45 +45,39 @@
   "ext":"./lib/开心HK影视.json"
 },
 {
-  "key": "csp_WoGG",
-  "name": "🎈橙子玩偶",
+  "key": "优酷",
+  "name": "🍊优酷(官)",
   "type": 3,
-  "api": "csp_WoGG",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/youku.js"
 },
 {
-  "key": "玩偶",
-  "name": "🍊玩偶4K弹幕",
+  "key": "爱奇异",
+  "name": "🍊爱奇艺(官)",
   "type": 3,
-  "api": "csp_WoGG",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/aiqiyi.js"
 },
 {
-  "key": "fan_Wogg",
-  "name": "🍊饭佬玩偶",
+  "key": "搜狗",
+  "name": "🍊搜狗(官)",
   "type": 3,
-  "api": "csp_WoGG",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/caigou.js"
 },
 {
-      "key": "csp_WoGG",
-      "name": "🍊玩偶哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$关"
+  "key": "芒果",
+  "name": "🥭芒果(官)",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/mangguo.js"
+},
+{
+  "key": "腾讯",
+  "name": "🍊腾讯(官)",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/tengxun.js"
 },
 {
   "key": "csp_疯狗",
@@ -1552,41 +1546,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://www.555dyy1.com/api.php/app/"
-},
-{
-  "key": "优酷",
-  "name": "🍊优酷(官)",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/youku.js"
-},
-{
-  "key": "爱奇异",
-  "name": "🍊爱奇艺(官)",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/aiqiyi.js"
-},
-{
-  "key": "搜狗",
-  "name": "🍊搜狗(官)",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/caigou.js"
-},
-{
-  "key": "芒果",
-  "name": "🥭芒果(官)",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/mangguo.js"
-},
-{
-  "key": "腾讯",
-  "name": "🍊腾讯(官)",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/tengxun.js"
 },
 {
   "key": "csp_骚火",
