@@ -1582,6 +1582,13 @@
   "ext": "./lib/mangguo.js"
 },
 {
+  "key": "腾讯",
+  "name": "🍊腾讯(官)",
+  "type": 3,
+  "api": "./lib/drpy2.min.js",
+  "ext": "./lib/tengxun.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
