@@ -1631,10 +1631,20 @@
 },
 {
   "key": "影探",
-  "name": " 🕵┃影探影视",
+  "name": " 🕵影探影视",
   "type": 3,
   "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
   "ext": "https://d.kstore.space/download/6296/js/yt.js"
+},
+{
+  "key": "meowtv_sxys",
+  "name": "🧑‍🔬师兄影视",
+  "type": 3,
+  "api": "http://cdn.meowtv.cn/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.meowtv.cn/js/师兄影视.js"
 },
 {
   "key": "csp_骚火",
