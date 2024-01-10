@@ -1567,6 +1567,13 @@
   "filterable": 1
 },
 {
+  "key": "js_v2-jrly",
+  "name": "📯嘉靓切片",
+  "type": 3,
+  "api": "http://xn--yet226clhctt4b.xyz:66/lib/drpy2.min.js",
+  "ext": "http://xn--yet226clhctt4b.xyz:66/js/嘉靓.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
