@@ -1584,6 +1584,17 @@
   "changeable": 0
 },
 {
+  "key": "csp_墨鸦",
+  "name": "🦃墨鸦影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://小盒酷玩.xyz:74/禁止贩卖",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://xn--yet226clhctt4b.xyz:66/json/墨鸦.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
