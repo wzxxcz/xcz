@@ -1630,6 +1630,13 @@
   "ext": "https://weixine.net/js/aiqiyi.js"
 },
 {
+  "key": "影探",
+  "name": " 🕵┃影探影视",
+  "type": 3,
+  "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+  "ext": "https://d.kstore.space/download/6296/js/yt.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
