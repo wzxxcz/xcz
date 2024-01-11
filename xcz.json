@@ -1678,6 +1678,17 @@
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
 {
+      "key": "黑狐",
+      "name": "🐿黑色狐狸",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": "https://jihulab.com/0004/c/-/raw/main/hf.json?ref_type=heads"
+    },
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
