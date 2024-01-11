@@ -1646,15 +1646,15 @@
   "filterable": 1,
   "ext": "http://cdn.meowtv.cn/js/师兄影视.js"
 },
- {
-      "key": "蜂鸟",
-      "name": "🕊️┃蜂鸟┃影视",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
-    },
+{
+  "key": "蜂鸟",
+  "name": "🕊️蜂鸟影视",
+  "type": 3,
+  "api": "csp_AppSK",
+  "searchable": 1,
+  "quickSearch": 1,
+  "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
@@ -2493,6 +2493,12 @@
   "filterable": 1,
   "ext": "./lib/奇优影视.json"
 },
+{
+      "key": "种子短剧",
+      "name": "💮┃短剧┃视频",
+      "type": 1,
+      "api": "http://zzdj.cc/api.php/provide/vod"
+    },
 {"key":"有声小说吧","name":"💢有声小说｜频道","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/ove/raw/branch/master/sub/有声小说吧.json"},
 {"key":"dr_88看球","name":"88看球｜频道","type":3,"api":"https://agit.ai/l/ove/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/l/ove/raw/branch/master/js/88看球.js"},
 {"key":"dr_JRKAN直播","name":"JRKAN直播｜频道","type":3,"api":"https://agit.ai/l/ove/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/l/ove/raw/branch/master/js/JRKAN直播.js"},
