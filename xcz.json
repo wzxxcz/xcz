@@ -1772,16 +1772,16 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
- {
-      "key": "B",
-      "name": "📮采集二站",
-      "type": 1,
-      "api": "http://mfsj.kele.plus/api.php/provide/vod/",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
+{
+  "key": "B",
+  "name": "📮采集二站",
+  "type": 1,
+  "api": "http://mfsj.kele.plus/api.php/provide/vod/",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "categories": [
         "短剧",
         "电影",
         "连续剧",
@@ -1790,8 +1790,7 @@
         "综艺",
         "体育赛事"
       ]
-    },
-
+},
 {
   "key" : "js_v2-jrly",
   "name" :"🍊嘉音影视",
