@@ -1688,15 +1688,7 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "孜然",
-      "name": "🦀孜然影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": " "站名": "孜然影视",
+       "站名": "孜然影视",
         "练手": "yydf",
         "类型": "class=\"tag\">&&</div",
         "导演": "class=\"text\">导演：</span>&&</p",
@@ -1716,7 +1708,7 @@
         "播放数组": "<ul class=\"shoutu-playlist sort-list playlist\">&&</ul>",
         "选集名称": ">&&<",
         "分类url": "https://www.zrys1.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22""
+        "分类": "电影$1#电视剧$2#港台剧$14#综艺$3#动漫$4#纪录片$22"
     },
 {
   "key": "黑狐",
