@@ -1646,6 +1646,15 @@
   "filterable": 1,
   "ext": "http://cdn.meowtv.cn/js/师兄影视.js"
 },
+ {
+      "key": "蜂鸟",
+      "name": "🕊️┃蜂鸟┃影视",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+    },
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
