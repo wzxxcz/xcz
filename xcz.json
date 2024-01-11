@@ -1704,6 +1704,13 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key" : "js_v2-jrly",
+  "name" :"🍊嘉音影视",
+  "type" : 3,
+  "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
+  "ext" : "https://notabug.org/ygfxz/6/raw/main/js/嘉良.js"
+},
+{
   "key": "黑狐",
   "name": "🐿黑色狐狸",
   "type": 3,
