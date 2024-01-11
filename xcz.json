@@ -1772,6 +1772,8 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
+{"key":"csp_CandyMuj_taoju","name":"💖淘剧影院","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
+},
 {
   "key": "B",
   "name": "📮采集二站",
