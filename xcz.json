@@ -1688,6 +1688,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+      "key": "风",
+      "name": "🌪仗风前行",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://ys.zf520.cn/api.php/provide/vod/"
+    },
+{
   "key": "黑狐",
   "name": "🐿黑色狐狸",
   "type": 3,
