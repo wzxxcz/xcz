@@ -1784,6 +1784,17 @@
   "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
 },
 {
+  "key":"csp_CandyMuj_jxyc1",
+  "name":"🍊自营二站",
+  "type":3,
+  "api":"csp_CandyMuj_jxyc",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://vipcom.xn--654a.cc",
+  "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
+},
+{
   "key":"csp_CandyMuj_taoju",
   "name":"🍊淘剧影院",
   "type":3,
