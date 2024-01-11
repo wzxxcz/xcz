@@ -1694,6 +1694,16 @@
   "ext" : "https://jihulab.com/0004/000/-/raw/main/js/4kshijie.js"
 },
 {
+  "key": "csp_xBPQ_抖",
+  "name": "🍊抖剧影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "./lib/斗剧.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
