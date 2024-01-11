@@ -1773,17 +1773,6 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "孜然",
-      "name": "🦀孜然影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://jihulab.com/0004/c/-/raw/main/zr.json"
-    },
-{
   "key":"csp_CandyMuj_taoju",
   "name":"🍊淘剧影院",
   "type":3,
