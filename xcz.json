@@ -1687,12 +1687,12 @@
   "api": "https://ys.zf520.cn/api.php/provide/vod/"
 },
 {
-            "key" : "js_v2-sj",
-            "name" :"💖分享视界",
-            "type" : 3,
-            "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://jihulab.com/0004/000/-/raw/main/js/4kshijie.js"
-        },
+  "key" : "js_v2-sj",
+  "name" :"🍊视界影视",
+  "type" : 3,
+  "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
+  "ext" : "https://jihulab.com/0004/000/-/raw/main/js/4kshijie.js"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
