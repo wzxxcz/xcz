@@ -1732,8 +1732,15 @@
   "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2",
   "jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"
 },
- {"key":"星星","name":"🌠星星之火","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"
- },
+{
+  "key":"星星",
+  "name":"🌠星星之火",
+  "type":3,
+  "api":"csp_qiao",
+  "playerType":2,
+  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing",
+  "jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
