@@ -1704,6 +1704,17 @@
   "ext": "./lib/斗剧.json"
 },
 {
+        "key": "zhuiyi",
+        "name": "💖分享追忆",
+        "type": 3,
+        "api": "csp_App",
+        "searchable": 1,
+        "filterable": 1,
+        "changeable": 1,
+         "jar": "http://47.93.215.151/YSZYZ.jar",
+        "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
+    },
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
