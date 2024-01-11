@@ -1771,6 +1771,16 @@
   "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
 },
 {
+  "key":"时常影视",
+  "name":"⌛️时光之约",
+  "type":3,
+  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"https://notabug.org/ygfxz/6/raw/main/js/时光影视.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
