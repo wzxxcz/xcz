@@ -1781,15 +1781,15 @@
   "ext":"https://notabug.org/ygfxz/6/raw/main/js/时光影视.js"
 },
 {
-			"key": "csp_Ikanbot",
-			"name": "👾爱看机器",
-			"type": 3,
-			"api": "csp_Ikanbot",
-			"changeable": 1,
-			"playerType": 2,
-			"jar":"https://download.kstore.space/download/4127/Xiang.txt",
-			"ext":"[排序:lx线路,bfzy线路,kuaik]"
-		},
+	"key": "csp_Ikanbot",
+	"name": "👾爱看机器",
+	"type": 3,
+	"api": "csp_Ikanbot",
+	"changeable": 1,
+	"playerType": 2,
+	"jar":"https://download.kstore.space/download/4127/Xiang.txt",
+	"ext":"[排序:lx线路,bfzy线路,kuaik]"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
