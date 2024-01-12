@@ -1872,6 +1872,16 @@
   "ext":"https://jihulab.com/qiaoji/open/-/raw/main/xinxin"
 },
 {
+  "key": "看看",
+  "name": "🍊看看影院",
+  "type": 3,
+  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/fix.jar",
+  "api": "csp_KanKan",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
