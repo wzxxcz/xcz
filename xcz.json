@@ -1831,6 +1831,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "人人影视",
+  "name": "🍊人人影视",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/人人影视.js",
+  "jar": "https://tvbox.cainisi.cf/jar/fty1113.jar"
+},
+{
   "key": "139影视",
   "name": "🍊139影视",
   "type": 3,
