@@ -1821,6 +1821,24 @@
   "jar": "http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"
 },
 {
+  "key":"csp_qiao2_巧技一",
+  "name":" 🍊巧技一",
+  "type":3,
+  "api":"csp_qiao2",
+  "jar": "https://521github.com/extdomains/raw.githubusercontent.com/xzqcsa/ysc/cfb3994548e024702d8863dff1130c7cb31305e2/xzqzy/lib/fix12210.jar",
+  "playerType":2,
+  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
+},
+{
+  "key":"csp_qiao2_巧技二",
+  "name":" 🍊巧技二",
+  "type":3,
+  "api":"csp_qiao2",
+  "jar": "https://521github.com/extdomains/raw.githubusercontent.com/xzqcsa/ysc/cfb3994548e024702d8863dff1130c7cb31305e2/xzqzy/lib/fix12210.jar",
+  "playerType":2,
+  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
