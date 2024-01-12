@@ -1892,6 +1892,17 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"WC",
+  "name":"🎪潮潮影视",
+  "type":3,
+  "api":"csp_Yswc",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"",
+  "jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
+},
+{
   "key":"蛙视频",
   "name":"🐸蛙视频",
   "type":3,
