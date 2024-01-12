@@ -1839,6 +1839,17 @@
   "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
 },
 {
+  "key":"喝茶影院",
+  "name":"🍵喝茶影院",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&",
+  "线路数组": "[排序:小橙子专用2>小橙子专用1]", 
+  "线路标题":"小橙子专用",
+  "分类":"电影$1#电视剧$2#综艺$4#动漫$3",
+  "分类url":"https://www.jm332.com/vod/type/id/area/{area}/class/{class}/{cateId}/page/{catePg}/year/{year}.html"}
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
