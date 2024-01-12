@@ -1798,6 +1798,18 @@
   "ext":"https://atomgit.com/yimeng/ym/raw/master/changmeng.js"
 },
 {
+  "key": "超神",
+  "name": "🍊超神App",
+  "type": 3,
+  "api": "csp_qiao",
+  "searchable": 1,
+  "quickSearch": 1,
+  "playerType": 2,
+  "filterable": 1,
+  "jar": "http://www.yingm.cc/phoneBoxLocal/csp-5.jar;md5;e5650143d0ff59f1ffcc5030b970cd8b",
+  "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
