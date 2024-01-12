@@ -1850,6 +1850,16 @@
   "分类url":"https://www.jm332.com/vod/type/id/area/{area}/class/{class}/{cateId}/page/{catePg}/year/{year}.html"}
 },
 {
+  "key":"哔嘀",
+  "name":"💡哔嘀影视",
+  "type":3,
+  "api":"csp_Bdys",
+  "jar":"http://w1.nxog.top:80/d/%E7%A7%BB%E7%A7%BB/ou.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
@@ -2814,6 +2824,11 @@
 {"key":"高中","name":"🅱️高中教育｜频道","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/ove/raw/branch/master/sub/高中课堂.json"}
 ],
   "parses": [
+    {
+      "name": "☯️自动解析聚合",
+      "type":3,
+      "url":"Demo"
+    },
     {
       "name":"智能解析",
       "type":2,
