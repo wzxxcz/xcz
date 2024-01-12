@@ -1870,6 +1870,33 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"蛙视频",
+  "name":"🐸蛙视频",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+      "图片":"data-original=\"&&\"",
+      "标题":"title=\"&&\"",
+      "\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+pic-text text-right\"&&",
+      "链接":"href=\"&&\"",
+      "播放数组":"hl-plays-list hl-sort-list&&",
+      "搜索模式":1,
+      "搜索url":"/vodsearch/page/{pg}/wd/{wd}.html",
+      "搜索标题":"alt=\"&&\"",
+      "搜索图片":"data-original=\"&&\"",
+      "搜索链接":"href=\"&&\"",
+      "导演":"导演：&&","主演":"主演：&&",
+      "简介":"hl-text-muted\">&&",
+      "嗅探词":".m3u8#mp4#cdn.123pan.cn#huoshanvod.com",
+      "分类url":"https://www.wvod.tv/vodshow/id/area/{area}/by/{by}/class/{class}/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html",
+      "分类数组":"hl-nav-item hl-slide-swiper&&",
+      "分类标题":"&&[不包含:午夜场]",
+      "分类ID":"/vodtype/id/&&.html"}
+},
+{
   "key": "人人影视",
   "name": "🍊人人影视",
   "type": 3,
