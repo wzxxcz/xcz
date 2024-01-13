@@ -2887,11 +2887,32 @@
   "ext": "./lib/奇优影视.json"
 },
 {
-      "key": "种子短剧",
-      "name": "💮┃短剧┃视频",
-      "type": 1,
-      "api": "http://zzdj.cc/api.php/provide/vod"
-    },
+  "key": "种子短剧",
+  "name": "💮┃短剧┃视频",
+  "type": 1,
+  "api": "http://zzdj.cc/api.php/provide/vod"
+},
+{
+  "key": "儿童拼音",
+  "name": "🍊儿童拼音",
+  "type": 3,
+  "api": "csp_Bili",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童拼音.json"
+},
+{
+  "key": "儿童识字",
+  "name": "🍊儿童识字",
+  "type": 3,
+  "api": "csp_Bili",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童识字.json"
+},
+{"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/兔小贝.js"},
 {"key":"有声小说吧","name":"💢有声小说｜频道","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/ove/raw/branch/master/sub/有声小说吧.json"},
 {"key":"dr_88看球","name":"88看球｜频道","type":3,"api":"https://agit.ai/l/ove/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/l/ove/raw/branch/master/js/88看球.js"},
 {"key":"dr_JRKAN直播","name":"JRKAN直播｜频道","type":3,"api":"https://agit.ai/l/ove/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/l/ove/raw/branch/master/js/JRKAN直播.js"},
