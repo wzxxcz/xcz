@@ -1952,12 +1952,12 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "drpy_js_免费看",
-      "name": "影视 | 免费看[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"
-    },
+  "key": "drpy_js_免费看",
+  "name": "🍊免费看影视",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/免费看.js"
+},
 {
   "key": "532短剧",
   "name": "🍊短剧影视",
