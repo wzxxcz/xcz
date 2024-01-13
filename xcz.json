@@ -1959,6 +1959,19 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "csp_XBPQ_vstv",
+  "name": "💠火柴短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+           "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+         }
+},
+{
   "key": "drpy_js_金曼影视",
   "name": "🍊金曼影视",
   "type": 3,
