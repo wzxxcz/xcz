@@ -1910,6 +1910,14 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "532短剧",
+  "name": "🍊短剧影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": "分类url:http://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16",
+  "jar": "http://z3121889160.3vhost.work/jar/zf.jar"
+},
+{
   "key":"WC",
   "name":"🎪潮潮影视",
   "type":3,
