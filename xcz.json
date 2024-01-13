@@ -1839,6 +1839,24 @@
   "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
 },
 {
+  "key":"csp_qiao2_巧技三",
+  "name":" 🍊巧三(SP)",
+  "type":3,
+  "api":"csp_qiao2",
+  "jar": "  https://521github.com/extdomains/raw.githubusercontent.com/xzqcsa/ysc/cfb3994548e024702d8863dff1130c7cb31305e2/xzqzy/lib/fix12210.jar",
+  "playerType":2,
+  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
+},
+{
+  "key":"csp_qiao2_巧技四",
+  "name":" 🍊巧四(SP)",
+  "type":3,
+  "api":"csp_qiao2",
+  "jar": "  https://521github.com/extdomains/raw.githubusercontent.com/xzqcsa/ysc/cfb3994548e024702d8863dff1130c7cb31305e2/xzqzy/lib/fix12210.jar",
+  "playerType":1,
+  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
+},
+{
   "key":"喝茶影院",
   "name":"🍵喝茶影院",
   "type":3,
