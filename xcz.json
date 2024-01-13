@@ -1900,12 +1900,12 @@
   "filterable": 0
 },
 {
-      "key": "drpy_js_小狗影院",
-      "name": "影视 | 小狗影院[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
-    },
+  "key": "drpy_js_小狗影院",
+  "name": "🐕小狗影院",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
