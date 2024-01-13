@@ -1948,6 +1948,8 @@
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我爱跟剧.js"
 },
+{"key":"纽约影视","name":"🇺🇸纽约影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>","图片":"data-src=\"&&\"","线路数组":"a class=\"swiper-slide&&</a>[排序:国内节点>国内专线>\u516c\u5b50\u4e13\u5c5e-2>\u516c\u5b50\u4e13\u5c5e-3]","\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e-+>&&</span>","播放数组":"anthology-list-play&&</ul>","搜索模式":1,"搜索url":"https://nycvod.com/vodsearch/{wd}----------{pg}---.html","搜索标题":"alt=\"&&\"","搜索图片":"data-src=\"&&\"","分类url":"https://nycvod.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$28#电视剧$24#综艺$31#动漫$26","免嗅":"1"}
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
