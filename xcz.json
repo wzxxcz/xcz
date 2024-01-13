@@ -182,7 +182,7 @@
 },
 {
   "key": "jszy",
-  "name": "🍊极速采集",
+  "name": "🏂极速采集",
   "type": 1,
   "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
   "searchable": 1,
