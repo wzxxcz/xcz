@@ -2002,15 +2002,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-			"key": "csp_xml_光速",
-			"name": "🌕光速影视",
-			"type": 1,
-			"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playerType": 2,
-			"categories": [
+	"key": "csp_xml_光速",
+	"name": "🌕光速影视",
+	"type": 1,
+	"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"playerType": 2,
+	"categories": [
 				"动作片",
 				"喜剧片",
 				"科幻片",
@@ -2039,7 +2039,7 @@
 				"日韩综艺",
 				"欧美综艺"
 			]
-		},
+},
 {
   "key": "新浪资源",
   "name": "🍄新浪影视",
