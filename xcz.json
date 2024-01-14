@@ -1979,6 +1979,7 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
+{"key":"csp_Nmys","name":"🌾农民影院","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json"},
 {
   "key": "csp_XBPQ_vstv",
   "name": "💠火柴短剧",
