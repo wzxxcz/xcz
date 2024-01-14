@@ -1979,18 +1979,18 @@
   "分类":"电影$1#电视剧$3#动漫$4#综艺$23"}
 },
 {
-      "key": "csp_XBPQ_短剧",
-      "name": "⭕️短剧多多",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
+  "key": "csp_XBPQ_短剧",
+  "name": "⭕️短剧多多",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
         "分类": "短剧$20"
       }
-    },
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
