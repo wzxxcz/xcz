@@ -2550,7 +2550,7 @@
 },
 {
   "key": "天空",
-  "name": "️🍊天空采集",
+  "name": "️🔮天空采集",
   "type": 1,
   "api": "https://api.tiankongapi.com/api.php/provide/vod/",
   "playUrl": "",
