@@ -3439,15 +3439,6 @@
       ]
     },
     {
-      "name": "農民嗅探",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
       "name": "观音嗅探",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
