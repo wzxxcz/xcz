@@ -1991,8 +1991,17 @@
         "分类": "短剧$20"
       }
 },
- {"key":"csp_Xunlei8","name":"🚥迅雷电影","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
- },
+{
+  "key":"csp_Xunlei8",
+  "name":"🚥迅雷电影",
+  "type":3,
+  "api":"csp_Xunlei8",
+  "playerType":1,
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
