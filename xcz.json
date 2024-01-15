@@ -2051,14 +2051,14 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"
 },
 {
-      "key": "六度TV",
-      "name": "六度┃影视",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/六度TV.js"
-    },
+  "key": "六度TV",
+  "name": "🍊六度影视",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/六度TV.js"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
@@ -3419,6 +3419,15 @@
       "name": "小鱼解析",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
     },
     {
       "name": "观音嗅探",
