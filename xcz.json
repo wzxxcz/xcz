@@ -2023,6 +2023,15 @@
   "ext":"https://m.dududy.app/lvdou_api.php/v1.vod"
 },
 {
+  "key":"sp_saiwei",
+  "name":"🚴🏿‍♂️赛维影视",
+  "type":1,
+  "searchable":1,
+  "quickSearch":1,
+  "api":"https://lsys.dsmynas.com:3000//api.php/provide/vod/",
+  "playUrl":""
+}, 
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
@@ -2032,8 +2041,6 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
-{"key":"sp_saiwei","name":"🚴🏿‍♂️赛维影视","type":1,"searchable":1,"quickSearch":1,"api":"https://lsys.dsmynas.com:3000//api.php/provide/vod/","playUrl":""
-}, 
 {
 	"key": "csp_xml_光速",
 	"name": "🌕光速影视",
