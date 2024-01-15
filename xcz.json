@@ -53,7 +53,7 @@
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-      "ext": "http://dt.xn--yety82d.love/玩偶哥哥(新).json"
+      "ext": "./lib/玩偶哥哥.json"
     },
 {
   "key": "csp_疯狗",
