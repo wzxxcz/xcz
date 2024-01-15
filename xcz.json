@@ -2032,17 +2032,17 @@
   "playUrl":""
 }, 
 {
-    "key": "映迷影院",
-    "name": "❤️蚂蚁┃映迷",
-    "api": "https://www.inmi.app/api.php/provide/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 13
-  }, 
+  "key": "映迷影院",
+  "name": "🐜蚂蚁映迷",
+  "api": "https://www.inmi.app/api.php/provide/vod/",
+  "download": "",
+  "jiexiUrl": "",
+  "group": "默认",
+  "status": true,
+  "isActive": true,
+  "type": 1,
+  "id": 13
+}, 
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
