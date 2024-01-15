@@ -3198,6 +3198,11 @@
       "url": "Demo"
     },
     {
+      "name": "解析聚合1",
+      "type": 3,
+      "url": "Web"
+    },
+    {
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
