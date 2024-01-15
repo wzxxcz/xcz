@@ -45,17 +45,6 @@
   "ext":"./lib/开心HK影视.json"
 },
 {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "👲┃玩偶┃影视",
-      "api": "csp_Panda",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-      "ext": "./lib/玩偶哥哥.json"
-    },
-{
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
   "type": 3,
