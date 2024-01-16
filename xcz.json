@@ -2060,7 +2060,13 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
-{"key":"39影院","name":"39影院(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1
+{
+  "key":"39影院",
+  "name":"39影院(聚)",
+  "type":1,
+  "api":"https://www.39kan.com/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":1
 },
 {
   "key": "六度TV",
