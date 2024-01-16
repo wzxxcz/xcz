@@ -2092,6 +2092,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "js_菜狗",
+  "name": "🍊爱优腾芒",
+  "type": 3,
+  "api": "http://jin.xn--kwra9540c.love/js/api.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://jin.xn--kwra9540c.love/sj/caigou"
+},
+{
     "key":"csp_XBPQ_dianshijia",
     "name":"🍹电视家影院",
     "type":3,
