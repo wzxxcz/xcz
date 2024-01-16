@@ -2101,6 +2101,8 @@
   "filterable":1,
   "ext":"https://sk100.tv/api.php/app/"
 },
+{"key":"csp_CandyMuj_sstv","name":"👑速搜影院👑","type":3,"api":"csp_CandyMuj_sstv","jar":"https://jihulab.com/ymz1231/jar/-/raw/main/ss.jar?ref_type=heads&inline=false","searchable":1,"quickSearch":0,"filterable":1
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
