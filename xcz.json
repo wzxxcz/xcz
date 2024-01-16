@@ -2073,6 +2073,21 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+    "key":"csp_XBPQ_czdy",
+    "name":"🍹厂长影视(EXO播放器)",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+  
+    \"播放数组\":\"class=\\\"dslist-group&&</ul>\",
+    \"分类\":\"豆瓣电影Top250$40#电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",
+    \"分类url\":\"http://www.czphgj.com/czvodshow/{cateId}--------{catePg}---.html\"}"
+    },
+
+{
   "key":"39影院",
   "name":"🍊39影院",
   "type":1,
