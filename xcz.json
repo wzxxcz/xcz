@@ -2091,6 +2091,16 @@
   "filterable": 1,
   "ext": "http://jin.xn--kwra9540c.love/sj/zizi"
 },
+{ 
+  "key":"速看",
+  "name":"🍊速看100",
+  "type":3,
+  "api":"csp_AppYsV2",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://sk100.tv/api.php/app/"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
