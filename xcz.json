@@ -2072,14 +2072,6 @@
   "ext": "https://pan.shangui.cc/f/jX7s7/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
   "jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
 },
- {
-      "key": "bttwo",
-      "name": "🍎主力源四",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/两个BT.js"
-    },
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
