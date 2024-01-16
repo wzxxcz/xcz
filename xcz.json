@@ -2092,6 +2092,25 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+    "key":"csp_XBPQ_dianshijia",
+    "name":"🍹电视家影院",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"1\",
+    \"演员\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"module-info-introduction-content&&</div>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4#短剧$30\",
+    \"分类url\":\"http://dianshijia.cc/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}"
+},
+{
     "key":"csp_XBPQ_91蚂蚁影视",
     "name":"🐜91蚂蚁影视",
     "type":3,
