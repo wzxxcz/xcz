@@ -1503,16 +1503,6 @@
   "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
 },
 {
-  "key": "csp_AppYsV2_555",
-  "name": "🍊555影视",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/555影视.json"
-},
-{
   "key": "耐看影视",
   "name": "🍊耐看BPQ",
   "type": 3,
