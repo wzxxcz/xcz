@@ -1990,6 +1990,15 @@
   "ext":"https://m.dududy.app/lvdou_api.php/v1.vod"
 },
 {
+  "key":"sp_saiwei",
+  "name":"🚴🏿‍♂️赛维影视",
+  "type":1,
+  "searchable":1,
+  "quickSearch":1,
+  "api":"https://lsys.dsmynas.com:3000//api.php/provide/vod/",
+  "playUrl":""
+}, 
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
