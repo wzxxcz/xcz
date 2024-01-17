@@ -1557,23 +1557,6 @@
   "filterable": 1
 },
 {
-  "key": "js_v2-jrly",
-  "name": "📯嘉靓切片",
-  "type": 3,
-  "api": "http://xn--yet226clhctt4b.xyz:66/lib/drpy2.min.js",
-  "ext": "http://xn--yet226clhctt4b.xyz:66/js/嘉靓.js"
-},
-{
-  "key": "亮亮",
-  "name": "💬亮亮切片",
-  "type": 3,
-  "api": "http://xn--yet226clhctt4b.xyz:66/lib/drpy2.min.js",
-  "ext": "http://xn--yet226clhctt4b.xyz:66/js/亮亮.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0
-},
-{
   "key": "csp_墨鸦",
   "name": "🦃墨鸦影视",
   "type": 3,
