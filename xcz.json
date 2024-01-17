@@ -2112,6 +2112,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+      "key": "毛驴",
+      "name": "毛驴┃影视",
+      "type": 3,
+      "api": "csp_MLYS",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/"
+    },
+{
   "key": "NikeTV",
   "name": "🍊NikeTV影视",
   "type": 3,
