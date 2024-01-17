@@ -29,12 +29,6 @@
   "api": "http://c.小胡.icu/api.php/provide/vod/"
 },
 {
-  "key": "小小影视",
-  "name": "🍊小橙子影院",
-  "type": 1,
-  "api": "http://haowywz.com/api.php/provide/vod/"
-},
-{
   "key": "开心HK影视",
   "name": "🍊小橙子影视",
   "type":3,
