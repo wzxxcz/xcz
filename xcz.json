@@ -118,6 +118,16 @@
         }
 },
 {
+  "key": "九六",
+  "name": "🍊1369影视",
+  "type": 3,
+  "api": "csp_Cs1369",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
   "type": 3,
@@ -2101,16 +2111,6 @@
   "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/188影视.js"
 },
-{
-      "key": "九六",
-      "name": "1369",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
