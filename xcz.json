@@ -2122,6 +2122,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+      "key": "52看剧",
+      "name": "52┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://tvbox.cainisi.cf/json/XBPQ/52看剧.json",
+      "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
+    },
+{
   "key": "js_菜狗",
   "name": "🍊爱优腾芒",
   "type": 3,
