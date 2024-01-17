@@ -1571,12 +1571,12 @@
   "ext": "http://xn--yet226clhctt4b.xyz:66/json/墨鸦.json"
 },
 {
-      "key": "drpy_js_360影视",
-      "name": "官源 | 360[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
-    },
+  "key": "drpy_js_360影视",
+  "name": "🍊360(官备)",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+},
 {
   "key": "优酷",
   "name": "🍊优酷(官备)",
