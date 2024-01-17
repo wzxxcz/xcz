@@ -106,6 +106,18 @@
   "ext": "./lib/真不卡影视.json"
 },
 {
+  "key": "996",
+  "name": "🍷996影视",
+  "type": 3,
+  "filterable": 1,
+  "api": "csp_XBPQ",
+  "ext": {
+                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+                "筛选": "1"
+        }
+},
+{
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
   "type": 3,
@@ -533,18 +545,6 @@
   "type":3,"playerType":2,
   "api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js",
   "ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E4%BC%98%E9%85%B7.js"
-},
-{
-  "key": "996",
-  "name": "🍷996影视",
-  "type": 3,
-  "filterable": 1,
-  "api": "csp_XBPQ",
-  "ext": {
-                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-                "筛选": "1"
-        }
 },
 {
   "key": "csp_好戏",
@@ -2101,6 +2101,16 @@
   "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/188影视.js"
 },
+{
+      "key": "九六",
+      "name": "1369",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
