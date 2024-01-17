@@ -59,6 +59,15 @@
   "ext":"./lib/开心HK影视.json"
 },
 {
+      "key": "4K电影网",
+      "name": "4K┃影视",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/4K电影网.js"
+    },
+{
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
   "type": 3,
