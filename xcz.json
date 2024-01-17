@@ -2029,6 +2029,25 @@
   "jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
 },
 {
+    "key":"csp_XBPQ_fant",
+    "name":"🍚饭团影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"请求头\":\"手机\",
+    \"简介\":\"简介：&&</p>\",
+    \"主演\":\"主演：&&</p>\",
+    \"副标题\":\"class=\\\"vtitle text-right\\\">&&</span>\",
+    \"线路数组\":\"javascript:void(0);&&</li>\",
+    \"线路标题\":\">&&</a>\",
+    \"播放数组\":\"id=\\\"con_playlist&&</ul>\",
+    \"分类\":\"电影$dianying#电视剧$dianshiju#国产剧$guocanju#综艺$zongyi#动漫$dongman#美剧$oumeiju\",
+    \"分类url\":\"https://www.cnmudu.com/{cateId}/index-{catePg}.html\"}"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
