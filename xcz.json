@@ -96,6 +96,16 @@
   "filterable": 1
 },
 {
+  "key": "csp_不卡",
+  "name": "🍊不卡影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/真不卡影视.json"
+},
+{
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
   "type": 3,
@@ -144,16 +154,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/348影视.json"
-},
-{
-  "key": "csp_不卡",
-  "name": "🍊不卡影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/真不卡影视.json"
 },
 {
   "key": "csp_苹果",
