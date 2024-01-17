@@ -59,14 +59,24 @@
   "ext":"./lib/开心HK影视.json"
 },
 {
-      "key": "4K电影网",
-      "name": "4K┃影视",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/4K电影网.js"
-    },
+  "key": "4K电影网",
+  "name": "🍊4K影视",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/4K电影网.js"
+},
+{
+  "key": "亮亮",
+  "name": "💡亮亮APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "ext": "http://api.jialiangos.com:65533/api.php/app/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0
+},
 {
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
@@ -1128,16 +1138,6 @@
   "searchable": 1,
   "quickSearch": 1,
   "ext": "http://122.228.84.103:6117/api.php/app/"
-},
-{
-  "key": "亮亮",
-  "name": "💡亮亮APP",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "ext": "http://api.jialiangos.com:65533/api.php/app/",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0
 },
 {
   "key": "赞赞",
