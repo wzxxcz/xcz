@@ -2048,6 +2048,16 @@
     \"分类url\":\"https://www.cnmudu.com/{cateId}/index-{catePg}.html\"}"
 },
 {
+  "key": "csp_子子",
+  "name": "👸紫霞仙子",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://jin.xn--kwra9540c.love/sj/zizi"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
