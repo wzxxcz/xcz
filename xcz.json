@@ -128,6 +128,17 @@
   "changeable": 1
 },
 {
+  "key": "北极狐",
+  "name": "🦊极狐影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": "2",
+  "ext": "https://www.kuin.one/api.php/app/"
+},
+{
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
   "type": 3,
@@ -1315,17 +1326,6 @@
   "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
   "searchable": 1,
   "quickSearch": 1
-},
-{
-  "key": "北极狐",
-  "name": "🦊极狐影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "playerType": "2",
-  "ext": "https://www.kuin.one/api.php/app/"
 },
 {
   "key": "鑫鑫0",
