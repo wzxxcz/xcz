@@ -2122,13 +2122,6 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "drpy_js_NY影院",
-      "name": "影视 | NY影院[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"
-    },
-{
   "key": "js_菜狗",
   "name": "🍊爱优腾芒",
   "type": 3,
