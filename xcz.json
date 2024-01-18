@@ -1051,6 +1051,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/蓝光电影.json"
+  "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
   "key": "91影视网",
