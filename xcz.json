@@ -2186,10 +2186,13 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
-{"key":"drpy_od","name":"🛫欧帝影视(墙外)","type":3,"playerType":2,"api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js",
-"ext":"https://download.kstore.space/download/3313/js/欧帝影院.js"
+{
+  "key":"drpy_od",
+  "name":"🛫欧帝影视",
+  "type":3,"playerType":2,
+  "api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js",
+  "ext":"https://download.kstore.space/download/3313/js/欧帝影院.js"
 },
-
 {
   "key": "淘剧",
   "name": "🌙淘剧影视",
