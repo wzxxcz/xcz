@@ -78,16 +78,6 @@
   "ext": "https://drpy.cainisi.cf/js/4K电影网.js"
 },
 {
-  "key": "亮亮",
-  "name": "💡亮亮APP",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "ext": "http://api.jialiangos.com:65533/api.php/app/",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0
-},
-{
   "key": "咕噜[V2]",
   "name": "🍊咕噜影视",
   "type": 3,
@@ -2126,6 +2116,26 @@
   "type": 3,
   "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
   "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
+},
+{
+  "key": "亮亮",
+  "name": "💡亮亮APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "ext": "http://api.jialiangos.com:65533/api.php/app/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0
+},
+{
+  "key": "月亮",
+  "name": "🌛月亮电影",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "分类url:https://www.zqzdzj.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 {
   "key": "csp_骚火",
