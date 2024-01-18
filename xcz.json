@@ -2167,11 +2167,11 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "淘剧",
-      "name": "🌙淘剧┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
+  "key": "淘剧",
+  "name": "🌙淘剧影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
         "主页url": "http://dyxz.tv",
         "数组": "<div class=\"stui-vodlist__box\">&&</div>",
         "图片": "data-original=\"&&\"",
