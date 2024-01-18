@@ -2166,6 +2166,17 @@
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
 },
+ {
+      "key": "meowtv_Shys",
+      "name": "双黄┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.teyonds.com/xp/双黄影视.json",
+      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
 {
   "key": "影视工厂",
   "name": "🍊影视工厂",
