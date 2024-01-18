@@ -2112,7 +2112,7 @@
 },
 {
   "key": "ikanbot3",
-  "name": "🍊ikanbot3影视",
+  "name": "🍊ikanbot影视",
   "type": 3,
   "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
   "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
