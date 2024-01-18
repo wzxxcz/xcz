@@ -2166,9 +2166,16 @@
         "简介": "<p>&&</p>"
       }
 },
-{"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://szyyds.cn/tv/jsxp/xfeiji.json"
+{
+  "key":"csp_xpath_xfeiji",
+  "name":"🍊小小影视",
+  "type":3,
+  "api":"csp_XPath",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"https://szyyds.cn/tv/jsxp/xfeiji.json"
 },
-
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
