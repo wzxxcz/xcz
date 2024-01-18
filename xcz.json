@@ -11,6 +11,16 @@
   "quickSearch":0,
   "filterable":1
 },
+ {
+      "key": "玩偶哥哥",
+      "name": "4K—玩偶┃弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
 {
   "key": "小橙子综合",
   "name": "🍊小橙子综合 ",
