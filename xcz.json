@@ -29,6 +29,26 @@
   "api": "http://c.小胡.icu/api.php/provide/vod/"
 },
 {
+  "key": "csp_sxtv",
+  "name": "🍊神仙影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
+},
+{
+  "key": "开心HK影视",
+  "name": "🍊小橙子影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/开心HK影视.json"
+},
+{
   "key":"天天",
   "name":"🏞天外有天",
   "type":3,
@@ -47,16 +67,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "changeable": 1
-},
-{
-  "key": "开心HK影视",
-  "name": "🍊小橙子影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/开心HK影视.json"
 },
 {
   "key": "4K电影网",
@@ -137,16 +147,6 @@
   "filterable": 1,
   "playerType": "2",
   "ext": "https://www.kuin.one/api.php/app/"
-},
-{
-  "key": "csp_sxtv",
-  "name": "🍊神仙影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
 },
 {
   "key": "csp_疯狗",
