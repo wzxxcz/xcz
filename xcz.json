@@ -1456,16 +1456,6 @@
   "ext": "./lib/七新.json"
 },
 {
-  "key": "csp_Free",
-  "name": "🌱Free影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/free.json"
-},
-{
   "key": "星奇",
   "name": "🌟星奇TV",
   "type": 3,
