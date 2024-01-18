@@ -2148,6 +2148,16 @@
   "ext": "分类url:https://yoyys.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4#纪录片$38"
 },
 {
+  "key": "无心影视",
+  "name": "🍊无心影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "filterable": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "ext": "分类url:https://www.57mv.cn/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/,分类:电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$29"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
