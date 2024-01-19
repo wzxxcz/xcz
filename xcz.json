@@ -76,15 +76,6 @@
   "ext": "http://122.228.84.103:5822/api.php/app/"
 },
 {
-  "key": "4K电影网",
-  "name": "🍊4K影视",
-  "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "https://drpy.cainisi.cf/js/4K电影网.js"
-},
-{
   "key": "咕噜[V2]",
   "name": "🍊咕噜影视",
   "type": 3,
@@ -2202,6 +2193,15 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
+},
+{
+  "key": "4K电影网",
+  "name": "🍊4K影视",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/4K电影网.js"
 },
 {
   "key":"drpy_od",
