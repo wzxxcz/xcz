@@ -868,16 +868,6 @@
   "ext":"./lib/xcys.json"
 },
 {
-      "key": "csp_星辰",
-      "name": "🅱️星辰影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/星辰影视.json"
-    },
-{
   "key": "qiyue",
   "name": "🍊七月蓝光",
   "type": 3,"playerType":2,
