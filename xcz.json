@@ -96,14 +96,14 @@
   "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
 },
 {
-      "key": "meowtv_jpyy",
-      "name": "🔨荐片影院",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
-      "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
+  "key": "meowtv_jpyy",
+  "name": "🔨荐片影院",
+  "type": 3,
+  "api": "csp_Jianpian",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
+  "jar": "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
 },
 {
   "key": "csp_不卡",
