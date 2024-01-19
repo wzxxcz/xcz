@@ -1453,8 +1453,9 @@
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 0,
-  "ext": "./lib/七新.json"
+  "filterable": 1,
+  "ext": "http://rihou.vip:88/hccx/七新影视.json",
+  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 },
 {
   "key": "星奇",
