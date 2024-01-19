@@ -89,11 +89,12 @@
 {
   "key": "jp",
   "name": "🔨荐片影视",
-  "type": 4,
-  "api": "http://home.jundie.top:9520/spider/csp_JP",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1
+  "changeable": 1,
+  "ext": "http://cdn.teyonds.com/js/荐片影视.js"
 },
 {
   "key": "csp_不卡",
