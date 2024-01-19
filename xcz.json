@@ -2178,8 +2178,6 @@
   "filterable":0,
   "ext":"https://szyyds.cn/tv/jsxp/xfeiji.json"
 },
-{"key":"csp_xBPQ_九八","name":"九八┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/98.json"
-},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
