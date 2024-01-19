@@ -3498,6 +3498,19 @@
       "url": "Web"
     },
     {
+      "name": "蚂蚁",
+      "type": 1,
+      "url": "http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
       "name":"🐉欧歌5",
       "type":0,
       "url":"https://jx.quankan.app/?url=",
