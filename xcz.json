@@ -1451,7 +1451,6 @@
   "name": "🍃七新影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "http://小盒酷玩.xyz:74/禁止贩卖",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
@@ -2178,16 +2177,6 @@
   "filterable":0,
   "ext":"https://szyyds.cn/tv/jsxp/xfeiji.json"
 },
-{
-      "key": "Auete",
-      "name": "🏝奥特┃直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://haozhansou.com/"
-    },
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
