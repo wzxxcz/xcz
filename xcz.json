@@ -3,15 +3,14 @@
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "sites":[
 {
-      "key": "豆豆",
-      "name": "🍊小橙子影视欢迎您！",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-
+  "key": "豆豆",
+  "name": "🍊小橙子影视欢迎您！",
+  "type": 3,
+  "api": "csp_DouDou",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0
+},
 {
   "key": "小橙子综合",
   "name": "🍊小橙子综合 ",
