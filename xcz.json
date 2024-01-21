@@ -1787,11 +1787,8 @@
   "key": "csp_Ikanbot",
   "name": "👾爱看机器",
   "type": 3,
-  "api": "csp_Ikanbot",
-  "changeable": 1,
-  "playerType": 2,
-  "jar":"https://download.kstore.space/download/4127/Xiang.txt",
-  "ext":"[排序:lx线路,bfzy线路,kuaik]"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
 },
 {
   "key":"畅梦",
