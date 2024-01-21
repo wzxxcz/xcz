@@ -12,16 +12,16 @@
   "filterable": 0
 },
 {
-      "key": "Wogg",
-      "name": "阿里玩偶哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "./fan.txt;md5;87c10cb2cda0a4cca965373ec8d02c7b",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
+  "key": "Wogg",
+  "name": "🍊小橙子玩偶",
+  "type": 3,
+  "api": "csp_WoGG",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "jar": "./fan.txt;md5;87c10cb2cda0a4cca965373ec8d02c7b",
+  "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+},
 {
   "key": "小橙子综合",
   "name": "🍊小橙子综合 ",
