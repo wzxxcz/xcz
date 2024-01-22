@@ -2219,6 +2219,8 @@
   "changeable": 0,
   "ext": "https://drpy.cainisi.cf/js/磁力熊[磁].js"
 },
+{"key":"drpy_js_喵次元","name":"🐱喵次元","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/喵次元.js"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
