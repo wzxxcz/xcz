@@ -2214,15 +2214,15 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "csp_米爱",
-      "name": "🅱️米爱影视|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/米爱影视.json"
-    },
+  "key": "csp_米爱",
+  "name": "🍚米爱影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/米爱影视.json"
+},
 {
   "key": "4K电影网",
   "name": "🍊4K影视",
