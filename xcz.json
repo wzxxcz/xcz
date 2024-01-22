@@ -2211,14 +2211,14 @@
   "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/北极狐[V2].js"
 },
 {
-      "key": "磁力熊",
-      "name": "熊┃磁力",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "https://drpy.cainisi.cf/js/磁力熊[磁].js"
-    },
+  "key": "磁力熊",
+  "name": "🐻‍❄️熊磁力",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "changeable": 0,
+  "ext": "https://drpy.cainisi.cf/js/磁力熊[磁].js"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
