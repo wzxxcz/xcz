@@ -2214,6 +2214,13 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+      "key": "drpy_js_米爱影视",
+      "name": "影视 | 米爱影视[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
+    },
+{
   "key": "4K电影网",
   "name": "🍊4K影视",
   "type": 3,
