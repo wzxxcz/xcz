@@ -2214,11 +2214,14 @@
   "ext": "./lib/骚火影视.json"
 },
 {
-      "key": "drpy_js_米爱影视",
-      "name": "影视 | 米爱影视[js]",
+      "key": "csp_米爱",
+      "name": "🅱️米爱影视|T追剧",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/米爱影视.js"
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/米爱影视.json"
     },
 {
   "key": "4K电影网",
