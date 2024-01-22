@@ -87,6 +87,16 @@
   "ext": "http://122.228.84.103:5822/api.php/app/"
 },
 {
+  "key":"笑笑影视",
+  "name":"🍊笑笑2K",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/xiaoxiao.json"
+},
+{
   "key": "咕噜[V2]",
   "name": "🍊咕噜影视",
   "type": 3,
@@ -815,16 +825,6 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
-},
-{
-  "key":"笑笑影视",
-  "name":"🍊笑笑2K",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/xiaoxiao.json"
 },
 {
   "key": "快影",
