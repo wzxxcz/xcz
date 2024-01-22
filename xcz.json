@@ -2204,6 +2204,13 @@
   "ext": "https://d.kstore.space/download/6296/js/爱看.js"
 },
 {
+      "key": "北极狐[V2]",
+      "name": "北极狐[V2][js]",
+      "type": 3,
+      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
+      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/北极狐[V2].js"
+    },
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
