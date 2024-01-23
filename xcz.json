@@ -2348,6 +2348,16 @@
   "changeable": 1,
   "ext": "https://www.maolvys.com/"
 },
+ {
+      "key": "maolvys",
+      "name": "影视 | 毛驴影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "分类url:https://www.maolvys.com/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+    },
 {
   "key": "NikeTV",
   "name": "🍊NikeTV影视",
