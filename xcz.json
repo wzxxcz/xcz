@@ -1590,16 +1590,6 @@
   "ext": "./lib/tengxun.js"
 },
 {
-  "key": "腾讯",
-  "name": "🍊腾讯(官)",
-  "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/腾讯视频.js"
-},
-{
   "key": "csp_墨鸦",
   "name": "🦃墨鸦影视",
   "type": 3,
