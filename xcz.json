@@ -2227,6 +2227,17 @@
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/喵次元.js"
 },
 {
+  "key":"北川影视",
+  "name":"💧北川影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/beichuan.json",
+  "jar":"https://gitee.com/io9/java/raw/master/jar/20230625.jar"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
