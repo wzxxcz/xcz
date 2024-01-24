@@ -2227,17 +2227,6 @@
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/喵次元.js"
 },
 {
-			"key": "新片热播",
-			"name": "☄️热播┃新剧",
-			"type": 1,
-			"api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"playerType": 2,
-			"playUrl": "https://jx.xmflv.com/?url=",
-			"categories": ["连续剧", "动漫"]
-		},
-{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
