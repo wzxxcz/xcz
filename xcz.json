@@ -735,16 +735,6 @@
       }
 },
 {
-  "key":"360",
-  "name":"🍊360官网",
-  "type":3,
-  "api":"csp_SP33",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1
-},
-{
   "key": "meowtv_kkys",
   "name": "👀快看影院",
   "type": 3,
@@ -1562,11 +1552,31 @@
   "ext": "./lib/youku.js"
 },
 {
+  "key": "meowtv_yksp",
+  "name": "🍊优酷(官)",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/优酷视频.js"
+},
+{
   "key": "爱奇异",
   "name": "🍊爱奇艺(官)",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/aiqiyi.js"
+},
+{
+  "key": "meowtv_qysp",
+  "name": "🍊爱奇艺(官)",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/奇艺视频.js"
 },
 {
   "key": "搜狗",
@@ -1576,11 +1586,31 @@
   "ext": "./lib/caigou.js"
 },
 {
+  "key": "meowtv_sgys",
+  "name": "🍊搜狗(官)",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
+},
+{
   "key": "芒果",
   "name": "🥭芒果(官)",
   "type": 3,
   "api": "./lib/drpy2.min.js",
   "ext": "./lib/mangguo.js"
+},
+{
+  "key": "meowtv_mgsp",
+  "name": "🥭芒果(官)",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/芒果视频.js"
 },
 {
   "key": "腾讯",
@@ -1590,15 +1620,25 @@
   "ext": "./lib/tengxun.js"
 },
 {
-      "key": "meowtv_txsp",
-      "name": "🍊腾讯(官)",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/腾讯视频.js"
-    },
+  "key": "meowtv_txsp",
+  "name": "🍊腾讯(官)",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/腾讯视频.js"
+},
+{
+  "key":"360",
+  "name":"🍊360官网",
+  "type":3,
+  "api":"csp_SP33",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1
+},
 {
   "key": "csp_墨鸦",
   "name": "🦃墨鸦影视",
