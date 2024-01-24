@@ -2275,6 +2275,13 @@
   "ext":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/meiju.js"
 },
 {
+  "key":"drpy_js_看一看影视",
+  "name":"👁️看一看影视",
+  "type":3,
+  "api":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/beiwo.js",
+  "ext":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/kanyikan.js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
@@ -2283,13 +2290,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/骚火影视.json"
-},
-{
-  "key":"drpy_js_看一看影视",
-  "name":"👁️看一看影视",
-  "type":3,
-  "api":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/beiwo.js",
-  "ext":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/kanyikan.js"
 },
 {
   "key": "BD",
