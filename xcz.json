@@ -2235,7 +2235,7 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/beichuan.json",
-  "jar":"https://gitee.com/io9/java/raw/master/jar/20230625.jar"
+  "jar":"https://gitee.com/wzbdyr/xcz/blob/master/20230625.jar"
 },
 {
   "key": "csp_骚火",
