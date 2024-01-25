@@ -2378,8 +2378,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://cdn.teyonds.com/xp/零三影视.json",
-  "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+  "ext": "./lib/零三影院.json",
+  
 },
 {
   "key": "csp_骚火",
