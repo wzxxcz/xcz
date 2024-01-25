@@ -2403,6 +2403,17 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "meowtv_Nfys",
+  "name": "🍊奈飞影视",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
+  "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+},
+{
   "key": "BD",
   "name": "🔌BD资源",
   "type": 1,
