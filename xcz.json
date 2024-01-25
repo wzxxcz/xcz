@@ -2360,17 +2360,6 @@
   "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
-  "key": "meowtv_ssys",
-  "name": "🍊三思影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/xp/三思影视.json",
-  "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
-},
-{
   "key": "meowtv_03ys",
   "name": "🍊零三影院",
   "type": 3,
