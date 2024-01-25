@@ -23,18 +23,6 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
 },
 {
-      "key": "csp_Panda_玩偶哥哥",
-      "name": "┃玩偶┃影视",
-      "api": "csp_Panda",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0,
-     "jar": "https://gitee.com/wzbdyr/xcz/raw/master/feimao.jar",
-      "ext": "http://dt.xn--yety82d.love/玩偶哥哥(新).json"
-    },
-{
   "key": "小橙子综合",
   "name": "🍊小橙子综合 ",
   "type":3,
