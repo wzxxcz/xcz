@@ -23,6 +23,17 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
 },
 {
+      "key": "csp_Panda_玩偶哥哥",
+      "name": "👲┃玩偶┃影视",
+      "api": "csp_Panda",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": "http://dt.xn--yety82d.love/玩偶哥哥(新).json"
+    },
+{
   "key": "小橙子综合",
   "name": "🍊小橙子综合 ",
   "type":3,
@@ -2406,9 +2417,9 @@
      "key": "csp_可可",
      "name": "🐛可可影视",
      "type": 3,
-      "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
+     "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
      "api": "csp_Panda",
-         "ext": 
+    "ext": 
    { 
          "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 11；； Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
     "数组": "class=\"module-item\">&&</div>",
@@ -2428,7 +2439,7 @@
     "分类url": "https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
     "分类": "电影$1#剧集$2#动漫$3#综艺纪录$4#短剧$6"
      }
-   },
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
