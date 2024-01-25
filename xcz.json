@@ -2349,16 +2349,16 @@
   "ext": "http://cdn.teyonds.com/js/电影先生.js"
 },
 {
-      "key": "meowtv_ynys",
-      "name": "鸭奈┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
+  "key": "meowtv_ynys",
+  "name": "🦢鸭奈影视",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
+  "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
