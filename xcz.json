@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/wzbdyr/xcz/raw/master/xcz.jar",
+  "spider": "./xcz.jar",
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "sites":[
 {
@@ -2401,6 +2401,16 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://cdn.teyonds.com/js/VOF影视.js"
+},
+{
+  "key": "meowtv_jyys",
+  "name": "九悠┃影视",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/九悠影视.js"
 },
 {
   "key": "csp_骚火",
