@@ -1,5 +1,5 @@
 {
-  "spider": "./xcz.jar",
+  "spider": "https://gitee.com/wzbdyr/xcz/raw/master/xcz.jar",
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "sites":[
 {
@@ -2421,6 +2421,18 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/酷茶影院.json"
+},
+{
+  "key": "88",
+  "name": "🥳聚合资源",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
+  "ext": {
+           "分类url": "https://m.88mv.org/vod-type-id-{cateId}-pg-{catePg}-1.html",
+           "分类": "电视剧&电影&综艺&动漫",
+           "分类值": "2&1&3&4"
+         }
 },
 {
   "key": "csp_骚火",
