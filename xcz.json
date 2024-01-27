@@ -1672,36 +1672,36 @@
   "key": "优酷",
   "name": "🍊优酷(官备)",
   "type": 3,
-  "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "ext": "https://weixine.net/js/youku.js"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
 },
 {
   "key": "腾讯",
   "name": "🍊腾讯(官备)",
   "type": 3,
-  "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "ext": "https://weixine.net/js/tengxun.js"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
 },
 {
   "key": "芒果",
   "name": "🥭芒果(官备)",
   "type": 3,
-  "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "ext": "https://weixine.net/js/mangguo.js"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
 },
 {
   "key": "搜狗",
   "name": "🍊搜狗(官备)",
   "type": 3,
-  "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "ext": "https://weixine.net/js/caigou.js"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
 },
 {
   "key": "爱奇异",
   "name": "🍊爱奇艺(官备)",
   "type": 3,
-  "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "ext": "https://weixine.net/js/aiqiyi.js"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
 },
 {
   "key": "影探",
