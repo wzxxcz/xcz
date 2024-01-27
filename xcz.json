@@ -2480,6 +2480,17 @@
   "ext": ""
 },
 {
+  "key": "csp_appys_影探",
+  "name": "🍊影探影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "http://www.lyyytv.cn/yt/yt.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://vip11.lyyytv.cn/api.php/app/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
