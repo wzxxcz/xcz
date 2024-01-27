@@ -1875,7 +1875,7 @@
   "name":" 🍊巧技一",
   "type":3,
   "api":"csp_qiao2",
-  "jar": "https://521github.com/extdomains/raw.githubusercontent.com/xzqcsa/ysc/cfb3994548e024702d8863dff1130c7cb31305e2/xzqzy/lib/fix12210.jar",
+  "jar": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
   "playerType":2,
   "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
 },
@@ -1884,7 +1884,7 @@
   "name":" 🍊巧技二",
   "type":3,
   "api":"csp_qiao2",
-  "jar": "https://521github.com/extdomains/raw.githubusercontent.com/xzqcsa/ysc/cfb3994548e024702d8863dff1130c7cb31305e2/xzqzy/lib/fix12210.jar",
+  "jar": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
   "playerType":2,
   "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
 },
@@ -1893,7 +1893,7 @@
   "name":" 🍊巧技三",
   "type":3,
   "api":"csp_qiao2",
-  "jar": "  https://521github.com/extdomains/raw.githubusercontent.com/xzqcsa/ysc/cfb3994548e024702d8863dff1130c7cb31305e2/xzqzy/lib/fix12210.jar",
+  "jar": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
   "playerType":2,
   "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
 },
@@ -1902,9 +1902,18 @@
   "name":" 🍊巧技四",
   "type":3,
   "api":"csp_qiao2",
-  "jar": "  https://521github.com/extdomains/raw.githubusercontent.com/xzqcsa/ysc/cfb3994548e024702d8863dff1130c7cb31305e2/xzqzy/lib/fix12210.jar",
+  "jar": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
   "playerType":1,
   "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
+},
+{
+  "key":"csp_qiao2_巧技五",
+  "name":" 🍊巧技五",
+  "type":3,
+  "api":"csp_qiao2",
+  "jar": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
+  "playerType":1,
+  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
 },
 {
   "key":"喝茶影院",
