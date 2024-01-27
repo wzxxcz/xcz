@@ -3908,6 +3908,56 @@
       }
     },
     {
+      "name": "猎狼解析20",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "猎狼解析21",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "猎狼解析22",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "猎狼解析23",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url="
+    },
+    {
+      "name": "猎狼解析24",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
       "name": "飞云🌾",
       "type": 1,
       "url": "http://122.228.84.103:7777/api/?key=XX84Rm4utDcfLT21tT&url=",
