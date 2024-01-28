@@ -1548,19 +1548,11 @@
   "key": "萌米",
   "name": "🌮萌米TV",
   "type": 3,
+  "api": "csp_AppMao",
   "searchable": 1,
   "quickSearch": 1,
-  "api": "csp_Appto",
-  "jar": "http://小盒酷玩.xyz:75/禁止贩卖",
-  "playerType": 2,
-  "ext": {
-        "key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ",
-        "ic": "",
-        "token": "",
-        "url": "http://app.mervod.com:9527",
-        "configurl": "/addons/apptov4/app.php/v1/config/get?p=android",
-        "api": "/addons/apptov4/app.php/v1/"
-      }
+  "changeable": 1,
+  "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
 },
 {
   "key": "嘿嘿",
