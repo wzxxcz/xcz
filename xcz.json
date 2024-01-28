@@ -2501,6 +2501,12 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "394",
+  "name": "🍊394云影视",
+  "type": 0,
+  "api": "https://www.394tv.com/api.php/provide/vod/at/xml"
+},
+{
   "key": "hundong",
   "name": "🐺猎狼影视",
   "type": 3,
