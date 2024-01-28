@@ -3415,8 +3415,7 @@
   "key": "最大资源",
   "name": "🍊最大采集",
   "type": 1,
-  "api": "http://zuidazy.me/api.php/provide/vod/",
-  "playUrl": "",
+  "api": "http://zuidazy.co/api.php/provide/vod/",
   "searchable": 1,
   "quickSearch": 1
 },
