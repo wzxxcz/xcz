@@ -2531,6 +2531,17 @@
       }
 },
 {
+  "key":"石榴影视",
+  "name": "🍋石榴影视",
+  "type": 3,
+  "api":"csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"https://atomgit.com/yimeng/ym/raw/master/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
+  "ext":"https://atomgit.com/yimeng/ym/raw/master/shiliu.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
