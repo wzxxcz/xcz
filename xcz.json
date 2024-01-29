@@ -182,6 +182,17 @@
   "jar": "https://tvbox.cainisi.cf/jar/fm0127.jar;md5;7d13878c01ea655d716fd1aa39b0094e"
 },
 {
+  "key": "贱贱",
+  "name": "🐭贱贱p2p",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "playerType": "1",
+  "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+  "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+},
+{
   "key": "csp_不卡",
   "name": "🍊不卡影视",
   "type": 3,
