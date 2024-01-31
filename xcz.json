@@ -2598,6 +2598,17 @@
   "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
+  "key":"csp_CandyMuj_jxyc1",
+  "name":"🍊自营二站",
+  "type":3,
+  "api":"csp_CandyMuj_jxyc",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://vipcom.xn--654a.cc",
+  "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
