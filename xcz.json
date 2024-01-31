@@ -1967,13 +1967,13 @@
   "key":"欣欣",
   "name":"❤️‍🩹可欣影视",
   "type":3,
-  "api":"csp_qiao",
-  "jar": "http://yydf.540734621.xyz/yydf/yydf/bd/jar/fix1209.jar;md5;55c166b3567b9a5b7746a048c5472263",
+  "api":"csp_qiao2",
   "searchable":1,
   "quickSearch":1,
-  "playerType":1,
+  "playerType":2,
   "filterable":1,
-  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/xinxin"
+  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/xinxin",
+  "jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"
 },
 {
   "key": "看看",
