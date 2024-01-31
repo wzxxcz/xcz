@@ -2619,6 +2619,16 @@
   "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
 },
 {
+  "key":"csp_CandyMuj_haokongbu",
+  "name":"🍑好恐怖啊",
+  "type":3,
+  "api":"csp_CandyMuj_haokongbu",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1 ,
+  "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
