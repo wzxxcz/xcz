@@ -2608,6 +2608,17 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"csp_CandyMuj_jxyc",
+  "name":"🍊自营一站",
+  "type":3,
+  "api":"csp_CandyMuj_jxyc",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://xc1080.xn--654a.cc",
+  "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
+},
+{
   "key": "ZYJK", 
   "name": "🪩多线过滤", 
   "type": 1, 
