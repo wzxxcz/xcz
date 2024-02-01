@@ -2670,6 +2670,15 @@
   "ext" : "./lib/剧迷.json"
 },
 {
+  "key":"映迷",
+  "name":"🕎映迷映画",
+  "type":1,
+  "api":"https://www.inmi.app/api.php/provide/vod/",
+  "playUrl":"",
+  "searchable":1,
+  "quickSearch":1
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
