@@ -2649,6 +2649,13 @@
   "ext":"./lib/往往影视.json"
 },
 {
+  "key": "csp_myhy",
+  "name": "🐯嘛衣唬呀",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": "./lib/huanyu.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
