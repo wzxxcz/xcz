@@ -2663,6 +2663,13 @@
   "ext":"https://notabug.org/ygfxz/6/raw/main/js/js/磁力熊[磁].js"
 },
 {
+  "key" : "jumi",
+  "name" : "🔔剧迷影院",
+  "type" : 3,
+  "api" : "csp_XBPQ",
+  "ext" : "./lib/剧迷.json"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
