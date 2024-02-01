@@ -2679,6 +2679,13 @@
   "quickSearch":1
 },
 {
+  "key" : "js_咕噜",
+  "name" : "☃️咕噜咕噜",
+  "type" : 3,
+  "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/咕噜[V2].js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
