@@ -2666,6 +2666,16 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"csp_CandyMuj_sstv",
+  "name":"🍊速搜4K",
+  "type":3,
+  "api":"csp_CandyMuj_sstv",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
+},
+{
   "key":"csp_CandyMuj_jxyc",
   "name":"🍊自营一站",
   "type":3,
