@@ -2696,6 +2696,17 @@
   "jar":"https://download.kstore.space/download/4127/2345.txt"
 },
 {
+  "key":"csp_MeiJu69",
+  "name":"♋️69美剧",
+  "api":"csp_AppYsV2",
+  "type":3,
+  "m3u8ads": "hd.youyhn.com",
+  "filterable":1,
+  "quickSearch":1,
+  "searchable":1,
+  "ext":"https://www.69mj.com/xgapp.php/v2/"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
