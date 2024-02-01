@@ -2656,6 +2656,13 @@
   "ext": "./lib/huanyu.json"
 },
 {
+  "key":"drpy_js_磁力熊[磁]",
+  "name":"🐻‍❄️吃力熊熊",
+  "type":3,
+  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "ext":"https://notabug.org/ygfxz/6/raw/main/js/js/磁力熊[磁].js"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
