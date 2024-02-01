@@ -2686,6 +2686,16 @@
   "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/咕噜[V2].js"
 },
 {
+  "key": "csp_SP2345",
+  "name": "🦌2345影视",
+  "type": 3, 
+  "api": "csp_SP2345",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"https://download.kstore.space/download/4127/2345.txt"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
