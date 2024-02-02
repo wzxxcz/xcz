@@ -1252,10 +1252,11 @@
   "key": "加速",
   "name": "🐰加速APP",
   "type": 3,
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
   "api": "csp_AppYsV2",
   "searchable": 1,
   "quickSearch": 1,
-  "ext": "http://122.228.84.103:6117/api.php/app/"
+  "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
 },
 {
   "key": "赞赞",
