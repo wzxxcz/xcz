@@ -4378,6 +4378,12 @@
                     "乐视视频"
                     ],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},  
     {
+      "name":"🌎DB",
+      "type":1,
+      "url":"http://119.91.123.253:2345/Api/yun.php?url=",
+      "ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}
+    }, 
+    {
       "name": "猎狼解析20",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
@@ -4524,6 +4530,50 @@
         }
       }
     },
+    {
+			"name": "龙龙",
+			"type": 1,
+			"url": "http://yh.xn--yi7aa.top:3977/home/api?type=ys&uid=181249&key=bfxyDFHKOTYZ023578&url=",
+					"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"yk",
+					"CL4K",
+					"renrenmi",
+					"ltnb",
+					"bilibili",
+					"1905",
+					"xigua"
+				]
+			}
+		},
+		
+		{
+            "name": "解析5",
+            "type": 0,
+            "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "优酷",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯"
+                ]
+            }
+        },
     {
       "name": "亮亮🌾",
       "type": 1,
