@@ -2787,7 +2787,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/骚火影视.json"
+  "ext": "./lib/骚火影视.json",
+  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 },
 {
       "key": "saohuo",
