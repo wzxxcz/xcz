@@ -3182,6 +3182,16 @@
     \"分类url\":\"http://www.czphgj.com/czvodshow/{cateId}--------{catePg}---.html\"}"
 },
 {
+  "key": "csp_厂长",
+  "name": "🍊厂长影院",
+  "type": 3,
+  "api": "csp_CsCz",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://bo.czys.me@@荷城茶秀",
+  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+},
+{
   "key":"39影院",
   "name":"🍊39影院",
   "type":1,
