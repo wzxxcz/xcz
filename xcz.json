@@ -2213,6 +2213,17 @@
   "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
 },
 {
+  "key": "8号影院",
+  "name": "🐰8号影院",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/8号影院.js"
+},
+{
   "key": "亮亮",
   "name": "💡亮亮APP",
   "type": 3,
