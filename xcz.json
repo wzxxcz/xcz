@@ -2768,6 +2768,18 @@
   "ext": "https://drpy.cainisi.cf/js/69美剧[V2].js"
 },
 {
+  "key": "csp_皮虾",
+  "name": "🦂皮虾影视",
+  "type": 3,
+  "api": "csp_CsPpx",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": "http://aikun.tv/@@荷城茶秀",
+  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
