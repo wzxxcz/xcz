@@ -51,6 +51,14 @@
   "api": "http://xh.xn--yetu07f.icu/api.php/provide/vod/"
 },
 {
+  "key": "小胡",
+  "name": "🍈️小胡影视",
+  "type": 3,
+  "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+  "ext": "http://dt.xn--yety82d.love/js/小胡.js",
+  "playerType": 2
+},
+{
   "key": "csp_sxtv",
   "name": "🍊神仙影视",
   "type": 3,
