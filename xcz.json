@@ -925,14 +925,14 @@
          }
 },
 {
-  "key":"圣城影视",
-  "name":"🏰圣城影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/sc1080.json"
+  "key": "csp_圣城",
+  "name": "🏰圣城影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/圣城影视.json"
 },
 {
   "key": "B站影视",
