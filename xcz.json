@@ -220,14 +220,13 @@
         }
 },
 {
-  "key": "九六",
-  "name": "🍊1369影视",
-  "type": 3,
-  "api": "csp_Cs1369",
-  "playerType": 2,
+  "key": "乐乐",
+  "name": "🎡️乐乐影视",
+  "type": 1,
+  "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1
+  "filterable": 0
 },
 {
   "key": "北极狐",
