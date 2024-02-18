@@ -175,11 +175,8 @@
   "key": "meowtv_jpyy",
   "name": "🔨荐片影院",
   "type": 3,
-  "api": "csp_Jianpian",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "https://tvbox.cainisi.cf/json/jianpian.json",
-  "jar": "https://tvbox.cainisi.cf/jar/fm0127.jar;md5;7d13878c01ea655d716fd1aa39b0094e"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
 },
 {
   "key": "贱贱",
