@@ -645,7 +645,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+  "ext": "http://yingszj.xn--654a.cc/api.php/app/",
+  "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
   "key":"臭蛋蛋",
