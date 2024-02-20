@@ -2090,6 +2090,16 @@
   }
 },
 {
+  "key": "meowtv_nyys",
+  "name": "🇺🇸纽约影院",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/纽约影视.js"
+},
+{
   "key":"DYDS",
   "name":"‍🍳电影大师",
   "type":3,
