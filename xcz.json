@@ -866,14 +866,15 @@
   "ext": "https://www.kuin.one/api.php/app/" 
 },
 {
-  "key": "csp_MeiJu69",
+  "key": "meowtv_69mj",
   "name": "🗽六九影视",
   "type": 3,
   "api": "csp_AppYsV2",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://www.69mj.com/xgapp.php/v2/"
+  "ext": "https://www.69mj.com/xgapp.php/v2/",
+  "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
   "key":"csp_biubiu_大米星球",
