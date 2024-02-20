@@ -2040,6 +2040,16 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
 },
 {
+  "key": "meowtv_wfys",
+  "name": "🍊网飞影院",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/网飞影视.js"
+},
+{
   "key": "drpy_js_我爱跟剧",
   "name": "🍊我爱跟剧",
   "type": 3,
