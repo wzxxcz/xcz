@@ -1998,6 +1998,17 @@
   "filterable":1
 },
 {
+  "key": "Bdys_spider",
+  "name": "💡哔滴直连",
+  "api": "csp_Bdys01",
+  "type": 3,
+  "filterable": 1,
+  "quickSearch": 1,
+  "searchable": 1,
+  "jar": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
+  "ext": ""
+},
+{
   "key":"欣欣",
   "name":"❤️‍🩹可欣影视",
   "type":3,
