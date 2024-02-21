@@ -2857,6 +2857,15 @@
       }
 },
 {
+  "key": "meowtv_33ys",
+  "name": "🍊三六视频",
+  "type": 3,
+  "api": "csp_SP33",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
   "key": "meowtv_kkys",
   "name": "🍊看看影视",
   "type": 3,
