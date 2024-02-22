@@ -1234,14 +1234,11 @@
       ]
 },
 {
-  "key":"360-02",
+  "key":"drpy_js_360影视",
   "name":"🍊360影视",
-  "type":3,
-  "api":"csp_AppYsV2",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"http://1.12.76.190:6647/api.php/app/"
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
 },
 {
   "key": "饭盘影视",
