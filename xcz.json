@@ -948,15 +948,11 @@
   "ext": "http://iosa.xn--654a.cc/api.php/app/"
 },
 {
-  "key": "K影",
-  "name": "🍊K影院App",
+  "key": "drpy_js_兄弟影视",
+  "name": "🍊兄弟影视",
   "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "playerType": 2,
-  "ext": "http://iosa.xn--654a.cc/api.php/app/"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兄弟影视.js"
 },
 {
   "key": "101影院",
