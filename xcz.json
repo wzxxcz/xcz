@@ -965,14 +965,11 @@
          }
 },
 {
-  "key": "csp_圣城",
-  "name": "🏰圣城影视",
+  "key": "drpy_js_KOK影视",
+  "name": "🍊KOK影视",
   "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/圣城影视.json"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/KOK影院.js"
 },
 {
   "key": "B站影视",
