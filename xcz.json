@@ -344,14 +344,11 @@
   "ext": "https://www.kuin.one/api.php/app/"
 },
 {
-  "key": "csp_9day",
-  "name": "🍊九日影视",
+  "key": "drpy_js_NY影院",
+  "name": "🍊NY影院",
   "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/suying.json"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/NY影院.js"
 },
 {
   "key": "Ikun资源",
