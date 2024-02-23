@@ -931,15 +931,11 @@
   "filterable": 1
 },
 {
-  "key": "快影",
-  "name": "🍊快影App",
+  "key": "drpy_js_大师兄影视",
+  "name": "🤡大师兄影视",
   "type": 3,
-  "api": "csp_AppYsV2",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "http://iosa.xn--654a.cc/api.php/app/"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
 },
 {
   "key": "drpy_js_兄弟影视",
