@@ -2834,15 +2834,11 @@
       }
 },
 {
-  "key": "69美剧",
+  "key": "drpy_js_69美剧",
   "name": "🍊69影院",
   "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": "https://drpy.cainisi.cf/js/69美剧[V2].js"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
 },
 {
   "key": "csp_皮虾",
