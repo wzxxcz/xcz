@@ -981,14 +981,11 @@
   "ext": "https://drpy.cainisi.cf/js/B站影视.js"
 },
 {
-  "key":"csp_星辰",
-  "name":"🍊星辰秒播",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/xcys.json"
+  "key": "drpy_js_尘落影视",
+  "name": "🍊尘落影视",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/尘落影视.js"
 },
 {
   "key": "qiyue",
