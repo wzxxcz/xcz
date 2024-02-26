@@ -47,8 +47,9 @@
   "key": "小胡",
   "name": "🔥自营影视",
   "type": 1,
-  "playerType": 1,
-  "api": "http://xh.xn--yetu07f.icu/api.php/provide/vod/"
+  "playerType": 3,
+  "api": "http://bb.xzam.cn/api.php/provide/vod/",
+  "playUrl": ""
 },
 {
   "key": "小胡",
