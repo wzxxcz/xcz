@@ -1384,15 +1384,11 @@
   "filterable": 1
 },
 {
-  "key": "繁星",
-  "name": "💥繁星影视",
+  "key": "drpy_js_小白菜儿",
+  "name": "🥬小白菜儿",
   "type": 3,
-  "api": "csp_AppMao",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.js"
 },
 {
   "key": "二懒影视",
