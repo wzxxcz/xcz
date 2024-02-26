@@ -2839,6 +2839,18 @@
   "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
+  "key": "360_spider",
+  "name": "🍊360解析",
+  "api": "csp_SP360",
+  "type": 3,
+  "filterable": 1,
+  "quickSearch": 1,
+  "searchable": 1,
+  "playerType": 2,
+  "jar": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
+  "ext": ""
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
