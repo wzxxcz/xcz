@@ -3406,17 +3406,12 @@
       ]
 },
 {
-  "key": "csp_XBPQ_vstv",
-  "name": "💠火柴短剧",
+  "key": "蜜果视界",
+  "name": "🍊蜜果影视",
+  "api": "csp_AppYs",
   "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-           "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-         }
+  "jar": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/jar/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b",
+  "ext": "https://miguo.pro/api.php/v1.vod"
 },
 {
   "key": "drpy_js_金曼影视",
