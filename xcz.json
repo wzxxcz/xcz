@@ -1577,8 +1577,20 @@
   "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 },
 {
+  "key": "csp_XBPQ_黑虎",
+  "name": "🐯黑虎影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "ext": "https://notabug.org/qdpdwjx/ziyuan/raw/master/XBPQ/heihu.json",
+  "jar": "https://notabug.org/qdpdwjx/ziyuan/raw/master/JAR/XBPQ2.jar"
+},
+{
   "key": "柠檬",
-  "name": "🌟柠檬App",
+  "name": "🍋柠檬App",
   "type": 3,
   "api": "csp_Nmvod",
   "playerType": 2,
