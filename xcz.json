@@ -3777,6 +3777,16 @@
       }
 },
 {
+  "key": "九九六",
+  "name": "🎀九六影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/json/96.json"
+},
+{
   "key": "热播库",
   "name": "🔥热播BPQ",
   "type": 3,
