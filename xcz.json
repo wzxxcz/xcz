@@ -4446,14 +4446,22 @@
   "jar": "https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar"
 },
 {
-  "key": "儿童识字",
-  "name": "🍊儿童识字",
-  "type": 3,
-  "api": "csp_Bili",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童识字.json"
+      "key": "蚂蚁ys",
+      "name": "🐜蚂蚁影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路标题": "<*>&&</*>",
+        "线路数组": ">&&<[排序:线路5>线路1]",
+        "播放标题": "+>&&</a>",
+        "分类url": "https://www.mayiyingshi.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电视剧&电影&综艺&动漫",
+        "分类值": "2&1&3&4"
+      }
 },
 {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","ext":"https://notabug.org/ygfxz/6/raw/main/js/js/兔小贝.js"},
 {"key":"有声小说吧","name":"💢有声小说｜频道","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/ove/raw/branch/master/sub/有声小说吧.json"},
