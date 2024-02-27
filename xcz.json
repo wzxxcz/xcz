@@ -4380,14 +4380,13 @@
   "ext": "./lib/土豪影视.json"
 },
 {
-  "key": "csp_七月",
-  "name": "🌛七月影视",
+  "key": "极光",
+  "name": "🍊极光App",
   "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/七月影视.json"
+  "api": "csp_Skapp",
+  "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
+  "playerType": 2,
+  "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
 },
 {
   "key": "csp_午舞",
