@@ -1566,15 +1566,16 @@
       ]
 },
 {
-  "key": "七新",
-  "name": "🍃七新影视",
+  "key": "996",
+  "name": "🎆蓝色秒播",
   "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/七新影视.json",
-  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+  "api": "csp_XBPQ",
+  "ext": {
+                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+                "筛选": "1"
+        }
 },
 {
   "key": "csp_XBPQ_黑虎",
