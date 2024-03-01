@@ -2886,6 +2886,16 @@
       }
 },
 {
+  "key":"csp_xpath_zaixiandianying8",
+  "name":"🍊在线电影",
+  "type":3,
+  "api":"csp_XPath",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"https://szyyds.cn/tv/jsxp/zaixiandianying8.json"
+},
+{
   "key":"drpy_js_奇珍异兽",
   "name":"🍊奇珍影视",
   "type":3,
