@@ -2875,6 +2875,16 @@
   "ext": "http://www.wya6.cn/tz/pgts.php$$$https://www.66ss.org$$$null$$$1"
 },
 {
+  "key": "胡胡",
+  "name": "🍊胡胡影视",
+  "type": 3,
+  "api": "csp_WebHH",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "jar": "http://www.wya6.cn/tz/wyog.php"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
