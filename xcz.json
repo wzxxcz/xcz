@@ -2885,6 +2885,15 @@
   "jar": "http://www.wya6.cn/tz/wyog.php"
 },
 {
+  "key": "云播",
+  "name": "🍊落花影视",
+  "type": 3,
+  "api": "csp_Skapp",
+  "playerType": 2,
+  "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/yunbo.json",
+  "jar": "http://www.wya6.cn/tz/wyog1.php"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
