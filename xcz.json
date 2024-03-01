@@ -82,11 +82,12 @@
 {
   "key":"天天",
   "name":"🏞天外有天",
-  "type":3,
-  "api":"csp_TTian",
-  "playerType":1,
-  "ext":"http://op.ysdqjs.cn",
-  "jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"
+  "type": 3,
+  "api": "csp_TTian",
+  "jar": "http://www.wya6.cn/tz/wypg.php",
+  "playerType": 1,
+  "changeable": 2,
+  "ext": "http://op.ysdqjs.cn$$$null$$$1"
 },
 {
   "key": "csp_NanGua",
