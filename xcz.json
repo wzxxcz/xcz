@@ -2056,6 +2056,13 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"
 },
 {
+  "key": "看了么",
+  "name": "🍊看了影视",
+  "type": 3,
+  "api": "http://tv.nxog.top/m/js/nxog.js",
+  "ext": "https://raw.gitcode.com/wykj/ys/raw/main/js/15.js"
+},
+{
   "key": "drpy_js_9U电影",
   "name": "🍊9U电影",
   "type": 3,
