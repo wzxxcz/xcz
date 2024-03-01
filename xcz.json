@@ -2864,6 +2864,17 @@
   "ext": ""
 },
 {
+  "key": "新6V",
+  "name": "🍊新6V",
+  "type": 3,
+  "api": "csp_Xb6v",
+  "jar": "http://www.wya6.cn/tz/wypg.php",
+  "searchable": 1,
+  "changeable": 1,
+  "timeout": 60,
+  "ext": "http://www.wya6.cn/tz/pgts.php$$$https://www.66ss.org$$$null$$$1"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
