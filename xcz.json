@@ -2886,6 +2886,17 @@
       }
 },
 {
+  "key": "csp_appys_影探",
+  "name": "🍊影探App",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "http://www.wya6.cn/tz/ybz.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://vip-cms.lyyytv.cn/api.php/app/"
+},
+{
   "key":"csp_xpath_zaixiandianying8",
   "name":"🍊在线电影",
   "type":3,
