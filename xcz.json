@@ -55,11 +55,11 @@
   "ext":"./lib/开心影视.json"
 },
 {
-  "key": "小胡",
-  "name": "🔥自营影视",
+  "key": "xh",
+  "name": "🀄自营剧集",
   "type": 1,
   "playerType": 3,
-  "api": "http://bb.xzam.cn/api.php/provide/vod/",
+  "api": "http://cc.xzam.cn/api.php/provide/vod/",
   "playUrl": ""
 },
 {
