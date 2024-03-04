@@ -289,9 +289,7 @@
   "name": "🍊耐看点播",
   "type": 3,
   "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
+  "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
   "ext": "./lib/耐看影视.json"
 },
 {
