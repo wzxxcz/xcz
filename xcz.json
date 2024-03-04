@@ -2856,6 +2856,16 @@
   "jar": "http://www.wya6.cn/tz/wyog1.php"
 },
 {
+  "key": "酷看",
+  "name": "💡酷看秒播",
+  "type": 3,
+  "api": "csp_Kkys",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f"
+},
+{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
