@@ -1593,14 +1593,14 @@
   "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
 },
 {
-  "key": "耐看影视",
-  "name": "🍊耐看BPQ",
+  "key": "麻衣呀呼",
+  "name": "🍊麻衣呀呼",
   "type": 3,
   "api": "csp_XBPQ",
-  "ext": {
-           "分类url":"https://www.nkvod.com/show/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-           "分类":"电影$1#电视剧$2#动漫$4#综艺$3"  
-         }
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/mayiyahu.json"
 },
 {
   "key": "优酷",
