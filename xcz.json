@@ -3345,14 +3345,15 @@
     \"分类url\":\"http://www.czphgj.com/czvodshow/{cateId}--------{catePg}---.html\"}"
 },
 {
-  "key": "csp_厂长",
-  "name": "🍊厂长影院",
-  "type": 3,
-  "api": "csp_CsCz",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "https://bo.czys.me@@荷城茶秀",
-  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+  "key":"csp_觅视频",
+  "name":"🐈影猫影视",
+  "type":3,
+  "api":"csp_AppSK",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1,
+  "ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"
 },
 {
   "key": "fn",
