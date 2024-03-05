@@ -603,15 +603,14 @@
   "ext":"./lib/hezi.json"
 },
 {
-  "key":"csp_vs",
-  "name":"🍊VS影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/vsys.json"
-},
+  "key": "安", 
+  "name": "🍊安博影视", 
+  "type": 4, 
+  "api": "https://tang.serv00.net/power/ub1818", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 0
+}, 
 {
   "key":"Vidhub视频",
   "name": "🍊视频库",
