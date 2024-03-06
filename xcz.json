@@ -52,12 +52,13 @@
   "playUrl": ""
 },
 {
-  "key": "小胡",
-  "name": "🍈️小胡影视",
-  "type": 3,
-  "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-  "ext": "http://dt.xn--yety82d.love/js/小胡.js",
-  "playerType": 2
+  "key":"厂长弹幕",
+  "name":"🍊厂长影院",
+  "type":3,"api":"csp_Czzy",
+  "searchable":1,
+  "changeable":1,
+  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt",
+  "ext":"https://www.czzy55.com/@@一个分享者"
 },
 {
   "key": "csp_sxtv",
