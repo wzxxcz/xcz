@@ -1334,15 +1334,14 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小白菜电影.js"
 },
 {
-  "key": "二懒影视",
-  "name": "🏍️二懒影视",
-  "type": 3,
+  "key": "左岸",
+  "name": "🍊桌案影视",
+  "type": 3,     
   "api": "csp_AppYsV2",
+  "ext": "http://122.228.84.103:5821/api.php/app/",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://dy.yuzhoukeji.top/api.php/app/",
-  "playerType": 1
+  "changeable": 0
 },
 {
   "key": "云播",
