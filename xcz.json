@@ -61,14 +61,14 @@
   "ext":"https://www.czzy55.com/@@一个分享者"
 },
 {
-  "key": "csp_sxtv",
-  "name": "🍊神仙影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "分类url:http://kdy.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$20#电视剧$21#动漫$22#短剧$25#综艺$23#体育$24#纪录片$26"
+	"key": "myi",
+	"name": "🍊麻衣影视",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"ext": "http://122.228.84.103:5822/api.php/app/",
+	"searchable": 1,
+	"quickSearch": 1,
+	"changeable": 0
 },
 {
   "key": "开心HK影视",
