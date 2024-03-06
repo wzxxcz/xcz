@@ -4580,6 +4580,19 @@
       "url": "Demo"
     },
     {
+      "name": "蚂蚁🌾",
+      "type": 1,
+      "url": "http://121.62.61.51:6888/api/?key=n669JAmIzmG1K813tb&url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
       "name": "蚂蚁",
       "type": 1,
       "url": "http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
