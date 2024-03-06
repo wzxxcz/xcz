@@ -161,14 +161,13 @@
   "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
 },
 {
-  "key": "csp_不卡",
-  "name": "🍊不卡影视",
+  "key": "要啥脸",
+  "name": "🥑傻瓜直链",
   "type": 3,
-  "api": "csp_XBPQ",
+  "api": "csp_AppYsV2",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/真不卡影视.json"
+  "ext": "http://122.228.84.103:5822/api.php/app/"
 },
 {
   "key": "咕噜",
