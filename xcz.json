@@ -174,13 +174,21 @@
   "jar": "http://www.wya6.cn/tz/wyog.php"
 },
 {
-  "key": "乐乐",
-  "name": "🎡️乐乐影视",
-  "type": 1,
-  "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-  "searchable": 1,
+  "key": "yuzou",
+  "name": "🐠渔舟唱晚",
+  "type": 3,
+  "api": "csp_LvDou",
   "quickSearch": 1,
-  "filterable": 0
+  "changeable": 1,
+  "filterable": 1,
+  "timeout": 30,
+  "playerType": 1,
+  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/lvdou.jar",
+  "ext": {
+        "server": "http://goulanzi.yuzhoukeji.top/api.php/app/",
+        "mackey": "toudongxidegou88|qunimagebisha857",
+        "danmu": true
+      }
 },
 {
   "key": "北极狐",
