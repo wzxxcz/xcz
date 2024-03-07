@@ -34,6 +34,17 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
+  "key": "Upyunso",
+  "name": "🌦️落雨4K",
+  "type": 3,
+  "api": "csp_Upyunso",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+  "jar": "http://www.wya6.cn/tz/wyog1.php"
+},
+{
   "key": "小橙子综合",
   "name": "🍊小橙子综合 ",
   "type":3,
