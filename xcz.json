@@ -675,14 +675,14 @@
   "ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E4%BC%98%E9%85%B7.js"
 },
 {
-  "key": "csp_好戏",
-  "name": "🍊好戏影视",
+  "key": "COKEMV影院",
+  "name": "🥤可乐观影",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/好戏影视.json"
+  "ext": "./lib/cokemv.json"
 },
 {
   "key": "drpy_js_凌云影视",
