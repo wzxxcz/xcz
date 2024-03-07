@@ -180,6 +180,17 @@
   "jar": "http://www.wya6.cn/tz/wyog.php"
 },
 {
+  "key": "地瓜",
+  "name": "🍺地瓜超清",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "ext": "https://www.qiqiguai.cn/api.php/app/"
+},
+{
   "key": "yuzou",
   "name": "🐠渔舟唱晚",
   "type": 3,
