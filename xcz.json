@@ -19,7 +19,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706376905295/fan.txt;md5;6695b4fe705a1eedcae352abe5412640",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
 },
 {
@@ -894,7 +894,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://www.kuin.one/api.php/app/" 
+  "ext": "https://www.kuin.one/api.php/app/" ,
+  "jar": "http://itvbox.cc/sft/jar/fm.jar;md5;87d5916b7bb5c8acacac5490e802828e"
 },
 {
   "key": "meowtv_69mj",
@@ -1269,7 +1270,7 @@
   "key": "赞赞",
   "name": "➕赞赞切片",
   "type": 3,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
   "api": "csp_AppYsV2",
   "ext": "http://111.230.51.151:2323/api.php/app/",
   "searchable": 1,
@@ -2275,17 +2276,6 @@
   "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
 },
 {
-  "key": "8号影院",
-  "name": "🐰8号影院",
-  "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": "https://drpy.cainisi.cf/js/8号影院.js"
-},
-{
   "key": "亮亮",
   "name": "💡亮亮APP",
   "type": 3,
@@ -2998,6 +2988,17 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://cdn.teyonds.com/js/大米影视.js"
+},
+{
+  "key": "8号影院",
+  "name": "🐰8号影院",
+  "type": 3,
+  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "ext": "https://drpy.cainisi.cf/js/8号影院.js"
 },
 {
   "key": "亮亮",
@@ -4254,7 +4255,7 @@
   "changeable": 1,
   "ext": {
         "站名": "免费看影视",
-        "作者": "小橙子",
+        "作者": "yydf",
         "主页url": "https://qzy998-1.ysgq.xyz",
         "地区": "地区：&&</p",
         "年代": "年代：&&</p",
@@ -4695,7 +4696,7 @@
                     "优酷视频",
                     "芒果视频",
                     "乐视视频"
-                    ],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},  
+                    ],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}}, 
     {
       "name": "🍊推荐1",
       "type": 1,
