@@ -916,11 +916,14 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
 },
 {
-  "key": "drpy_js_兄弟影视",
-  "name": "🍊兄弟影视",
+  "key": "海兔",
+  "name": "🐇海兔影院",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兄弟影视.js"
+  "api": "csp_XBPQ",
+  "filterable": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "ext": "分类url:https://www.haituu.tv/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 {
   "key": "101影院",
