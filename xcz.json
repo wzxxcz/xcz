@@ -3546,16 +3546,13 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"
 },
 {
-  "key": "139影视",
+  "key": "drpy_js_139影视",
   "name": "🍊139影视",
   "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "https://drpy.cainisi.cf/js/139影视.js",
-  "jar": "https://tvbox.cainisi.cf/jar/fty1113.jar"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/139影视.js"
 },
- {
+{
       "key": "孜然",
       "name": "🐕孜然影视",
       "type": 3,
