@@ -1094,10 +1094,8 @@
   "key": "乐鱼影视",
   "name": "🐟乐鱼影视",
   "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "https://drpy.cainisi.cf/js/乐鱼影视.js"
+  "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/乐鱼影视.js"
 },
 {
   "key":"圆周率",
