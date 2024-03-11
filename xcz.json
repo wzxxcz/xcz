@@ -1893,14 +1893,15 @@
   "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
 },
 {
-  "key":"时常影视",
-  "name":"⌛️时光之约",
-  "type":3,
-  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0,
-  "ext":"https://notabug.org/ygfxz/6/raw/main/js/时光影视.js"
+  "key": "🔱超解线",
+  "name": "🔱超解线",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider1.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjcj.json"
 },
 {
   "key": "csp_Ikanbot",
