@@ -2677,14 +2677,15 @@
   "ext": "./lib/淘剧.json"
 },
 {
-  "key":"csp_CandyMuj_haokongbu",
-  "name":"🍑好恐怖啊",
-  "type":3,
-  "api":"csp_CandyMuj_haokongbu",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1 ,
-  "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
+  "key": "csp_XYQHiker_歪片星球",
+  "name": "🍑歪片星球",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/mew/custom_spider__1_.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/歪片星球.json"
 },
 {
   "key": "csp_低调",
