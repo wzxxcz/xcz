@@ -2849,14 +2849,14 @@
   "ext": "http://www.wya6.cn/tz/pgts.php$$$https://www.66ss.org$$$null$$$1"
 },
 {
-  "key": "胡胡",
-  "name": "🍊胡胡影视",
-  "type": 3,
-  "api": "csp_WebHH",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "jar": "http://www.wya6.cn/tz/wyog.php"
+  "key":"胡胡",
+  "name":"💡胡胡影视",
+  "type":3,
+  "api":"csp_WebHH",
+  "searchable":1,
+  "quickSearch":1,
+  "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;b5e94906d80378a2c4520c72cfd93975",
+  "filterable":0
 },
 {
   "key": "云播",
