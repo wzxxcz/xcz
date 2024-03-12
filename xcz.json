@@ -300,15 +300,15 @@
   "ext": "./lib/量子资源网.json"
 },
 {
-  "key":"万达影视",
-  "name":"🍊万达秒播",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "playerType": "1",
-  "ext":"./lib/wandays.json"
+  "key": "🔱专线⑨🏅",
+  "name": "🔱专线⑨🏅",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy4.json"
 },
 {
   "key": "耐看",
