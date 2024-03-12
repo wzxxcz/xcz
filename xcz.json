@@ -124,6 +124,17 @@
   "changeable": 0
 },
 {
+  "key": "🔱专线⑩🏅",
+  "name": "🔱专线⑩🏅",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy5.json"
+},
+{
   "key":"笑笑影视",
   "name":"🍊笑笑2K",
   "type":3,
