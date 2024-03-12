@@ -423,13 +423,21 @@
       ]
 },
 {
-  "key": "77",
-  "name": "👒七七影视",
+  "key": "101影院11",
+  "name": "📽101影院",
   "type": 3,
-  "api": "csp_Kunyu77",
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1
+  "filterable": 1,
+  "playerType": 2,
+  "api": "csp_XBPQ",
+  "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/1_hlly.jar",
+  "ext": {
+        "简介": "col-pd\">&&</p >",
+        "跳转播放链接": "varurlDecode(var player_*url\":\"&&\")",
+        "分类url": "http://101jy.cn/sx/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影天堂$44#伦理片$29#经典电影$30"
+      }
 },
 {
   "key":"飘零影院",
