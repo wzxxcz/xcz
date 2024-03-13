@@ -45,28 +45,6 @@
   "jar": "http://www.wya6.cn/tz/alhj.php"
 },
 {
-  "key":"️玩偶弟",
-  "name":"❤️玩偶弟4K",
-  "type":3,
-  "api":"csp_XYQHikerAL",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;b5e94906d80378a2c4520c72cfd93975",
-  "ext":"http://tv.nxog.top/m/json/wod.json"
-},
-{
-  "key":"云盘搜索",
-  "name":"❤️搜索4K",
-  "type":3,
-  "api":"csp_XYQHiker",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;b5e94906d80378a2c4520c72cfd93975",
-  "ext":"http://tv.nxog.top/m/json/yps.json"
-},
-{
   "key": "小橙子综合",
   "name": "🍊小橙子综合 ",
   "type":3,
