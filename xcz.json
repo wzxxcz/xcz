@@ -63,13 +63,14 @@
   "playUrl": ""
 },
 {
-  "key":"厂长弹幕",
-  "name":"🍊厂长影院",
-  "type":3,"api":"csp_Czzy",
-  "searchable":1,
-  "changeable":1,
-  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt",
-  "ext":"https://www.czzy55.com/@@一个分享者"
+  "key": "meowtv_qfys",
+  "name": "🍊起飞影视",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/起飞影视.js"
 },
 {
 	"key": "myi",
