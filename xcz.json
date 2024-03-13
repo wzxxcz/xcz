@@ -1039,14 +1039,14 @@
   "ext": "http://iosa.xn--654a.cc/api.php/app/"
 },
 {
-  "key":"光棍影视",
-  "name":"👨‍🔬男神影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/guangun.json"
+  "key": "meowtv_qxys",
+  "name": "🍊秋霞影视",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/秋霞影视.js"
 },
 {
   "key":"天翼资源",
