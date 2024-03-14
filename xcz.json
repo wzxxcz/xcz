@@ -844,10 +844,15 @@
   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
-  "key": "乐视",
-  "name": "🍊乐视资源",
-  "type": 1,
-  "api": "https://leshizyapi.com/api.php/provide/vod/at/json/"
+  "key": "影视五",
+  "name": "🍊影D影视",
+  "type": 3,
+  "api": "csp_Movie2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
+  "jar": "http://www.wya6.cn/tz/wyog.php"
 },
 {
   "key": "csp_SP33",
