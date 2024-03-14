@@ -840,17 +840,8 @@
   "api": "csp_Kuaikan",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1
-},
-{
-  "key": "快看",
-  "name": "👀快看直连",
-  "type": 3,
-  "api": "csp_Kuaikan",
-  "searchable": 1,
-  "playerType": 2,
-  "quickSearch": 1,
-  "filterable": 1
+  "filterable": 1,
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
   "key": "乐视",
