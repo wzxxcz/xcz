@@ -2616,13 +2616,13 @@
 {
   "key": "奈飞中文",
   "name":"🕊️奈飞秒播",
-  "type":3,
-  "api":"csp_XYQHiker",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "jar":"https://atomgit.com/yimeng/ym/raw/master/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-  "ext":"https://atomgit.com/yimeng/ym/raw/master/nfzw.json"
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/nfzw.json",
+  "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
   "key": "meowtv_ssys",
