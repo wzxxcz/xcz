@@ -2240,11 +2240,14 @@
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/188影视.js"
 },
 {
-  "key": "ikanbot3",
-  "name": "🍊ikanbot影视",
+  "key": "csp_Ikanbot",
+  "name": "🍊Ikanbot影视",
   "type": 3,
-  "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-  "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
+  "api": "csp_Ikanbot",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
   "key": "亮亮",
