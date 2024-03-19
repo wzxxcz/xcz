@@ -314,14 +314,6 @@
   "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy4.json"
 },
 {
-  "key": "耐看",
-  "name": "🍊耐看点播",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-  "ext": "./lib/耐看影视.json"
-},
-{
   "key": "少泽影客（APP）",
   "name": "🌙少泽影客",
   "type": 3,
@@ -2878,6 +2870,16 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
+},
+{
+  "key":"csp_appysv2_天天视频",
+  "name":"🍊天天视频",
+  "type":3,
+  "api":"csp_AppYsV2",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://app.qianju.cc/api.php/v1.vod"
 },
 {
   "key":"快车资源",
