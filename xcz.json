@@ -94,14 +94,15 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
 },
 {
-  "key": "开心HK影视",
-  "name": "🍊小橙子影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/开心HK影视.json"
+  "key": "MBER",
+  "name": "📝MB影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+            "分类url": "http://yz.077911.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+            "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
+            "分类": "电影$2#电视剧$1#综艺$3#动漫$4"
+         }
 },
 {
   "key":"天天",
