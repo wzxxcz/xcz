@@ -34,19 +34,6 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
-  "key": "csp_WoGG",
-  "name": "🍊玩偶影视4K",
-  "type": 3,
-  "api": "csp_Wogg",
-  "jar": "https://ghss.lan2wan.top/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar",
-  "searchable": 1,
-  "changeable": 0,
-  "ext": {
-        "token": "CandyMuj",
-        "filter": "https://notabug.org/dongchenys/pt/raw/json/json/wogg.json"
-      }
-},
-{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
