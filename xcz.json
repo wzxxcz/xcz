@@ -34,17 +34,6 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
-  "key": "阿里云集合",
-  "name": "🍊阿里云合集",
-  "type": 3,
-  "api": "csp_阿里云集合",
-  "searchable": 1,
-  "filterable": 0,
-  "switchable": 0,
-  "ext": "http://www.wya6.cn/tz/pgts.php",
-  "jar": "http://www.wya6.cn/tz/alhj.php"
-},
-{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
@@ -2889,6 +2878,13 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
+},
+{
+  "key":"🍊快车资源",
+  "name":"快车资源(切)",
+  "type":1,
+  "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
+  "searchable":1,"quickSearch":1
 },
 {
   "key": "映迷",
