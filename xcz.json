@@ -2880,8 +2880,8 @@
       }
 },
 {
-  "key":"🍊快车资源",
-  "name":"快车资源(切)",
+  "key":"快车资源",
+  "name":"🍊快车资源",
   "type":1,
   "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
   "searchable":1,"quickSearch":1
