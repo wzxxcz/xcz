@@ -45,14 +45,24 @@
   "jar": "http://www.wya6.cn/tz/alhj.php"
 },
 {
-  "key": "小橙子综合",
-  "name": "🍊小橙子综合 ",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/开心影视.json"
+  "key": "csp_LiteApple",
+  "name": "🍎小苹果复活",
+  "type": 3,
+  "api": "csp_LiteApple",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"
+},
+{
+  "key": "酷看",
+  "name": "💡酷看秒播",
+  "type": 3,
+  "api": "csp_Kkys",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f"
 },
 {
   "key": "xh",
@@ -2846,16 +2856,6 @@
   "jar": "http://www.wya6.cn/tz/wyog1.php"
 },
 {
-  "key": "酷看",
-  "name": "💡酷看秒播",
-  "type": 3,
-  "api": "csp_Kkys",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f"
-},
-{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
@@ -4572,6 +4572,40 @@
       "name": "超级嗅探",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "神秘的哥哥们",
+      "type": 1,
+      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS"
+        ]
+      }
     },
     {"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
     {"name":"秀探","type":0,"url":"https://jx.xmflv.com/?url="},
