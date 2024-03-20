@@ -236,16 +236,6 @@
   "ext": "./lib/TVB云播.json"
 },
 {
-  "key": "csp_热播",
-  "name": "🏡热播之家",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/热播之家.json"
-},
-{
   "key": "csp_超前",
   "name": "🍊超前点播",
   "type": 3,
@@ -2853,6 +2843,17 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
+},
+{
+  "key": "影视王朝",
+  "name": "🦄王朝影视",
+  "type": 3,
+  "api": "csp_Yswc",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "",
+  "jar": "http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
 },
 {
   "key": "doutu",
