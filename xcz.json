@@ -4636,8 +4636,8 @@
     },
     {
       "name": "蚂蚁",
-      "type": 1,
-      "url": "http://121.62.61.51:6888/api/?key=qy9VEMeeqwl3nI4gvA&url=",
+      "type": 0,
+      "url": "http://103.233.255.142:1133/?url=",
       "ext": {
         "flag": [
           "NBY"
