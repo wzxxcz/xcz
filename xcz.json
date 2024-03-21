@@ -268,16 +268,6 @@
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/20230625.jar"
 }, 
 {
-  "key": "csp_苹果",
-  "name": "🍎苹果影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/苹果影视.json"
-},
-{
   "key": "csp_量子",
   "name": "🍊量子资源",
   "type": 3,
@@ -2843,6 +2833,16 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
+},
+{
+  "key": "csp_七月",
+  "name": "🍊七月影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/七月影视.json"
 },
 {
   "key": "影视王朝",
