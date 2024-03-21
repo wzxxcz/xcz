@@ -438,14 +438,15 @@
   "jar": "https://k.hhyyqq.com/uploads/itvbox/jar/fan0305.jar;md5;a0df2c561cdc1fc457ed12595bf8659f"
 },
 {
-  "key": "益达影视",
-  "name": "🍊美益达影视",
+  "key": "csp_xBPQ_九八",
+  "name": "🍊九八秒播",
   "type": 3,
-  "api": "csp_AppYsV2",
+  "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
+  "ext": "https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/98.json",
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
   "key": "A8影视",
