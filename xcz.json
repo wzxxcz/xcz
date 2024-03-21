@@ -449,19 +449,6 @@
   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
-  "key": "lzzywdj",
-  "name": "🍊短剧1",
-  "type": 1,
-  "jar": "https://k.hhyyqq.com/uploads/itvbox/jar/fan0305.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
-  "api": "http://cj.lziapi.com/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "categories": [
-        "短剧"
-      ]
-},
-{
   "key":"csp_Voflix",
   "name":"🍊Voflix影视",
   "type":3,
@@ -2818,6 +2805,19 @@
         "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
+},
+{
+  "key": "lzzywdj",
+  "name": "🍊短剧1",
+  "type": 1,
+  "jar": "https://k.hhyyqq.com/uploads/itvbox/jar/fan0305.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
+  "api": "http://cj.lziapi.com/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "categories": [
+        "短剧"
+      ]
 },
 {
   "key": "haohuaziyuandj",
