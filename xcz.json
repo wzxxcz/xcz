@@ -427,14 +427,15 @@
   "ext": "./lib/熊猫影视.json"
 },
 {
-  "key":"无限影视",
-  "name":"🔆无限风光",
-  "type":3,
-  "api":"csp_AppYsV2",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://www.wxtv.net/api.php/app/"
+  "key": "csp_xml_you",
+  "name": "🍊星海汇集",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://hk1.hhyyqq.com/api.php/app/",
+  "jar": "https://k.hhyyqq.com/uploads/itvbox/jar/fan0305.jar;md5;a0df2c561cdc1fc457ed12595bf8659f"
 },
 {
   "key":"csp_XBPQ_duoju",
