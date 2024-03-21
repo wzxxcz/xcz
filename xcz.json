@@ -2502,16 +2502,14 @@
          }  
 },
 {
-  "key": "时常",
-  "name": "🍊时常APP",
+  "key": "csp_xBPQ_66",
+  "name": "🍊鎏琉影视",
   "type": 3,
-  "api": "csp_qiao3",
+  "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
-  "playerType": 1,
-  "filterable": 0,
-  "jar": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
-  "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
+  "filterable": 1,
+  "ext": "./lib/66影视.json"
 },
 {
   "key": "csp_appys_影探",
