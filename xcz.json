@@ -449,15 +449,17 @@
   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
-  "key": "A8影视",
-  "name": "🍊A8影视",
-  "type": 3,
-  "playerType": 2,
-  "api": "csp_AppYsV2",
+  "key": "lzzywdj",
+  "name": "🍊短剧1",
+  "type": 1,
+  "jar": "https://k.hhyyqq.com/uploads/itvbox/jar/fan0305.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
+  "api": "http://cj.lziapi.com/api.php/provide/vod/",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+  "categories": [
+        "短剧"
+      ]
 },
 {
   "key":"csp_Voflix",
