@@ -256,6 +256,18 @@
   "ext": "./lib/348影视.json"
 },
 {
+  "key": "苹果", 
+  "name": "🍎苹果影院", 
+  "type": 3, 
+  "api": "csp_XBPQ",
+  "playerType":2,
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1, 
+  "ext": "./lib/苹果影院.json",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/20230625.jar"
+}, 
+{
   "key": "csp_苹果",
   "name": "🍎苹果影视",
   "type": 3,
@@ -2343,18 +2355,6 @@
   "ext":"./lib/beichuan.json",
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/20230625.jar"
 },
-{
-  "key": "苹果", 
-  "name": "🍎苹果影院", 
-  "type": 3, 
-  "api": "csp_XBPQ",
-  "playerType":2,
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1, 
-  "ext": "./lib/苹果影院.json",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/20230625.jar"
-}, 
 {
   "key":"csp_xbb_奈菲影院",
   "name":"🍀奈菲影院",
