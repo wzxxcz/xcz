@@ -418,16 +418,6 @@
   "ext":"./lib/voflix.json"
 },
 {
-  "key": "开心果",
-  "name": "🍊开心果影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-},
-{
   "key":"酷云1",
   "name":"🌈彩云影视",
   "type":3,
@@ -2766,6 +2756,18 @@
       }
 },
 {
+  "key": "wujingdj",
+  "name": "🍊短剧2",
+  "type": 1,
+  "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "categories": [
+        "短剧"
+      ]
+},
+{
   "key": "lzzywdj",
   "name": "🍊短剧1",
   "type": 1,
@@ -2780,7 +2782,7 @@
 },
 {
   "key": "haohuaziyuandj",
-  "name": "️🍊短剧4",
+  "name": "🍊短剧4",
   "type": 1,
   "api": "   https://hhzyapi.com/api.php/provide/vod/?ac=videolistt   ",
   "searchable": 1,
