@@ -617,15 +617,12 @@
   "ext":"http://v.rbotv.cn",
   "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"
 },
-{
-  "key": "海星影视",
-  "name": "🐳海星秒播",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/haixingys.json"
+{ 
+  "key":"csp_YingShi",
+  "name":"🦀影视海外",
+  "type":3,
+  "api":"csp_YingShi", 
+  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/PG.txt","ext":""
 },
 {
   "key": "加速器",
