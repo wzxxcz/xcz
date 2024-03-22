@@ -609,11 +609,13 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/凌云影视.js"
 },
 {
-  "key" : "drpy_js_007",
-  "name" : "🎫007电影",
-  "type" : 3,
-  "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-  "ext" : "http://52bsj.vip:81/api/v3/file/get/155350/007%E5%BD%B1%E8%A7%86.js?sign=EkntLloZ5Uy72KNgioKclay4YDRZtPXWpw2hCdQApuE%3D%3A0"
+  "key":"热",
+  "name":"🔥分享热播",
+  "type":3,
+  "api":"csp_TTian",
+  "playerType":1,
+  "ext":"http://v.rbotv.cn",
+  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"
 },
 {
   "key": "海星影视",
