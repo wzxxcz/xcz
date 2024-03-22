@@ -438,14 +438,14 @@
   "ext": "FbjPcVZY48PN/RIZ5UWFrotwJIZWG4dUVjwO4+rih1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
 },
 {
-  "key": "NOAD",
-  "name": "🍊novip影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":"./lib/NOVIP.json"
+  "key":"csp_CandyMuj_freeok",
+  "name":"🍊FREEOK",
+  "type":3,
+  "api":"csp_CandyMuj_freeok",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":1 ,
+  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"
 },
 {
   "key": "HOHO（APP）",
