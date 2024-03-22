@@ -1798,6 +1798,13 @@
   "ext":"https://atomgit.com/yimeng/ym/raw/master/changmeng.js"
 },
 {
+  "key":"畅梦",
+  "name":"☕️畅谈梦想",
+  "type":3,
+  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"
+},
+{
   "key": "超神",
   "name": "🍊超神App",
   "type": 3,
