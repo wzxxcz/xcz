@@ -451,12 +451,15 @@
       }
 },
 {
-  "key": "HOHO（APP）",
-  "name": "🌙HOHO影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "ext": "https://hoho.tv/api.php/app/"
-},
+  "key":"miaociyuan",
+  "name":"🐈喵喵影视",
+  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "type":3,
+  "filterable":1,
+  "quickSearch":1,
+  "searchable":1,
+  "ext":"https://atomgit.com/ygfxz/0/raw/master/喵次元.js"
+}, 
 {
   "key": "暴风采集",
   "name": "🌪️暴风影音",
