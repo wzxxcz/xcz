@@ -418,14 +418,13 @@
   "ext":"./lib/voflix.json"
 },
 {
-  "key":"酷云1",
-  "name":"🌈彩云影视",
-  "type":3,
-  "api":"csp_AppYsV2",
+  "key":"AI1",
+  "name":"🍊官差影视",
+  "type":1,
+  "api":"http://124.222.116.5/macos/seven/api.php/provide/vod/",
+  "playerType":2,
   "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"
+  "quickSearch":1
 },
 {
   "key":"雨晴",
