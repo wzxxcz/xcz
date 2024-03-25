@@ -506,15 +506,15 @@
     "ext" : "https://notabug.org/ygfxz/6/raw/main/XBPQ/臻品电影.json"
 },
 {
-  "key": "meowtv_phys",
-  "name": "🐅胖虎App",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/胖虎影院.json"
-},
+    "key": "csp_Vidhub2", 
+    "name": "🍊VID影视", 
+    "type": 3, 
+    "api": "csp_Vidhub2", 
+    "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240318.jar",
+    "searchable": 1, 
+    "quickSearch": 1, 
+    "filterable": 1
+}, 
 {
   "key": "meowtv_phys",
   "name": "🐅胖虎影视",
