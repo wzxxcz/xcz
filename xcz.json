@@ -565,14 +565,12 @@
   "ext":"./lib/cdd.json"
 },
 {
-  "key": "csp_乌鸦",
-  "name": "🦜纯白乌鸦",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/乌鸦.json?ref_type=heads"
+  "key": "juj", 
+  "name": "🫵聚集焦点", 
+  "type": 3, 
+  "api": "csp_AppYs",
+  "playerType":2,
+  "ext": "https://www.mjlnl.cn/api.php/v1.vod"
 },
 {
   "key":"drpy_yh",
