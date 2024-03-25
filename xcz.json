@@ -398,15 +398,14 @@
   "jar": "https://k.hhyyqq.com/uploads/itvbox/jar/fan0305.jar;md5;a0df2c561cdc1fc457ed12595bf8659f"
 },
 {
-  "key": "csp_xBPQ_九八",
-  "name": "🍊九八秒播",
+  "key": "csp_xBPQ_玖八",
+  "name": "🍊玖八影视",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/98.json",
-  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
+  "ext": "./lib/98影视.json"
 },
 {
   "key":"csp_Voflix",
