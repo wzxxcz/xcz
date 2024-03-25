@@ -580,14 +580,14 @@
   "ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E4%BC%98%E9%85%B7.js"
 },
 {
-  "key": "COKEMV影院",
-  "name": "🥤可乐观影",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/cokemv.json"
+  "key":"包子资源",
+  "name":"🥟包子采集",
+  "type":1,
+  "api":"http://cj.baozi66.top:66/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "categories":[]
 },
 {
   "key": "drpy_js_凌云影视",
