@@ -763,16 +763,13 @@
   "filterable": 1,
   "ext": "./lib/五月影视.js"
 },
-{ 
-  "key": "狐狸", 
-  "name": "🦊狐狸蓝光",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.kuin.one/api.php/app/" ,
-  "jar": "http://itvbox.cc/sft/jar/fm.jar;md5;87d5916b7bb5c8acacac5490e802828e"
+{
+  "key":"影图资源",
+  "name":"🍊影图资源",
+  "type":1,
+  "api":"https://cj.vodimg.top/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":1
 },
 {
   "key": "meowtv_69mj",
