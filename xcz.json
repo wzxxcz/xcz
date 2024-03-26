@@ -726,15 +726,13 @@
   "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
-  "key": "影视五",
-  "name": "🍊影D影视",
-  "type": 3,
-  "api": "csp_Movie2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json",
-  "jar": "http://www.wya6.cn/tz/wyog.php"
+  "key":"飘零影院",
+  "name":"🥀飘零天涯",
+  "type":1,
+  "api":"https://p2100.net/api.php/provide/vod/",
+  "playUrl":"",
+  "searchable":1,
+  "quickSearch":1
 },
 {
   "key": "csp_SP33",
