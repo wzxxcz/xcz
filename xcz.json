@@ -792,14 +792,13 @@
   "filterable": 1
 },
 {
-  "key": "看看",
-  "name": "🍊看看影视",
-  "type": 3,
-  "api": "csp_Kuaikan",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
+  "key": "滋滋", 
+  "name": "🈯️指点江山", 
+  "type": 3, 
+  "api": "csp_XBPQ", 
+  "playerType": "1", 
+  "ext": "https://pan.shangui.cc/f/wQ7DIg/ZZ.json"
+}, 
 {
   "key": "drpy_js_大师兄影视",
   "name": "🤡大师兄影视",
