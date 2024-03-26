@@ -888,15 +888,16 @@
   "ext": "./lib/348影院.json"
 },
 {
-  "key": "快影",
-  "name": "🍊快影影视", 
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "http://iosa.xn--654a.cc/api.php/app/"
+  "key":"fx五",
+  "name":"🍊分享五站",
+  "type":3,
+  "api":"csp_qiao2",
+  "searchable":1,
+  "quickSearch":1,
+  "playerType":2,
+  "filterable":1,
+  "ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/EXT/Movie5",
+  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"
 },
 {
   "key": "meowtv_qxys",
