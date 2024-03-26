@@ -54,12 +54,17 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f"
 },
 {
-  "key": "xh",
-  "name": "🀄自营剧集",
-  "type": 1,
-  "playerType": 3,
-  "api": "http://cc.xzam.cn/api.php/provide/vod/",
-  "playUrl": ""
+  "key": "神仙影视",
+  "name": "神仙自营",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+        "分类url": "https://ys.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$5#短剧$21"
+        }
 },
 {
   "key": "meowtv_qfys",
