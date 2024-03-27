@@ -1322,6 +1322,16 @@
   "api": "http://82.156.40.118:1234/api.php/provide/vod/"
 },
 {
+  "key":"zsy",
+  "name":"🧇至圣文宣",
+  "type":1,
+  "api":"http://82.156.40.118:1234/api.php/provide/vod/",
+  "searchable":1,
+  "changeable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
       "key": "索尼",
       "name": "🍊索尼资源",
       "type": 1,
@@ -1852,13 +1862,6 @@
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/电影先生.js"
-},
-{
-  "key": "drpy_js_秋霞影院",
-  "name": "🍊秋霞影院",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
 },
 {
   "key": "drpy_js_看了么",
