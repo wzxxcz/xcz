@@ -1184,17 +1184,13 @@
         "分类": "电影$1#剧集$2#动漫$4#综艺$3#TV直播$6"
       }
 },
-{  
-  "key":"老王",
-  "name":"🍊老王影视",
+{
+  "key":"csp_lwdy",
+  "name":"🕵️‍♀️老王电影",
   "type":3,
   "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
-  "分类url":"https://laowang.lol/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-  "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation"}
+  "ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}
 },
 {
   "key": "csp_YQKan",
