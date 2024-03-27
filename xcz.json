@@ -889,14 +889,14 @@
   "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"
 },
 {
-  "key": "meowtv_qxys",
-  "name": "🍊秋霞影视",
+  "key": "嗨剧影视",
+  "name": "📍嗨翻剧场",
   "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "api": "csp_AppYs",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/秋霞影视.js"
+  "ext": "http://v.haiju.vip/api.php/app/"
 },
 {
   "key":"天翼资源",
