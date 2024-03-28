@@ -536,14 +536,16 @@
   "ext":"./lib/hezi.json"
 },
 {
-  "key": "安", 
-  "name": "🍊安博影视", 
-  "type": 4, 
-  "api": "https://tang.serv00.net/power/ub1818", 
-  "searchable": 1, 
-  "quickSearch": 1, 
-  "filterable": 0
-}, 
+  "key": "七新",
+  "name": "👼七新2K",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/七新影视.json",
+  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+},
 {
   "key":"Vidhub视频",
   "name": "🍊视频库",
