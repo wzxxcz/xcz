@@ -67,14 +67,11 @@
         }
 },
 {
-  "key": "meowtv_qfys",
-  "name": "🍊起飞影视",
+  "key": "Dygang",
+  "name": "🍊电影港",
   "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/起飞影视.js"
+  "api": "csp_Dygang",
+  "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001"
 },
 {
   "key": "bp",
