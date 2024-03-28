@@ -1645,14 +1645,23 @@
   "categories": ["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]
 },
 {
-  "key": "meowtv_yzys",
-  "name": "🍊小柚影视",
+  "key": "csp_XBPQ",
+  "name": "🍊可欣影视",
   "type": 3,
-  "api": "csp_AppSK",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
+  "api": "csp_XBPQ",
+  "ext": {
+                "线路数组":"source-item-label&&</div>[不包含:FF线路#LZ线路#XL线路#HN线路#SB线路#蓝光91#蓝光81#蓝光71]",
+                "播放数组":"episode-list\"&&</div>",
+                "数组":"<a&&</a>",
+                "副标题":"小橙子+<span>&&</span>",
+                "图片":"https://vres.vukfnqr.com+data-original=\"&&\"",
+                "导演":"导演*</div>&&</div>",
+                "主演":"演员*</div>&&</div>",
+                "简介":"detail-desc\">&&</div>",
+                "搜索url":"/search?os=pc&k={wd}",
+                "分类url":"https://www.keke13.com:51111/show/{cateId}--{class}--{year}--{catePg}.html;;a",
+                "分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"  
+          }
 },
 {
   "key": "风",
