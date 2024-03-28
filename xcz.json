@@ -77,16 +77,25 @@
   "ext": "http://cdn.teyonds.com/js/起飞影视.js"
 },
 {
-  "key": "白嫖",
+  "key": "bp",
   "name": "👻白飘无广",
   "type": 3,
-  "api": "csp_BaiPiao",
-  "playerType": 2,
   "searchable": 1,
-  "quickSearch": 1,
   "changeable": 1,
-  "ext": "https://www.baipiaoys.com/",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9"
+  "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/1.jar",
+  "api": "csp_XBPQ",
+  "ext": {
+           "主页url": "https://www.baipiaoys.com:9092/",
+           "副标题": "pic-text text-right\">&&</b>",
+           "搜索模式": "1",
+           "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
+           "图片": "data-original=\"&&\"",
+           "嗅探词": ".mp4#m3u8#.m3u8",
+           "线路标题": "公众号:小胡不胡",
+           "线路数组": "公众号:小胡不胡",
+           "分类": "电影$1#电视剧$2#动漫$3",
+           "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+         }
 },
 {
   "key": "MBER",
