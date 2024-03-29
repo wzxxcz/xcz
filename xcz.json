@@ -1675,11 +1675,14 @@
   "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
 },
 {
-  "key" : "js_v2-sj",
-  "name" :"🍊视界影视",
-  "type" : 3,
-  "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
-  "ext" : "https://jihulab.com/0004/000/-/raw/main/js/4kshijie.js"
+      "key": "shiju影视",
+      "name": "🍊视界影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/xinshijue.json"
 },
 {
   "key": "csp_xBPQ_抖",
