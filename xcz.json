@@ -1664,13 +1664,15 @@
           }
 },
 {
-  "key": "风",
-  "name": "🌪仗风前行",
-  "type": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "api": "https://ys.zf520.cn/api.php/provide/vod/"
+  "key":"虾米",
+  "name":"🦀虾米影视",
+  "type":3,
+  "api":"csp_AppSK",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1, 
+  "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt",
+  "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
 },
 {
   "key" : "js_v2-sj",
