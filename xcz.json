@@ -3527,16 +3527,12 @@
       "分类ID":"/vodtype/id/&&.html"}
 },
 {
-  "key": "drpy_js_人人影视",
-  "name": "🍊人人影视",
-  "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/mew/custom_spider__1_.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/人人.json"
-
+  "key":"drpy_js_人人影视",
+  "name":"👩‍❤‍👨人人影视",
+  "type":3,
+  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/人人影视.js",
+  "jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad"
 },
 {
   "key": "drpy_js_139影视",
