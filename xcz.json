@@ -3012,13 +3012,11 @@
   "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
 },
 {
-  "key": "ZYJK", 
-  "name": "🪩多线过滤", 
-  "type": 1, 
-  "api": "http://film.benmx.com/api.php/tvbox", 
-  "searchable": 1, 
-  "quickSearch": 1, 
-  "filterable": 1
+  "key":"drpy_js_兄弟影视",
+  "name":"👬兄弟影视",
+  "type":3,
+  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/兄弟影视.js"
 },
 {
       "key": "非凡",
