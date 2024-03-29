@@ -3001,15 +3001,11 @@
   "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
 },
 {
-  "key":"csp_CandyMuj_jxyc",
-  "name":"🍊自营一站",
+  "key":"drpy_js_朴樱影视",
+  "name":"🌸朴樱影视",
   "type":3,
-  "api":"csp_CandyMuj_jxyc",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"http://xc1080.xn--654a.cc",
-  "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
+  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/朴樱影视.js"
 },
 {
   "key":"drpy_js_兄弟影视",
