@@ -1685,14 +1685,14 @@
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/xinshijue.json"
 },
 {
-  "key": "csp_xBPQ_抖",
-  "name": "🍊抖剧影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "./lib/斗剧.json"
+  "key":"影探4K0",
+  "name":"💃影视探戈",
+  "type":3,
+  "api":"csp_AppYsV2",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://vipcms.lyyytv.cn/api.php/app/"
 },
 {
   "key": "zhuiyi",
