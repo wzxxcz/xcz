@@ -2126,6 +2126,14 @@
   "jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad"
 },
 {
+  "key":"drpy_js_ikanbot3",
+  "name":"💣ikanbot3",
+  "type":3,
+  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/ikanbot3.js",
+  "jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad"
+},
+{
   "key": "亮亮",
   "name": "💡亮亮APP",
   "type": 3,
