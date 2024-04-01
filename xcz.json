@@ -2980,15 +2980,14 @@
   "ext": "https://drpy.cainisi.cf/js/8号影院.js"
 },
 {
-  "key": "亮亮",
-  "name": "💡主源无广",
+  "key": "光棍影视",
+  "name": "🍊光棍影视",
   "type": 3,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-  "api": "csp_AppYsV2",
-  "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+  "api": "csp_XBPQ",
+  "filterable": 1,
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 0
+  "ext": "分类url:https://www.ggdy.net/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 {
   "key":"csp_CandyMuj_sstv",
