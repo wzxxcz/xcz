@@ -963,6 +963,13 @@
   "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/乐鱼影视.js"
 },
 {
+  "key":"drpy_js_乐鱼影视",
+  "name":"🐠乐鱼影院",
+  "type":3,
+  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/乐鱼影视.js"
+},
+{
   "key":"圆周率",
   "name":"🍊率率影视",
   "api":"csp_AppYsV2",
