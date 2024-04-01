@@ -2118,14 +2118,12 @@
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/188影视.js"
 },
 {
-  "key": "csp_Ikanbot",
-  "name": "🍊Ikanbot影视",
-  "type": 3,
-  "api": "csp_Ikanbot",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
+  "key":"drpy_js_ikanbot2",
+  "name":"🤖ikanbot2",
+  "type":3,
+  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/ikanbot2.js",
+  "jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad"
 },
 {
   "key": "亮亮",
