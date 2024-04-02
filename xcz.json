@@ -2110,6 +2110,8 @@
   "filterable":1,
   "ext":"https://sk100.tv/api.php/app/"
 },
+{"key":"drpy_js_蛋蛋剧","name":"🐣蛋蛋剧","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/蛋蛋剧.js"},
+
 {
   "key":"drpy_js_188影视",
   "name":"🍊188影视",
