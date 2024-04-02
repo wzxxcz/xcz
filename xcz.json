@@ -2054,6 +2054,13 @@
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"
 }, 
+ {
+        "key": "996影视",
+        "name": "🌂久留[cat]",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ys996_open.js"
+    }, 
+
 {
   "key": "csp_Xinsj",
   "name": "🎖星星影视",
