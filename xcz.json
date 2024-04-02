@@ -547,16 +547,6 @@
   "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 },
 {
-      "key": "meowtv_Qxys",
-      "name": "七新┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/xp/七新影视.json"
-    },
-{
   "key":"Vidhub视频",
   "name": "🍊视频库",
   "type": 3,
