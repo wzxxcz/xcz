@@ -2055,14 +2055,6 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"
 }, 
 {
-            "key" : "drpy_js_菜狗",
-            "name" : "🐶搜狗视频",
-            "type" : 3,
-            "api" :"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/菜狗.js"
-        },
-
-{
   "key": "csp_Xinsj",
   "name": "🎖星星影视",
   "type": 3,
