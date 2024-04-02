@@ -2048,15 +2048,8 @@
   "id": 13
 },
 {
-  "key": "drpy_js_起飞影院",
-  "name": "🍊起飞影院",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"
-}, 
-{
   "key": "csp_桵空影院",
-  "name": "🎃桵空┃影院",
+  "name": "🎃桵空影院",
   "type": 3,
   "api": "csp_XBPQ",
   "ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
