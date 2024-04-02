@@ -2134,17 +2134,12 @@
   "jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad"
 },
 {
-  "key": "亮亮",
-  "name": "💡亮亮APP",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "ext": "http://api.jialiangos.com:65533/api.php/app/",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0
+  "key":"drpy_js_落攻阁影视",
+  "name":"🌳落攻阁影视",
+  "type":3,
+  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
+  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/落攻阁影视.js"
 },
-{"key":"drpy_js_落攻阁影视","name":"🌳落攻阁影视","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/落攻阁影视.js"},
-
 {
   "key": "月亮",
   "name": "🌛月亮电影",
