@@ -2100,18 +2100,17 @@
   "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/cokemv.js"
 },
-{ 
-  "key":"速看",
-  "name":"🍊速看100",
+{
+  "key":"moli",
+  "name":"🍊分享魔力",
   "type":3,
-  "api":"csp_AppYsV2",
+  "api":"csp_Hdmoli",
+  "playerType":1,
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://sk100.tv/api.php/app/"
+  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"
 },
- {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
-
 {
   "key":"drpy_js_188影视",
   "name":"🍊188影视",
