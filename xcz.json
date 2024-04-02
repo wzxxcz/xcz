@@ -2054,8 +2054,16 @@
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/起飞影院.js"
 }, 
-{"key": "csp_桵空影院","name": "🎃桵空┃影院","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}},
-
+{
+  "key": "csp_桵空影院",
+  "name": "🎃桵空┃影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
+  "分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"
+  },
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;10e0197bf1b477a4eefa78b71aef687e"
+},
 {
   "key": "csp_Xinsj",
   "name": "🎖星星影视",
