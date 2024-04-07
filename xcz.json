@@ -41,7 +41,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
     },
 {
   "key": "csp_LiteApple",
