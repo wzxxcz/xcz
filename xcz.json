@@ -4338,6 +4338,7 @@
   "quickSearch": 1,
   "filterable": 1
 },
+{"key":"1080资源","name":"1️⃣080资源","type":0,"api":"https://api.1080zyku.com/inc/api.php","searchable":1,"quickSearch":1,"changeable":1}, 
 {
   "key": "A",
   "name": "🍊采集一站",
