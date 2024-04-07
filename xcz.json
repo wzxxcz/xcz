@@ -33,6 +33,13 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
+{"key":"AList","name":"📕雅雅网盘","type":3, "api": "http://nas.taogestudio.cn:5678/tvbox/libs/alist.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://nas.taogestudio.cn:5678/tvbox/json/alist_ext.json;200;video"
+    },
+
 {
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
