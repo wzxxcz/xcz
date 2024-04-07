@@ -34,6 +34,16 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
+      "key": "Upyunso",
+      "name": "阿里 ┃ 云搜[4K]",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
