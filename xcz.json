@@ -1759,13 +1759,7 @@
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
 },
-{
-  "key":"畅梦",
-  "name":"☕️畅谈梦想",
-  "type":3,
-  "api":"https://atomgit.com/yimeng/ym/raw/master/apiv43drpy2.min.js",
-  "ext":"https://atomgit.com/yimeng/ym/raw/master/changmeng.js"
-},
+{"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"}, 
 {
   "key":"畅梦",
   "name":"☕️畅谈梦想",
