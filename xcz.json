@@ -1759,7 +1759,14 @@
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
 },
-{"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"}, 
+{
+  "key":"畅梦",
+  "name":"🍋畅梦秒播",
+  "type":3,
+  "api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
+  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js",
+  "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7"
+}, 
 {
   "key":"畅梦",
   "name":"☕️畅谈梦想",
