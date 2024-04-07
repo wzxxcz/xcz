@@ -34,16 +34,6 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
-  "key":"AList",
-  "name":"📕雅雅网盘",
-  "type":3, 
-  "api": "http://nas.taogestudio.cn:5678/tvbox/libs/alist.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://nas.taogestudio.cn:5678/tvbox/json/alist_ext.json;200;video"
-},
-{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
