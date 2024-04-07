@@ -1759,8 +1759,17 @@
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
 },
-{"key":"csp_mgtva","name":"🎃木瓜┃影视","type":3,"api":"csp_XBPQ","ext":{"作者": "实沈","站名": "木瓜影视","请求头": "手机","编码": "UTF-8","主页url": "https://www.muguatva.com/","分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
-
+{
+  "key":"csp_mgtva",
+  "name":"🎃木瓜影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"作者": "小橙子","站名": "木瓜影视","请求头": "手机","编码": "UTF-8",
+  "主页url": "https://www.muguatva.com/",
+  "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+  "分类":"电影&电视剧&综艺&动漫",
+  "分类值": "dianying&lianxuju&zongyi&dongman"}
+},
 {
   "key":"畅梦",
   "name":"☕️畅谈梦想",
