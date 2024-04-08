@@ -2745,6 +2745,20 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
 },
+{"key": "csp_爱优",
+      "name": "💖分享爱优",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "副标题":"小橙子在线",
+        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
+      }
+    },
+
 {
   "key": "jisuzydj",
   "name": "🍊短剧3",
