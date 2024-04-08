@@ -2722,16 +2722,6 @@
   "ext": "./lib/subaibai.json"
 },
 {
-            "key": "csp_LiteApple",
-            "name": "💖分享|BTT",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_XBPQ",
-            "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
-            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享bt.json"
-        },
-
-{
   "key": "csp_骚火",
   "name": "🔥骚火影视",
   "type": 3,
