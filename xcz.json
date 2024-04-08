@@ -2711,17 +2711,16 @@
   "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/yunbo.json",
   "jar": "http://www.wya6.cn/tz/wyog1.php"
 },
- {
-      "key": "shu素白白",
-      "name": "💖分享素颜",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
-      "ext": "./lib/subaibai.json"
-    },
-
+{
+  "key": "shu素白白",
+  "name": "🍊分享素颜",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "changeable": 1,
+  "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+  "ext": "./lib/subaibai.json"
+},
 {
   "key": "csp_骚火",
   "name": "🔥骚火影视",
