@@ -2478,7 +2478,7 @@
 },
 {
       "key": "sliu_spider",
-      "name": "石榴┃直连",
+      "name": "石榴直连",
       "api": "csp_ShiLiuDY",
       "type": 3,
       "filterable": 1,
