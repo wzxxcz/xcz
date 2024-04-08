@@ -2755,7 +2755,6 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
 },
-{"key":"mtv_XBPQ_稀饭影院","name":"🍵稀饭影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/66666/000/raw/branch/master/XBPQ/稀饭影视.json"},
 {
   "key": "csp_爱优",
   "name": "🍊分享爱优",
