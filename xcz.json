@@ -358,6 +358,17 @@
             ]
 },
 {
+      "key": "ikun",
+      "name": "ikun云",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "searchable": 1,
+      "playUrl": "https://www.ikdmjx.com/?url=",
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+{
   "key": "101影院11",
   "name": "📽101影院",
   "type": 3,
