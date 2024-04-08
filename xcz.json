@@ -2468,27 +2468,15 @@
 {
   "key":"石榴影视",
   "name": "🍋石榴影视",
+  "api": "csp_ShiLiuDY",
   "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
   "filterable": 1,
-  "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar",
-  "ext": "https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/shiliu.json"
+  "playerType": 1,
+  "quickSearch": 1,
+  "searchable": 1,
+  "jar": "http://cdn.qiaoji8.com/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
+  "ext": ""
 },
-{
-      "key": "sliu_spider",
-      "name": "石榴直连",
-      "api": "csp_ShiLiuDY",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "jar": "http://cdn.qiaoji8.com/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
-      "ext": ""
-    },
-
 {
   "key": "奈飞影视",
   "name":"🦢鸭奈飞秒播",
