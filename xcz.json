@@ -2087,6 +2087,18 @@
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/cokemv.js"
 },
 {
+      "key": "csp_XYQHikerAL_CK",
+      "name": "🥤可口可乐",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/66666/mao2/raw/branch/main/jar/Xiang.txt",
+      "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/COKEMV影院.json"
+    },
+
+{
   "key":"moli",
   "name":"🍊分享魔力",
   "type":3,
