@@ -93,6 +93,19 @@
   "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
 },
 {
+      "key": "csp_XYQHiker_盘搜索",
+      "name": "🅰️阿里盘搜",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cally66.icu/xyq/盘搜.json",
+      "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
+    },
+
+{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
