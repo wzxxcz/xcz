@@ -221,6 +221,16 @@
   "filterable": 1
 }, 
 {
+      "key": "rarbt",
+      "name": "💖分享rarbt",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "./lib/rarbt.json"
+    },
+
+{
   "key": "AppYs_南瓜",
   "name": "👉VIP专享",
   "type": 3,
