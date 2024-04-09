@@ -210,6 +210,18 @@
   "ext": "https://www.qiqiguai.cn/api.php/app/"
 },
 {
+            "key": "csp_Vidhub2", 
+            "name": "💖分享|VID", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
+            "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/分享vid.json",
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        }, 
+
+{
   "key": "AppYs_南瓜",
   "name": "👉VIP专享",
   "type": 3,
