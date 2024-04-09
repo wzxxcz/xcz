@@ -221,6 +221,19 @@
   "filterable": 1
 }, 
 {
+      "key": "FEIYUN",
+      "name": "💖分享飛雲",
+      "type": 3,
+      "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
+      "ext": {
+        "host": "http://122.228.84.103:6117/api.php/app/",
+        "*": [
+          "http://122.228.84.103:7777/api/?key=AIN9Y1Sca7qJSzInL5&url="
+        ]
+      }
+    },
+
+{
   "key": "AppYs_南瓜",
   "name": "👉VIP专享",
   "type": 3,
