@@ -270,16 +270,15 @@
   "ext": "http://122.228.84.103:5822/api.php/app/"
 },
 {
-      "key": "csp_4k影视",
-      "name": "💚4k影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/4K影视.json"
-    },
-
+  "key": "csp_4k影视",
+  "name": "💚4k影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/4K影视.json"
+},
 {
   "key": "csp_Vidhub2", 
   "name": "🍊分享VID", 
