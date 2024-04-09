@@ -210,6 +210,16 @@
   "ext": "https://www.qiqiguai.cn/api.php/app/"
 },
 {
+      "key": "dgys",
+      "name": "💖分享地刮",
+      "type": 3,
+      "api": "csp_Wexdiguatv",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://agit.ai/66666/XC/raw/branch/master/jar/FxzPg.txt"
+    },
+
+{
   "key": "csp_Vidhub2", 
   "name": "🍊分享VID", 
   "type": 3, 
