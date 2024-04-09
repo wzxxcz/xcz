@@ -221,20 +221,6 @@
   "filterable": 1
 }, 
 {
-      "key": "NBY秒播",
-      "name": "💖分享几乎",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "https://agit.ai/66666/mao2/raw/branch/main/MaooXB2/AppysV2.js",
-      "ext": {
-        "host": "http://122.228.84.103:5822/api.php/app/",
-        "*": [
-          "http://121.62.61.51:6888/api/?key=eIQ9JzXVIzkY3ZSoEZ&url="
-        ]
-      }
-    }, 
-
-{
   "key": "AppYs_南瓜",
   "name": "👉VIP专享",
   "type": 3,
