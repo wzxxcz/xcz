@@ -270,6 +270,16 @@
   "ext": "http://122.228.84.103:5822/api.php/app/"
 },
 {
+  "key": "csp_七新影视",
+  "name": "💚七新影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/七新.json"
+},
+{
   "key": "csp_4k影视",
   "name": "💚4k影视",
   "type": 3,
