@@ -209,6 +209,8 @@
   "changeable": 0,
   "ext": "https://www.qiqiguai.cn/api.php/app/"
 },
+ {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/@一个分享者@","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
+
 {
   "key": "AppYs_南瓜",
   "name": "👉VIP专享",
