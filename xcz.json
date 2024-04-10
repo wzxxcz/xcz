@@ -167,6 +167,17 @@
   "ext": "http://a.nxog.top/m/json/woj.json"
 },
 {
+  "key": "云盘搜索",
+  "name": "❤️搜索4K",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://a.nxog.top/m/json/yps.json"
+},
+{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
