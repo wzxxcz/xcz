@@ -128,16 +128,6 @@
   "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
 },
 {
-      "key": "多多阿里",
-      "name": "🎦多多阿里",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/多多阿里.json"
-    },
-{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
