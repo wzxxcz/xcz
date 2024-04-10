@@ -2962,6 +2962,15 @@
       }
 },
 {
+      "key": "腾",
+      "name": "🎄腾腾┃影视",
+      "type": 3,
+      "api": "http://a.nxog.top/m/js/nxog.js",
+      "jar": "http://www.wya6.cn/tz/wyog.php",
+      "ext": "http://a.nxog.top/m/js/tt.js"
+    },
+
+{
   "key": "csp_爱优",
   "name": "🍊分享爱优",
   "type": 3,
