@@ -5209,6 +5209,11 @@
       {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}
     },
     {
+      "name": "8090嗅探",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    }, 
+    {
 			"name": "宝片",
 			"type": 1,
 			"url": "https://wuzei.serv00.net/jx/kk.php?url="
