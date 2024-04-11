@@ -3825,19 +3825,8 @@
       ]
 },
 {
-  "key": "黑狐",
-  "name": "🐿黑色狐狸",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "playerType": "2",
-  "api": "csp_XBPQ",
-  "ext": "https://jihulab.com/0004/c/-/raw/main/hf.json?ref_type=heads"
-},
-{
             "key": "黑狐",
-            "name": "🐰春盈┃黑狐",
+            "name": "🐿春盈黑狐",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -3877,8 +3866,7 @@
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
                 "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
             }
-        },
-
+},
 {
   "key": "csp_Nmys",
   "name": "🌾农民影视",
