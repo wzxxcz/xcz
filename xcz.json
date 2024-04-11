@@ -2962,6 +2962,15 @@
       }
 },
 {
+			"key": "sansan",
+			"name": "👉春盈┃1080P",
+			"type": 3,
+			"api": "csp_SP33",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+{
   "key": "腾",
   "name": "🎄腾腾影视",
   "type": 3,
@@ -4635,18 +4644,8 @@
   "quickSearch":1
 },
 {
-  "key": "csp_非凡",
-  "name": "🍊非凡资源",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/非凡资源网.json"
-},
-{
             "key": "zy_非凡资源",
-            "name": "🐰春盈接口非凡",
+            "name": "🍊非凡资源",
             "type": 1,
             "api": "http://ffzy.tv/api.php/provide/vod/",
             "searchable": 1,
