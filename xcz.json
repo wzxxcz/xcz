@@ -354,6 +354,18 @@
   "ext": "http://122.228.84.103:5822/api.php/app/"
 },
 {
+      "key": "Bt0",
+      "name": "不太灵|磁力",
+      "type": 3,
+      "api": "csp_Bt0",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60,
+      "ext": "null$$$null$$$1"
+    },
+
+{
   "key": "csp_七新影视",
   "name": "💚七新影视",
   "type": 3,
