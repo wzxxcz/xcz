@@ -1432,6 +1432,17 @@
   "ext": "http://dt.xn--yety82d.love/js/SC1080.js"
 },
 {
+      "key": "csp_圣城",
+      "name": "💚圣城影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/圣城.json"
+    },
+
+{
   "key": "热播",
   "name": "🍊热播App",
   "type": 3,
