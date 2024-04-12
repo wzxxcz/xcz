@@ -197,8 +197,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-  "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
+  "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
 },
 {
   "key": "csp_LiteApple",
