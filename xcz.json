@@ -189,17 +189,6 @@
   "ext": "http://a.nxog.top/m/json/yps.json"
 },
 {
-  "key": "csp_Yisou",
-  "name": "🍊阿里易搜",
-  "type": 3,
-  "api": "csp_Yisou",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
-},
-{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
