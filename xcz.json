@@ -189,18 +189,6 @@
   "ext": "http://a.nxog.top/m/json/yps.json"
 },
 {
-      "key": "Upyunso",
-      "name": "阿里 ┃ 云搜[4K]",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-    },
-
-{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
