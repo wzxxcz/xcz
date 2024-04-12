@@ -2961,6 +2961,14 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
 },
+ {
+      "key": "drpy_js_秋霞影视",
+      "name": "影视 | 秋霞影视[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞影视.js"
+    },
+
 {
 	"key": "sansan",
 	"name": "👉春盈1080P",
