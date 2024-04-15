@@ -276,18 +276,6 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710756082799/fan.txt;md5;dd909349c70fe92e82470eba611b7094"
 },
 {
-      "key": "csp_AliPS",
-      "name": "📀喵狸盘搜(搜索)",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-    },
-
-{
   "key": "酷看",
   "name": "💡酷看秒播",
   "type": 3,
