@@ -233,6 +233,17 @@
   "ext": "http://a.nxog.top/m/json/wog.json"
 },
 {
+  "key":"️玩偶哥",
+  "name":"❤️玩偶哥4K备",
+  "type":3,
+  "api":"csp_XYQHikerAL",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://o.nxog.top/m/json/wog.json",
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3"
+},
+{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
