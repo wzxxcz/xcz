@@ -1,5 +1,5 @@
 {
-    "作者": "cally",
+    "作者": "小橙子",
     "站名": "可可影视",
     "主页url": "https://www.keke9.app/",
     "分类url": "https://www.keke9.app/show/{cateId}-----{by}-{catePg}.html[https://www.keke9.app/show/{cateId}------.html];;ak",
@@ -30,6 +30,6 @@
     "影片状态": "detail-info-row-main\">&&</div>",
     "导演": "导演:</div>&&</div>",
      "主演": "演员:</div>&&</div>",
-    "简介": "【cally】提醒您请勿相信影片中的广告，以免上当受骗！+detail-desc\">&&</p>",
+    "简介": "【小橙子】提醒您请勿相信影片中的广告，以免上当受骗！+detail-desc\">&&</p>",
     "排序": "综合$1#时间$2#人气$3#评分$4"
 }
