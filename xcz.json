@@ -142,18 +142,12 @@
   "key": "多多弹幕",
   "name": "😁多多弹幕",
   "type": 3,
-  "api": "csp_Wobg",
-  "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/danmu.php",
+  "api": "csp_XYQHikerAL",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
   "filterable": 1,
-  "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://tv.yydsys.top/",
-        "danmu": true
-      },
-      "timeout": 25
+  "ext": "./lib/多多阿里.json",
+  "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
 },
 {
   "key": "️玩偶姐",
