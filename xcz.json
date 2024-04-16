@@ -1753,6 +1753,17 @@
   "ext": "https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/mayiyahu.json"
 },
 {
+      "key": "麻衣呀呼",
+      "name": "🎦麻衣呀呼",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/mayiyahu.json"
+    },
+
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
