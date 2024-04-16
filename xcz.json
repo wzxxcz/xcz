@@ -526,6 +526,17 @@
   "ext": "./lib/疯狗影视.json"
 },
 {
+      "key": "csp_xBPQ_疯狗",
+      "name": "🎦疯狗┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/fgys.json"
+    },
+
+{
   "key": "csp_TVB",
   "name": "🍊TVB云播",
   "type": 3,
