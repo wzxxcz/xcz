@@ -474,13 +474,13 @@
 {
   "key": "贱贱",
   "name": "🐭贱贱p2p",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "playerType": "1",
-  "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-  "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+  "type":3,
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1,
+  "playerType":"1",
+  "api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+  "ext":"https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
 },
 {
   "key": "要啥脸",
