@@ -914,15 +914,13 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/凌云影视.js"
 },
 {
-  "key":"热",
-  "name":"🔥分享热播",
+  "key":"csp_ipianba",
+  "name":"🎃片吧影视",
   "type":3,
-  "api":"csp_TTian",
-  "playerType":1,
-  "ext":"http://v.rbotv.cn",
-  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/j.txt"
+  "api":"csp_XBPQ",
+  "ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+  "分类":"电影$1#剧集$2#动漫$3#综艺$4"}
 },
-{"key":"csp_ipianba","name":"🎃片吧┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
 { 
   "key":"csp_YingShi",
   "name":"🦀影视海外",
