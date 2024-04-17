@@ -973,18 +973,12 @@
       ]
 },
 {
-  "key":"XBPQsj",
-  "name":"🍊爱新视觉",
-  "type":3,
-  "playerType":2,
-  "api":"csp_XBPQ",
-  "filterable":1,
-  "quickSearch":1,
-  "searchable":1,
-  "ext":"https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/6080.json"
+  "key":"yueai55",
+  "name":"👉约爱影院",
+  "type":1,
+  "api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
+  "searchable":1,"quickSearch":1
 },
-{"key":"yueai55","name":"👉约爱┃影院","type":1,"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/","searchable":1,"quickSearch":1},
-
 {
   "key": "横版影院",
   "name": "🍊良子短剧",
