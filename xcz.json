@@ -313,8 +313,17 @@
   "filterable": 1,
   "ext": "./lib/4K影视.json"
 },
-{"key": "csp_XYQHiker_‍dyx","name": "👉宙磁┃高清","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json","jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
-
+{
+  "key": "csp_XYQHiker_‍dyx",
+  "name": "👉宙磁高清",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json",
+  "jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+},
 {
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
@@ -513,17 +522,6 @@
   "quickSearch": 1, 
   "filterable": 1
 }, 
-{
-  "key": "AppYs_南瓜",
-  "name": "👉VIP专享",
-  "type": 3,
-  "playerType": 2,
-  "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-  "changeable": 0,
-  "searchable": 1,
-  "quickSearch": 1,
-  "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-},
 {
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
