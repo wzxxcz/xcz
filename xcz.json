@@ -454,25 +454,13 @@
   "ext": { "简介":"class=\"detail-desc\">&&</p>","导演":"导演:</div>&&</div>","主演":"演员:</div>&&</div>","线路数组":"class=\"source-item&&</a","线路标题":">&&</span","数组":"class=\"module-item\">&&</a","标题":"title=\"&&\"","图片":"src=\"&&\"","链接":"href=\"&&\"","副标题":"class=\"v-item-bottom\">&&</span","倒序":"0","分类url":"https://keke8.app/show/{cateId}-{class}-{area}--{year}--{catePg}.html","分类":"电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}
 },
 {
-  "key": "jp",
+  "key": "drpy_js_荐片",
   "name": "🔨荐片影视",
   "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "playerType": "1",
-  "api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
-  "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+  "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+  "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/荐片.js",
+  "playerType": "1"
 },
-{
-      "key": "drpy_js_荐片",
-      "name": "🎖荐片｜影视",
-      "type": 3,
-      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/荐片.js",
-      "playerType": "1"
-    },
-
 {
   "key": "meowtv_jpyy",
   "name": "🔨荐片影院",
