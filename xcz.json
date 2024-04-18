@@ -1254,7 +1254,8 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"https://yanetflix.me/api.php/app/"
+  "ext":"https://yanetflix.me/api.php/app/",
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3"
 },
 {
   "key": "csp_xBPQ_jishu",
