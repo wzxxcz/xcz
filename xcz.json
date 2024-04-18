@@ -2368,6 +2368,8 @@
   "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/BT%e5%a4%a9%e5%a0%82.json",
   "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
 },
+{"key":"csp_chrf","name":"🎃小米┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}},
+
 {
   "key": "csp_XYQHiker_电影牛影院",
   "name": "🐜蚂蚁影牛",
