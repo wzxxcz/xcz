@@ -429,8 +429,13 @@
   "ext": "http://v.rbotv.cn",
   "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001"
 },
-{"key":"达达龟","name":"🎄达达┃影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/104.js"},
-
+{
+  "key":"达达龟",
+  "name":"🎄达达影视",
+  "type":3,
+  "api":"http://o.nxog.top/m/js/nxog.js",
+  "ext":"http://o.nxog.top/m/js/104.js"
+},
 {
   "key": "神仙影视",
   "name": "🍊神仙自营",
@@ -2543,13 +2548,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/明帝影视.json"
-},
-{
-  "key": "北极狐[V2]",
-  "name": "🦊北极狐",
-  "type": 3,
-  "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-  "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/北极狐[V2].js"
 },
 {
   "key": "磁力熊",
