@@ -412,6 +412,15 @@
   "分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}
 },
 {
+  "key": "追剧",
+  "name": "🍊追剧App",
+  "type": 3,
+  "api": "csp_TTian",
+  "playerType": 2,
+  "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
+  "ext": "http://app.kzjtv.com"
+},
+{
   "key": "神仙影视",
   "name": "🍊神仙自营",
   "type": 3,
@@ -2828,15 +2837,6 @@
   "filterable": 1,
   "ext": "./lib/速映影视.json",
   "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
-},
-{
-  "key": "追剧",
-  "name": "🍊追剧App",
-  "type": 3,
-  "api": "csp_TTian",
-  "playerType": 2,
-  "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
-  "ext": "http://app.kzjtv.com"
 },
 {
   "key": "csp_淘剧",
