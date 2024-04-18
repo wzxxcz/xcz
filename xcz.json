@@ -2358,18 +2358,13 @@
   "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;10e0197bf1b477a4eefa78b71aef687e"
 },
 {
-  "key": "csp_XYQHiker_BT天堂",
-  "name":"🛩BT天堂4k",
+  "key":"csp_chrf",
+  "name":"🎃小米影视",
   "type":3,
-  "api":"csp_XYQHiker",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/BT%e5%a4%a9%e5%a0%82.json",
-  "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"
+  "api":"csp_XBPQ",
+  "ext":{"分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html",
+  "分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}
 },
-{"key":"csp_chrf","name":"🎃小米┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}},
-
 {
   "key": "csp_XYQHiker_电影牛影院",
   "name": "🐜蚂蚁影牛",
