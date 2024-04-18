@@ -403,8 +403,14 @@
         "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
       }
 },
-{"key":"橙汁","name":"🎃橙汁┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}},
-
+{
+  "key":"橙汁",
+  "name":"🎃橙汁影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5",
+  "分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}
+},
 {
   "key": "神仙影视",
   "name": "🍊神仙自营",
@@ -2403,17 +2409,6 @@
   "type":3,
   "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/cokemv.js"
-},
-{
-  "key":"moli",
-  "name":"🍊分享魔力",
-  "type":3,
-  "api":"csp_Hdmoli",
-  "playerType":1,
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"
 },
 {
   "key": "晴天",
