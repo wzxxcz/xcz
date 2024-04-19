@@ -63,20 +63,19 @@
   "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
 {
-      "key": "盘搜",
-      "name": "🦊盘搜搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
+  "key": "盘搜",
+  "name": "🦊盘搜搜索",
+  "type": 3,
+  "api": "csp_PanSou",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {
         "token": "file://TV/ali_token.txt"
       },
       "timeout": 15,
-      "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
-    },
-
+  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
+},
 {
   "key": "csp_XYQHikerAL_影搜",
   "name": "🍊影搜阿里",
