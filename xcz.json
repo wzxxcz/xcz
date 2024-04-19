@@ -445,6 +445,17 @@
   "分类":"电影$1#剧集$2#动漫$3#综艺$4"}
 },
 {
+  "key": "csp_Xunlei8",
+  "name": "🧲迅雷影院",
+  "type": 3,
+  "api": "csp_Xunlei8",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+},
+{
   "key": "神仙影视",
   "name": "🍊神仙自营",
   "type": 3,
@@ -2319,17 +2330,6 @@
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
         "分类": "短剧$20"
       }
-},
-{
-  "key": "csp_Xunlei8",
-  "name": "🧲迅雷影院",
-  "type": 3,
-  "api": "csp_Xunlei8",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
 },
 {
   "key":"csp_爱城",
