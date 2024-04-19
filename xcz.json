@@ -608,7 +608,7 @@
   "name": "🤡可可西里",
   "type": 3,
 			"api": "csp_XBPQ",
-			"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/可可.json"
+			"ext": "./lib/可可.json"
 
 },
 {
