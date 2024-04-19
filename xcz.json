@@ -34,6 +34,20 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
+      "key": "盘Se",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt"
+      },
+      "timeout": 15
+    },
+
+{
   "key": "csp_XYQHikerAL_影搜",
   "name": "🍊影搜阿里",
   "type": 3,
