@@ -47,22 +47,21 @@
       "timeout": 15,
   "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
- {
-      "key": "玩偶",
-      "name": "👽玩偶4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
+{
+  "key": "玩偶",
+  "name": "👽玩偶4K",
+  "type": 3,
+  "api": "csp_Wogg",
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 1,
       "ext": {
         "token": "file://TV/ali_token.txt",
         "wogg": true
       },
       "timeout": 30,
-      "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
-    },
-
+  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
+},
 {
   "key": "csp_XYQHikerAL_影搜",
   "name": "🍊影搜阿里",
