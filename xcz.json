@@ -76,22 +76,21 @@
       "timeout": 15,
   "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
- {
-      "key": "影搜",
-      "name": "🌸影搜┃搜索",
-      "type": 3,
-      "api": "csp_Yingso",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
+{
+  "key": "影搜",
+  "name": "🌸影搜搜索",
+  "type": 3,
+  "api": "csp_Yingso",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 0,
       "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt"
       },
       "timeout": 15,
-      "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
-    },
-
+  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
+},
 {
   "key": "csp_XYQHikerAL_影搜",
   "name": "🍊影搜阿里",
