@@ -3744,29 +3744,16 @@
   "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"
 },
 {
-  "key": "fn",
-  "name": "🦬牛牛影院",
+  "key": "JOJO",
+  "name": "🍭JOJO直连",
   "type": 3,
-  "api": "csp_Fangniu4k",
+  "api": "csp_Jiohub",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
   "filterable": 1,
-  "timeout": 30,
-  "playerType": 1,
-  "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
+  "timeout": 10,
+  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
-{
-      "key": "JOJO",
-      "name": "🍭JOJO┃直连",
-      "type": 3,
-      "api": "csp_Jiohub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10,
-      "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
-    },
-
 {
   "key":"39影院",
   "name":"🍊39影院",
