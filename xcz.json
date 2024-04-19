@@ -517,6 +517,16 @@
   "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
 },
 {
+  "key":"笑笑影视",
+  "name":"🍊笑笑2K",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/xiaoxiao.json"
+},
+{
   "key": "神仙影视",
   "name": "🍊神仙自营",
   "type": 3,
@@ -592,16 +602,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy5.json"
-},
-{
-  "key":"笑笑影视",
-  "name":"🍊笑笑2K",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/xiaoxiao.json"
 },
 {
   "key": "kekeys",
