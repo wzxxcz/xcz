@@ -34,20 +34,19 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
-      "key": "盘Se",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
+  "key": "盘Se",
+  "name": "🙀盘Se搜索",
+  "type": 3,
+  "api": "csp_PanSearch",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {
         "token": "file://TV/ali_token.txt"
       },
       "timeout": 15,
-      "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
-    },
-
+  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
+},
 {
   "key": "csp_XYQHikerAL_影搜",
   "name": "🍊影搜阿里",
@@ -4030,16 +4029,6 @@
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
                 "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
             }
-},
-{
-  "key": "csp_Nmys",
-  "name": "🌾农民影视",
-  "type": 3,
-  "api": "csp_Nmys",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
 },
 {
   "key": "drpy_js_农民",
