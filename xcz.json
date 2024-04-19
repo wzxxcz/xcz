@@ -3756,6 +3756,17 @@
   "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
 },
 {
+      "key": "JOJO",
+      "name": "🍭JOJO┃直连",
+      "type": 3,
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+
+{
   "key":"39影院",
   "name":"🍊39影院",
   "type":1,
