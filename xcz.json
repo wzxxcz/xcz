@@ -4938,12 +4938,8 @@
   "key": "drpy_js_奇优影院",
   "name": "🍊奇优影院",
   "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "/lib/奇优影院.json",
-  "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
 },
 {
   "key": "种子短剧",
