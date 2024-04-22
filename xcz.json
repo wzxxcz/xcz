@@ -3118,14 +3118,6 @@
     \"分类url\":\"https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html\"}"
 },
 {
-  "key":"文才影视",
-  "name":"💡文才┃影视",
-  "type":3,
-  "api":"csp_Wexwencai",
-  "searchable":1,
-  "changeable":1,
-},
-{
   "key": "csp_低端",
   "name": "💚低端影视",
   "type": 3,
