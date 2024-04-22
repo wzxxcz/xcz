@@ -1005,19 +1005,16 @@
   "filterable": 1,
   "ext":"./lib/Vidhub.json"
 },
-{
-  "key": "meowtv_yszj",
-  "name": "🏡之家影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://yingszj.xn--654a.cc/api.php/app/",
-  "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+{ 
+  "key": "白度影视", 
+  "name": "🏡之家影视", 
+  "type": 3, 
+  "api": "csp_AppYsV2", 
+  "searchable": 1, 
+  "quickSearch": 1, 
+  "filterable": 1, 
+  "ext": "http://yingszj.xn--654a.cc/api.php/app/" 
 },
-{ "key": "白度影视", "name": "💖分享白度", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
-
 {
   "key":"臭蛋蛋",
   "name":"🍊臭蛋2K",
@@ -3120,6 +3117,17 @@
     \"分类\":\"电影$1#电视剧$2#国产剧$22#港剧$26#美剧$23#综艺$3#动漫$4\",
     \"分类url\":\"https://www.miushuo.com/vodshow/{cateId}--------{catePg}---.html\"}"
 },
+ {
+      "key":"csp_Jianying",
+      "name":"🎆简影影视",
+      "type":3,
+      "api":"csp_Jianying",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"hjju123@qq.com$$$123456"
+    },
+
 {
   "key": "csp_低端",
   "name": "💚低端影视",
