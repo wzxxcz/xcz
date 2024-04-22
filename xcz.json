@@ -3151,6 +3151,18 @@
         "三次跳转播放链接": "\"url\"*\"&&\""
       }
 },
+
+ {
+      "key": "csp_素白",
+      "name": "💚素白影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/素白.json"
+    },
+
 {
   "key": "csp_xBPQ可可",
   "name": "🍊可可影视",
