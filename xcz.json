@@ -2233,17 +2233,6 @@
   "quickSearch":1,
   "filterable":1
 },
- {
-      "key": "csp_Bdys",
-      "name": "💚哔嘀影视",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
-    },
-
 {
   "key": "Bdys_spider",
   "name": "💡哔滴直连",
