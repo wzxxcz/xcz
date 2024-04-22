@@ -3128,6 +3128,17 @@
   "ext": "./lib/骚火影视.json",
   "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 },
+ {
+      "key": "csp_骚火",
+      "name": "💚骚火影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cally66.icu/xbpq/骚火.json"
+    },
+
 {
       "key": "saohuo",
       "name": "🔥骚火影院",
