@@ -329,6 +329,17 @@
   "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3"
 },
 {
+  "key":"Upyunso",
+  "name":"❤️云搜4K",
+  "type":3,
+  "api":"csp_Upyunso",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3"
+},
+{
   "key": "csp_AliPS",
   "name": "📀喵狸盘搜",
   "type": 3,
