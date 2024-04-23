@@ -511,6 +511,17 @@
       "timeout": 15
 },
 {
+      "key": "PanSearch",
+      "name": "🙀盘Se搜索纯净",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
+    },
+
+{
   "key": "csp_4k影视",
   "name": "💚4k影视",
   "type": 3,
