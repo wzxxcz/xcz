@@ -3172,17 +3172,16 @@
   "ext": "./lib/subaibai.json"
 },
 {
-      "key": "电影牛",
-      "name": "🐂影牛蓝光",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.top/盗用私募/api/电影牛.php"
-    },
-
+  "key": "电影牛",
+  "name": "🐂影牛蓝光",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://我不是.摸鱼儿.top/盗用私募/api/电影牛.php"
+},
 {
   "key": "csp_低端",
   "name": "💚低端影视",
