@@ -1019,6 +1019,22 @@
   "ext": "./lib/熊猫影视.json"
 },
 {
+      "key": " 星辰影",
+      "name": "🌟星辰蓝光纯净",
+      "type": 3,
+      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.qidun.cc/vodshow/{cateId}-{area}----{letter}---{catePg}---{yaer}.html",
+        "分类": "电影&电视剧&动漫&综艺&短句",
+        "分类值": "fenlei2&fenlei1&fenlei3&fenlei4&duanju"
+      }
+    },
+
+{
   "key": "T4-mingri",
   "name": "⛵️明日方舟",
   "type": 4,
