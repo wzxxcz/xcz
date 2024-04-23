@@ -598,20 +598,19 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0"
 }, 
 {
-      "key": "七味影视",
-      "name": "🌿七味蓝光纯净",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
+  "key": "七味影视",
+  "name": "🌿七味蓝光纯净",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
         "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
         "分类": "电影$1#剧集$2#动漫$4#综艺$3"
       }
-    },
-
+},
 {
   "key":"csp_河马",
   "name":"🐎河马影视",
@@ -990,23 +989,6 @@
                 "欧美动漫",
                 "日本动漫"
             ]
-},
-{
-  "key": "101影院11",
-  "name": "📽101影院",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "playerType": 2,
-  "api": "csp_XBPQ",
-  "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/1_hlly.jar",
-  "ext": {
-        "简介": "col-pd\">&&</p >",
-        "跳转播放链接": "varurlDecode(var player_*url\":\"&&\")",
-        "分类url": "http://101jy.cn/sx/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影天堂$44#伦理片$29#经典电影$30"
-      }
 },
 {
   "key":"畅梦影视",
