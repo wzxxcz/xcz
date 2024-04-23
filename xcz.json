@@ -362,6 +362,18 @@
   "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
 },
 {
+      "key": "土豆阿里",
+      "name": "🎦土豆阿里",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/土豆阿里.json",
+      "jar": "https://vip.123pan.cn/1823165373/cally/jar/0407.jar"
+    },
+
+{
   "key": "csp_XYQHiker_影搜",
   "name": "📀影搜(搜索)",
   "type": 3,
