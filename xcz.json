@@ -469,22 +469,21 @@
       "timeout": 15
 },
 {
-      "key": "影搜弹幕",
-      "name": "🕵️影搜弹幕搜索",
-      "type": 3,
-      "api": "csp_Yingso",
-      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/danmu.php",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
+  "key": "影搜弹幕",
+  "name": "🕵️影搜弹幕搜索",
+  "type": 3,
+  "api": "csp_Yingso",
+  "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/danmu.php",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {
         "token": "file://TV/ali_token.txt",
         "cookie": "file://TV/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 15
-    },
-
+},
 {
   "key": "csp_4k影视",
   "name": "💚4k影视",
