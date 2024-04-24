@@ -1101,16 +1101,6 @@
   "api": "https://catbox.n13.club/mingri.php"
 },
 {
-  "key": "csp_xBPQ_玖八",
-  "name": "🍊玖八影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/98影视.json"
-},
-{
   "key":"bkyy",
   "name":"🎃布卡影视",
   "type":3,
