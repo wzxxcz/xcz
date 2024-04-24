@@ -593,20 +593,6 @@
   "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
-  "key": "PanSou",
-  "name": "🦊盘搜搜索饭",
-  "type": 3,
-  "api": "csp_PanSou",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713780171700/fan.txt;md5;4af14dca6964a737a88b982cb8b20055",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-},
-{
   "key": "csp_4k影视",
   "name": "💚4k影视",
   "type": 3,
