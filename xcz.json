@@ -162,6 +162,18 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key": "csp_Yisou",
+  "name": "🍊阿里易搜",
+  "type": 3,
+  "api": "csp_Yisou",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+},
+{
   "key": "csp_XYQHiker_盘搜索",
   "name": "🍊阿里盘搜",
   "type": 3,
