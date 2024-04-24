@@ -1351,6 +1351,8 @@
         "短剧"
       ]
 },
+{"key":"横版影院","name":"🐞短剧3┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+
 {
 	"key": "drpy_侬好",
 	"name": "🍊分享者vip",
