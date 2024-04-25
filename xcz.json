@@ -657,6 +657,20 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712494041762/fan.txt;md5;013794cda7f4898b65b8a7f7382cc5a1"
 },
 {
+      "key": "csp_BaiPiao",
+      "name": "👻白嫖",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com:9092/",
+      "jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;758D6B740C60C0E1B1F2CFB215716AB9"
+    },
+
+{
   "key":"比特",
   "name":"🍄比特秒播",
   "type":3,
