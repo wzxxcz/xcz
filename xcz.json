@@ -654,7 +654,8 @@
   "quickSearch": 1,
   "filterable": 1,
   "changeable": 1,
-  "ext": "https://www.baipiaoys.com:9092/"
+  "ext": "https://www.baipiaoys.com:9092/",
+  "jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;758D6B740C60C0E1B1F2CFB215716AB9",
 },
 {
   "key":"比特",
