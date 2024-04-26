@@ -1042,6 +1042,16 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key":"文才影视",
+  "name":"💡文才影视",
+  "type":3,
+  "api":"csp_Wexwencai",
+  "searchable":1,
+  "changeable":1,
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;92ac6f5136c5ce9885fe60122c545434"
+},
+
+{
   "key": "csp_量子",
   "name": "🍊量子资源",
   "type": 3,
