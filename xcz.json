@@ -2947,13 +2947,6 @@
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/Yoursmile2.jar"
 },
 {
-  "key":"drpy_js_69美剧[V2]",
-  "name":"♋️美剧影视",
-  "type":3,
-  "api":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/beiwo.js",
-  "ext":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/meiju.js"
-},
-{
   "key":"明日影视",
   "name":"💡明日影视",
   "type":3,
