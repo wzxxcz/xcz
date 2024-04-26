@@ -883,6 +883,13 @@
   "ext": "http://op.ysdqjs.cn$$$null$$$1"
 },
 {
+  "key":"南瓜影视",
+  "name":"🍈南瓜影院",
+  "type":3,
+  "api":"https://vip.123pan.cn/1823165373/cally/lib/man.js",
+  "ext":"https://cally66.icu/js/南瓜.js"
+},
+{
   "key": "csp_NanGua",
   "name": "🍈南瓜影视",
   "type": 3,
@@ -892,13 +899,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "changeable": 1
-},
-{
-  "key":"南瓜影视",
-  "name":"🍈南瓜影院",
-  "type":3,
-  "api":"https://vip.123pan.cn/1823165373/cally/lib/man.js",
-  "ext":"https://cally66.icu/js/南瓜.js"
 },
 {
   "key": "🔱专线⑪🏅",
