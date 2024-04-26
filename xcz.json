@@ -645,6 +645,20 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709477073155/fan.txt;md5;a0df2c561cdc1fc457ed12595bf8659f"
 },
 {
+  "key": "七味影视",
+  "name": "🌿七味蓝光纯净",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+        "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+      }
+},
+{
   "key": "白嫖",
   "name": "👻白飘无广",
   "type": 3,
@@ -698,20 +712,6 @@
   "ext": "https://www.cz233.com/",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0"
 }, 
-{
-  "key": "七味影视",
-  "name": "🌿七味蓝光纯净",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-        "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$3"
-      }
-},
 {
   "key":"csp_河马",
   "name":"🐎河马影视",
