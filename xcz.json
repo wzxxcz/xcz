@@ -700,6 +700,26 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713693744769/fan.txt;md5;ff2a62d70456f5ccc45f5e17b24d4a45"
 },
 {
+  "key": "赘婿影视",
+  "name": "🍊赘婿影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+        "数组": "video-img lazyload&&</p>",
+        "副标题": "mr-xs-0\">&&</span>",
+        "简介": "entry-content clearfix\">&&</p>",
+        "线路数组": "data-target=\"#ewave-playlist-&&</li>",
+        "线路标题": ">&&</a >",
+        "播放数组": "<ul class=\"row ewave-tab-content ewave-playlist-content&&</ul>",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "https://zhuixu.cc/type/{cateId}-{catePg}/",
+        "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
+      }
+},
+{
   "key":"厂长",
   "name":"📔厂长无广",
   "type":3,
@@ -1161,26 +1181,6 @@
   "filterable": 1,
   "ext": "./lib/98影视.json",
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
-},
-{
-  "key": "赘婿影视",
-  "name": "🍊赘婿影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-        "数组": "video-img lazyload&&</p>",
-        "副标题": "mr-xs-0\">&&</span>",
-        "简介": "entry-content clearfix\">&&</p>",
-        "线路数组": "data-target=\"#ewave-playlist-&&</li>",
-        "线路标题": ">&&</a >",
-        "播放数组": "<ul class=\"row ewave-tab-content ewave-playlist-content&&</ul>",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "https://zhuixu.cc/type/{cateId}-{catePg}/",
-        "分类": "剧集$2#电影$1#番剧$4#纪录$39#短剧$44#体育$45#娱乐$46#解说$48"
-      }
 },
 {
   "key":"miaociyuan",
