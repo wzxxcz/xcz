@@ -2940,14 +2940,6 @@
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/Yoursmile2.jar"
 },
 {
-  "key":"drpy_js_被窝电影",
-  "name":"🛌🏻被窝电影",
-  "type":3,
-  "api":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/beiwo.js",
-  "ext":"https://atomgit.com/wzbdyr/xcz/raw/master/lib/%E8%A2%AB%E7%AA%9D%E7%94%B5%E5%BD%B1.js"
-},
-{ "key": "csp_XYQHiker_‍dyx", "name": "🐬海豚4k", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/io9/json/raw/master/json/JS2/js/dyg.json","jar":"https://gitee.com/io9/java/raw/master/jar/haitungg.txt"},
-{
   "key":"drpy_js_69美剧[V2]",
   "name":"♋️美剧影视",
   "type":3,
