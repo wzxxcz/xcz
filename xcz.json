@@ -1151,16 +1151,14 @@
   "quickSearch":1
 },
 {
-      "key": "AI1",
-      "name": "AI1┃仅搜索",
+      "key": "南瓜xyq",
+      "name": "🎃南瓜蓝光无广",
       "type": 3,
-      "api": "csp_AI",
+      "api": "csp_AppYSDQ",
+      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/xpbq.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "http://124.222.116.5/macos/seven/api.php/provide/vod/|okhttp/4.9.1|https://jx.kuaizi.cc",
-      "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
+      "filterable": 0
     },
 {
   "key": "csp_xBPQ_玖八",
