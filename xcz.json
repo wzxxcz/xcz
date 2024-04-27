@@ -1160,6 +1160,17 @@
       }
 },
 {
+      "key": "csp_星辰",
+      "name": "💚星辰影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cally66.icu/xbpq/星辰.json"
+    },
+
+{
   "key": "T4-mingri",
   "name": "⛵️明日方舟",
   "type": 4,
