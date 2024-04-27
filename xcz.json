@@ -5226,7 +5226,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/奇优影视.json"
+  "ext": "./lib/奇优影视.json",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
   "key": "csp_xBPQ_奇优",
