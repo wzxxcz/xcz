@@ -881,6 +881,17 @@
       }
 },
 {
+      "key": "csp_红狐狸",
+      "name": "💚红狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/红狐狸.json"
+    },
+
+{
   "key": "MBER",
   "name": "📝MB影视",
   "type": 3,
