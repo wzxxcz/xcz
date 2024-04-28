@@ -34,18 +34,6 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
-      "key": "csp_XYQHikerAL_9995",
-      "name": "9995🐣云盘",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/9995yunpan.json",
-      "jar": "https://gitee.com/dongchenys/liu/raw/master/dongchen.jar"
-    },
-
-{
   "key": "盘Se",
   "name": "🙀盘Se搜索",
   "type": 3,
