@@ -34,25 +34,24 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
-      "key": "阿里合集",
-      "name": "🦋阿里┃合集",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "ext": {
+  "key": "阿里合集",
+  "name": "🦋阿里合集",
+  "type": 3,
+  "api": "csp_AliShare",
+  "searchable": 1,
+  "changeable": 0,
+  "filterable": 0,
+  "indexs": 0,
+  "ext": {
         "token": "file://TV/ali_token.txt",
         "share": "file://TV/阿里集合.json"
       },
-      "style": {
+  "style": {
         "type": "list"
       },
-      "timeout": 30,
-      "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
-    },
-
+  "timeout": 30,
+  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
+},
 {
   "key": "盘Se",
   "name": "🙀盘Se搜索",
