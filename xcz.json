@@ -1370,14 +1370,6 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/凌云影视.js"
 },
 {
-  "key":"yqikan",
-  "name":"⛑一起看吧",
-  "type":3,
-  "api":"csp_YQKan",
-  "ext":"https://api-aws.ctdy.cc",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"
-},
-{
       "key": "豪华资源",
       "name": "🥬豪华2K",
       "type": 1,
