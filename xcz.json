@@ -3455,6 +3455,17 @@
       }
 },
 {
+      "key": "csp_奥特影视",
+      "name": "💚奥特影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/奥特.json"
+    },
+
+{
   "key": "csp_素白",
   "name": "💚素白影视",
   "type": 3,
