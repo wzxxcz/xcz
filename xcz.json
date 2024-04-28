@@ -1277,13 +1277,6 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/B站影视.js"
 },
 {
-    "key" : "js_v2-jy",
-    "name" :"🍊臻品影视",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://notabug.org/ygfxz/6/raw/main/XBPQ/臻品电影.json"
-},
-{
   "key": "meowtv_phys",
   "name": "🐅胖虎影视",
   "type": 3,
