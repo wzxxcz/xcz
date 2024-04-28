@@ -1180,8 +1180,7 @@
   "key": "T4-mingri",
   "name": "⛵️明日方舟",
   "type": 4,
-  "api": "https://catbox.n13.club/mingri.php",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "api": "https://catbox.n13.club/mingri.php"
 },
 {
   "key":"bkyy",
@@ -3309,16 +3308,15 @@
   "ext":"http://o.nxog.top/m/js/102.js"
 },
 {
-      "key": "csp_茶杯",
-      "name": "💚茶杯影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/茶杯狐.json"
-    },
-
+  "key": "csp_茶杯",
+  "name": "🍵茶杯影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/茶杯狐.json"
+},
 {
   "key": "drpy_js_69美剧",
   "name": "🍊69影院",
