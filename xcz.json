@@ -1180,7 +1180,8 @@
   "key": "T4-mingri",
   "name": "⛵️明日方舟",
   "type": 4,
-  "api": "https://catbox.n13.club/mingri.php"
+  "api": "https://catbox.n13.club/mingri.php",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
   "key":"bkyy",
