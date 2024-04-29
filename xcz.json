@@ -3462,16 +3462,15 @@
       }
 },
 {
-      "key": "剧圈影视",
-      "name": "剧圈🔥影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/jqqys.json"
-    },
-
+  "key": "剧圈影视",
+  "name": "🔥剧圈影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/jqqys.json"
+},
 {
   "key": "csp_奥特影视",
   "name": "💚奥特影视",
