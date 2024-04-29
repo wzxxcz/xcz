@@ -5251,17 +5251,6 @@
   "ext": "./lib/威士影视.json"
 },
 {
-  "key": "csp_xBPQ_奇优",
-  "name": "🍊奇优影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/奇优影视.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
-},
-{
   "key": "drpy_js_奇优影院",
   "name": "🍊奇优影视",
   "type": 3,
