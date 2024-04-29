@@ -5262,6 +5262,14 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+      "key": "drpy_js_奇优影院",
+      "name": "影视 | 奇优影院[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
+    },
+
+{
   "key": "csp_黑狐",
   "name": "💚黑狐影视",
   "type": 3,
