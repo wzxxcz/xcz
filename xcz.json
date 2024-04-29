@@ -1424,13 +1424,6 @@
       ]
 },
 {
-  "key":"yueai55",
-  "name":"👉约爱影院",
-  "type":1,
-  "api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
-  "searchable":1,"quickSearch":1
-},
-{
   "key": "Vidhub",
   "name": "🌃Vid影视",
   "type": 3,
