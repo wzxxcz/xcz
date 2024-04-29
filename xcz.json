@@ -622,16 +622,15 @@
   "ext": "./lib/4K影视.json"
 },
 {
-      "key": "4K影院",
-      "name": "影院☘️蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/4kvm.json"
-    },
-
+  "key": "4K影院",
+  "name": "☘️影院蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/4kvm.json"
+},
 {
   "key": "糯米",
   "name": "🍙糯米秒播",
