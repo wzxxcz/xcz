@@ -1431,6 +1431,17 @@
   "searchable":1,"quickSearch":1
 },
 {
+      "key": "Vidhub",
+      "name": "Vid🌃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/vid.json"
+    },
+
+{
   "key":"横版影院",
   "name":"🐞短剧3短剧",
   "type":1,
