@@ -1579,15 +1579,6 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/KOK影院.js"
 },
 {
-  "key": "B站影视",
-  "name": "🍊B站影院",
-  "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "https://drpy.cainisi.cf/js/B站影视.js"
-},
-{
   "key": "drpy_js_尘落影视",
   "name": "🍊尘落影视",
   "type": 3,
