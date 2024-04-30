@@ -962,16 +962,6 @@
          }
 },
 {
-  "key":"天天",
-  "name":"🏞天外有天",
-  "type": 3,
-  "api": "csp_TTian",
-  "jar": "http://www.wya6.cn/tz/wypg.php",
-  "playerType": 1,
-  "changeable": 2,
-  "ext": "http://op.ysdqjs.cn$$$null$$$1"
-},
-{
   "key":"南瓜影视",
   "name":"🍈南瓜影院",
   "type":3,
