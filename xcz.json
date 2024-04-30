@@ -751,6 +751,18 @@
   "ext": "./lib/fantuan.json"
 },
 {
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+{
   "key": "赘婿影视",
   "name": "🍊赘婿影视",
   "type": 3,
