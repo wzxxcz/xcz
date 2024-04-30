@@ -2348,6 +2348,14 @@
   "ext": "https://d.kstore.space/download/6296/js/yt.js"
 },
 {
+  "key":"影探蓝光",
+  "name":"💡影探┃影视",
+  "type":3,
+  "api":"csp_WexYingtan4k",
+  "searchable":1,
+  "changeable":1
+},
+{
   "key": "meowtv_sxys",
   "name": "🧑‍🔬师兄影视",
   "type": 3,
