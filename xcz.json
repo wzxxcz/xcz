@@ -774,6 +774,16 @@
   "changeable": 0
 },
 {
+      "key": "萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+
+{
   "key": "赘婿影视",
   "name": "🍊赘婿影视",
   "type": 3,
