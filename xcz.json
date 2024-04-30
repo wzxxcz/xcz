@@ -1709,16 +1709,6 @@
 },
 {
   "key": "meowtv_348D",
-  "name": "🪐蓝光影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/蓝光电影.json"
-},
-{
-  "key": "meowtv_348D",
   "name": "🪐蓝光影院",
   "type": 3,
   "api": "csp_XBPQ",
