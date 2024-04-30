@@ -485,25 +485,8 @@
       "timeout": 25
 },
 {
-  "key": "玩偶",
-  "name": "👽玩偶哥哥4K弹幕",
-  "type": 3,
-  "api": "csp_WoGG",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714384409431/fan.txt;md5;2e518d1fe2a0f74638a5f46d18129d3e",
-  "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
-      }
-},
-{
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶哥哥4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714384409431/fan.txt;md5;2e518d1fe2a0f74638a5f46d18129d3e",
@@ -517,7 +500,7 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
-    },
+},
 {
   "key": "doudouxie",
   "name": "🐋玩偶哥哥4K弹幕",
