@@ -123,6 +123,18 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+      "key": "csp_XYQHikerAL_影搜",
+      "name": "🅰️影搜阿里",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.51.37.23/man/xyq/影搜.json"
+    },
+
+{
   "key": "csp_XYQHikerAL_开心阿里",
   "name": "🍊开心阿里",
   "type": 3,
