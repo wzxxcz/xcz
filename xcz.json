@@ -775,6 +775,18 @@
   "changeable": 0
 },
 {
+      "key": "DiDuan",
+      "name": "🔋低端┃蓝光┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/danmu.php",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+{
   "key": "萌米",
   "name": "👀萌米多线",
   "type": 3,
