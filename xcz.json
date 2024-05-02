@@ -575,6 +575,22 @@
       "timeout": 15
 },
 {
+      "key": "盘Se",
+      "name": "🙀盘Se┃弹幕┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/danmu.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "danmu": true
+      },
+      "timeout": 15
+    },
+
+{
   "key": "PanSearch",
   "name": "🙀盘Se搜索纯净",
   "type": 3,
