@@ -786,6 +786,19 @@
   "changeable": 1
 },
 {
+      "key": "Lib",
+      "name": "🌟立播┃蓝光┃直连",
+      "type": 3,
+      "api": "csp_Libvio",
+      "jar": "http://我不是.摸鱼儿.top/盗用私募/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.pw/"
+    },
+
+{
   "key": "萌米",
   "name": "👀萌米多线",
   "type": 3,
