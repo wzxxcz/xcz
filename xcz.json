@@ -272,17 +272,6 @@
   "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
 },
 {
-  "key":"AliPS",
-  "name":"❤️盘搜4K备",
-  "type":3,
-  "api":"csp_AliPS",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0,
-  "ext":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3"
-},
-{
   "key": "云盘搜索",
   "name": "❤️搜索4K",
   "type": 3,
