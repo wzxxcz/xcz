@@ -1385,7 +1385,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/七新影视.json",
-  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
   "key":"Vidhub视频",
