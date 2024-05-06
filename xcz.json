@@ -2161,7 +2161,6 @@
   "name": "🍊视觉影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
