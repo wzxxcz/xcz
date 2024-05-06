@@ -5177,16 +5177,6 @@
   "ext": "./lib/七年影视.json"
 },
 {
-  "key": "csp_黑狐",
-  "name": "🦊黑狐影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/黑狐影视.json"
-},
-{
   "key":"爱ai看",
   "name":"🍊分享ai看",
   "type":3,
