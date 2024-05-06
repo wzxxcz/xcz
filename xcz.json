@@ -767,27 +767,16 @@
   "ext": "https://czzy.top/"
 },
 {
-  "key": "萌米",
-  "name": "👀萌米多线",
+  "key": "凯奇追剧",
+  "name": "🍊凯奇追剧",
   "type": 3,
-  "api": "csp_AppTT",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9",
-  "timeout": 15,
-  "playerType": 1,
-  "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-},
-{
-      "key": "凯奇追剧",
-      "name": "🎦凯奇┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
+  "api": "csp_XBPQ",
+  "ext": {
         "简介": "+hl-content-text\">&&</span>",
         "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
       }
-    },
-
+},
 {
   "key": "赘婿影视",
   "name": "🍊赘婿影视",
