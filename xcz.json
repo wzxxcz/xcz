@@ -754,6 +754,19 @@
   "ext": "https://www.libvio.pw/"
 },
 {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://czzy.top/"
+    },
+
+{
   "key": "萌米",
   "name": "👀萌米多线",
   "type": 3,
