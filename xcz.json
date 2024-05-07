@@ -789,18 +789,17 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
-      "key": "AI2",
-      "name": "🧞AI2┃仅搜索",
-      "type": 3,
-      "api": "csp_AI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playerType": 2,
-      "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji",
-      "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
-    },
-
+  "key": "AI2",
+  "name": "🧞AI2仅搜索",
+  "type": 3,
+  "api": "csp_AI",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "playerType": 2,
+  "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji",
+  "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
+},
 {
   "key": "凯奇追剧",
   "name": "🍊凯奇追剧",
