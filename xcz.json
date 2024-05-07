@@ -789,6 +789,16 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
+  "key": "6v",
+  "name": "🧲新6V磁力",
+  "type": 3,
+  "api": "csp_New6v",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "https://www.xb6v.com",
+  "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/xh.jar"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -3424,28 +3434,6 @@
   "jar": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
   "ext": ""
 },
-{
-  "key": "新6V",
-  "name": "🍊新6V",
-  "type": 3,
-  "api": "csp_Xb6v",
-  "jar": "http://www.wya6.cn/tz/wypg.php",
-  "searchable": 1,
-  "changeable": 1,
-  "timeout": 60,
-  "ext": "http://www.wya6.cn/tz/pgts.php$$$https://www.66ss.org$$$null$$$1"
-},
-{
-      "key": "6v",
-      "name": "🧲┃新6V┃磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://www.xb6v.com",
-      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/xh.jar"
-    },
-
 {
   "key":"胡胡",
   "name":"💡胡胡影视",
