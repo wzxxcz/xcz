@@ -731,6 +731,16 @@
   "changeable": 0
 },
 {
+      "key": "萌米",
+      "name": "👀萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714982657770/fan.txt;md5;5c80b7ff2b016f49144335e5c48883c5",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+{
   "key": "DiDuan",
   "name": "🔋低端蓝光外剧",
   "type": 3,
