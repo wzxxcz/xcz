@@ -3522,6 +3522,17 @@
       }
 },
 {
+      "key": "小熊影视",
+      "name": "🎦小熊影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/小熊影视.json"
+    },
+
+{
   "key": "AI3",
   "name": "🧞AI1仅搜索",
   "type": 3,
