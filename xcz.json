@@ -3543,6 +3543,15 @@
   "filterable": 1,
   "ext": "./lib/jqqys.json"
 },
+ {
+      "key": "csp_Juqq",
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq",
+      "jar": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69"
+    },
+
 {
   "key": "csp_奥特影视",
   "name": "💚奥特影视",
