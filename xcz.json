@@ -3436,6 +3436,17 @@
   "ext": "http://www.wya6.cn/tz/pgts.php$$$https://www.66ss.org$$$null$$$1"
 },
 {
+      "key": "6v",
+      "name": "🧲┃新6V┃磁力",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://www.xb6v.com",
+      "jar": "https://jihulab.com/xiaohutx/meisha/-/raw/main/xh.jar"
+    },
+
+{
   "key":"胡胡",
   "name":"💡胡胡影视",
   "type":3,
