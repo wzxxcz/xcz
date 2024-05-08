@@ -679,26 +679,11 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": {
-        "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$3"
-      }
-},
- {
-      "key": "七味影视",
-      "name": "🌿七味┃蓝光┃纯净",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": {
         "分类url": "https://www.pcmp4.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
         "分类": "电影$1#剧集$2#动漫$4#综艺$3"
       }
-    },
-
+},
 {
   "key": "白嫖",
   "name": "👻白飘无广",
