@@ -1038,17 +1038,6 @@
   "ext": "./lib/红狐狸.json"
 },
 {
-  "key": "MBER",
-  "name": "📝MB影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": {
-            "分类url": "http://yz.077911.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-            "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
-            "分类": "电影$2#电视剧$1#综艺$3#动漫$4"
-         }
-},
-{
   "key":"天天",
   "name":"🏞天外有天",
   "type": 3,
