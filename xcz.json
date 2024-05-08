@@ -804,19 +804,6 @@
   "changeable": 1,
   "ext": "https://www.libvio.pw/"
 },
- {
-      "key": "Lib",
-      "name": "🌟立播┃蓝光┃直连",
-      "type": 3,
-      "api": "csp_Libvio",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pw/"
-    },
-
 {
   "key": "厂长",
   "name": "📔厂长不卡",
