@@ -424,21 +424,6 @@
   "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
 {
-      "key": "UpYun",
-      "name": "😻Up搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715069751639/fan.txt;md5;ccc15f8c3df51befa578c1ce8632359f",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-    },
-
-{
   "key": "土豆弹幕",
   "name": "🥔玩偶土豆4K弹幕",
   "type": 3,
