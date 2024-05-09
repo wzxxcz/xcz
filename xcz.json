@@ -1224,27 +1224,16 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
-  "key": "csp_量子",
+  "key": "lzi",
   "name": "🍊量子资源",
   "type": 3,
-  "api": "csp_XBPQ",
+  "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/量子资源网.json"
 },
-{
-      "key": "lzi",
-      "name": "🍊量子资源",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/量子资源网.json"
-    },
-
 {
   "key": "🔱专线⑨🏅",
   "name": "🔱专线⑨🏅",
