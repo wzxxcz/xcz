@@ -3260,6 +3260,17 @@
   "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
 },
 {
+  "key": "奈飞中文",
+  "name": "🕊️奈飞秒播",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/nfzw.json"
+},
+{
   "key": "meowtv_ssys",
   "name": "🍊三思影视",
   "type": 3,
