@@ -3250,17 +3250,6 @@
 },
 {
   "key": "奈飞中文",
-  "name":"🕊️奈飞秒播",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/nfzw.json",
-  "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
-},
-{
-  "key": "奈飞中文",
   "name": "🕊️奈飞秒播",
   "type": 3,
   "api": "csp_XYQHiker",
