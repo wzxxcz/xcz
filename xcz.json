@@ -3523,6 +3523,22 @@
       }
 },
 {
+  "key": "晨光电影",
+  "name": "🍊晨光电影",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+        "简介": "剧情介绍: +white-space: initial;\">&&</div>",
+        "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
+        "图片": "data-original=\"&&\"",
+        "标题": "fed-visible fed-part-eone\" href=*>&&</a>",
+        "副标题": "fed-text-white fed-text-center\">&&</span>",
+        "线路数组": "fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>",
+        "分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+        "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+      }
+},
+{
   "key": "小熊影视",
   "name": "🐻小熊影视",
   "type": 3,
