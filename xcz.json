@@ -874,6 +874,16 @@
       }
 },
 {
+  "key": "老六影视",
+  "name": "🍊老六影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/老六影视.json"
+},
+{
   "key": "赘婿影视",
   "name": "🍊赘婿影视",
   "type": 3,
