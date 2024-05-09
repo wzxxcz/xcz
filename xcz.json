@@ -3242,24 +3242,12 @@
   "name":"🦢鸭奈飞秒播",
   "type": 3,
   "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/ynfys.json",
-  "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/ym/main/ym/lib/ttkx.jar"
+  "ext": "./lib/ynfys.json"
 },
-{
-      "key": "奈飞影视",
-      "name": "🎦鸭奈飞┃秒播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/ynfys.json"
-    },
-
 {
   "key": "奈飞中文",
   "name":"🕊️奈飞秒播",
