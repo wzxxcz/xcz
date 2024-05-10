@@ -863,6 +863,18 @@
   "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
 },
 {
+  "key": "高清在线",
+  "name": "🍊高清在线",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+        "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
+        "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+        "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"
+      }
+},
+{
   "key": "策驰影院",
   "name": "🐎策驰影院",
   "type": 3,
