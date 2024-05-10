@@ -867,6 +867,7 @@
   "name": "🍊高清在线",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
   "ext": {
         "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
         "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
