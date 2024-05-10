@@ -863,6 +863,16 @@
   "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
 },
 {
+  "key": "HDmoli",
+  "name": "🍊魔力高清",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/HDmoli.json"
+},
+{
   "key": "悠云追剧",
   "name": "🍊悠云追剧",
   "type": 3,
