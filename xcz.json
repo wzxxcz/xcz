@@ -237,7 +237,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/多多阿里.json",
+  "ext": "./lib/多多阿里.json"
 },
 {
   "key": "多多弹幕",
