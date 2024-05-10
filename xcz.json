@@ -3523,6 +3523,18 @@
       }
 },
 {
+  "key": "123影视",
+  "name": "🍊123影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+        "简介": "剧情介绍: +video-info-content vod_content\">&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://www.idc123.xyz/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dy#国产剧$guochanju#电视剧$juji#动漫$dongman#综艺$zongyi"
+      }
+},
+{
   "key": "白嫖者",
   "name": "🍊白嫖者联盟",
   "type": 3,
