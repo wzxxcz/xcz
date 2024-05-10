@@ -1206,6 +1206,16 @@
   "filterable": 1
 }, 
 {
+  "key": "csp_vs",
+  "name": "🍊VS秒播",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/vsys.json"
+},
+{
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
   "type": 3,
