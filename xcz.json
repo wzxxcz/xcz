@@ -228,29 +228,17 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
-  "key": "多多弹幕",
+  "key": "csp_XYQHikerAL_多多",
   "name": "😁多多弹幕",
   "type": 3,
   "api": "csp_XYQHikerAL",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/多多阿里.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
-{
-      "key": "csp_XYQHikerAL_多多",
-      "name": "🅰️多多阿里",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.51.37.23/man/xyq/多多.json"
-    },
-
 {
   "key": "多多弹幕",
   "name": "😁多多弹幕4K弹幕",
