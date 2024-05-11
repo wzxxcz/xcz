@@ -1073,6 +1073,13 @@
   "ext": "http://op.ysdqjs.cn$$$null$$$1"
 },
 {
+  "key":"南瓜影视2",
+  "name":"🍈南瓜影院",
+  "type":3,
+  "api":"http://o.nxog.top/m/js/nxog.js",
+  "ext":"http://o.nxog.top/m/js/101.js"
+},
+{
   "key": "csp_NanGua",
   "name": "🍈南瓜影视",
   "type": 3,
