@@ -974,15 +974,6 @@
   "分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}
 },
 {
-  "key": "追剧",
-  "name": "🍊追剧App",
-  "type": 3,
-  "api": "csp_TTian",
-  "playerType": 2,
-  "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
-  "ext": "http://app.kzjtv.com"
-},
-{
   "key":"追剧影视",
   "name":"💡追剧影视",
   "type":3,
