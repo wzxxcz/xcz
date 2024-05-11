@@ -983,6 +983,14 @@
   "ext": "http://app.kzjtv.com"
 },
 {
+  "key":"追剧影视",
+  "name":"💡追剧影视",
+  "type":3,
+  "api":"csp_TTian",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "ext":"http://app.kzjtv.com"
+},
+{
   "key": "热播",
   "name": "🍊热播App",
   "type": 3,
