@@ -574,6 +574,16 @@
   "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
+  "key":"酷吧电影",
+  "name":"🍊酷吧磁力",
+  "type":3,
+  "api":"csp_KubaCL",
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59f3f76c511c3b7bcae01147c5b5afc4",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "csp_4k影视",
   "name": "💚4k影视",
   "type": 3,
