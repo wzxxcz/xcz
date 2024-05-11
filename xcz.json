@@ -982,15 +982,6 @@
   "ext":"http://app.kzjtv.com"
 },
 {
-  "key": "热播",
-  "name": "🍊热播App",
-  "type": 3,
-  "api": "csp_TTian",
-  "playerType": 2,
-  "ext": "http://v.rbotv.cn",
-  "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001"
-},
-{
   "key":"达达龟",
   "name":"🎄达达影视",
   "type":3,
