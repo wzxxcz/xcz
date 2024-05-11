@@ -953,17 +953,12 @@
   "ext": "./lib/兄弟影视.json"
 },
 {
-  "key":"csp_河马",
+  "key":"csp_hmhd",
   "name":"🐎河马影视",
   "type":3,
   "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{
-        "分类url":"https://www.hemaha.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-        "分类":"电影$1#电视剧$2#综艺$4#动漫$3"
-      }
+  "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+  "分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
 },
 {
   "key":"橙汁",
