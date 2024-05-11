@@ -2571,9 +2571,7 @@
   "name":"🎃木瓜影视",
   "type":3,
   "api":"csp_XBPQ",
-  "ext":{"作者": "小橙子","站名": "木瓜影视","请求头": "手机","编码": "UTF-8",
-  "主页url": "https://www.muguatva.com/",
-  "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+  "ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
   "分类":"电影&电视剧&综艺&动漫",
   "分类值": "dianying&lianxuju&zongyi&dongman"}
 },
