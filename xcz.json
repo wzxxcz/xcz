@@ -1087,14 +1087,6 @@
   "ext": "http://op.ysdqjs.cn$$$null$$$1"
 },
 {
-  "key": "南瓜影视",
-  "name": "🍈南瓜影院",
-  "type": 3,
-  "api": "https://vip.123pan.cn/1823165373/cally/lib/man.js",
-  "ext": "http://122.51.37.23/man/js/南瓜.js",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
-},
-{
   "key": "csp_NanGua",
   "name": "🍈南瓜影视",
   "type": 3,
