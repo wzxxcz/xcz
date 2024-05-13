@@ -34,6 +34,20 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
+  "key": "纸条",
+  "name": "🗞纸条搜索",
+  "type": 3,
+  "api": "csp_XiaoZhiTiao",
+  "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;2e1f6dccc1fe05e0ae79577587f5590f",
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "ext": {
+        "token": "file://TV/ali_token.txt"
+      },
+      "timeout": 15
+},
+{
   "key": "阿里合集",
   "name": "🦋阿里合集",
   "type": 3,
