@@ -1141,14 +1141,11 @@
   "name": "👍️荐片蓝光弹幕",
   "type": 3,
   "api": "csp_Jianpian",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;2e1f6dccc1fe05e0ae79577587f5590f",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 20
+  "timeout": 20
 },
 {
   "key": "csp_七新影视",
