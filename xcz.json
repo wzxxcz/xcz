@@ -2535,16 +2535,6 @@
       "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/xinshijue.json"
 },
 {
-  "key":"影探4K0",
-  "name":"💃影视探戈",
-  "type":3,
-  "api":"csp_AppYsV2",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"http://vipcms.lyyytv.cn/api.php/app/"
-},
-{
   "key": "zhuiyi",
   "name": "🍊追忆影视",
   "type": 3,
@@ -3224,17 +3214,6 @@
   "ext": "./lib/66影视.json"
 },
 {
-  "key": "csp_appys_影探",
-  "name": "🍊影探影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "jar": "http://www.lyyytv.cn/yt/yt.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://vip11.lyyytv.cn/api.php/app/"
-},
-{
       "key": "视觉",
       "name": "👓视觉影院",
       "type": 3,
@@ -3825,17 +3804,6 @@
   "name": "🍊映迷云",
   "type": 0,
   "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
-},
-{
-  "key": "csp_appys_影探",
-  "name": "🍊影探App",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "jar": "http://www.wya6.cn/tz/ybz.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://vip-cms.lyyytv.cn/api.php/app/"
 },
 {
   "key":"csp_xpath_zaixiandianying8",
