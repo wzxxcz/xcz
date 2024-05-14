@@ -3516,6 +3516,17 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key": "app影视",
+  "name": "🍊app影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+        "简介": "⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
+        "分类url": "https://www.appmovie.cc/index.php/vod/show/area/{area}/{year}/class/{class}/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+      }
+},
+{
   "key": "123影视",
   "name": "🍊123影视",
   "type": 3,
