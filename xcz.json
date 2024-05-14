@@ -1378,6 +1378,18 @@
   "ext": "./lib/星辰.json"
 },
 {
+      "key": "csp_星辰",
+      "name": "💚星辰影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": "http://122.51.37.23/man/xbpq/星辰.json"
+    },
+
+{
   "key": "T4-mingri",
   "name": "⛵️明日方舟",
   "type": 4,
