@@ -1070,15 +1070,6 @@
   "ext": "http://122.228.84.103:5822/api.php/app/"
 },
 {
-  "key":"酷云七七",
-  "name": "👒七七秒播",
-  "type":3,
-  "api":"csp_WexKuyun77",
-  "searchable":1,
-  "changeable":1,
-  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;92ac6f5136c5ce9885fe60122c545434"
-},
-{
   "key": "kekeys",
   "name": "🤡可可西里",
   "type": 3,
