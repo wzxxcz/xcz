@@ -1704,11 +1704,15 @@
   "ext": "https://pan.shangui.cc/f/wQ7DIg/ZZ.json"
 }, 
 {
-  "key": "drpy_js_大师兄影视",
+  "key": "大师兄",
   "name": "🤡大师兄影视",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大师兄影视.js"
+  "api": "csp_XBPQ",
+  "ext": {
+        "简介": "⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
+        "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+      }
 },
 {
   "key": "海兔",
