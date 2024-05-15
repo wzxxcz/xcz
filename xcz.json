@@ -904,16 +904,38 @@
   "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
 },
 {
-  "key": "高清在线",
+  "key": "高清资源网",
   "name": "🍊高清在线",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": {
-        "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
-        "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
-        "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"
-      }
+  "type": 1,
+  "api": "https://api.1080zyku.com/inc/apijson.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+  "categories": [
+        "动作片",
+        "国产剧",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "欧美剧",
+        "日本剧",
+        "泰国剧",
+        "韩国剧",
+        "台湾剧",
+        "香港剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫"
+      ]
 },
 {
   "key": "策驰影院",
