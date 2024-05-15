@@ -905,7 +905,7 @@
 },
 {
   "key": "高清资源网",
-  "name": "🍊高清在线",
+  "name": "🍊高清2K",
   "type": 1,
   "api": "https://api.1080zyku.com/inc/apijson.php",
   "searchable": 1,
@@ -936,6 +936,18 @@
         "日韩动漫",
         "欧美动漫"
       ]
+},
+{
+  "key": "高清在线",
+  "name": "🍊高清在线",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+        "简介": "剧情介绍: +stui-pannel_bd\">&&</div>",
+        "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
+        "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"
+      }
 },
 {
   "key": "策驰影院",
