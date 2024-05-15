@@ -1629,15 +1629,14 @@
 {
   "key":"横版影院",
   "name":"🐞短剧3短剧",
-  "type":1,
+  "type": 1,
   "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "categories": [
         "短剧"
-      ],
-  "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"
+      ]
 },
 {
   "key": "奈落",
