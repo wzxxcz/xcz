@@ -314,15 +314,15 @@
   "ext":"http://o.nxog.top/m/json/wod.json"
 },
 {
-  "key": "️玩偶哥",
-  "name": "❤️玩偶哥4K",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://a.nxog.top/m/json/wog.json"
+  "key":"️玩偶哥",
+  "name":"❤️玩偶哥4K",
+  "type":3,
+  "api":"csp_XYQHikerAL",
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59f3f76c511c3b7bcae01147c5b5afc4",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://o.nxog.top/m/json/wog.json"
 },
 {
   "key":"️玩偶妹",
