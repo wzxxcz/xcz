@@ -893,6 +893,13 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
+  "key":"畅梦影视",
+  "name":"🎄畅梦影视",
+  "type":3,
+  "api":"http://o.nxog.top/m/js/nxog.js",
+  "ext":"http://o.nxog.top/m/js/103.js"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
