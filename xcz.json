@@ -3533,6 +3533,14 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key": "555yingshi",
+  "name":"🎃555影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext": {"分类":"电影$1#电视剧$2#动漫$4",
+  "分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
+},
+{
   "key":"bkyy",
   "name":"🎃布卡影视",
   "type":3,
