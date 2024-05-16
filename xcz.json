@@ -4896,15 +4896,6 @@
 
 },
 {
-  "key": "金鹰资源",
-  "name": "🦅金鹰采集",
-  "type": 1,
-  "api": "https://jyzyapi.com/provide/vod/",
-  "playUrl": "",
-  "searchable": 1,
-  "quickSearch": 1
-},
-{
   "key":"api_飞速采集",
   "name":"🛫飞速采集",
   "type":1,
@@ -4921,15 +4912,6 @@
   "name": "🍊最大采集",
   "type": 1,
   "api": "http://zuidazy.co/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1
-},
-{
-  "key": "速博资源",
-  "name": "🏂速播采集",
-  "type": 1,
-  "api": "https://subocaiji.com/api.php/provide/vod/",
-  "playUrl": "",
   "searchable": 1,
   "quickSearch": 1
 },
@@ -5276,14 +5258,6 @@
         "分类url": "https://www.aitv1.com/show/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "电影$dy#连续剧$lianxuju#综艺$zy#动漫$dm#纪录片$jilupian"
       }
-},
-{
-  "key":"光速资源",
-  "name":"🍊光速资源",
-  "type":1,
-  "api":"https://api.guangsuapi.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1
 },
 {
   "key": "非凡资源",
