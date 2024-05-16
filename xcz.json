@@ -3545,6 +3545,18 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key":"bkyy",
+  "name":"🎃布卡影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"副标题":"公众号欧歌APP",
+  "分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"}
+},
+{
   "key": "csp_xBPQ_小茶狐",
   "name": "🍊小茶狐",
   "type": 3,
