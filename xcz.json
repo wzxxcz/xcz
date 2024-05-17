@@ -2472,12 +2472,14 @@
 },
 {
   "key":"影探蓝光",
-  "name":"💡影探影视",
+  "name":"💡影探蓝光",
   "type":3,
-  "api":"csp_WexYingtan4k",
-  "jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9",
+  "api":"csp_App",
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
   "searchable":1,
-  "changeable":1
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
 },
 {
   "key": "蜂鸟1",
