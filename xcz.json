@@ -3523,6 +3523,14 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key":"金鹰资源",
+  "name":"🦅金鹰资源",
+  "type":1,
+  "api":"http://jinyingzy.com/provide/vod",
+  "searchable":1,
+  "quickSearch":1
+},
+{
   "key": "555yingshi",
   "name":"🎃555影视",
   "type":3,
