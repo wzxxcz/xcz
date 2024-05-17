@@ -3523,6 +3523,14 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key":"光速资源",
+  "name":"🚀光速资源",
+  "type":1,
+  "api":"https://api.guangsuapi.com/api.php/provide/vod/",
+  "searchable":1,
+  "quickSearch":1
+},
+{
   "key":"金鹰资源",
   "name":"🦅金鹰资源",
   "type":1,
