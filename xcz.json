@@ -667,17 +667,6 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
 },
 {
-  "key": "csp_XYQHiker_‍dyx",
-  "name": "👉宙磁高清",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://pan.shangui.cc/f/2mL4hx/dyg.json",
-  "jar": "https://pan.shangui.cc/f/MeZ1uy/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-},
-{
   "key": "csp_XYQHikerdyx",
   "name": "❤️蚂蚁磁力",
   "type": 3,
