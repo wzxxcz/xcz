@@ -861,6 +861,15 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
+  "key":"耐看影视",
+  "name":"💡耐看影视",
+  "type":3,
+  "api":"csp_AppNK",
+  "searchable":1,
+  "changeable":0,
+  "ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="
+},
+{
   "key":"畅梦影视",
   "name":"🎄畅梦影视",
   "type":3,
