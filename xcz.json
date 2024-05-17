@@ -3523,6 +3523,15 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key": "速博资源",
+  "name": "速播采集",
+  "type": 1,
+  "api": "https://subocaiji.com/api.php/provide/vod/",
+  "playUrl": "",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key":"光速资源",
   "name":"🚀光速资源",
   "type":1,
