@@ -946,7 +946,6 @@
   "name":"🎄畅梦影视",
   "type":3,
   "api":"http://v.nxog.top/m/js/nxog.js",
-  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
   "ext":"http://v.nxog.top/m/js/103.js"
 },
 {
@@ -1428,13 +1427,6 @@
                 "欧美动漫",
                 "日本动漫"
             ]
-},
-{
-  "key":"畅梦影视",
-  "name":"🎄畅梦影视",
-  "type":3,
-  "api":"http://tv.nxog.top/m/js/nxog.js",
-  "ext":"http://tv.nxog.top/m/js/103.js"
 },
 {
   "key": " 星辰影",
