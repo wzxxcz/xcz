@@ -1140,6 +1140,13 @@
   "ext":"http://o.nxog.top/m/js/tt.js"
 },
 {
+  "key":"优",
+  "name":"🎄优优影视",
+  "type":3,
+  "api":"http://o.nxog.top/m/js/nxog.js",
+  "ext":"http://o.nxog.top/m/js/yy.js"
+},
+{
   "key":"csp_ipianba",
   "name":"🎃片吧影视",
   "type":3,
