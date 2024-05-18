@@ -1133,6 +1133,13 @@
   "ext":"http://o.nxog.top/m/js/104.js"
 },
 {
+  "key":"腾",
+  "name":"🎄腾腾影视",
+  "type":3,
+  "api":"http://o.nxog.top/m/js/nxog.js",
+  "ext":"http://o.nxog.top/m/js/tt.js"
+},
+{
   "key":"csp_ipianba",
   "name":"🎃片吧影视",
   "type":3,
