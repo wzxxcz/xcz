@@ -2221,17 +2221,6 @@
   "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
 },
 {
-  "key": "csp_圣城",
-  "name": "💚圣城影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/圣城.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
-},
-{
       "key": "csp_xml_ikun",
       "name": "🍊爱坤资源",
       "type": 1,
