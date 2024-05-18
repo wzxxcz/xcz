@@ -1361,15 +1361,13 @@
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/20230625.jar"
 }, 
 {
-  "key": "csp_文才",
+  "key":"文才影视",
   "name": "💚文才(有广)",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "./lib/文才.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "type":3,
+  "api":"csp_Wexwencai",
+  "searchable":1,
+  "changeable":1,
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8"
 },
 {
   "key": "lzi",
