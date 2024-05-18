@@ -2213,10 +2213,13 @@
 {
   "key": "圣城影视",
   "name": "🏰圣城影视",
-  "type": 3,
-  "playerType": "2",
-  "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-  "ext": "http://dt.xn--yety82d.love/js/SC1080.js"
+  "type":3,
+  "api":"csp_AppNK",
+  "jar": "https://gh.con.sh/https://raw.githubusercontent.com/yylxhjgy/yylx/95bb226fff27b5dda2997d5fb7d5f81889f72a59/3.0/lib/1_spider.jar",
+  "searchable":1,
+  "changeable":0,
+  "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
+},
 },
 {
   "key": "csp_圣城",
