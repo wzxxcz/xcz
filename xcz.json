@@ -1731,14 +1731,14 @@
       }
 },
 {
-  "key": "csp_Kuaikan",
+  "key":"快看影视",
   "name": "👀快看影院",
-  "type": 3,
-  "api": "csp_Kuaikan",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;37F423F908626D3019778B132D20FCFA"
+  "type":3,
+  "api":"csp_Kuaikan",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8"
 },
 {
   "key":"飘零影院",
