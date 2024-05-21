@@ -1224,14 +1224,18 @@
   "ext": "./lib/红狐狸.json"
 },
 {
-  "key":"天天",
-  "name":"🏞天外有天",
+  "key": "天天弹幕版",
+  "name": "⛅️天天蓝光弹幕",
   "type": 3,
-  "api": "csp_TTian",
-  "jar": "http://www.wya6.cn/tz/wypg.php",
-  "playerType": 1,
-  "changeable": 2,
-  "ext": "http://op.ysdqjs.cn$$$null$$$1"
+  "api": "csp_TianTian",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+        "danmu": true
+      },
+      "timeout": 10
 },
 {
   "key":"南瓜影视2",
