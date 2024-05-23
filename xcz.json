@@ -5729,7 +5729,6 @@
       "url": "http://122.228.84.103:7777/api/?key=rSqUtltpbfk1xsQFjz&url="
     },
     {"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
-{"name":"7777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"蚂蚁天下","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 	{"name":"线路6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 	{"name":"线路7","type":0,"url":"https://www.8090g.cn/?url="},
@@ -6121,11 +6120,6 @@
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
     },
     {
-      "name": "猎狼解析20",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
       "name": "猎狼解析23",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url="
@@ -6301,11 +6295,6 @@
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
     },
     {
-      "name": "观音嗅探",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
       "name": "燃茶嗅探",
       "type": 1,
       "url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url="
@@ -6388,7 +6377,6 @@
 {"name":"皇后解析","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="},
 {"name":"小米解析","type": 1,"url": "http://xhww.fun:63/小米特别爱肥猫.php?url="},
 {"name": "超级解析2","type": 1,"url": "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
-{"name":"7777嗅探","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"夜幕嗅探","type":0,"url":"https://www.yemu.xyz/?url="},
 {"name":"4433嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name": "高清嗅探","type": 0,"url": "https://www.8090g.cn/jiexi/?url="}, 
@@ -7766,11 +7754,6 @@
           "User-Agent": "okhttp/4.1.0"
         }
       }
-    },
-    {
-      "name": "♻️腾讯",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
     },
     {
       "name": "-777-",
