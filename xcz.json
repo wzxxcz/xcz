@@ -81,6 +81,20 @@
   "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
 {
+      "key": "PanSearch",
+      "name": "🙀盘Se┃搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+
+{
   "key": "玩偶",
   "name": "👽玩偶4K",
   "type": 3,
