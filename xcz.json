@@ -2674,26 +2674,17 @@
   "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/hjcj.json"
 },
 {
-  "key": "drpy_js_爱看机器人",
-  "name": "👾爱看机器",
+  "key": "rarbt",
+  "name": "🤖机器蓝光纯净",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"
+  "changeable": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=机器人"
 },
-{
-      "key": "rarbt",
-      "name": "🤖机器┃蓝光┃纯净",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=机器人"
-    },
-
-
 {
   "key":"csp_mgtva",
   "name":"🎃木瓜影视",
