@@ -862,6 +862,15 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
+      "key": "初恋资源",
+      "name": "🧡┃初恋┃官源",
+      "type": 1,
+      "api": "https://video.adminqt.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+{
   "key":"耐看影视",
   "name":"💡耐看影视",
   "type":3,
