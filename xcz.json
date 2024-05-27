@@ -611,6 +611,17 @@
   "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
 },
 {
+  "key": "New6v",
+  "name": "💘New6V磁力",
+  "type": 3,
+  "api": "csp_New6v",
+  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.xb6v.com"
+},
+{
   "key": "csp_4k影视",
   "name": "💚4k影视",
   "type": 3,
