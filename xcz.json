@@ -862,6 +862,15 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
+  "key": "佳佳影视",
+  "name": "💡佳佳影视",
+  "type": 3,
+  "api": "csp_Wexjiajia",
+  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "searchable": 1,
+  "changeable": 1
+},
+{
   "key": "花漾影视",
   "name": "💡花漾影视",
   "type": 3,
