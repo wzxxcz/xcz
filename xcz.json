@@ -979,11 +979,12 @@
   "ext":"https://vidhub1.cc"
 },
 {
-  "key":"畅梦影视",
-  "name":"🎄畅梦影视",
-  "type":3,
-  "api":"http://v.nxog.top/m/js/nxog.js",
-  "ext":"http://v.nxog.top/m/js/103.js"
+  "key": "畅梦影视",
+  "name": "🎄畅梦影视",
+  "type": 3,
+  "api": "http://xn--dkw0c.y.nxog.top/m/js/nxog.js",
+  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "ext": "http://xn--dkw0c.y.nxog.top/m/js/103.js"
 },
 {
   "key":"茶杯狐",
