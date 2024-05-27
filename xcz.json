@@ -632,6 +632,16 @@
   "ext": "https://www.xb6v.com"
 },
 {
+  "key": "迅雷吧",
+  "name": "💘迅雷吧磁力",
+  "type": 3,
+  "api": "csp_Xunlei8",
+  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "csp_4k影视",
   "name": "💚4k影视",
   "type": 3,
