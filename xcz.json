@@ -1245,6 +1245,14 @@
       "timeout": 10
 },
 {
+  "key": "天天影视",
+  "name": "💡天天影视",
+  "type": 3,
+  "api": "csp_TTian",
+  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "ext": "http://op.ysdqjs.cn"
+},
+{
   "key":"南瓜影视2",
   "name":"🍈南瓜影院",
   "type":3,
