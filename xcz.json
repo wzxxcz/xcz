@@ -792,7 +792,7 @@
   "name": "👓视觉多线",
   "type": 3,
   "api": "csp_Xinsj",
-  "jar":"http://www.wya6.cn/tz/wyz.php;md5;6695b4fe705a1eedcae352abe5412640",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545043733/fan.txt;md5;8a6d3aafbfc1769dd1939f98742d5b06",
   "timeout": 15,
   "searchable": 1,
   "quickSearch": 1,
@@ -860,6 +860,14 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "https://www.zxzjhd.com/"
+},
+{
+  "key": "初恋资源",
+  "name": "🧡初恋官源",
+  "type": 1,
+  "api": "https://video.adminqt.cn/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
 },
 {
   "key":"耐看影视",
@@ -977,18 +985,6 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
-},
-{
-  "key": "AI2",
-  "name": "🧞AI2仅搜索",
-  "type": 3,
-  "api": "csp_AI",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "playerType": 2,
-  "ext": "http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji",
-  "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
 },
 {
   "key": "高清资源网",
@@ -2345,15 +2341,6 @@
         }
 },
 {
-  "key": "柠檬",
-  "name": "🍋柠檬App",
-  "type": 3,
-  "api": "csp_Nmvod",
-  "playerType": 2,
-  "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
-  "ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url="
-},
-{
   "key":"drpy_js_思古影视",
   "name":"📽️思古影视",
   "type":3,
@@ -2620,15 +2607,6 @@
   "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
 },
 {
-  "key":"qj2",
-  "name":"🍊小橙子二站",
-  "type":3,
-  "api":"csp_qiao2",
-  "playerType":2,
-  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2",
-  "jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"
-},
-{
   "key":"星星",
   "name":"🌠星星之火",
   "type":3,
@@ -2703,18 +2681,6 @@
   "ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"
 },
 {
-  "key": "超神",
-  "name": "🍊超神App",
-  "type": 3,
-  "api": "csp_qiao",
-  "searchable": 1,
-  "quickSearch": 1,
-  "playerType": 2,
-  "filterable": 1,
-  "jar": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
-  "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
-},
-{
   "key":"csp_AppMr",
   "name":"👻明明影视",
   "type":3,
@@ -2746,17 +2712,6 @@
   "filterable":1
 },
 {
-  "key": "Bdys_spider",
-  "name": "💡哔滴直连",
-  "api": "csp_Bdys01",
-  "type": 3,
-  "filterable": 1,
-  "quickSearch": 1,
-  "searchable": 1,
-  "jar": "http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
-  "ext": ""
-},
-{
   "key": "03影院",
   "name": "🐰03影院",
   "type": 3,
@@ -2781,16 +2736,6 @@
                 "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
-},
-{
-  "key": "看看",
-  "name": "🍊看看App",
-  "type": 3,
-  "api": "csp_KanKan",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "jar": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001"
 },
 {
   "key": "drpy_js_小狗影院",
@@ -3226,18 +3171,6 @@
   "ext": "http://cdn.teyonds.com/js/九悠影视.js"
 },
 {
-  "key": "时常",
-  "name": "🍊时常APP",
-  "type": 3,
-  "api": "csp_qiao3",
-  "searchable": 1,
-  "quickSearch": 1,
-  "playerType": 1,
-  "filterable": 0,
-  "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9",
-  "jar": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246"
-},
-{
   "key": "88",
   "name": "🥳聚合资源",
   "type": 3,
@@ -3307,18 +3240,6 @@
         "分类url": "https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
-},
-{
-  "key":"石榴影视",
-  "name": "🍋石榴影视",
-  "api": "csp_ShiLiuDY",
-  "type": 3,
-  "filterable": 1,
-  "playerType": 1,
-  "quickSearch": 1,
-  "searchable": 1,
-  "jar": "http://cdn.qiaoji8.com/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
-  "ext": ""
 },
 {
   "key": "奈飞影视",
@@ -3511,18 +3432,6 @@
   "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
-  "key": "360_spider",
-  "name": "🍊360解析",
-  "api": "csp_SP360",
-  "type": 3,
-  "filterable": 1,
-  "quickSearch": 1,
-  "searchable": 1,
-  "playerType": 2,
-  "jar": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
-  "ext": ""
-},
-{
   "key":"胡胡",
   "name":"💡胡胡影视",
   "type":3,
@@ -3700,18 +3609,6 @@
   "ext": "./lib/小熊影视.json"
 },
 {
-  "key": "AI3",
-  "name": "🧞AI1仅搜索",
-  "type": 3,
-  "api": "csp_AI",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "playerType": 2,
-  "ext": "http://124.222.30.115/mb/api.php/provide/vod/|okhttp/4.9.1|qiaoji",
-  "jar": "http://cdn.qiaoji8.com/fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa"
-},
-{
   "key": "剧圈影视",
   "name": "🔥剧圈影视",
   "type": 3,
@@ -3841,17 +3738,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/七月影视.json"
-},
-{
-  "key": "影视王朝",
-  "name": "🦄王朝影视",
-  "type": 3,
-  "api": "csp_Yswc",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "",
-  "jar": "http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
 },
 {
   "key": "jszy",
@@ -4441,17 +4327,6 @@
   "api": "csp_XBPQ",
   "ext": "分类url:http://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16",
   "jar": "http://z3121889160.3vhost.work/jar/zf.jar"
-},
-{
-  "key":"WC",
-  "name":"🎪潮潮影视",
-  "type":3,
-  "api":"csp_Yswc",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"",
-  "jar":"http://cdn.qiaoji8.com/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
 },
 {
   "key":"蛙视频",
@@ -5336,15 +5211,6 @@
   "ext": "./lib/土豪影视.json"
 },
 {
-  "key": "极光",
-  "name": "🍊极光App",
-  "type": 3,
-  "api": "csp_Skapp",
-  "jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b",
-  "playerType": 2,
-  "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
-},
-{
   "key": "csp_午舞",
   "name": "🍊午舞影视",
   "type": 3,
@@ -5481,6 +5347,15 @@
       "type": 3,
       "url": "Web"
     },
+    {
+  "name":"小橙子一",
+  "type":1,
+  "url":"http://119.91.123.253:2345/Api/yun.php?url=", 
+  "ext": { 
+  "flag": ["YuMi","FYNB","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+  "header":{"User-Agent":"okhttp/3.12.11"} } 
+    },
+    {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
     {
       "name":"线路1",
       "type":0,
