@@ -67,18 +67,18 @@
   "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
 {
-  "key": "盘Se",
+  "key": "PanSearch",
   "name": "🙀盘Se搜索",
   "type": 3,
   "api": "csp_PanSearch",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716742624054/fan.txt;md5;31e6192040d63714d063d5a5aba287a9",
   "searchable": 1,
-  "filterable": 0,
+  "quickSearch": 1,
   "changeable": 0,
   "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15,
-  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
 },
 {
   "key": "玩偶",
