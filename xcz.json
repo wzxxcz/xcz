@@ -1975,16 +1975,6 @@
   "ext": "./lib/348影院.json"
 },
 {
-  "key": "csp_西屋",
-  "name": "💚西屋影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "./lib/西屋.json"
-},
-{
   "key": "嗨剧影视",
   "name": "📍嗨翻剧场",
   "type": 3,
