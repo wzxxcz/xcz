@@ -1062,6 +1062,7 @@
   "name": "🍊高清2K",
   "type": 1,
   "api": "https://api.1080zyku.com/inc/apijson.php",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
