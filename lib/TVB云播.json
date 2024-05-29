@@ -14,7 +14,7 @@
     
     "主演":"主演：</span>&&</p>",
     
-    "简介":"【小橙子】提醒您请勿相信影片中的广告，以免上当受骗！欢迎进入小橙子影视。+class=\"sketch content\">&&</span>",
+    "简介":"+class=\"sketch content\">&&</span>",
     
     "数组":"myui-vodlist__thumb&&</a>",
     
@@ -26,19 +26,21 @@
     
     "链接":"href=\"&&\"",
     
-    "搜索模式":"1",
+    //"搜索url":"/vod/search.html?wd={wd}&submit=",
     
-    "搜索url":"/vod/search.html?wd={wd}&submit=",
+    //"搜索数组":"myui-vodlist__thumb&&</a>",
     
-    "搜索数组":"myui-vodlist__thumb img-lg-150 img-md-150 img-sm-150 img-xs-100 lazyload\"&&</a>",
+    //"搜索标题":"title=\"&&\"",
     
-    "搜索标题":"title=\"&&\"",
+    //"搜索副标题":"pic-tag pic-tag-top\">&&</span>",
     
-    "搜索副标题":"background-color:*>&&</span>",
+    //"搜索图片":"data-original=\"&&\"",
     
-    "搜索图片":"data-original=\"&&\"",
+    //"搜索链接":"href=\"&&\"",
     
-    "搜索链接":"href=\"&&\"",
+    //"搜索模式":"1",
+    
+    //"搜索后缀":"/vod/detail/id/",
     
     "线路数组":"</a><h3&&/h3>",
     
