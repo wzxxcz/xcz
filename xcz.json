@@ -1056,6 +1056,17 @@
   "ext":"./lib/剧圈圈.json"
 },
 {
+  "key":"光棍影视",
+  "name":"🍊光棍秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/guangun.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -3351,7 +3362,7 @@
 },
 {
   "key":"drpy_js_磁力熊[磁]",
-  "name":"🐻‍❄️吃力熊熊",
+  "name":"🐻吃力熊熊",
   "type":3,
   "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
   "ext":"https://notabug.org/ygfxz/6/raw/main/js/js/磁力熊[磁].js"
@@ -3508,17 +3519,6 @@
   "filterable": 1,
   "ext": "./lib/骚火.json",
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
-},
-{
-  "key":"光棍影视",
-  "name":"🍊光棍秒播",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/guangun.json"
 },
 {
   "key":"胖虎",
