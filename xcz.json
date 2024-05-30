@@ -134,7 +134,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/影搜cally.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_开心阿里",
@@ -146,7 +146,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/开心阿里.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "天天开心",
@@ -169,7 +169,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/土豆玩偶.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_找资源",
@@ -180,7 +180,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/找资源.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -192,7 +192,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩偶哥哥cally.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "玩偶哥哥",
@@ -203,7 +203,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩偶哥哥.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_Yisou",
@@ -215,7 +215,7 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "YiSo",
@@ -241,7 +241,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/盘搜.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_云盘资源",
@@ -252,7 +252,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/云盘资源cally.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
@@ -264,7 +264,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩偶表哥.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "多多弹幕",
@@ -380,7 +380,7 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "玩我哥哥",
@@ -391,7 +391,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩我哥哥.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_云盘资源",
@@ -402,7 +402,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/云盘资源.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_Upyunso",
@@ -413,7 +413,7 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "土豆阿里",
@@ -424,7 +424,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/土豆阿里.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_XYQHiker_影搜",
@@ -435,7 +435,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/影搜.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "Up云搜",
@@ -617,7 +617,7 @@
   "name": "🍊阿里up搜",
   "type": 3,
   "api": "csp_Upyunso",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
@@ -1060,7 +1060,7 @@
   "name":"🍊光棍秒播",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -1093,7 +1093,7 @@
   "name": "🐎策驰影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1104,7 +1104,7 @@
   "name": "🍊悠云追剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "ext": {"简介":">&&</div>",
   "分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
   "分类": "电影$1#连续剧$2#动漫$4#综艺$3"}
@@ -1385,7 +1385,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/七新.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_Vidhub2", 
@@ -1454,7 +1454,7 @@
   "name": "💚文才(有广)",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -1465,7 +1465,7 @@
   "name": "🍊量子资源",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1605,7 +1605,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/98影视.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "南瓜弹幕版",
@@ -1687,7 +1687,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/七新影视.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key":"Vidhub视频",
@@ -3271,7 +3271,7 @@
   "name":"🦢鸭奈飞秒播",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3282,7 +3282,7 @@
   "name": "🕊️奈飞秒播",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3421,7 +3421,7 @@
   "name": "🍵茶杯影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3516,7 +3516,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/骚火.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key":"胖虎",
@@ -3533,7 +3533,7 @@
   "name": "🍋石榴影视",
   "type": 3,
   "api":"csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3720,7 +3720,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/素白.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "csp_xBPQ可可",
@@ -5339,7 +5339,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/奇优影院.json",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
   "key": "种子短剧",
