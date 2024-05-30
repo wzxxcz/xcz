@@ -857,6 +857,15 @@
   "changeable": 1
 },
 {
+  "key":"美柏",
+  "name":"🍊美柏",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,"ext":"./lib/美柏.json"
+},
+{
   "key": "低端",
   "name": "🔋低端蓝光外剧",
   "type": 3,
@@ -1045,15 +1054,6 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/剧圈圈.json"
-},
-{
-  "key":"美柏",
-  "name":"🍊美柏",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,"ext":"./lib/美柏.json"
 },
 {
   "key": "小柚",
