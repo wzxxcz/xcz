@@ -1037,6 +1037,16 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=雪儿"
 },
 {
+  "key":"美柏",
+  "name":"🍊美柏",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/美柏.json"
+},
+{
   "key":"剧圈圈",
   "name":"🍊剧圈圈",
   "type":3,
