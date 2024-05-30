@@ -3144,7 +3144,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"./lib/beichuan.json",
+  "ext":"./lib/beichuan.json"
 },
 {
   "key":"csp_xbb_奈菲影院",
