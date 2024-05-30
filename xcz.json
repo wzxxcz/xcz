@@ -3510,6 +3510,16 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/0407.jar"
 },
 {
+  "key":"胖虎",
+  "name":"🐅胖虎",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/胖虎.json"
+},
+{
   "key":"石榴影视",
   "name": "🍋石榴影视",
   "type": 3,
