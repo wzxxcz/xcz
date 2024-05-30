@@ -1448,7 +1448,6 @@
   "quickSearch":1,
   "filterable":1, 
   "ext": "./lib/苹果影院.json",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/20230625.jar"
 }, 
 {
   "key":"文才影视",
@@ -3146,7 +3145,6 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/beichuan.json",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/20230625.jar"
 },
 {
   "key":"csp_xbb_奈菲影院",
