@@ -4445,10 +4445,10 @@
 {
   "key":"drpy_js_人人影视",
   "name":"👩‍❤‍👨人人影视",
-  "type":3,
-  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/人人影视.js",
-  "jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad"
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js",
+  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
   "key": "drpy_js_139影视",
