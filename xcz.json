@@ -3535,6 +3535,19 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
+  "key":"魅影影视",
+  "name":"🤷魅美影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
+  "分类url":"https://www.heitujc.com/screen/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类":"电影&电视剧&综艺&动漫",
+  "分类值":"1&2&3&4"}
+}, 
+{
   "key":"csp_美益达影视",
   "name":"💄美益达影视",
   "type":3,
