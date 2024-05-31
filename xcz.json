@@ -3522,6 +3522,14 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
+  "key":"csp_美益达影视",
+  "name":"💄美益达影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"分类url":"https://www.myd02.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+  "分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}
+}, 
+{
   "key":"胖虎",
   "name":"🐅胖虎",
   "type":3,
