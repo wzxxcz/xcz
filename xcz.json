@@ -3535,6 +3535,20 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
+  "key":"M2077",
+  "name":"🍊2077影视",
+  "type":3,
+  "filterable":1,
+  "api":"csp_XBPQ",
+  "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e",
+  "简介":"module-info-introduction-content\">&&",
+  "线路数组":"module-tab-item tab-item&&",
+  "线路标题":"&&",
+  "跳转播放链接":"var player_*\"url\":\"&&\"",
+  "分类url":"https://www.m2077.com/vod-show/{cateId}-{area}-{by}------{catePg}---{year}/",
+  "分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育录像$38#18禁$20#短剧爽剧$41"}
+},  
+{
   "key":"星空影视2",
   "name":"⭐星空福利",
   "type":3,
