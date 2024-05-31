@@ -3522,16 +3522,6 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
-	"key": "sansan",
-	"name": "1080P解析",
-	"type": 3,
-	"api": "csp_SP360",
-  "jar": "http://稳定接口.tvbox.中国/jar.php;md5;f154ba973ace6562b2e82815952b089e",
-	"searchable": 1,
-	"quickSearch": 1,
-	"changeable": 0
-},
-{
   "key":"csp_美益达影视",
   "name":"💄美益达影视",
   "type":3,
