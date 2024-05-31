@@ -1884,11 +1884,9 @@
 {
   "key":"csp_biubiu_大米星球",
   "name":"🍛大米星球",
-  "type": 0,
-  "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大米星球.js"
 },
 {
   "key": "滋滋", 
