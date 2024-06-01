@@ -857,6 +857,24 @@
   "changeable": 1
 },
 {
+  "key": "csp_Bttoo",
+  "name": "🍄推荐3-4k",
+  "type": 3,
+  "api": "csp_Bttwoo",
+  "jar":"https://k.hhyyqq.com/uploads/itvbox/jar/fan0423.txt;md5;4af14dca6964a737a88b982cb8b20055",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "categories": [
+        "国产剧",
+        "美剧",
+        "日韩剧",
+        "最新电影",
+        "热门放映",
+        "本月热门"
+      ]
+},
+{
             "key": "热播库",
             "name": "👉小橙子热播",
             "type": 3,
