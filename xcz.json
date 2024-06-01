@@ -3247,14 +3247,14 @@
   "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
-  "key": "meowtv_vfys",
+  "key": "vfys",
   "name": "🍊VOF影视",
   "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "api": "http://www.meowtv.cn/js/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/VOF影视.js"
+  "ext": "http://www.meowtv.cn/js/VOF影视.js"
 },
 {
   "key": "meowtv_jyys",
