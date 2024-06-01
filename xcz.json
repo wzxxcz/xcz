@@ -959,15 +959,6 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
-  "key": "Wexxiongdiys",
-  "name": "👬基友影视App",
-  "type": 3,
-  "api": "csp_Wexxiongdiys",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716905178909/wex.txt;md5;65dfd0d70088b6d29c176bbbea831efc",
-  "searchable": 1,
-  "changeable": 1
-},
-{
   "key": "看看影视",
   "name": "💡看看影视",
   "type": 3,
