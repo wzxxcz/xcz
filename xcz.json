@@ -5487,6 +5487,16 @@
       "url": "Web"
     },
     {
+      "name": "小橙子MeowTV",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
   "name":"小橙子一",
   "type":1,
   "url":"http://119.91.123.253:2345/Api/yun.php?url=", 
