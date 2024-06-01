@@ -3335,15 +3335,15 @@
   "jar": "http://www.meowtv.cn/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
-  "key": "meowtv_syys",
-  "name": "🍊速映影视",
+  "key": "syys",
+  "name": "速映影视",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/速映影视.json",
-  "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
+  "ext": "http://www.meowtv.cn/xp/速映影视.json",
+  "jar": "http://www.meowtv.cn/jar/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
   "key": "csp_淘剧",
