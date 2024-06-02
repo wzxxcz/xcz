@@ -3529,11 +3529,10 @@
   "name": "💚西屋影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "http://154.12.83.152/jar/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
-  "ext": "./西屋.json"
+  "ext": "./lib/西屋.json"
 },
 {
   "key":"M2077",
