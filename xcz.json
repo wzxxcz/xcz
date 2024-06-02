@@ -71,11 +71,11 @@
   "name": "🙀盘Se搜索",
   "type": 3,
   "api": "csp_PanSearch",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716742624054/fan.txt;md5;31e6192040d63714d063d5a5aba287a9",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717247209327/fan.txt;md5;a452c971528decfec70d8c83d4918d85",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
-  "ext": {
+      "ext": {
         "aliToken": "tvfan/token.txt",
         "from": "4k|auto|fhd"
       }
