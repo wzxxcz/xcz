@@ -3529,6 +3529,7 @@
   "name": "💚西屋影视",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
