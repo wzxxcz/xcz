@@ -67,20 +67,6 @@
   "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
 {
-  "key": "盘Se",
-  "name": "🙀盘Se搜索",
-  "type": 3,
-  "api": "csp_PanSearch",
-  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;2e1f6dccc1fe05e0ae79577587f5590f",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15
-},
-{
   "key": "玩偶",
   "name": "👽玩偶4K",
   "type": 3,
