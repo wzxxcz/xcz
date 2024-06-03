@@ -812,6 +812,15 @@
   "changeable":1
 },
 {
+  "key":"明日影视",
+  "name":"💡明日影视",
+  "type":3,
+  "api":"csp_WexMingriys",
+  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
@@ -1000,15 +1009,6 @@
   "quickSearch":1,
   "filterable":0,
   "ext":"z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
-},
-{
-  "key":"明日影视",
-  "name":"💡明日影视",
-  "type":3,
-  "api":"csp_WexMingriys",
-  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
-  "searchable":1,
-  "changeable":1
 },
 {
   "key":"追影视频",
