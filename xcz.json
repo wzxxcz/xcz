@@ -788,6 +788,16 @@
   "changeable": 1
 },
 {
+  "key": "csp_cally",
+  "name": "🍊小橙子采集",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/callyxbpq.json"
+},
+{
   "key": "csp_Bttoo",
   "name": "🍄推荐3-4k",
   "type": 3,
