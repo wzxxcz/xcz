@@ -1011,15 +1011,6 @@
   "changeable":1
 },
 {
-  "key": "明日影视",
-  "name": "🪁明日蓝光秒播",
-  "type": 3,
-  "api": "csp_WexMingriys",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "changeable": 1
-},
-{
   "key":"追影视频",
   "name":"💡追影影视",
   "type":3,
