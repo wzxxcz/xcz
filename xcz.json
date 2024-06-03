@@ -137,18 +137,6 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
-  "key": "csp_Yisou",
-  "name": "🍊阿里易搜",
-  "type": 3,
-  "api": "csp_Yisou",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
-},
-{
   "key": "YiSo",
   "name": "😹易搜搜索",
   "type": 3,
@@ -768,7 +756,7 @@
   "name": "👓视觉多线",
   "type": 3,
   "api": "csp_Xinsj",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717247209327/fan.txt;md5;a452c971528decfec70d8c83d4918d85",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717391432471/fan.txt;md5;96be258292bdbcb1681ce99c900b00de",
   "timeout": 15,
   "searchable": 1,
   "quickSearch": 1,
