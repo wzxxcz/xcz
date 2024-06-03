@@ -3524,6 +3524,17 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
+  "key": "csp_lwdy",
+  "name": "🤫老王有广勿信",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=老王电影"
+},
+{
   "key": "csp_西屋",
   "name": "💚西屋影视",
   "type": 3,
