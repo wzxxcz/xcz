@@ -1549,11 +1549,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": {
-        "分类url": "https://www.qidun.cc/vodshow/{cateId}-{area}----{letter}---{catePg}---{yaer}.html",
-        "分类": "电影&电视剧&动漫&综艺&短句",
-        "分类值": "fenlei2&fenlei1&fenlei3&fenlei4&duanju"
-      }
+  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=星辰"
 },
 {
   "key": "csp_星辰",
