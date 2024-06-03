@@ -803,6 +803,15 @@
   "changeable":1
 },
 {
+  "key":"两个磁力",
+  "name":"💡两个影视",
+  "type":3,
+  "api":"csp_Wexbttwo",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
