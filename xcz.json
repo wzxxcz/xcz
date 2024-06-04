@@ -137,20 +137,6 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
-  "key": "YiSo",
-  "name": "😹易搜搜索",
-  "type": 3,
-  "api": "csp_YiSo",
-  "jar": "http://www.wya6.cn/tz/wyz.php;md5;8a6d3aafbfc1769dd1939f98742d5b06",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-},
-{
   "key": "csp_XYQHiker_盘搜索",
   "name": "🍊阿里盘搜",
   "type": 3,
