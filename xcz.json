@@ -244,7 +244,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"http://o.nxog.top/m/json/wod.json"
+  "ext":"./lib/wod.json"
 },
 {
   "key": "️玩偶哥",
