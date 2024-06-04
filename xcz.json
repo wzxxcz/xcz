@@ -211,7 +211,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"./lib/woj.json"
+  "ext":"http://tv.nxog.top/m/json/woj.json"
 },
 {
   "key":"AliPS",
