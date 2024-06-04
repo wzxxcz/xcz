@@ -554,15 +554,15 @@
   "filterable":1
 },
 {
-  "key": "New6v",
-  "name": "💘New6V磁力",
-  "type": 3,
-  "api": "csp_New6v",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.xb6v.com"
+  "key":"New6v",
+  "name":"💘New6V磁力",
+  "type":3,
+  "api":"csp_New6v",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://www.xb6v.com"
 },
 {
   "key": "迅雷吧",
