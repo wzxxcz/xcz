@@ -3823,17 +3823,6 @@
   "ext": "./lib/奥特.json"
 },
 {
-  "key": "csp_素白",
-  "name": "💚素白影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/素白.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
-},
-{
   "key": "csp_xBPQ可可",
   "name": "🍊可可影视",
   "type": 3,
