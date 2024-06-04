@@ -812,6 +812,15 @@
   "changeable":1
 },
 {
+  "key":"素白白",
+  "name":"💡素白影视",
+  "type":3,
+  "api":"csp_Subaibai",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
   "key":"明日影视",
   "name":"💡明日影视",
   "type":3,
