@@ -2770,16 +2770,12 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=机器人"
 },
 {
-  "key": "csp_mgtva",
-  "name": "🎃木瓜影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
-  "ext": {
-        "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-        "分类": "电影&电视剧&综艺&动漫",
-        "分类值": "dianying&lianxuju&zongyi&dongman"
-      }
+  "key":"csp_mgtva",
+  "name":"🎃木瓜影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+  "分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}
 },
 {
   "key":"畅梦",
