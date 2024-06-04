@@ -255,7 +255,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://xn--dkw0c.y.nxog.top/m/json/wog.json"
+  "ext": "./lib/wog.json"
 },
 {
   "key":"️玩偶妹",
