@@ -306,7 +306,6 @@
   "name":"📀UP云搜(搜索)",
   "type":3,
   "api":"csp_Upyunso",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/d68125557d33866d08ea5e1dcd1d382352eb80fa/0407.jar",
   "searchable":1,
   "quickSearch":1,
   "ua": "okhttp/3.15",
