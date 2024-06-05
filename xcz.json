@@ -280,17 +280,6 @@
   "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"
 },
 {
-  "key": "csp_AliPS",
-  "name": "📀喵狸盘搜",
-  "type": 3,
-  "api": "csp_AliPS",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
-},
-{
   "key": "玩我哥哥",
   "name": "🍊玩我哥哥",
   "type": 3,
