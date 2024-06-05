@@ -324,20 +324,6 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
-  "key": "Up云搜",
-  "name": "😻Up搜搜索",
-  "type": 3,
-  "api": "csp_Upys",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15,
-  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
-},
-{
   "key": "土豆弹幕",
   "name": "🥔玩偶土豆4K弹幕",
   "type": 3,
