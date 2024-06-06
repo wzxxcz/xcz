@@ -433,18 +433,6 @@
   "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
-  "key": "csp_Upyunso",
-  "name": "🍊阿里up搜",
-  "type": 3,
-  "api": "csp_Upyunso",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
-},
-{
   "key":"酷吧电影",
   "name":"💘酷吧磁力",
   "type":3,
