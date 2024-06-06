@@ -207,7 +207,7 @@
   "name":"❤️玩偶姐4K",
   "type":3,
   "api":"csp_XYQHikerAL",
-  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"，
+  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -218,7 +218,7 @@
   "name":"❤️易搜4K",
   "type":3,
   "api":"csp_Yisou",
-  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"，
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
   "searchable":1,
   "quickSearch":1,
   "filterable":0,
@@ -229,18 +229,18 @@
   "name":"❤️搜索4K",
   "type":3,
   "api":"csp_XYQHiker",
-  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"，
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59f3f76c511c3b7bcae01147c5b5afc4",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"./lib/yps.json"
+  "ext":"http://o.nxog.top/m/json/yps.json"
 },
 {
   "key":"️玩偶弟",
   "name":"❤️玩偶弟4K",
   "type":3,
   "api":"csp_XYQHikerAL",
-  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"，
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -251,7 +251,7 @@
   "name": "❤️玩偶哥4K",
   "type": 3,
   "api": "csp_XYQHikerAL",
-  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"，
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -266,7 +266,7 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/wom.json",
-  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"，
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9"
 },
 {
   "key":"️玩偶歌",
@@ -635,7 +635,7 @@
   "name": "👓视觉多线",
   "type": 3,
   "api": "csp_Xinsj",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717403897113/fan.txt;md5;6adeb73add2066fe62257d2337084da2",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717391432471/fan.txt;md5;96be258292bdbcb1681ce99c900b00de",
   "timeout": 15,
   "searchable": 1,
   "quickSearch": 1,
@@ -4095,6 +4095,17 @@
         "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
+},
+{
+  "key": "meowtv_Shys",
+  "name": "🥚双黄影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "http://cdn.teyonds.com/xp/双黄影视.json",
+  "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
   "key": "影视工厂",
