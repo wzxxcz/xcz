@@ -233,7 +233,7 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":"http://o.nxog.top/m/json/yps.json"
+  "ext":"./lib/yps.json"
 },
 {
   "key":"️玩偶弟",
