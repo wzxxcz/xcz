@@ -1280,17 +1280,6 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
-  "key": "csp_Vidhub2", 
-  "name": "🍊分享VID", 
-  "type": 3, 
-  "api": "csp_XBPQ", 
-  "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
-  "ext":"./lib/分享vid.json",
-  "searchable": 1, 
-  "quickSearch": 1, 
-  "filterable": 1
-}, 
-{
   "key": "csp_疯狗",
   "name": "🐕疯狗影视",
   "type": 3,
