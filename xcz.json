@@ -433,21 +433,6 @@
   "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
-  "key": "盘搜",
-  "name": "🦊盘搜弹幕搜索",
-  "type": 3,
-  "api": "csp_PanSou",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-  "token": "file://TV/ali_token.txt",
-  "danmu": true
-      },
-  "timeout": 15
-},
-{
   "key": "PanSou",
   "name": "🦊盘搜搜索纯净",
   "type": 3,
