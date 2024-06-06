@@ -3187,7 +3187,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://cdn.teyonds.com/xp/速映影视.json",
+  "ext": "./lib/速映影视.json",
   "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
