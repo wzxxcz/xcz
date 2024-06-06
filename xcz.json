@@ -1612,16 +1612,6 @@
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
-  "key": "meowtv_phys",
-  "name": "🐅胖虎影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/胖虎影视.json"
-},
-{
   "key": "胖虎影视",
   "name": "🐯胖虎蓝光在线",
   "type": 3,
