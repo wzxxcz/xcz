@@ -1622,15 +1622,14 @@
   "ext": "./lib/胖虎影视.json"
 },
 {
-      "key": "胖虎影视",
-      "name": "🐯胖虎┃蓝光┃在线",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-      "playerType": "2",
-      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=胖虎"
-    },
-
+  "key": "胖虎影视",
+  "name": "🐯胖虎蓝光在线",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "playerType": "2",
+  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=胖虎"
+},
 {
   "key":"csp_盒子",
   "name":"🍊盒子秒播",
