@@ -2196,14 +2196,14 @@
   "ext": "https://www.tvkuys.xyz/api.php/app/"
 },
 {
-  "key": "圣城影视",
-  "name": "🏰圣城影视",
-  "type":3,
-  "api":"csp_AppNK",
-  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
-  "searchable":1,
-  "changeable":0,
-  "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
+  "key": "csp_圣城",
+  "name": "💚圣城影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/圣城.json"
 },
 {
   "key": "csp_xml_爱坤",
