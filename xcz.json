@@ -4013,7 +4013,7 @@
   "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/"
 },
 {
-  "key": "meowtv_Nfys",
+  "key": "nfys",
   "name": "🍊奈飞影视",
   "type": 3,
   "api": "csp_XYQHiker",
@@ -4021,7 +4021,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
-  "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+  "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
   "key": "BD",
