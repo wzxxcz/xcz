@@ -3048,7 +3048,7 @@
   "ext": "http://cdn.teyonds.com/js/电影先生.js"
 },
 {
-  "key": "meowtv_ynys",
+  "key": "ynys",
   "name": "🦢鸭奈影视",
   "type": 3,
   "api": "csp_XYQHiker",
@@ -3056,7 +3056,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://cdn.teyonds.com/xp/鸭奈影视.json",
-  "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+  "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
   "key": "meowtv_03ys",
