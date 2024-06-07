@@ -815,16 +815,6 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
-  "key": "看看影视",
-  "name": "💡看看影视",
-  "type": 3,
-  "api": "csp_WebIV",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
-{
   "key": "初恋资源",
   "name": "🧡初恋官源",
   "type": 1,
