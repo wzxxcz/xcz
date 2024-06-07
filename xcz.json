@@ -464,6 +464,17 @@
   "filterable":1
 },
 {
+  "key": "csp_Xunlei8",
+  "name": "🧲迅雷影院",
+  "type": 3,
+  "api": "csp_Xunlei8",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+},
+{
   "key": "ygcl",
   "name": "🍊影港磁力",
   "type": 3,
@@ -1131,17 +1142,6 @@
   "api":"csp_XBPQ",
   "ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
   "分类":"电影$1#剧集$2#动漫$3#综艺$4"}
-},
-{
-  "key": "csp_Xunlei8",
-  "name": "🧲迅雷影院",
-  "type": 3,
-  "api": "csp_Xunlei8",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
 },
 {
   "key":"笑笑影视",
