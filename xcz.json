@@ -1114,16 +1114,6 @@
   "filterable": 1
 },
 {
-  "key":"神仙影视",
-  "name":"🍊神仙影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/神仙影视.json"
-},
-{
   "key":"csp_ipianba",
   "name":"🎃片吧影视",
   "type":3,
