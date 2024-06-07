@@ -1102,13 +1102,6 @@
   "filterable": 1
 },
 {
-  "key": "搜狗",
-  "name": "🍊小橙子搜狗官源",
-  "type": 3,
-  "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "ext": "https://weixine.net/js/caigou.js"
-},
-{
   "key":"神仙影视",
   "name":"🍊神仙影视",
   "type":3,
