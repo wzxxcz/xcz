@@ -826,6 +826,17 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
+  "key":"csp_xBPQ白嫖电影网",
+  "name":"🍊白嫖影视网",
+  "type":3,
+  "ua": "okhttp/3.15",
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/白嫖电影网.json"
+},
+{
   "key": "初恋资源",
   "name": "🧡初恋官源",
   "type": 1,
