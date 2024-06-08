@@ -1281,13 +1281,14 @@
   "ext": "./lib/疯狗影视.json"
 },
 {
-  "key": "csp_TVB",
-  "name": "🍊TVB云播",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
+  "key":"TVB云播",
+  "name":"🍊TVB云播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ua": "okhttp/3.15",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
   "ext": "./lib/TVB云播.json"
 },
 {
