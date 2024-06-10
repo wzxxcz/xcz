@@ -3408,15 +3408,11 @@
   "type": 3,
   "ua": "okhttp/3.15",
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext": {
-  "简介": "小橙子提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
-  "分类url": "https://www.mayiys.cc/tp/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.mayiys.cc/tp/{cateId}.html]",
-  "分类": "电影$1#剧集$2#综艺$4#动漫$3#其它$5 " }
-},
+            "简介": "天天开心提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >","分类url": "https://www.mayiys.cc/tp/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.mayiys.cc/tp/{cateId}.html]","分类": "电影$1#剧集$2#综艺$4#动漫$3#其它$5 " }},
 {
   "key":"西屋影视",
   "name":"💚西屋影视",
