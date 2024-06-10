@@ -5261,12 +5261,6 @@
   "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
 },
 {
-  "key": "种子短剧",
-  "name": "💮┃短剧┃视频",
-  "type": 1,
-  "api": "http://zzdj.cc/api.php/provide/vod"
-},
-{
       "key": "蚂蚁ys",
       "name": "🐜蚂蚁影院",
       "type": 3,
