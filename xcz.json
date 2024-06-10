@@ -919,12 +919,12 @@
   "ext":"https://vidhub1.cc"
 },
 {
-  "key": "畅梦影视",
-  "name": "🎄畅梦影视",
-  "type": 3,
-  "api": "http://xn--dkw0c.y.nxog.top/m/js/nxog.js",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
-  "ext": "http://xn--dkw0c.y.nxog.top/m/js/103.js"
+  "key":"畅梦影视",
+  "name":"🎄畅梦影视",
+  "type":3,
+  "api":"https://tv.nxog.top/m/js/nxog.js",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "ext":"https://tv.nxog.top/m/js/103.js"
 },
 {
   "key": "雪儿",
