@@ -5287,6 +5287,16 @@
   "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
 {
+  "key": "影视仓",
+  "name": "🍊备选影仓",
+  "type": 3,
+  "api": "csp_AppMr",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/%E5%BD%B1%E4%BB%93.jar"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
