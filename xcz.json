@@ -1129,6 +1129,16 @@
   "分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}
 },
 {
+  "key": "csp_虾酱",
+  "name": "💚虾酱影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/虾酱.json"
+},
+{
   "key": "追剧影视",
   "name": "💡追剧影视",
   "type": 3,
