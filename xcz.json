@@ -1169,16 +1169,6 @@
   "ext":"http://o.nxog.top/m/js/mm.js"
 },
 {
-  "key": "Qtv",
-  "name": "🐧小橙子企鹅官源",
-  "type": 3,
-  "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js",
-  "ext": "http://alist.xn--z7x900a.live/腾云.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
   "key":"csp_ipianba",
   "name":"🎃片吧影视",
   "type":3,
