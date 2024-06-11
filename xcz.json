@@ -38,7 +38,7 @@
   "name": "🗞纸条搜索",
   "type": 3,
   "api": "csp_XiaoZhiTiao",
-  "jar": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;2e1f6dccc1fe05e0ae79577587f5590f",
+  "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;0abfa8bf4a40597e1673aecea35a21b3",
   "searchable": 1,
   "filterable": 1,
   "changeable": 0,
