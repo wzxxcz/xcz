@@ -1337,16 +1337,6 @@
   "ext": "./lib/TVB云播.json"
 },
 {
-  "key": "csp_超前",
-  "name": "🍊超前点播",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/超前B站.json"
-},
-{
   "key": "csp_佳能",
   "name": "🍊佳能影视",
   "type": 3,
