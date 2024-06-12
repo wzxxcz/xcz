@@ -993,6 +993,16 @@
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
 {
+  "key": "可达影视",
+  "name": "🐤可达蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./json/kedays.json"
+},
+{
   "key": "素眉",
   "name": "🍡素眉蓝光纯净",
   "type": 3,
