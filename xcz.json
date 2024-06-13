@@ -1096,12 +1096,11 @@
   "key": "凯奇追剧",
   "name": "🍊凯奇追剧",
   "type": 3,
+  "ua": "okhttp/3.15",
   "api": "csp_XBPQ",
-  "ext": {
-        "简介": "+hl-content-text\">&&</span>",
-        "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"
-      }
+  "ext": {"简介":"+hl-content-text\">&&</span>",
+  "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}
 },
 {
   "key": "老六影视",
