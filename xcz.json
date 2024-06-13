@@ -5303,6 +5303,17 @@
   "changeable": 1
 },
 {
+  "key": "🔱专线⑦🏅",
+  "name": "🔱专线⑦🏅",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy2.json"
+},
+{
   "key": "聚短视频js",
   "name": "📽️聚短┃视频",
   "type": 3,
