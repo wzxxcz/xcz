@@ -5293,6 +5293,17 @@
   "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/%E5%BD%B1%E4%BB%93.jar"
 },
 {
+  "key": "🔱专线⑦🏅",
+  "name": "🔱专线⑦🏅",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/hjzy2.json"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
@@ -5303,19 +5314,8 @@
   "changeable": 1
 },
 {
-  "key": "🔱专线⑦🏅",
-  "name": "🔱专线⑦🏅",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy2.json"
-},
-{
   "key": "聚短视频js",
-  "name": "📽️聚短┃视频",
+  "name": "📽️聚短视频",
   "type": 3,
   "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
   "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js",
@@ -5325,7 +5325,7 @@
 },
 {
   "key": "Aid",
-  "name": "🚑急救┃教学",
+  "name": "🚑急救教学",
   "type": 3,
   "api": "csp_FirstAid",
   "searchable": 0,
