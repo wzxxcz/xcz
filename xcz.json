@@ -444,7 +444,7 @@
   "ua": "cytx/5.19",
   "playerType": 1,
   "changeable":0,
-  "ext": "http://530.my3v.work/xiaohu.json"
+  "ext": "./lib/xiaohu.json"
 },
 {
   "key":"酷吧电影",
