@@ -783,6 +783,16 @@
   "changeable":1
 },
 {
+  "key":"圣城影视",
+  "name":"💡圣城影视",
+  "type":3,
+  "api":"csp_AppNK",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "changeable":1,
+  "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
@@ -2203,16 +2213,6 @@
   "api": "csp_AppYsV2",
   "playerType": 2,
   "ext": "https://www.tvkuys.xyz/api.php/app/"
-},
-{
-  "key": "csp_圣城",
-  "name": "💚圣城影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/圣城.json"
 },
 {
   "key": "csp_xml_爱坤",
