@@ -1007,6 +1007,17 @@
   "timeout": 10
 },
 {
+  "key":"1080",
+  "name":"🍊1080",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "ua": "okhttp/3.15",
+  "filterable":1,
+  "ext":"./lib/1080.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
