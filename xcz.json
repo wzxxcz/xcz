@@ -440,10 +440,8 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ua": "cytx/5.19",
-  "playerType": 1,
   "changeable":0,
-  "ext": "./lib/xiaohu.json"
+  "ext": "./lib/小雅.json"
 },
 {
   "key":"酷吧电影",
