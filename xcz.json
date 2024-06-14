@@ -1732,14 +1732,14 @@
       }
 },
 {
-  "key":"快看影视",
+  "key":"csp_Kuaikan",
   "name": "👀快看影院",
   "type":3,
   "api":"csp_Kuaikan",
+  "ua": "okhttp/3.15",
   "searchable":1,
   "quickSearch":1,
-  "filterable":1,
-  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8"
+  "filterable":1
 },
 {
   "key":"飘零影院",
