@@ -677,12 +677,14 @@
   "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
 },
 {
-  "key": "热播影视",
-  "name": "💡热播影视",
-  "type": 3,
-  "api": "csp_TTian",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
-  "ext": "http://v.rbotv.cn"
+  "key":"热播影视",
+  "name":"💡热播影视",
+  "type":3,
+  "api":"csp_AppRB",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
 },
 {
   "key": "Xinsj",
