@@ -930,15 +930,15 @@
   "filterable":0
 },
 {
-  "key":"南坊追剧",
-  "name":"💡南坊影视",
-  "type":3,
-  "api":"csp_WebNF",
-  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "ext":"https://www.nfzj.fun"
+  "key": "南坊追剧",
+  "name": "💡南坊影视",
+  "type": 3,
+  "api": "csp_WebNF",
+  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://www.nfzj.fun"
 },
 {
   "key":"影探蓝光",
