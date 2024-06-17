@@ -5300,6 +5300,17 @@
   "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/%E5%BD%B1%E4%BB%93.jar"
 },
 {
+  "key": "🔱专线⑥🏅",
+  "name": "🔱专线⑥🏅",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy1.json"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
