@@ -5329,6 +5329,13 @@
   "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy10.json"
 },
 {
+  "key": "碟调影视",
+  "name": "碟调影视",
+  "type": 3,
+  "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/碟调影视.js"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
