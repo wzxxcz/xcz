@@ -5381,6 +5381,17 @@
   "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/奇趣影视.json"
 },
 {
+  "key": "🔱专线⑱🏅",
+  "name": "🔱专线⑱🏅",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/mew/custom_spider__1_.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/人人.json"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
