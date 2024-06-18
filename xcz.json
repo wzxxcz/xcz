@@ -5363,6 +5363,7 @@
   "name": "奇趣影视",
   "type": 3,
   "api": "csp_XYQHiker",
+  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
