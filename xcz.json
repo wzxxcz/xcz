@@ -433,6 +433,17 @@
   "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
+  "key": "我的小站",
+  "name": "🍊云盘小站",
+  "type": 3,
+  "api": "csp_XYQHikerAL",
+  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/我的小站.json"
+},
+{
   "key":"Alist",
   "name":"🍊小雅网盘",
   "type":3,
