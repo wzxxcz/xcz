@@ -1039,17 +1039,6 @@
   "ext":"https://tv.nxog.top/m/js/103.js"
 },
 {
-  "key": "雪儿",
-  "name": "❄️雪儿蓝光在线",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=雪儿"
-},
-{
   "key":"剧圈圈",
   "name":"🍊剧圈圈",
   "type":3,
