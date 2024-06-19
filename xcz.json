@@ -1912,22 +1912,6 @@
   "ext": "./lib/91影视网.json"
 },
 {
-  "key": "xml_猫放",
-  "name": "🐈猫放采集",
-  "type": 1,
-  "api": "https://www.mervod.com/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "少儿"
-      ]
-},
-{
   "key": "饭盘影视",
   "name": "🚺饭盘影视",
   "type": 3,
