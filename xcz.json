@@ -1882,30 +1882,6 @@
   "ext": "./lib/极速.json"
 },
 {
-  "key": "O先生",
-  "name": "🍊O先生2K",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":{"分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}
-},
-{
-  "key": "乐鱼影视",
-  "name": "🐟乐鱼影视",
-  "type": 3,
-  "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/乐鱼影视.js"
-},
-{
-  "key":"drpy_js_乐鱼影视",
-  "name":"🐠乐鱼影院",
-  "type":3,
-  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/乐鱼影视.js"
-},
-{
   "key":"圆周率",
   "name":"🍊率率影视",
   "api":"csp_AppYsV2",
