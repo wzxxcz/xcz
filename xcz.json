@@ -1533,12 +1533,6 @@
   "ext": "./lib/星辰.json"
 },
 {
-  "key": "T4-mingri",
-  "name": "⛵️明日方舟",
-  "type": 4,
-  "api": "https://catbox.n13.club/mingri.php"
-},
-{
   "key":"csp_Voflix",
   "name":"🍊Voflix影视",
   "type":3,
