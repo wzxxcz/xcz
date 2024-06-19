@@ -1469,13 +1469,6 @@
   "ext": "https://yk.shaozeyy.com/api.php/app/"
 },
 {
-  "key":"drpy_js_NY影院",
-  "name":"🤦NY影院",
-  "type":3,
-  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/NY影院.js"
-},
-{
   "key": "Ikun资源",
   "name": "🍊Ikun影视",
   "type": 1,
