@@ -2779,27 +2779,6 @@
   "ext":"./lib/beichuan.json"
 },
 {
-  "key":"csp_xbb_奈菲影院",
-  "name":"🍀奈菲影院",
-  "type":3,
-  "api":"csp_XBiubiu",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0,
-  "ext":"./lib/奈菲影院.json",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/Yoursmile2.jar"
-},
-{
-  "key": "meowtv_dyxs",
-  "name": "🍊先生影视",
-  "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/电影先生.js"
-},
-{
   "key": "ynys",
   "name": "🦢鸭奈影视",
   "type": 3,
