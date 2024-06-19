@@ -2867,16 +2867,6 @@
   "ext": "./lib/淘剧.json"
 },
 {
-  "key":"csp_llww",
-  "name":"💥来来往往",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/往往影视.json"
-},
-{
   "key": "csp_myhy",
   "name": "🐯嘛衣唬呀",
   "type": 3,
