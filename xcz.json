@@ -157,17 +157,6 @@
   "jar":"./0407.jar"
 },
 {
-  "key": "csp_XYQHikerAL_云盘资源",
-  "name": "🍊云盘资源",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/云盘资源cally.json",
-  "jar":"./0407.jar"
-},
-{
   "key": "csp_XYQHikerAL_玩偶表哥",
   "name": "🍊玩偶表哥",
   "type": 3,
