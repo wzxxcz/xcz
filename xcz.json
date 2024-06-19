@@ -88,7 +88,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/开心阿里.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_土豆",
@@ -100,7 +100,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/土豆玩偶.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_找资源",
@@ -111,7 +111,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/找资源.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_玩偶哥哥",
@@ -123,7 +123,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩偶哥哥cally.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "玩偶哥哥",
@@ -134,7 +134,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩偶哥哥.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "YiSo",
@@ -160,7 +160,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/盘搜.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_云盘资源",
@@ -171,7 +171,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/云盘资源cally.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
@@ -183,7 +183,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩偶表哥.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "多多弹幕",
@@ -288,7 +288,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩我哥哥.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "csp_XYQHikerAL_云盘资源",
@@ -299,7 +299,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/云盘资源.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "土豆阿里",
@@ -310,7 +310,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/土豆阿里.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "csp_XYQHiker_影搜",
@@ -321,7 +321,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/影搜.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "土豆弹幕",
@@ -437,7 +437,7 @@
   "name": "🍊云盘小站",
   "type": 3,
   "api": "csp_XYQHikerAL",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -906,7 +906,7 @@
   "type":3,
   "ua": "okhttp/3.15",
   "api":"csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -1007,7 +1007,7 @@
   "name":"🍊光棍秒播",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -1018,7 +1018,7 @@
   "name": "🍊苏苏外剧",
   "type": 3,
   "api": "csp_XYQHikerAL",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1129,7 +1129,7 @@
   "type": 3,
   "ua": "okhttp/3.15",
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "ext": {"简介":"剧情介绍: +stui-pannel_bd\">&&</div>",
   "线路数组":"stui-pannel__head bottom-line active clearfix\">&&</div>",
   "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
@@ -1140,7 +1140,7 @@
   "name": "🐎策驰影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1389,7 +1389,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/七新.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "csp_疯狗",
@@ -1438,7 +1438,7 @@
   "name": "🍊量子资源",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1527,7 +1527,7 @@
   "name": "💚星辰影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1568,7 +1568,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/98影视.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key": "南瓜弹幕版",
@@ -1650,7 +1650,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/七新影视.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar"
 },
 {
   "key":"Vidhub视频",
@@ -2397,7 +2397,7 @@
   "name": "🍊麻衣呀呼",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3242,7 +3242,7 @@
   "name":"🦢鸭奈飞秒播",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3253,7 +3253,7 @@
   "name": "🕊️奈飞秒播",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3296,7 +3296,7 @@
   "name": "🍑歪片星球",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3392,7 +3392,7 @@
   "name": "🍵茶杯影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3473,7 +3473,7 @@
   "type": 3,
   "ua": "okhttp/3.15",
   "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -3548,7 +3548,7 @@
   "name": "🍋石榴影视",
   "type": 3,
   "api":"csp_XBPQ",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -5270,7 +5270,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/奇优影院.json",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar"
+  "jar":"./0407.jar""
 },
 {
       "key": "蚂蚁ys",
@@ -5375,7 +5375,7 @@
   "name": "🍊奇趣影视",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/0407.jar",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
