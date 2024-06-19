@@ -1647,14 +1647,6 @@
   "ext":"./lib/cdd.json"
 },
 {
-  "key": "juj", 
-  "name": "🫵聚集焦点", 
-  "type": 3, 
-  "api": "csp_AppYs",
-  "playerType":2,
-  "ext": "https://www.mjlnl.cn/api.php/v1.vod"
-},
-{
   "key":"drpy_yh",
   "name":"🍊爱奇艺",
   "type":3,"playerType":2,
