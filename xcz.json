@@ -1815,13 +1815,6 @@
   "ext": "分类url:https://www.haituu.tv/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 {
-  "key": "drpy_js_KOK影视",
-  "name": "🍊KOK影视",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/KOK影院.js"
-},
-{
   "key": "drpy_js_尘落影视",
   "name": "🍊尘落影视",
   "type": 3,
