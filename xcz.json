@@ -1842,16 +1842,6 @@
   "ext": "./lib/348影院.json"
 },
 {
-  "key": "嗨剧影视",
-  "name": "📍嗨翻剧场",
-  "type": 3,
-  "api": "csp_AppYs",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://v.haiju.vip/api.php/app/"
-},
-{
   "key":"天翼资源",
   "name":"🍊长天比翼",
   "type":1,
