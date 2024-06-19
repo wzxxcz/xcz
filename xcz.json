@@ -1328,28 +1328,6 @@
   "changeable": 1
 },
 {
-  "key": "🔱专线⑪🏅",
-  "name": "🔱专线⑪🏅",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy6.json"
-},
-{
-  "key": "🔱专线⑩🏅",
-  "name": "🔱专线⑩🏅",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy5.json"
-},
-{
   "key": "荐片弹幕版",
   "name": "👍️荐片蓝光弹幕",
   "type": 3,
@@ -1426,17 +1404,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/量子资源网.json"
-},
-{
-  "key": "🔱专线⑨🏅",
-  "name": "🔱专线⑨🏅",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy4.json"
 },
 {
   "key": "少泽影客（APP）",
@@ -3264,17 +3231,6 @@
   "ext": "./lib/淘剧.json"
 },
 {
-  "key": "csp_XYQHiker_歪片星球",
-  "name": "🍑歪片星球",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar":"./0407.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/歪片星球.json"
-},
-{
   "key": "csp_低调",
   "name": "🙇‍♀️低入尘埃",
   "type": 3,
@@ -4081,13 +4037,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/米爱影视.json"
-},
-{
-  "key":"drpy_od",
-  "name":"🛫欧帝影视",
-  "type": 3,
-  "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/欧帝影院.js"
 },
 {
   "key": "淘剧",
@@ -5282,76 +5231,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/%E5%BD%B1%E4%BB%93.jar"
-},
-{
-  "key": "🔱专线⑮🏅",
-  "name": "🔱专线⑮🏅",
-  "type": 3,
-  "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/1.js",
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/尘落.js"
-},
-{
-  "key": "🔱专线⑭ 🏅",
-  "name": "🔱专线⑭ 🏅",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy10.json"
-},
-{
-  "key": "碟调影视",
-  "name": "🍊碟调影视",
-  "type": 3,
-  "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/碟调影视.js",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar"
-},
-{
-  "key": "🔱专线⑬🏅",
-  "name": "🔱专线⑬🏅",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy8.json"
-},
-{
-  "key": "🔱专线⑦🏅",
-  "name": "🔱专线⑦🏅",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy2.json"
-},
-{
-  "key": "奇趣影视",
-  "name": "🍊奇趣影视",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar":"./0407.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/奇趣影视.json"
-},
-{
-  "key": "🔱专线⑱🏅",
-  "name": "🔱专线⑱🏅",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/mew/custom_spider__1_.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/人人.json"
 },
 {
   "key": "短剧",
