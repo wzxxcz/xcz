@@ -3170,16 +3170,6 @@
       }
 },
 {
-  "key": "小熊影视",
-  "name": "🐻小熊影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/小熊影视.json"
-},
-{
   "key": "csp_奥特影视",
   "name": "💚奥特影视",
   "type": 3,
@@ -3321,19 +3311,6 @@
       ]
 },
 {
-  "key": "doutu",
-  "name": "🍊秒播有广",
-  "type": 3,          
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-                "分类url": "http://doutudianyingwang.qichenly.com/krdmk/{class}/{cateId}/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-         }
-},
-{
   "key":"csp_appysv2_天天视频",
   "name":"🍊天天视频",
   "type":3,
@@ -3385,47 +3362,6 @@
         "分类": "电影$1#剧集$2#动漫$4#综艺$4",
         "搜索模式": "0"
       }
-},
-{
-  "key": "meowtv_kkys",
-  "name": "🍊看看影视",
-  "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/看看影视.js"
-},
-{
-  "key": "meowtv_dmys",
-  "name": "🍛大米影视",
-  "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/大米影视.js"
-},
-{
-  "key": "8号影院",
-  "name": "🐰8号影院",
-  "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": "https://drpy.cainisi.cf/js/8号影院.js"
-},
-{
-  "key":"csp_CandyMuj_sstv",
-  "name":"🍊速搜4K",
-  "type":3,
-  "api":"csp_CandyMuj_sstv",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"
 },
 {
   "key":"drpy_js_朴樱影视",
@@ -3529,16 +3465,6 @@
   "searchable": 1,
   "filterable": 0,
   "categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]
-},
-{
-  "key": "宿命影视",
-  "name": "🍊宿命影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "https://tvbox.cainisi.cf/json/XBPQ/宿命影视.json",
-  "jar": "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
 },
 {
   "key": "csp_米爱",
