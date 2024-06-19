@@ -427,6 +427,18 @@
   "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
 },
 {
+  "key":"玩弹幕弟",
+  "name":"❤玩弟弹幕",
+  "type":3,
+  "api":"csp_Wogg",
+  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+  "site":"http://ttkx.live:7728","danmu":true}
+},
+{
   "key":"Alist",
   "name":"🍊小雅网盘",
   "type":3,
