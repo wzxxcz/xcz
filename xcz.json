@@ -4233,16 +4233,6 @@
   "ext": "./lib/黑乎影视.json"
 },
 {
-  "key": "csp_酷茶",
-  "name": "🍵酷茶影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/kucha.json"
-},
-{
   "key":"csp_XBPQ_dudu30",
   "name":"🍹嘟嘟影视",
   "type":3,
@@ -4269,27 +4259,6 @@
   "quickSearch":1,
   "changeable":1
 }, 
-{
-  "key": "A",
-  "name": "🍊采集一站",
-  "type": 1,
-  "api": "http://ys.540734621.xyz/api.php/provide/vod/",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "categories": [
-        "短剧",
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺",
-        "记录片",
-        "音乐",
-        "影视解说",
-        "体育"
-      ]
-},
 {
   "key": "港剧网",
   "name": "🍊港剧影视",
