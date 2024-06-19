@@ -978,16 +978,6 @@
   "quickSearch": 1
 },
 {
-  "key":"耐看影视",
-  "name":"💡耐看影视",
-  "type":3,
-  "api":"csp_AppNK",
-  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
-  "searchable":1,
-  "changeable":1,
-  "ext":"wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="
-},
-{
   "key":"米米影视",
   "name":"💡米米影视",
   "type":3,
