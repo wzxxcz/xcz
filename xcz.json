@@ -2801,37 +2801,6 @@
   "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
-  "key": "meowtv_Kkys",
-  "name": "🍊库库影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/库库影视.json",
-  "jar": "http://meowtv.cn/meow2;md5;0683D513E74B1B6BFF831AB7876B398A"
-},
-{
-  "key": "vfys",
-  "name": "🍊VOF影视",
-  "type": 3,
-  "api": "http://www.meowtv.cn/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://www.meowtv.cn/js/VOF影视.js"
-},
-{
-  "key": "meowtv_jyys",
-  "name": "🍊九悠影视",
-  "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/九悠影视.js"
-},
-{
   "key": "88",
   "name": "🥳聚合资源",
   "type": 3,
@@ -2842,19 +2811,6 @@
            "分类": "电视剧&电影&综艺&动漫",
            "分类值": "2&1&3&4"
          }
-},
-{
-  "key": "csp_XBPQ_aoaotv",
-  "name": "🎾秋哥影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
-           "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-         }  
 },
 {
   "key": "csp_xBPQ_66",
