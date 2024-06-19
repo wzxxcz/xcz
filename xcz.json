@@ -2867,16 +2867,6 @@
   "ext": "./lib/淘剧.json"
 },
 {
-  "key": "csp_低调",
-  "name": "🙇‍♀️低入尘埃",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/低端拼接.json"
-},
-{
   "key":"csp_llww",
   "name":"💥来来往往",
   "type":3,
