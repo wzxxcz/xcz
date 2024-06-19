@@ -2303,17 +2303,6 @@
   "changeable":1
 },
 {
-  "key": "csp_墨鸦",
-  "name": "🦃墨鸦影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://小盒酷玩.xyz:74/禁止贩卖",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://xn--yet226clhctt4b.xyz:66/json/墨鸦.json"
-},
-{
   "key": "drpy_js_360影视",
   "name": "🍊360(官备)",
   "type": 3,
@@ -2408,36 +2397,6 @@
   "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
 },
 {
-      "key": "shiju影视",
-      "name": "🍊视界影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://pan.shangui.cc/f/ZogXCv/XbyQ.jar",
-      "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/xinshijue.json"
-},
-{
-  "key": "zhuiyi",
-  "name": "🍊追忆影视",
-  "type": 3,
-  "api": "csp_App",
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "jar": "http://47.93.215.151/YSZYZ.jar",
-  "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
-},
-{
-  "key":"星星",
-  "name":"🌠星星之火",
-  "type":3,
-  "api":"csp_qiao",
-  "playerType":2,
-  "ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing",
-  "jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"
-},
-{
   "key":"drpy_js_奈飞中文",
   "name":"👢奈飞中文",
   "type":3,
@@ -2512,16 +2471,6 @@
   "分类url":"https://www.jm332.com/vod/type/id/area/{area}/class/{class}/{cateId}/page/{catePg}/year/{year}.html"}
 },
 {
-  "key":"哔嘀",
-  "name":"💡哔嘀影视",
-  "type":3,
-  "api":"csp_Bdys",
-  "jar":"http://w1.nxog.top:80/d/%E7%A7%BB%E7%A7%BB/ou.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
-{
   "key": "03影院",
   "name": "🐰03影院",
   "type": 3,
@@ -2578,13 +2527,6 @@
   "ext": "https://raw.gitcode.com/wykj/ys/raw/main/js/15.js"
 },
 {
-  "key": "drpy_js_9U电影",
-  "name": "🍊9U电影",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/9U电影.js"
-},
-{
   "key": "drpy_js_网飞.TV",
   "name": "🍊网飞影视",
   "type": 3,
@@ -2610,37 +2552,6 @@
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
-  "key":"纽约影视",
-  "name":"🇺🇸纽约影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
-  "图片":"data-src=\"&&\"",
-  "线路数组":"a class=\"swiper-slide&&</a>[排序:国内节点>国内专线>\u516c\u5b50\u4e13\u5c5e-2>\u516c\u5b50\u4e13\u5c5e-3]",
-  "\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e-+>&&</span>",
-  "播放数组":"anthology-list-play&&</ul>",
-  "搜索模式":1,
-  "搜索url":"https://nycvod.com/vodsearch/{wd}----------{pg}---.html",
-  "搜索标题":"alt=\"&&\"",
-  "搜索图片":"data-src=\"&&\"",
-  "分类url":"https://nycvod.com/vodshow/{cateId}--------{catePg}---.html",
-  "分类":"电影$28#电视剧$24#综艺$31#动漫$26","免嗅":"1"
-  }
-},
-{
-  "key": "meowtv_nyys",
-  "name": "🇺🇸纽约影院",
-  "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/纽约影视.js"
-},
-{
   "key":"DYDS",
   "name":"‍🍳电影大师",
   "type":3,
@@ -2661,16 +2572,6 @@
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
         "分类": "短剧$20"
       }
-},
-{
-  "key":"csp_爱城",
-  "name":"👩‍❤️‍💋‍👨爱城影视",
-  "type":3,
-  "api":"csp_AppYsV2",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://90hd.top/api.php/v1.vod"
 },
 {
   "key":"csp_嘟嘟",
@@ -2750,13 +2651,6 @@
     \"分类url\":\"https://www.cnmudu.com/{cateId}/index-{catePg}.html\"}"
 },
 {
-  "key":"drpy_js_cokemv",
-  "name":"💽cokemv",
-  "type":3,
-  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/cokemv.js"
-},
-{
   "key": "晴天",
   "name": "☀️晴天1080P",
   "type": 3,
@@ -2770,22 +2664,6 @@
         "搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=",
         "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi"
       }
-},
-{
-  "key":"drpy_js_ikanbot2",
-  "name":"🤖ikanbot2",
-  "type":3,
-  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/ikanbot2.js",
-  "jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad"
-},
-{
-  "key":"drpy_js_ikanbot3",
-  "name":"💣ikanbot3",
-  "type":3,
-  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/ikanbot3.js",
-  "jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad"
 },
 {
   "key":"drpy_js_落攻阁影视",
@@ -2813,16 +2691,6 @@
   "searchable": 1,
   "quickSearch": 1,
   "ext": "分类url:https://yoyys.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4#纪录片$38"
-},
-{
-  "key": "无心影视",
-  "name": "🍊无心影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "filterable": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "ext": "分类url:https://www.57mv.cn/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/,分类:电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$29"
 },
 {
   "key": "缘来神马",
