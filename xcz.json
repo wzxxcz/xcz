@@ -853,6 +853,17 @@
   "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
 },
 {
+  "key":"Voflix",
+  "name":"💡Voflix影视",
+  "type":3,
+  "api":"csp_Voflix",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://voflix.fun/"
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
