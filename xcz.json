@@ -4290,16 +4290,6 @@
   "ext": "./lib/达达龟影视.json"
 },
 {
-  "key": "csp_土豪",
-  "name": "🫅土豪影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/土豪影视.json"
-},
-{
   "key": "csp_午舞",
   "name": "🍊午舞影视",
   "type": 3,
