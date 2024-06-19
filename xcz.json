@@ -2881,29 +2881,6 @@
   "ext":"https://notabug.org/ygfxz/6/raw/main/js/js/磁力熊[磁].js"
 },
 {
-  "key" : "jumi",
-  "name" : "🔔剧迷影院",
-  "type" : 3,
-  "api" : "csp_XBPQ",
-  "ext" : "./lib/剧迷.json"
-},
-{
-  "key":"映迷",
-  "name":"🕎映迷映画",
-  "type":1,
-  "api":"https://www.inmi.app/api.php/provide/vod/",
-  "playUrl":"",
-  "searchable":1,
-  "quickSearch":1
-},
-{
-  "key" : "js_咕噜",
-  "name" : "☃️咕噜咕噜",
-  "type" : 3,
-  "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-  "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/咕噜[V2].js"
-},
-{
   "key": "csp_SP2345",
   "name": "🦌2345影视",
   "type": 3, 
@@ -2925,13 +2902,6 @@
   "ext":"https://www.69mj.com/xgapp.php/v2/"
 },
 {
-  "key":"茶杯狐",
-  "name":"🍵茶杯影视",
-  "type":3,
-  "api":"http://tv.nxog.top/m/js/nxog.js",
-  "ext":"http://tv.nxog.top/m/js/102.js"
-},
-{
   "key": "csp_茶杯",
   "name": "🍵茶杯影院",
   "type": 3,
@@ -2950,37 +2920,6 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
 },
 {
-  "key": "csp_皮虾",
-  "name": "🦂皮虾影视",
-  "type": 3,
-  "api": "csp_CsPpx",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": "http://aikun.tv/@@荷城茶秀",
-  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
-},
-{
-  "key":"胡胡",
-  "name":"💡胡胡影视",
-  "type":3,
-  "api":"csp_WebHH",
-  "searchable":1,
-  "quickSearch":1,
-  "jar": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;b5e94906d80378a2c4520c72cfd93975",
-  "filterable":0
-},
-{
-  "key": "云播",
-  "name": "🍊落花影视",
-  "type": 3,
-  "api": "csp_Skapp",
-  "playerType": 2,
-  "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/yunbo.json",
-  "jar": "http://www.wya6.cn/tz/wyog1.php"
-},
-{
   "key": "电影牛",
   "name": "🐂影牛有广勿信",
   "type": 3,
@@ -2990,16 +2929,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=电影牛"
-},
-{
-  "key": "csp_低端",
-  "name": "💚低端影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://cally66.icu/xbpq/低端.json"
 },
 {
   "key": "剧集",
@@ -3178,18 +3107,6 @@
   "api":"csp_XBPQ",
   "ext": {"分类":"电影$1#电视剧$2#动漫$4",
   "分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
-},
-{
-  "key":"bkyy",
-  "name":"🎃布卡影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{"副标题":"公众号欧歌APP",
-  "分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-  "分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"}
 },
 {
   "key": "csp_xBPQ_小茶狐",
