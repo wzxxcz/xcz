@@ -2197,16 +2197,6 @@
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
-  "key": "鸭鸭",
-  "name": "🦢鸭鸭APP",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-},
-{
   "key": "麻衣呀呼",
   "name": "🍊麻衣呀呼",
   "type": 3,
