@@ -2632,17 +2632,6 @@
   "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
 },
 {
-  "key": "🔱超解线",
-  "name": "🔱超解线🏅",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "api": "csp_XYQHiker",
-  "jar":"./0407.jar",
-  "ext": "./lib/hjcj.json"
-},
-{
   "key": "机器人bot",
   "name": "🤖机器蓝光无广",
   "type": 3,
