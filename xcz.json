@@ -2813,16 +2813,6 @@
          }
 },
 {
-  "key": "csp_xBPQ_66",
-  "name": "🍊鎏琉影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/66影视.json"
-},
-{
   "key": "奈飞影视",
   "name":"🦢鸭奈飞秒播",
   "type": 3,
