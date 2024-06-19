@@ -1,5 +1,5 @@
 {
-  "spider": "https://codeberg.org/xcz2024/xcz/raw/branch/master/xcz.jar",
+  "spider": "https://gitlab.com/wzbdyr/xcz/-/raw/b3b858b87855bce50b3ff8dbf902867381f96a08/xcz.jar",
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "sites":[
 {
@@ -76,7 +76,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/影搜cally.json",
-  "jar": "https://cloud.lxweb.cn/f/r0RpiE/0407.jar"
+  "jar":"https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;d4716c73f503962942a8672149e90dd1"
 },
 {
   "key": "csp_XYQHikerAL_开心阿里",
