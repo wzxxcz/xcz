@@ -537,14 +537,6 @@
   "ext": "./lib/HDmoli.json"
 },
 {
-  "key": "drpy_js_荐片",
-  "name": "🔨荐片影视",
-  "type": 3,
-  "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
-  "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/荐片.js",
-  "playerType": "1"
-},
-{
   "key": "meowtv_jpyy",
   "name": "🔨荐片影院",
   "type": 3,
