@@ -2639,7 +2639,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "api": "csp_XYQHiker",
-  "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/spider1.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+  "jar":"./0407.jar",
   "ext": "./lib/hjcj.json"
 },
 {
