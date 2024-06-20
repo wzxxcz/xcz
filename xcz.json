@@ -1566,7 +1566,6 @@
   "name": "🕌星辰影院",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar":"./0407.jar",
   "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
