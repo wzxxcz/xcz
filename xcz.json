@@ -813,6 +813,7 @@
   "name":"💡素白影视",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar":"./0407.jar",
   "searchable": 1,
   "changeable": 1,
   "ext": "./lib/subaibai.json"
