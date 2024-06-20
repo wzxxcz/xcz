@@ -914,13 +914,12 @@
 },
 {
   "key":"美柏",
-  "name":"🍊美柏",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/美柏.json"
+  "name":"🏝美柏蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "changeable": 1,
+  "ext":"./lib/meibai.json"
 },
 {
   "key": "低端",
