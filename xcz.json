@@ -1512,15 +1512,13 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=星辰"
 },
 {
-  "key": "csp_星辰",
-  "name": "💚星辰影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar":"./0407.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/星辰.json"
+  "key":"星辰影视",
+  "name":"💡星辰影视",
+  "type":3,
+  "api":"csp_WexXingchen",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "changeable":1
 },
 {
   "key": "南瓜影视",
