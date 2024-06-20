@@ -1460,17 +1460,6 @@
   "jar":"./0407.jar"
 },
 {
-  "key": "csp_疯狗",
-  "name": "🐕疯狗影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar":"./0407.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/疯狗影视.json"
-},
-{
   "key": "csp_FengGo",
   "name": "🐕疯狗影视",
   "type": 3,
