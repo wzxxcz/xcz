@@ -857,14 +857,14 @@
   "changeable":1
 },
 {
-  "key":"圣城影视",
+  "key": "csp_SC1080",
   "name":"💡圣城影视",
-  "type":3,
-  "api":"csp_AppNK",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
-  "searchable":1,
-  "changeable":1,
-  "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
+  "type": 3,
+  "api": "csp_SC1080",
+  "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },
 {
   "key":"Voflix",
