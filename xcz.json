@@ -1154,6 +1154,15 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
 },
 {
+  "key": "Wexxiongdiys",
+  "name": "👬基友影视App",
+  "type": 3,
+  "api": "csp_Wexxiongdiys",
+  "jar":"./0407.jar",
+  "searchable": 1,
+  "changeable": 1
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
