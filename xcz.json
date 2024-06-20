@@ -2724,24 +2724,14 @@
   "分类url": "https://ylsm6.cc/haokan/{cateId}-{area}--{class}-----{catePg}---{year}.html"}
 },   
 {
-      "key": "freeok",
-      "name": "🌱Free影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "2",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "ext": {
-        "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-        "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
-        "分类值": "1&2&3&4&12&5",
-        "副标题": "<div class=\"module-item-note\">&&</div>",
-        "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-        "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-        "线路标题": "<span>&&</small>",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "简介": "<p>&&</p>"
-      }
+  "key": "freeok",
+  "name": "🌱Free影院",
+  "type": 3,
+  "api": "csp_FreeOK",
+  "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },
 {
   "key":"csp_xpath_xfeiji",
