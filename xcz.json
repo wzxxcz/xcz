@@ -1464,10 +1464,19 @@
   "name": "🐕疯狗影视",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar":"./0407.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/疯狗影视.json"
+},
+{
+  "key": "csp_FengGo",
+  "name": "🐕疯狗影视",
+  "type": 3,
+  "api": "csp_FengGo",
+  "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
+  "playerType": 2
 },
 {
   "key":"TVB云播",
