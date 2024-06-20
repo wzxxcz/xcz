@@ -996,15 +996,13 @@
   "key": "厂长弹幕版",
   "name": "🏭️厂长蓝光弹幕",
   "type": 3,
-  "api": "csp_Czzy",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "playerType": "2",
+  "api": "csp_Czsapp",
+  "jar": "http://happy.xn--z7x900a.live/jar/PandaQ240616.jar;md5;53fd0f0582cd66035dbdae77a2eadeb3",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": {
-        "danmu": true
-      },
-      "timeout": 25
+  "ext": "https://czzy.top/"
 },
 {
   "key": "zxzj",
