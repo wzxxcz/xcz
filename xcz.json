@@ -919,7 +919,8 @@
   "api":"csp_XBPQ",
   "searchable":1,
   "quickSearch":1,
-  "filterable":1,"ext":"./lib/美柏.json"
+  "filterable":1,
+  "ext":"./lib/美柏.json"
 },
 {
   "key": "低端",
