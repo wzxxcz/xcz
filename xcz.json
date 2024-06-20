@@ -1145,6 +1145,17 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
 },
 {
+  "key": "皮皮虾",
+  "name": "🦐皮皮蓝光",
+  "type": 3,
+  "api": "csp_AppSK",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "jar":"./0407.jar",
+  "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
