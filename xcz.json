@@ -4456,13 +4456,6 @@
   "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/%E5%BD%B1%E4%BB%93.jar"
 },
 {
-  "key": "drpy_365",
-  "name": " 📡365影视",
-  "type": 3,
-  "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
-  "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
-},
-{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
