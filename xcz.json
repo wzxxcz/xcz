@@ -766,6 +766,16 @@
   "changeable": 1
 },
 {
+  "key": "csp_蛋蛋",
+  "name": "🥚蛋蛋影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/蛋蛋影视.json"
+},
+{
   "key":"地瓜影视",
   "name":"💡地瓜影视",
   "type":3,
@@ -4331,16 +4341,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/五五影视.json"
-},
-{
-  "key": "csp_蛋蛋",
-  "name": "🥚蛋蛋影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/蛋蛋影视.json"
 },
 {
   "key": "csp_威士",
