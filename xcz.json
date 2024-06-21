@@ -463,15 +463,6 @@
   "ext": "./lib/77zys.json"
 },
 {
-  "key": "Wexmiso",
-  "name": "🎠小米综合搜",
-  "type": 3,
-  "api": "csp_Wexmiso",
-  "jar":"./0407.jar",
-  "searchable": 1,
-  "changeable": 0
-},
-{
   "key":"Alist",
   "name":"🍊小雅网盘",
   "type":3,
