@@ -830,14 +830,12 @@
   "changeable":1
 },
 {
-  "key":"素白白",
+  "key": "XYQH_素白白",
   "name":"💡素白影视",
   "type": 3,
-  "api": "csp_XBPQ",
-  "jar":"./0407.jar",
-  "searchable": 1,
-  "changeable": 1,
-  "ext": "./lib/subaibai.json"
+  "api": "csp_XYQHiker",
+  "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
+  "ext": "./lib/素白白.json"
 },
 {
   "key":"明日影视",
