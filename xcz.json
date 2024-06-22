@@ -721,16 +721,13 @@
   "filterable":1
 },
 {
-  "key": "Xinsj",
-  "name": "👓视觉多线",
+  "key": "WexShijuedy",
+  "name": "👓看看影视直连",
   "type": 3,
-  "api": "csp_Xinsj",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718523928408/fan.txt;md5;c75cf198357a3a77f2189ab0764f2a8c",
-  "timeout": 15,
+  "api": "csp_WexShijuedy",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
   "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://www.80yy3.com/"
+  "changeable": 1
 },
 {
   "key": "可可",
@@ -1180,15 +1177,6 @@
   "type": 3,
   "api": "csp_WexBDys",
   "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "WexShijuedy",
-  "name": "👓看看影视直连",
-  "type": 3,
-  "api": "csp_WexShijuedy",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
   "searchable": 1,
   "changeable": 1
 },
