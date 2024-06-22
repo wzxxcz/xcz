@@ -1734,6 +1734,33 @@
   "changeable": 1
 },
 {
+  "key": "Wexxpgtv",
+  "name": "🍎红富士TVApp",
+  "type": 3,
+  "api": "csp_Wexxpgtv",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable": 1,
+  "changeable": 1
+},
+{
+  "key": "Wexdiguatv",
+  "name": "⛷️追剧TVApp",
+  "type": 3,
+  "api": "csp_Wexdiguatv",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable": 1,
+  "changeable": 1
+},
+{
+  "key": "Wexyuyueys",
+  "name": "⛈️雨落影视App",
+  "type": 3,
+  "api": "csp_Wexyuyueys",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable": 1,
+  "changeable": 1
+},
+{
   "key": "影视仓",
   "name": "🍊备选影仓",
   "type": 3,
