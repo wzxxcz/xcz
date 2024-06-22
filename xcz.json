@@ -727,6 +727,19 @@
       "timeout": 15
 },
 {
+  "key": "阿里合集",
+  "name": "🦋阿里合集",
+  "type":3,
+  "api":"csp_AliShare",
+  "jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367",
+  "searchable":1,
+  "changeable":0,
+  "filterable":0,
+  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+  "share":"https://tv.nxog.top/m/json/alishare.json"},
+  "style":{"type":"list"}
+},
+{
   "key": "影视仓",
   "name": "🍊备选影仓",
   "type": 3,
