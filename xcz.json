@@ -1562,16 +1562,6 @@
   "changeable":1
 },
 {
-  "key": "csp_cally",
-  "name": "🍊小橙子采集",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/callyxbpq.json"
-},
-{
   "key": "影视仓",
   "name": "🍊备选影仓",
   "type": 3,
