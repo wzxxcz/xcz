@@ -2357,7 +2357,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/98影视.json",
-  "jar":"./0407.jar"
+  "jar":"./lib/ttkx.jar"
 },
 {
   "key": "南瓜弹幕版",
