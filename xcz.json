@@ -1451,6 +1451,24 @@
   "ext": "./lib/素白白.json"
 },
 {
+  "key":"啾啾影视",
+  "name":"💡啾啾影视",
+  "type":3,
+  "api":"csp_Wexjiohub",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"骚火影视",
+  "name":"💡骚火影视",
+  "type":3,
+  "api":"csp_Wexsaohuo",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "changeable":1
+},
+{
   "key": "影视仓",
   "name": "🍊备选影仓",
   "type": 3,
