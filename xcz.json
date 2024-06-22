@@ -1344,6 +1344,105 @@
   "changeable": 1
 },
 {
+  "key": "南瓜",
+  "name": "🎃南瓜多线",
+  "type": 3,
+  "api": "csp_NanGua",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "timeout": 15,
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key": "小点",
+  "name": "💥小点多线",
+  "type": 3,
+  "api": "csp_Xdys",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0
+},
+{
+  "key": "萌米",
+  "name": "👀萌米多线",
+  "type": 3,
+  "api": "csp_AppTT",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "timeout": 15,
+  "playerType": 1,
+  "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+},
+{
+  "key": "热播",
+  "name": "📺热播多线",
+  "type": 3,
+  "api": "csp_AppTT",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "timeout": 15,
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+},
+{
+  "key":"热播影视",
+  "name":"💡热播影视",
+  "type":3,
+  "api":"csp_AppRB",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key": "可可",
+  "name": "👻可可多线",
+  "type": 3,
+  "api": "csp_Kekys",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "timeout": 15,
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key":"可可影视",
+  "name":"💡可可影视",
+  "type":3,
+  "api":"csp_Keke",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key": "蛋蛋",
+  "name": "🍓蛋蛋多线",
+  "type": 3,
+  "api": "csp_Cddys",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key": "csp_蛋蛋",
+  "name": "🥚蛋蛋影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/蛋蛋影视.json"
+},
+{
   "key": "影视仓",
   "name": "🍊备选影仓",
   "type": 3,
