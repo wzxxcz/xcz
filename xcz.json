@@ -1443,11 +1443,20 @@
   "ext": "./lib/蛋蛋影视.json"
 },
 {
-  "key":"甲子影视",
-  "name":"💡甲子影视",
+  "key":"兄弟影视",
+  "name":"💡兄弟影视",
   "type":3,
-  "api":"csp_Wexjiazitv",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "api":"csp_Wexxiongdiys",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"纯享影视",
+  "name":"💡纯享影视",
+  "type":3,
+  "api":"csp_WexF4kvm",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
   "searchable":1,
   "changeable":1
 },
