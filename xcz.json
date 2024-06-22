@@ -2353,7 +2353,7 @@
   "name":"🍊星辰秒播",
   "type":3,
   "api":"csp_XBPQ",
-  "jar":"./lib/ttkx.jar",
+  "jar":"./0407.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
