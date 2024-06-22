@@ -721,15 +721,6 @@
   "filterable":1
 },
 {
-  "key": "Xinsj",
-  "name": "👓看看影视直连",
-  "type": 3,
-  "api": "csp_WexShijuedy",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
-  "searchable": 1,
-  "changeable": 1
-},
-{
   "key": "可可",
   "name": "👻可可多线",
   "type": 3,
