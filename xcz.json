@@ -1625,18 +1625,6 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=星辰"
 },
 {
-  "key": "南瓜",
-  "name": "🎃南瓜蓝光纯净",
-  "type": 3,
-  "api": "csp_NanGua",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "timeout": 15,
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
   "key": "csp_xBPQ_玖八",
   "name": "💚98影视",
   "type": 3,
