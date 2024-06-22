@@ -1443,6 +1443,144 @@
   "ext": "./lib/蛋蛋影视.json"
 },
 {
+  "key":"地瓜影视",
+  "name":"💡地瓜影视",
+  "type":3,
+  "api":"csp_Wexdiguatv",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"闪电影视",
+  "name":"💡闪电影视",
+  "type":3,
+  "api":"csp_Wexshandian",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"甲子影视",
+  "name":"💡甲子影视",
+  "type":3,
+  "api":"csp_Wexjiazitv",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"兄弟影视",
+  "name":"💡兄弟影视",
+  "type":3,
+  "api":"csp_Wexxiongdiys",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"纯享影视",
+  "name":"💡纯享影视",
+  "type":3,
+  "api":"csp_WexF4kvm",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"两个磁力",
+  "name":"💡两个影视",
+  "type":3,
+  "api":"csp_Wexbttwo",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key": "XYQH_素白白",
+  "name":"💡素白影视",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf",
+  "ext": "./lib/素白白.json"
+},
+{
+  "key":"明日影视",
+  "name":"💡明日影视",
+  "type":3,
+  "api":"csp_WexMingriys",
+  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"啾啾影视",
+  "name":"💡啾啾影视",
+  "type":3,
+  "api":"csp_Wexjiohub",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"骚火影视",
+  "name":"💡骚火影视",
+  "type":3,
+  "api":"csp_Wexsaohuo",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"圣城影视",
+  "name":"💡圣城影视",
+  "type":3,
+  "api":"csp_SC1080",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key":"Voflix",
+  "name":"💡Voflix影视",
+  "type":3,
+  "api":"csp_Voflix",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://voflix.fun/"
+},
+{
+  "key":"愉悦影视",
+  "name":"💡愉悦影视",
+  "type":3,
+  "api":"csp_Wexyuyueys",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"花蕊影视",
+  "name":"💡花蕊影视",
+  "type":3,
+  "api":"csp_Wexhuaruitv",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key": "csp_cally",
+  "name": "🍊小橙子采集",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/callyxbpq.json"
+},
+{
   "key": "影视仓",
   "name": "🍊备选影仓",
   "type": 3,
