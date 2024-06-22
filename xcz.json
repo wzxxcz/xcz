@@ -1725,6 +1725,15 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
 },
 {
+  "key": "Wexxiongdiys",
+  "name": "👬基友影视App",
+  "type": 3,
+  "api": "csp_Wexxiongdiys",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable": 1,
+  "changeable": 1
+},
+{
   "key": "影视仓",
   "name": "🍊备选影仓",
   "type": 3,
