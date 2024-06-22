@@ -1208,6 +1208,39 @@
       ]
 },
 {
+  "key": "zxzj",
+  "name": "🔗在线蓝光外剧",
+  "type": 3,
+  "api": "csp_Zxzj",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "timeout": 15,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "https://www.zxzja.com/"
+},
+{
+  "key": "低端影视",
+  "name": "🔋低端蓝光无广",
+  "type": 3,
+  "api": "csp_Ddys",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
+  "key": "DiDuan",
+  "name": "🔋低端蓝光外剧",
+  "type": 3,
+  "api": "csp_Ddrk",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "playerType": "2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
