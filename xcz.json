@@ -1521,6 +1521,15 @@
   "changeable":1
 },
 {
+  "key":"兄弟影视",
+  "name":"💡兄弟影视",
+  "type":3,
+  "api":"csp_Wexxiongdiys",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
+  "searchable":1,
+  "changeable":1
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
