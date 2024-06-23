@@ -1816,6 +1816,14 @@
   "changeable": 1
 },
 {
+  "key": "csp_YingShi",
+  "name": "🍊影视海外",
+  "type": 3,
+  "api": "csp_YingShi",
+  "jar": "https://gitlab.com/duomv/duo/-/raw/main/pg.jar",
+  "ext": "proxy"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
