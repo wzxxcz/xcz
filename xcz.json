@@ -714,6 +714,23 @@
   "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
 },
 {
+  "key": "玩偶",
+  "name": "👽玩偶哥哥4K弹幕",
+  "type": 3,
+  "api": "csp_WoGG",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719231697644/fan.txt;md5;19835343a0066e1836802cdfaacb962f",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+        "aliToken": "tvfan/token.txt",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
+},
+{
   "key": "纸条",
   "name": "🗞纸条搜索",
   "type": 3,
@@ -983,23 +1000,6 @@
         "danmu": true
       },
       "timeout": 25
-},
-{
-  "key": "玩偶",
-  "name": "👽玩偶哥哥4K弹幕",
-  "type": 3,
-  "api": "csp_WoGG",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719231697644/fan.txt;md5;19835343a0066e1836802cdfaacb962f",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
-      }
 },
 {
   "key": "doudouxie",
