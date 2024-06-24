@@ -958,15 +958,19 @@
   "jar":"./0407.jar"
 },
 {
-  "key": "csp_XYQHiker_影搜",
-  "name": "📀影搜(搜索)",
+  "key": "影搜",
+  "name": "🌸影搜搜索",
   "type": 3,
-  "api": "csp_XYQHiker",
+  "api": "csp_Yingso",
+  "jar":"https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;7381b74107273f542b0d07997be46bd5",
   "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/影搜.json",
-  "jar":"./0407.jar"
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
 },
 {
   "key": "土豆弹幕",
