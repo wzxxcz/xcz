@@ -1190,21 +1190,10 @@
   "name":"💘迅雷吧磁力",
   "type":3,
   "api":"csp_Xunlei8",
-  "jar":"./0407.jar",
+  "jar":"http://ttkx.live:55/lib/ttkx.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},
-{
-  "key": "csp_Xunlei8",
-  "name": "🧲迅雷影院",
-  "type": 3,
-  "api": "csp_Xunlei8",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
 },
 {
   "key": "ygcl",
