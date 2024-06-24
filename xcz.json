@@ -1187,10 +1187,10 @@
 },
 {
   "key":"csp_Xunlei8",
-  "name":"💘迅雷吧磁力",
+  "name":"🧲迅雷吧",
   "type":3,
   "api":"csp_Xunlei8",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
