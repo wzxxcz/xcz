@@ -764,18 +764,6 @@
   "jar":"./0407.jar"
 },
 {
-  "key": "csp_XYQHikerAL_玩偶哥哥",
-  "name": "🍊阿里玩偶",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/玩偶哥哥cally.json",
-  "jar":"./0407.jar"
-},
-{
   "key": "玩偶哥哥",
   "name": "🍊玩偶哥哥",
   "type": 3,
@@ -1001,7 +989,7 @@
   "name": "👽玩偶哥哥4K弹幕",
   "type": 3,
   "api": "csp_WoGG",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719231697644/fan.txt;md5;19835343a0066e1836802cdfaacb962f",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
