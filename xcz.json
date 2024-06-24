@@ -1179,7 +1179,7 @@
   "name":"💘New6V磁力",
   "type": 3,
   "api": "csp_New6v",
-  "http://ttkx.live:55/lib/ttkx.jar",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
