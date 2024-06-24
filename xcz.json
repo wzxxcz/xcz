@@ -741,18 +741,6 @@
   "style":{"type":"list"}
 },
 {
-  "key": "csp_XYQHikerAL_影搜",
-  "name": "🍊影搜阿里",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/影搜cally.json",
-  "jar":"./0407.jar"
-},
-{
   "key": "csp_XYQHikerAL_土豆",
   "name": "🍊土豆玩偶",
   "type": 3,
