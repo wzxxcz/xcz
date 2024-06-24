@@ -753,18 +753,6 @@
   "jar":"./0407.jar"
 },
 {
-  "key": "csp_XYQHikerAL_开心阿里",
-  "name": "🍊开心阿里",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/开心阿里.json",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar"
-},
-{
   "key": "csp_XYQHikerAL_土豆",
   "name": "🍊土豆玩偶",
   "type": 3,
