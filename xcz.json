@@ -951,7 +951,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩我哥哥.json",
-  "jar":"./0407.jar"
+  "jar":"http://ttkx.live:55/lib/ttkx.jar"
 },
 {
   "key": "csp_XYQHikerAL_云盘资源",
