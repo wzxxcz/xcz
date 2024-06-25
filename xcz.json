@@ -1547,6 +1547,16 @@
   "ext":"https://v.aikanbot.com"
 },
 {
+  "key":"追剧影视",
+  "name":"💡追剧影视",
+  "type":3,
+  "api":"csp_AppZJ",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
@@ -1951,16 +1961,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/虾酱.json"
-},
-{
-  "key":"追剧影视",
-  "name":"💡追剧影视",
-  "type":3,
-  "api":"csp_AppZJ",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
 },
 {
   "key":"腾",
