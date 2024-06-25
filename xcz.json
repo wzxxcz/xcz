@@ -242,7 +242,7 @@
         {
             "name": "⑭开心线路",
             "type": 0,
-            "url": "http://ttkx.live:55/lib/kx2024.txt",
+            "url": "./lib/kx2024.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
