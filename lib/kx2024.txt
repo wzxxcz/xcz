@@ -643,7 +643,6 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-湖北经视,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000012.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
