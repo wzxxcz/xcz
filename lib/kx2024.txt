@@ -642,7 +642,6 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 江夏新闻,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-湖北经视, http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
