@@ -745,7 +745,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/土豆玩偶.json",
-  "jar":"./0407.jar"
+  "jar":"http://ttkx.live:55/lib/ttkx.jar"
 },
 {
   "key": "csp_XYQHikerAL_找资源",
@@ -806,7 +806,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩偶表哥.json",
-  "jar":"./0407.jar"
+  "jar":"http://ttkx.live:55/lib/ttkx.jar"
 },
 {
   "key": "多多弹幕",
@@ -922,7 +922,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/云盘资源.json",
-  "jar":"./0407.jar"
+  "jar":"http://ttkx.live:55/lib/ttkx.jar"
 },
 {
   "key": "土豆阿里",
@@ -933,7 +933,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/土豆阿里.json",
-  "jar":"./0407.jar"
+  "jar":"http://ttkx.live:55/lib/ttkx.jar"
 },
 {
   "key": "影搜",
