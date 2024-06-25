@@ -170,7 +170,7 @@
         {
             "name": "⑥蓝影兔源",
             "type": 0,
-            "url": "https://dimaston.github.io/live.m3u",
+            "url": "./lib/live.m3u",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
