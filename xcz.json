@@ -1493,6 +1493,60 @@
   "changeable":1
 },
 {
+  "key":"米米影视",
+  "name":"💡米米影视",
+  "type":3,
+  "api":"csp_WebDM",
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0
+},
+{
+  "key": "南坊追剧",
+  "name": "💡南坊影视",
+  "type": 3,
+  "api": "csp_WebNF",
+  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://www.nfzj.fun"
+},
+{
+  "key":"影探蓝光",
+  "name":"💡影探蓝光",
+  "type":3,
+  "api":"csp_App",
+  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4495fe73857453523ad8b87b1e4a57be",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
+},
+{
+  "key":"视频库",
+  "name":"💡视频影视",
+  "type":3,
+  "api":"csp_WebVidHub",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0,
+  "ext":"https://vidhub1.cc"
+},
+{
+  "key":"机器人",
+  "name":"💡机器影视",
+  "type":3,
+  "api":"csp_Ikanbot",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1,
+  "ext":"https://v.aikanbot.com"
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
@@ -1579,49 +1633,6 @@
   "api": "https://video.adminqt.cn/api.php/provide/vod/",
   "searchable": 1,
   "quickSearch": 1
-},
-{
-  "key":"米米影视",
-  "name":"💡米米影视",
-  "type":3,
-  "api":"csp_WebDM",
-  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;1722f3f3f113e21e8c8d2a9f87611ee8",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0
-},
-{
-  "key": "南坊追剧",
-  "name": "💡南坊影视",
-  "type": 3,
-  "api": "csp_WebNF",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://www.nfzj.fun"
-},
-{
-  "key":"影探蓝光",
-  "name":"💡影探蓝光",
-  "type":3,
-  "api":"csp_App",
-  "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4495fe73857453523ad8b87b1e4a57be",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0,
-  "ext":"z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
-},
-{
-  "key":"视频库",
-  "name":"💡视频影视",
-  "type":3,
-  "api":"csp_WebVidHub",
-  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "ext":"https://vidhub1.cc"
 },
 {
   "key":"畅梦影视",
@@ -3061,17 +3072,6 @@
   "playerType": 1,
   "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
   "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
-},
-{
-  "key":"机器人",
-  "name":"💡机器影视",
-  "type":3,
-  "api":"csp_Ikanbot",
-  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367",
-  "searchable":1,
-  "quickSearch":1,
-  "changeable":1,
-  "ext":"https://v.aikanbot.com"
 },
 {
   "key": "rarbt",
