@@ -507,7 +507,9 @@ DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
 山东卫视,http://dp.sxtv.top:88/md/migu.php?id=sdws
 河南卫视,http://dp.sxtv.top:88/md/migu.php?id=hnws
 湖北经视,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://dp.sxtv.top:88/md/migu.php?id=hubws
+湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%
+湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://dp.sxtv.top:88/md/migu.php?id=hunws
 江西卫视,http://dp.sxtv.top:88/md/migu.php?id=jxws
 江苏卫视,http://dp.sxtv.top:88/md/migu.php?id=jsws
