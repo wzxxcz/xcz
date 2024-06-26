@@ -664,7 +664,6 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-湖北经视,http://171.80.166.158:8888/rtp/239.69.1.41:9886
 湖北经视,http://221.234.164.94:8888/rtp/239.69.1.41:9886
 湖北经视，https://live21-cjy.hbtv.com.cn/new-hbtv/new-hbjs.m3u8?auth_key=1719372469-5d4720a0336b11ef8f58d344778fb957-0-146d0924a8391daced83a7bfbe0e286b
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
