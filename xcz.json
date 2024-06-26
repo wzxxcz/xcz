@@ -692,6 +692,13 @@
   "filterable": 0
 },
 {
+  "key":"js_local_site_api_c7762875",
+  "name":"📺好趣网",
+  "type":3,
+  "api":"http://127.0.0.1:9978/js/lib/drpy2.js",
+  "ext":"http://127.0.0.1:9978/file/sites-js/drpy/📺好趣网.js"
+}
+{
   "key": "玩偶",
   "name": "🍊小橙子玩偶",
   "type": 3,
