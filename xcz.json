@@ -1367,10 +1367,19 @@
   "name":"💡热播影视",
   "type":3,
   "api":"csp_AppRB",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
+},
+{
+  "key":"热播之家",
+  "name":"🎃热播影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
+  "ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5",
+  "分类url":"https://rebozj.pro/type/{cateId}.html"}
 },
 {
   "key": "可可",
