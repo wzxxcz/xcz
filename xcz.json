@@ -4983,11 +4983,10 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
 },
 {
-  "key": "Hhys",
+  "key": "csp_黑狐",
   "name": "💚黑狐影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "http://m1839732.cf.caoni.ru/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
