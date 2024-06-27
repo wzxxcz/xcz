@@ -377,7 +377,7 @@
         {
             "name": "②⑨肥猫线路",
             "type": 0,
-            "url": "./lib/tvzb.txt",
+            "url": "http://我不是.肥猫.live/TV/tvzb.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
