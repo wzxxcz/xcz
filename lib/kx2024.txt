@@ -664,10 +664,6 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-湖北经视,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰新闻,https://p8.vzan.com/slowlive/034028687228317362/live.m3u8?zbid=351104&tpid=868100086
@@ -1465,8 +1461,9 @@ CCTV8K超清,https://tv.cry33.com/ys4k.php?id=8k
 邵氏影院@代,https://www.goodiptv.club/douyu/4246519
 邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 邵氏影院@代,http://www.goodiptv.club/douyu/4246519
+1905国内电影,http://ygbh.live/1905.php?id=1905a
+1905国外电影,http://ygbh.live/1905.php?id=1905b
 重温经典频道,http://mtw.so/5NPX0U
-重温经典频道,http://live.dxms.top:80/dwy/cwjd.php
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 经典电影频道,https://ali.hlspull.yximgs.com/live/asdfg32522.flv 
 经典影院频道,https://ali.hlspull.yximgs.com/live/asdfg32516.flv 
