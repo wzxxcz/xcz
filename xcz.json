@@ -395,7 +395,7 @@
         {
             "name": "③①斗鱼线路",
             "type": 0,
-            "url": "./lib/douyuyqk.m3u",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
