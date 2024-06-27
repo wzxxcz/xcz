@@ -1872,29 +1872,6 @@
   "ext": "http://47.108.190.141/hipy/drpy_js/采集之王[合].js?type=url&params=http://47.108.190.141/hipy/json/采集静态.json"
 },
 {
-      "key": "皮皮",
-      "name": "🏅皮皮影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "手机",
-        "主页url": "http://www.ppxyes.com/",
-        "数组": "",
-        "标题": "title=\"&&\"",
-        "副标题": "class=\"module-info-item\">&&</div>",
-        "链接": "",
-        "简介": "",
-        "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
-        "线路标题": "<span>&&</span>",
-        "搜索后缀": "",
-        "分类": "电影$2#电视剧$1#动漫$3#综艺$4",
-        "分类url": "http://www.ppxyes.com/s/{cateId}.html"
-      }
-},
-{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
