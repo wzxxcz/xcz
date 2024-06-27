@@ -695,13 +695,13 @@
   "key": "hipy_js_好趣网[播]",
   "name": "🍊小橙子电视",
   "type": 3,
-  "api": "http://www.qsas.top:89/drpy_libs/drpy2.min.js",
+  "api": "https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/lib/drpy2.min.js",
   "searchable": 1,
-  "jar":"http://www.qsas.top:89/jar/pg.jar",            
+  "jar":"https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/lib/pg.jar",            
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://www.qsas.top:89/drpy_js/好趣网[播].js"
+  "ext": "https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/lib/好趣网[播].js"
 },
 {
   "key": "玩偶",
