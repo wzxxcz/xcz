@@ -124,7 +124,7 @@
             "name": "斗鱼",
             "type": 0,
             "playerType": 1,
-            "url": "./lib/douyu.m3u"
+            "url": "http://www.52sw.top:678/iptv/douyu.m3u"
         },
         {
             "name": "斯玛特2",
