@@ -1224,6 +1224,17 @@
   "ext": "https://yubox.xyz/drpy_js/4k剧院.js"
 },
 {
+  "key": "hipy_js_麻雀视频",
+  "name": "🐦‍麻雀影视",
+  "type": 3,
+  "api": "https://yubox.xyz/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 118,
+  "ext": "https://yubox.xyz/drpy_js/麻雀视频.js"
+},
+{
       "key": "小镇",
       "name": "🏅小镇影视",
       "type": 3,
@@ -1932,17 +1943,6 @@
   "filterable": 1,
   "order_num": 210,
   "ext": "http://47.108.190.141/hipy/drpy_js/采集之王[合].js?type=url&params=http://47.108.190.141/hipy/json/采集静态.json"
-},
-{
-  "key": "hipy_js_麻雀视频",
-  "name": "🐦‍麻雀影视",
-  "type": 3,
-  "api": "https://yubox.xyz/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 118,
-  "ext": "https://yubox.xyz/drpy_js/麻雀视频.js"
 },
 {
   "key": "小柚",
