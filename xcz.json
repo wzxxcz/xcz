@@ -323,7 +323,7 @@
         {
             "name": "②③综合三线",
             "type": 0,
-            "url": "./lib/tvlive.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
