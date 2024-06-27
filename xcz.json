@@ -224,7 +224,7 @@
         {
             "name": "⑫V6阳线路",
             "type": 0,
-            "url": "./lib/阳阳pv6.m3u",
+            "url": "https://6396.kstore.space/vip/阳阳pv6.m3u",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
