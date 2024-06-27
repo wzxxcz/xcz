@@ -1213,6 +1213,17 @@
   "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
+  "key": "hipy_js_4k剧院",
+  "name": "🏅小橙子4K",
+  "type": 3,
+  "api": "https://yubox.xyz/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 3,
+  "ext": "https://yubox.xyz/drpy_js/4k剧院.js"
+},
+{
   "key": "HDmoli",
   "name": "🍊魔力高清",
   "type": 3,
