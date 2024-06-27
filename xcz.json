@@ -695,7 +695,7 @@
   "key": "hipy_js_好趣网[播]",
   "name": "🍊小橙子电视",
   "type": 3,
-  "api": "https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/lib/drpy2.min.js",
+  "api": "https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/drpy2.min.js",
   "searchable": 1,
   "jar":"https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/lib/pg.jar",            
   "quickSearch": 1,
