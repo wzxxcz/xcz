@@ -359,7 +359,7 @@
         {
             "name": "②⑦范明电台",
             "type": 0,
-            "url": "./lib/index.m3u",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
