@@ -332,7 +332,7 @@
         {
             "name": "②④综合四线",
             "type": 0,
-            "url": "./lib/ipv6.m3u",
+            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
