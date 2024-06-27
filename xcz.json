@@ -287,7 +287,7 @@
         {
             "name": "⑲测试线路",
             "type": 0,
-            "url": "./lib/live.txt",
+            "url": "https://yubox.xyz/live.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
