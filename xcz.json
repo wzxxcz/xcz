@@ -61,7 +61,7 @@
         {
             "name": "IPTV线路",
             "type": 0,
-            "url": "./lib/IPTV.m3u",
+            "url": "http://mhq.aibao.us.kg/IPTV.m3u",
             "playerType": 2,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
