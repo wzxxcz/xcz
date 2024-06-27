@@ -1865,6 +1865,7 @@
   "name": "👶采集之王[合]",
   "type": 3,
   "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
