@@ -350,7 +350,7 @@
         {
             "name": "②⑥范明线路",
             "type": 0,
-            "url": "./lib/ipv6.m3u",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
