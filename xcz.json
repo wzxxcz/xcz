@@ -697,7 +697,7 @@
   "type": 3,
   "api": "https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/drpy2.min.js",
   "searchable": 1,
-  "jar":"https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/lib/pg.jar",            
+  "jar":"https://gitlab.com/duomv/duo/-/raw/main/pg.jar",            
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
