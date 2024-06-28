@@ -1965,6 +1965,19 @@
   "playerType": 2,
   "changeable": 1,
   "ext": "./lib/7喜电影.json"
+},
+{
+  "key": "xp_零零七",
+  "name": "🍊零零七",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "changeable": 1,
+  "ext": "./lib/零零七影视.json"
 },	  
 {
   "key": "小柚",
