@@ -3840,11 +3840,11 @@
 {
   "key": "速博资源",
   "name": "🍊速播采集",
-  "type": 1,
-  "api": "https://subocaiji.com/api.php/provide/vod/",
-  "playUrl": "",
-  "searchable": 1,
-  "quickSearch": 1
+  "type":1,
+  "api":"https://subocaiji.com/api.php/provide/vod/at/json",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1
 },
 {
   "key":"光速资源",
