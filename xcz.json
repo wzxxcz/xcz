@@ -4168,13 +4168,16 @@
   "ext": "http://ysjtv.yy365.vip/api.php/app/"
 },
 {
-  "key": "csp_xml_U酷资源",
+  "key": "cj__U酷资源",
   "name": "🍊U酷影视",
-  "type": 1,
-  "api": "https://api.ukuapi.com/api.php/provide/vod/",
-  "playUrl": "",
+  "type": 0,
+  "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
+  "jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",
   "searchable": 1,
-  "quickSearch": 1
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "changeable": 1
 },
 {
       "key": "csp_xml_百度",
