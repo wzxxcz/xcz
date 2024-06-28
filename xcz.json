@@ -704,14 +704,6 @@
   "ext": "http://www.qsas.top:89/drpy_js/好趣网[播].js"
 },
 {
-  "key": "好趣网",
-  "name": "🍊小橙子电视(备)",
-  "type": 3,
-  "api": "https://youdu.fan/tvbox/yd/lib/drpy2.min.js",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711988761126/fan.txt;md5;939c79aa5e93766504d1f7a957d32f24",
-  "ext": "https://youdu.fan/tvbox/yd/lib/好趣网.js"
-},
-{
   "key": "玩偶",
   "name": "🍊小橙子玩偶",
   "type": 3,
