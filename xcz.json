@@ -1978,7 +1978,7 @@
   "playerType": 2,
   "changeable": 1,
   "ext": "./lib/零零七影视.json"
-},	  
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
@@ -2334,46 +2334,17 @@
   "ext": "https://yk.shaozeyy.com/api.php/app/"
 },
 {
-  "key": "Ikun资源",
+  "key": "cj_ikun资源",
   "name": "🍊Ikun影视",
-  "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "惊悚片",
-                "家庭片",
-                "古装片",
-                "历史片",
-                "悬疑片",
-                "犯罪片",
-                "灾难片",
-                "记录片",
-                "短片",
-                "动画片",
-                "国产剧",
-                "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "欧美动漫",
-                "日本动漫"
-            ]
+  "type": 0,
+  "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+  "jar":"https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "changeable": 1,
+  "categories": []
 },
 {
   "key": " 星辰影",
@@ -4197,13 +4168,16 @@
   "ext": "http://ysjtv.yy365.vip/api.php/app/"
 },
 {
-  "key": "csp_xml_U酷资源",
+  "key": "cj__U酷资源",
   "name": "🍊U酷影视",
-  "type": 1,
-  "api": "https://api.ukuapi.com/api.php/provide/vod/",
-  "playUrl": "",
+  "type": 0,
+  "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
+  "jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",
   "searchable": 1,
-  "quickSearch": 1
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "changeable": 1
 },
 {
       "key": "csp_xml_百度",
@@ -5507,7 +5481,7 @@
       "ext": {
         "flag": []
       }
-    },  
+    },
     {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
     {
       "name":"线路1",
