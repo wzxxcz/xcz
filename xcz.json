@@ -2606,6 +2606,22 @@
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
+  "key": "csp_xBPQ_大米星球 ",
+  "name":"🍛大米星球",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "changeable": 1,
+  "ext": {
+        "分类url": "https://www.dmdy8.vip/vodshow/{cateId}-{area}-time-{class}-{lang}----{catePg}---{year}.html;;lr",
+        "分类": "电影$20#连续剧$21#动漫$22#综艺$23#福利$35"
+      }
+},
+{
   "key": "滋滋", 
   "name": "🈯️指点江山", 
   "type": 3, 
