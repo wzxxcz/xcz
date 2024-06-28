@@ -1954,6 +1954,19 @@
   "ext":"./lib/zhenbuka.json"
 },
 {
+  "key": "xp_7喜电影",
+  "name": "🍹7喜电影",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "changeable": 1,
+  "ext": "./lib/7喜电影.json"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
