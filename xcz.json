@@ -1784,10 +1784,10 @@
 {
   "key":"畅梦影视",
   "name":"🎄畅梦影视",
-  "type":3,
-  "api":"https://tv.nxog.top/m/js/nxog.js",
-  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
-  "ext":"https://tv.nxog.top/m/js/103.js"
+  "type": 3,
+  "api": "https://weixine.net/js/lib/drpy2.min.js",
+  "jar":"http://www.wya6.cn/tz/wyz.php;md5;31e6192040d63714d063d5a5aba287a9",
+  "ext": "https://weixine.net/js/changmeng.js"
 },
 {
   "key":"剧圈圈",
