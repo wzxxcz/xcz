@@ -704,18 +704,6 @@
   "ext": "http://www.qsas.top:89/drpy_js/好趣网[播].js"
 },
 {
-  "key": "hipy_js_好趣网[播]",
-  "name": "🍊小橙子电视(备)",
-  "type": 3,
-  "api": "https://codeberg.org/xcz2024/wzx/raw/branch/master/drpy2.min.js",
-  "searchable": 1,
-  "jar":"https://codeberg.org/xcz2024/wzx/raw/branch/master/pg.jar",            
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://codeberg.org/xcz2024/wzx/raw/branch/master/%E5%A5%BD%E8%B6%A3%E7%BD%91%5B%E6%92%AD%5D.js"
-},
-{
   "key": "玩偶",
   "name": "🍊小橙子玩偶",
   "type": 3,
