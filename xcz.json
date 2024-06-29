@@ -757,7 +757,26 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/woggzx.json"
-},	  
+},
+{
+  "key": "阿里合集",
+  "name": "🧓云盘臻享4K",
+  "type": 3,
+  "api": "csp_AliShare",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchenok.jar",
+  "searchable": 1,
+  "changeable": 0,
+  "filterable": 0,
+  "indexs": 0,
+  "ext": {
+        "token": "file://TV/ali_token.txt",
+        "share": "file://TV/阿里集合.json"
+      },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
+},
 {
   "key": "纸条",
   "name": "🗞纸条搜索",
@@ -1970,6 +1989,46 @@
   "filterable": 0,
   "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/ppx.txt",
   "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
+},
+{
+      "key": "飞刀",
+      "name": "🗡️飞刀蓝光",
+      "type": 1,
+      "api": "http://www.feidaozy.com/api.php/provide/vod?",
+      "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen0615.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "欧美剧",
+        "泰剧",
+        "纪录片",
+        "国产综艺",
+        "国产动漫",
+        "韩国综艺",
+        "日本动漫",
+        "动画电影",
+        "网络电影",
+        "动作片",
+        "喜剧片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "韩国动漫"
+      ]
 },
 {
   "key": "小柚",
