@@ -1086,7 +1086,7 @@
   "name": "🍊东辰4K",
   "type": 3,
   "api": "csp_Wextudou",
-  "jar": "http://www.qsas.top:89/jar/pg.jar",
+  "jar": "https://gitlab.com/duomv/duo/-/raw/main/pg.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
