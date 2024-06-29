@@ -1057,6 +1057,17 @@
   "danmu":true,"cookie":"satoken=5f91a828-2198-4630-ac41-da5a217c01d7"}
 },
 {
+  "key":"csp_Upyunso",
+  "name":"📀UP云搜(搜索)",
+  "type":3,
+  "api":"csp_Upyunso",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+},
+{
   "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
