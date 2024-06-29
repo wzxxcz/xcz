@@ -2402,6 +2402,7 @@
       "name": "爱坤🐔蓝光",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "jar":"https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen0615.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
