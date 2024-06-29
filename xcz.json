@@ -1023,18 +1023,6 @@
   "danmu":true}
 },
 {
-  "key":"易搜弹幕",
-  "name":"❤易搜弹幕",
-  "type":3,
-  "api":"csp_YiSo",
-  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;cf4951e1584289a42b16454d7316dbac",
-  "searchable":1,
-  "filterable":0,
-  "changeable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-  "danmu":true,"cookie":"satoken=5f91a828-2198-4630-ac41-da5a217c01d7"}
-},
-{
   "key":"csp_Upyunso",
   "name":"📀UP云搜(搜索)",
   "type":3,
