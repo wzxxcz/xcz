@@ -721,6 +721,16 @@
       }
 },
 {
+  "key": "东辰",
+  "name": "可欣4K",
+  "type": 3,
+  "api": "csp_Wextudou",
+  "jar": "https://gitee.com/dongchenliu/liu/blob/master/jar/dongchen0615.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "纸条",
   "name": "🗞纸条搜索",
   "type": 3,
