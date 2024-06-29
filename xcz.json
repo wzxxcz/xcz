@@ -796,18 +796,6 @@
       }
 },
 {
-  "key": "csp_XYQHiker_盘搜索",
-  "name": "🍊阿里盘搜",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/盘搜.json",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar"
-},
-{
   "key": "csp_XYQHikerAL_玩偶表哥",
   "name": "🍊玩偶表哥",
   "type": 3,
