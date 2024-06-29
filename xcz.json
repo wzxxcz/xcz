@@ -778,6 +778,21 @@
       "timeout": 30
 },
 {
+  "key": "易搜弹幕",
+  "name": "🚛易搜弹幕",
+  "type": 3,
+  "api": "csp_YiSo",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchenok.jar",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 1,
+  "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true,
+        "cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
+      }
+},
+{
   "key": "纸条",
   "name": "🗞纸条搜索",
   "type": 3,
