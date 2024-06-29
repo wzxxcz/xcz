@@ -1946,6 +1946,17 @@
   "ext": "./lib/零零七影视.json"
 },
 {
+  "key": "极光",
+  "name": "☀极光App",
+  "type": 3,
+  "api": "csp_AppSK",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
