@@ -1939,6 +1939,7 @@
       "name": "🏂飞刀蓝光",
       "type": 1,
       "api": "http://www.feidaozy.com/api.php/provide/vod?",
+      "jar":"http://www.qsas.top:89/jar/pg.jar",
       "searchable": 1,
       "changeable": 1,
       "categories": [
