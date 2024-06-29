@@ -1600,12 +1600,12 @@
   "key": "南坊追剧",
   "name": "💡南坊影视",
   "type": 3,
-  "api": "csp_WebNF",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
+  "api": "csp_AppMao",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
   "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "https://www.nfzj.fun"
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
 },
 {
   "key":"影探蓝光",
