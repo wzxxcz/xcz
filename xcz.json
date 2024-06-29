@@ -1976,7 +1976,6 @@
       "name": "🏂飞刀蓝光",
       "type": 1,
       "api": "http://www.feidaozy.com/api.php/provide/vod?",
-      "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen.jar",
       "searchable": 1,
       "changeable": 1,
       "categories": [
