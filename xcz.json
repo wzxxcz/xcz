@@ -847,17 +847,6 @@
   "ext":"./lib/wod.json"
 },
 {
-  "key":"️玩偶妹",
-  "name":"❤️玩偶妹4K",
-  "type":3,
-  "api":"csp_XYQHikerAL",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/wom.json",
-  "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792"
-},
-{
   "key":"️玩偶歌",
   "name":"❤️玩偶歌4K",
   "type":3,
