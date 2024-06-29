@@ -853,18 +853,6 @@
       }
 },
 {
-  "key": "csp_XYQHikerAL_玩偶表哥",
-  "name": "🍊玩偶表哥",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/玩偶表哥.json",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar"
-},
-{
   "key": "多多弹幕",
   "name": "😁多多弹幕4K弹幕",
   "type": 3,
