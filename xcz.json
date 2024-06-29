@@ -1082,16 +1082,6 @@
   "ext":"./lib/woo.json"
 },
 {
-  "key": "东辰",
-  "name": "🍊东辰4K",
-  "type": 3,
-  "api": "csp_Wextudou",
-  "jar": "https://gitlab.com/duomv/duo/-/raw/main/pg.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
   "key": "mt",
   "name": "🏅摩托4K",
   "type": 3,
