@@ -7,7 +7,7 @@
 👉👉把家里路由器,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 👉👉支持所有线路,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 👉👉更换享受超清,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-🍊中国港澳👉天天,#genre#
+🍊中国港澳👉小橙子,#genre#
 凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -48,7 +48,7 @@ TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-🍊央视频道👉开心,#genre#
+🍊央视频道👉小橙子,#genre#
 CCTV1,http://cdn.jdshipin.com:8880/ysp.php?id=cctv1
 CCTV2,http://cdn.jdshipin.com:8880/ysp.php?id=cctv2
 CCTV3,http://cdn.jdshipin.com:8880/ysp.php?id=cctv3
