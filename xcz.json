@@ -1307,16 +1307,6 @@
       }
 },
 {
-  "key": "HDmoli",
-  "name": "🍊魔力高清",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/HDmoli.json"
-},
-{
   "key": "meowtv_jpyy",
   "name": "🔨荐片影院",
   "type": 3,
