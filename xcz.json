@@ -5291,6 +5291,16 @@
   "changeable": 1
 },
 {
+  "key": "夜猫短剧",
+  "name": "💛夜猫短剧",
+  "type": 3,
+  "api": "csp_YMduanju",
+  "jar": "http://mywlkj.ddns.net:5212/f/VQLTY/ymdj.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "无忧短剧",
   "name": "🌈无忧短剧热推",
   "type": 3,
