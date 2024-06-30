@@ -1257,7 +1257,7 @@
 },
 {
   "key": "hipy_js_麻雀视频",
-  "name": "🐦‍麻雀影视",
+  "name": "🐦麻雀影视",
   "type": 3,
   "api": "https://yubox.xyz/drpy_libs/drpy2.min.js",
   "searchable": 1,
@@ -5291,6 +5291,16 @@
   "changeable": 1
 },
 {
+  "key": "夜猫短剧",
+  "name": "💛夜猫短剧",
+  "type": 3,
+  "api": "csp_YMduanju",
+  "jar": "http://mywlkj.ddns.net:5212/f/VQLTY/ymdj.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "无忧短剧",
   "name": "🌈无忧短剧热推",
   "type": 3,
@@ -5376,7 +5386,7 @@
   "quickSearch": 0,
   "filterable": 1,
   "ext": "./lib/戏曲.json"
-},	  
+},
 {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/学堂教育.json"}, 
 {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/少儿合集.json"},
 {"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/小学课堂.json"},
