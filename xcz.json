@@ -5355,6 +5355,17 @@
         "ratio": 3.8
       }
 },
+{
+  "key": "相声小品",
+  "name": "🏮相声小品",
+  "type": 3,
+  "api": "csp_Bili",
+  "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext": "./lib/相声小品.json"
+},
 {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/学堂教育.json"}, 
 {"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/少儿合集.json"},
 {"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/小学课堂.json"},
