@@ -708,7 +708,7 @@
   "name": "🍊小橙子玩偶",
   "type": 3,
   "api": "csp_WoGG",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -1110,7 +1110,7 @@
   "name": "🌟立播秒播",
   "type": 3,
   "api": "csp_Libvio",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719231697644/fan.txt;md5;19835343a0066e1836802cdfaacb962f",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
@@ -1140,6 +1140,34 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/woo.json"
+},
+{
+  "key": "UpYun",
+  "name": "😻Up搜搜索",
+  "type": 3,
+  "api": "csp_UpYun",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
+},
+{
+  "key": "PanSou",
+  "name": "🦊盘搜搜索",
+  "type": 3,
+  "api": "csp_PanSou",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
 },
 {
   "key": "mt",
@@ -1305,7 +1333,7 @@
   "playerType": "1",
   "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
   "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf"
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
 },
 {
   "key":"荐片",
@@ -1327,7 +1355,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf"
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
 },
 {
   "key": "小苹果",
@@ -1361,7 +1389,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b"
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
 },
 {
   "key": "七味影视",
@@ -1379,7 +1407,7 @@
   "name": "🚝专线秒播",
   "type": 3,
   "api": "csp_Zx4k",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719231697644/fan.txt;md5;19835343a0066e1836802cdfaacb962f",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "timeout": 15,
   "playerType": 2,
   "searchable": 1,
@@ -1394,7 +1422,7 @@
   "searchable":1,
   "quickSearch":1,
   "changeable":1,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b"
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
 },
 {
   "key": "饭团影视",
@@ -1411,7 +1439,7 @@
   "name": "💮文采秒播",
   "type": 3,
   "api": "csp_Jpys",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
@@ -1422,7 +1450,7 @@
   "name": "🎃南瓜多线",
   "type": 3,
   "api": "csp_NanGua",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "timeout": 15,
   "playerType": 2,
   "searchable": 1,
@@ -1434,7 +1462,7 @@
   "name": "💥小点多线",
   "type": 3,
   "api": "csp_Xdys",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1445,7 +1473,7 @@
   "name": "👀萌米多线",
   "type": 3,
   "api": "csp_AppTT",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "timeout": 15,
   "playerType": 1,
   "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
@@ -1455,7 +1483,7 @@
   "name": "📺热播多线",
   "type": 3,
   "api": "csp_AppTT",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "timeout": 15,
   "playerType": 2,
   "searchable": 1,
@@ -1490,7 +1518,7 @@
   "name": "👻可可多线",
   "type": 3,
   "api": "csp_Kekys",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "timeout": 15,
   "playerType": 2,
   "searchable": 1,
@@ -1512,7 +1540,7 @@
   "name": "🍓蛋蛋多线",
   "type": 3,
   "api": "csp_Cddys",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
@@ -1533,7 +1561,7 @@
   "name":"👓视觉多线",
   "type": 3,
   "api": "csp_Xinsj",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "timeout": 15,
   "searchable": 1,
   "quickSearch": 1,
@@ -5256,8 +5284,8 @@
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
-  "api": "csp_Djuu",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718877700936/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "api": "csp_Djtt",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
@@ -5275,15 +5303,6 @@
         "ratio": 1.433
       },
       "timeout": 10
-},
-{
-  "key":"仙品短剧",
-  "name":"🐞仙品短剧",
-  "type":3,
-  "api":"csp_Wexduanjuhema",
-  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
-  "searchable":1,
-  "changeable":1
 },
 {
   "key":"良品短剧",
