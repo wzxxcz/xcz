@@ -5281,6 +5281,15 @@
   "quickSearch":1
 },
 {
+  "key": "py_央视片库",
+  "name": "📺cctv片库",
+  "type": 3,
+  "playerType": 2,
+  "api": "py_cctv",
+  "api":"https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/",
+  "ext": "http://150.158.91.136/py/央视片库.py"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
