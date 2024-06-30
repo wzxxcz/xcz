@@ -1307,13 +1307,6 @@
       }
 },
 {
-  "key": "meowtv_jpyy",
-  "name": "🔨荐片影院",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"
-},
-{
   "key": "贱贱",
   "name": "🐭贱贱P2P",
   "type": 3,
