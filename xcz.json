@@ -1120,17 +1120,6 @@
       }
 },
 {
-  "key": "csp_XYQHikerAL_77zys",
-  "name": "🚄影视网盘",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/77zys.json"
-},
-{
   "key":"️玩偶欧",
   "name":"❤️玩偶欧4K",
   "type":3,
