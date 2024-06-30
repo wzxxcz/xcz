@@ -1179,7 +1179,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/alypw.json"
-},	  
+},
 {
   "key": "mt",
   "name": "🏅摩托4K",
@@ -2083,6 +2083,17 @@
         "奇幻片",
         "韩国动漫"
       ]
+},
+{
+  "key": "csp_茶杯",
+  "name": "🍵茶杯影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar":"./0407.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/茶杯狐.json"
 },
 {
   "key": "小柚",
@@ -3757,17 +3768,6 @@
   "quickSearch":1,
   "searchable":1,
   "ext":"https://www.69mj.com/xgapp.php/v2/"
-},
-{
-  "key": "csp_茶杯",
-  "name": "🍵茶杯影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar":"./0407.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/茶杯狐.json"
 },
 {
   "key": "drpy_js_69美剧",
