@@ -1600,17 +1600,6 @@
   "filterable":1
 },
 {
-  "key":"Voflix",
-  "name":"💡Voflix影视",
-  "type":3,
-  "api":"csp_Voflix",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://voflix.fun/"
-},
-{
   "key":"愉悦影视",
   "name":"💡愉悦影视",
   "type":3,
