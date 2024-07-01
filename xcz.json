@@ -1170,6 +1170,15 @@
   "ext": "./lib/alypw.json"
 },
 {
+  "key": "秒搜",
+  "name": "🛹秒搜网盘",
+  "type": 3,
+  "api": "csp_MiaoSou",
+  "jar": "./lib/pg0426.jar",
+  "timeout": 60,
+  "ext": "./lib/tokenm.json"
+},
+{
   "key": "mt",
   "name": "🏅摩托4K",
   "type": 3,
