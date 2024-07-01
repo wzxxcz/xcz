@@ -2102,6 +2102,14 @@
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
+  "key":"drpy_js_人人影视",
+  "name":"👩‍❤‍👨人人影视",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js",
+  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -4515,14 +4523,6 @@
       "分类数组":"hl-nav-item hl-slide-swiper&&",
       "分类标题":"&&[不包含:午夜场]",
       "分类ID":"/vodtype/id/&&.html"}
-},
-{
-  "key":"drpy_js_人人影视",
-  "name":"👩‍❤‍👨人人影视",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js",
-  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
   "key": "drpy_js_139影视",
