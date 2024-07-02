@@ -2098,6 +2098,7 @@
   "name": "🏔影视大全",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://gitee.com/dodboy/88/raw/master/jar/dongchenok.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
