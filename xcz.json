@@ -763,7 +763,7 @@
   "name": "🧓云盘臻享4K",
   "type": 3,
   "api": "csp_AliShare",
-  "jar": "https://gitee.com/dodboy/88/raw/master/jar/dongchenok.jar",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchenok.jar",
   "searchable": 1,
   "changeable": 0,
   "filterable": 0,
