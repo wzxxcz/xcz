@@ -2543,6 +2543,20 @@
   "jar":"./0407.jar"
 },
 {
+  "key": "南瓜弹幕版",
+  "name": "🎃南瓜蓝光弹幕",
+  "type": 3,
+  "api": "csp_Nangua",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+},
+{
   "key": "暴风采集",
   "name": "🌪️暴风影音",
   "type": 1,
