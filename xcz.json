@@ -1363,6 +1363,17 @@
   "timeout": 15
 },
 {
+  "key":"4K影视",
+  "name":"🍊4K影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/4K影视.json"
+},
+{
   "key": "糯米",
   "name": "🍙糯米秒播",
   "type": 3,
