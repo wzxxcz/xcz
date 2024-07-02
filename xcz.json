@@ -2109,6 +2109,17 @@
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
+  "key": "dan酷影视",
+  "name": "😎酷影蓝光纯净",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.tvkuys.xyz/api.php/app/"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -2876,16 +2887,6 @@
   "quickSearch":1,
   "changeable":1,
   "ext":"https://www.tvkuys.xyz/api.php/app/"
-},
-{
-  "key": "gsgs",
-  "name": "🍊酷影影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.tvkuys.xyz/api.php/app/"
 },
 {
   "key": "91影视网",
