@@ -2094,6 +2094,17 @@
   "ext": "./lib/4kvm.json"
 },
 {
+  "key": "剧集",
+  "name": "🍊剧集影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "ext": {"搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
+  "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
+        "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -3774,17 +3785,6 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=电影牛"
 },
 {
-  "key": "剧集",
-  "name": "🍊剧集影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://ttkx.live:55/lib/ttkx.jar",
-  "ext": {"搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
-  "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
-        "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
-      }
-},
-{
   "key": "mayiys",
   "name": "🐜蚂蚁影视",
   "type": 3,
@@ -3800,15 +3800,15 @@
             "分类": "电影$1#剧集$2#综艺$4#动漫$3#其它$5 " }
 },
 {
-  "key":"西屋影视",
-  "name":"💚西屋影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ua": "okhttp/3.15",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext": "./lib/西屋.json"
+  "key": "csp_西屋",
+  "name": "💚西屋影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar":"http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "./lib/西屋影视.json"
 },
 {
   "key":"M2077",
