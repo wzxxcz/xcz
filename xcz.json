@@ -3343,16 +3343,14 @@
   "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
 },
 {
-  "key": "rarbt",
-  "name": "🤖机器蓝光纯净",
+  "key": "机器人bot",
+  "name": "🤖机器蓝光无广",
   "type": 3,
-  "changeable": 1,
+  "api": "csp_Ikanbot",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=机器人"
+  "changeable": 1
 },
 {
   "key":"csp_mgtva",
