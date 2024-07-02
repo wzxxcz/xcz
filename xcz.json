@@ -2109,6 +2109,17 @@
   "ext": "https://www.tvkuys.xyz/api.php/app/"
 },
 {
+  "key": "4K影院",
+  "name": "☘️影院蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "./lib/dongchen.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/4kvm.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
