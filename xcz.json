@@ -2597,13 +2597,11 @@
 {
   "key": "胖虎影视",
   "name": "🐯胖虎蓝光在线",
-  "type":3,
-  "api":"csp_Panghu",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4faca299df1fcb258ca9128e620e5b22",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://physvod.com"
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "playerType": "2",
+  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=胖虎"
 },
 {
   "key":"csp_盒子",
