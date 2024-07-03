@@ -2165,6 +2165,13 @@
   "ext": "./lib/达达龟影视.json"
 },
 {
+  "key": "drpy_js_奇优影院",
+  "name": "🍊奇优影视",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -5163,13 +5170,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/威士影视.json"
-},
-{
-  "key": "drpy_js_奇优影院",
-  "name": "🍊奇优影视",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
 },
 {
   "key": "Hhys",
