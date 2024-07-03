@@ -2134,6 +2134,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "api": "csp_XBPQ",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
   "ext": {"站名": "极客影视","主页url": "https://www.jkdy.cc/",
   "搜索url": "https://www.jkdy.cc/vodsearch/{wd}----------{pg}---.html",
   "播放数组": "class=\"hl-plays-list&&</ul>",
