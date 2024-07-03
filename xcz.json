@@ -5259,6 +5259,14 @@
   "quickSearch":1
 },
 {
+  "key":"drpy_od",
+  "name":"🛫欧帝影视",
+  "type":3,
+  "playerType":2,
+  "api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js",
+  "ext":"https://cloud.lxweb.cn/f/Wr2WcB/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
