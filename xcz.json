@@ -2057,13 +2057,16 @@
   "order_num": 0,
   "ext": "https://yubox.xyz/drpy_js/冠建影视.js"
 },
-{
-  "key": "drpy_js_金曼影视",
-  "name": "🍊金曼影视",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/金曼影视.js",
-  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+{ "key": "金曼TV",                     
+  "name": "🍊金曼影视", 
+  "type": 3,  
+  "playerType": 1,    
+  "api": "csp_XBPQ",
+  "jar":"http://ttkx.live:55/lib/ttkx.jar",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "./lib/jinman.json"  
 },
 {
   "key":"drpy_js_人人影视",
