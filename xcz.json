@@ -2105,6 +2105,16 @@
       }
 },
 {
+  "key":"子子影视",
+  "name":"🍊子子秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/zizi.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -2938,16 +2948,6 @@
                 "恐怖片",
                 "动作片"
             ]
-},
-{
-  "key":"子子影视",
-  "name":"🍊子子秒播",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/zizi.json"
 },
 {
   "key": "drpy_js_四个圈儿",
