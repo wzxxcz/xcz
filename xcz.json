@@ -2155,6 +2155,16 @@
   "filterable":1
 },
 {
+  "key": "csp_达龟",
+  "name": "🐢达龟影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/达达龟影视.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -5133,16 +5143,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/ffzy.json"
-},
-{
-  "key": "csp_达龟",
-  "name": "🐢达龟影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/达达龟影视.json"
 },
 {
   "key": "csp_午舞",
