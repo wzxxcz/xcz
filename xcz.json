@@ -2241,6 +2241,17 @@
   "ext":"./lib/shiliu.json"
 },
 {
+  "key": "奈飞中文",
+  "name": "🕊️奈飞秒播",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar":"http://ttkx.live:55/lib/ttkx.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/nfzw.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -3803,17 +3814,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/ynfys.json"
-},
-{
-  "key": "奈飞中文",
-  "name": "🕊️奈飞秒播",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/nfzw.json"
 },
 {
   "key": "ssys",
