@@ -51,7 +51,7 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
-            "name": "开心频道",
+            "name": "小橙子频道",
             "type": 0,
             "url": "http://ttkx.live:55/lib/kx2024.txt",
             "ua": "okhttp/3.15",
@@ -240,7 +240,7 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "⑭开心线路",
+            "name": "⑭小橙子线路",
             "type": 0,
             "url": "http://ttkx.live:55/lib/kx2024.txt",
             "playerType": 2,
@@ -529,7 +529,7 @@
         },
         {
             "key": "⑫",
-            "name": "开心线路",
+            "name": "小橙子线路",
             "type": 3,
             "api": "http://rihou.cc:555/sdtv.js",
             "ext": "http://rihou.cc:555/1/sdtv14.txt",
