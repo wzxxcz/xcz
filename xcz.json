@@ -2286,6 +2286,13 @@
     \"分类url\":\"https://www.3ayy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"
 },
 {
+  "key":"dr_美视网",
+  "name":"🛫美视网",
+  "type":3,"playerType":2,
+  "api":"https://raw.gitcode.com/Xymz/ymz/raw/master/lib/drpy2.min.js",
+  "ext":"https://cloud.lxweb.cn/f/0QODt0/%E7%BE%8E%E8%A7%86%E7%BD%91.js"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -3582,23 +3589,6 @@
   "type": 3,
   "api": "http://tv.nxog.top/m/js/nxog.js",
   "ext": "https://raw.gitcode.com/wykj/ys/raw/main/js/15.js"
-},
-{
-  "key": "drpy_js_网飞.TV",
-  "name": "🍊网飞影视",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
-},
-{
-  "key": "meowtv_wfys",
-  "name": "🍊网飞影院",
-  "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/网飞影视.js"
 },
 {
   "key": "drpy_js_我爱跟剧",
