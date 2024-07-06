@@ -2343,6 +2343,17 @@
       }
 },
 {
+  "key": "csp_奥特影视",
+  "name": "💚奥特影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/奥特.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -4067,17 +4078,6 @@
         "副标题": "class=\"pic-text text-right\"&&</span>",
         "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
       }
-},
-{
-  "key": "csp_奥特影视",
-  "name": "💚奥特影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/奥特.json"
 },
 {
 	"key": "sansan",
