@@ -2114,6 +2114,17 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
 },
 {
+  "key": "csp_xBPQ_奇优",
+  "name": "🍊奇优影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/奇优影院.json",
+  "jar":"http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6"
+},
+{
   "key": "qimaoys",
   "name": "🐈七猫",
   "type": 3,
@@ -5121,17 +5132,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/黑狐.json"
-},
-{
-  "key": "csp_xBPQ_奇优",
-  "name": "🍊奇优影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/奇优影院.json",
-  "jar":"http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6"
 },
 {
       "key": "蚂蚁ys",
