@@ -62,6 +62,23 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 🍊央视频道👉小橙子,#genre#
+CCTV1,http://ygbh.live:80/migu.php?id=cctv1
+CCTV2,http://ygbh.live:80/migu.php?id=cctv2
+CCTV3,http://ygbh.live:80/migu.php?id=cctv3
+CCTV4,http://ygbh.live:80/migu.php?id=cctv4
+CCTV5,http://ygbh.live:80/migu.php?id=cctv5
+CCTV6,http://ygbh.live:80/migu.php?id=cctv6
+CCTV7,http://ygbh.live:80/migu.php?id=cctv7
+CCTV8,http://ygbh.live:80/migu.php?id=cctv8
+CCTV9,http://ygbh.live:80/migu.php?id=cctv9
+CCTV10,http://ygbh.live:80/migu.php?id=cctv10
+CCTV11,http://ygbh.live:80/migu.php?id=cctv11
+CCTV12,http://ygbh.live:80/migu.php?id=cctv12
+CCTV13,http://ygbh.live:80/migu.php?id=cctv13
+CCTV14,http://ygbh.live:80/migu.php?id=cctv14
+CCTV15,http://ygbh.live:80/migu.php?id=cctv15
+CCTV16,http://ygbh.live:80/migu.php?id=cctv16
+CCTV17,http://ygbh.live:80/migu.php?id=cctv1
 CCTV1,http://cdn.jdshipin.com:8880/ysp.php?id=cctv1
 CCTV2,http://cdn.jdshipin.com:8880/ysp.php?id=cctv2
 CCTV3,http://cdn.jdshipin.com:8880/ysp.php?id=cctv3
@@ -83,23 +100,10 @@ CCTV17,http://cdn.jdshipin.com:8880/ysp.php?id=cctv17
 CCTV8k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
 CCTV4k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv4k
 CCTV16 4k,http://cdn.jdshipin.com:8880/ysp.php?id=cctv164k
-CCTV1,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
-CCTV2,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel2/1300.m3u8
-CCTV3,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/1300.m3u8
-CCTV4,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
 CCTV5,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
 CCTV5+,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
-CCTV6,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/1300.m3u8
-CCTV7,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel7/1300.m3u8
 CCTV8,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel8/1300.m3u8
-CCTV9,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel9/1300.m3u8
-CCTV10,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/1300.m3u8
-CCTV11,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel41/1300.m3u8
-CCTV12,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
 CCTV13,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel39/1300.m3u8
-CCTV14,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/1300.m3u8
-CCTV15,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
-CCTV17,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel90/1300.m3u8
 
 CCTV1,http://222.223.118.222:2180/live/cctv1/index.m3u8
 CCTV2,http://222.223.118.222:2180/live/cctv2/index.m3u8
@@ -152,13 +156,10 @@ CCTV17,http://222.223.118.222:2180/live/cctv17/index.m3u8
 CCTV1,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
 CCTV2,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel2/1300.m3u8
 CCTV3,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/1300.m3u8
-CCTV4,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
 CCTV5+,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
 CCTV6,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel6/1300.m3u8
-CCTV7,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel7/1300.m3u8
 CCTV8,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel8/1300.m3u8
 CCTV9,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel9/1300.m3u8
-CCTV10,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel10/1300.m3u8
 CCTV12,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel11/1300.m3u8
 CCTV14,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/1300.m3u8
 
@@ -240,22 +241,6 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&play
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 
-CCTV1,http://106.115.27.17:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV2,http://106.115.27.17:9999/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV4,http://106.115.27.17:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV5,http://106.115.27.17:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV7,http://106.115.27.17:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV8,http://106.115.27.17:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV9,http://106.115.27.17:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV10,http://106.115.27.17:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV11,http://106.115.27.17:9999/tsfile/live/faacts/0011_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV12,http://106.115.27.17:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV13,http://106.115.27.17:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV14,http://106.115.27.17:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV15,http://106.115.27.17:9999/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV风云剧场,http://106.115.27.17:9999/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV怀旧剧场,http://106.115.27.17:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-CCTV风云足球,http://106.115.27.17:9999/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
 
 CCTV1,http://116.117.106.7:8096/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$内蒙古联通 酒店
 CCTV2,http://116.117.106.7:8096/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$内蒙古联通 酒店
@@ -273,13 +258,9 @@ CCTV14,http://116.117.106.7:8096/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&a
 CCTV15,http://116.117.106.7:8096/tsfile/live/0014_2.m3u8?key=txiptv&playlive=1&authid=0$内蒙古联通 酒店
 
 
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV2,https://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
 CGTN-英语新闻,http://live.cgtn.com/1000/prog_index.m3u8
@@ -336,32 +317,11 @@ CCTV17,http://60.6.255.8:2180/live/cctv17/index.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,https://tv.cry33.com/ys4k.php?id=4k
 CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
-CCTV1,http://dp.sxtv.top:88/md/migu.php?id=cctv1 
-CCTV2,http://dp.sxtv.top:88/md/migu.php?id=cctv2 
-CCTV3,http://dp.sxtv.top:88/md/migu.php?id=cctv3 
-CCTV4,http://dp.sxtv.top:88/md/migu.php?id=cctv4 
-CCTV4,http://dp.sxtv.top:88/md/migu.php?id=cctv4a 
- CCTV4,http://dp.sxtv.top:88/md/migu.php?id=cctv4o 
 CCTV5,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
 CCTV5+,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
-CCTV6,http://dp.sxtv.top:88/md/migu.php?id=cctv6 
-CCTV7,http://dp.sxtv.top:88/md/migu.php?id=cctv7 
-CCTV8,http://dp.sxtv.top:88/md/migu.php?id=cctv8 
-CCTV9,http://dp.sxtv.top:88/md/migu.php?id=cctv9 
-CCTV10,http://dp.sxtv.top:88/md/migu.php?id=cctv10
-CCTV11,http://dp.sxtv.top:88/md/migu.php?id=cctv11 
-CCTV12,http://dp.sxtv.top:88/md/migu.php?id=cctv12 
-CCTV13,http://dp.sxtv.top:88/md/migu.php?id=cctv13 
-CCTV14,http://dp.sxtv.top:88/md/migu.php?id=cctv14 
-CCTV15,http://dp.sxtv.top:88/md/migu.php?id=cctv15 
-CCTV17,http://dp.sxtv.top:88/md/migu.php?id=cctv17 
 
-CCTV1,http://112.235.200.126:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://112.235.200.126:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://112.235.200.126:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://113.57.103.216:9000/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://112.235.200.126:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://59.62.8.250:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7,http://59.62.8.250:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://59.62.8.250:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -372,49 +332,16 @@ CCTV12,http://59.62.8.250:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&aut
 CCTV13,http://59.62.8.250:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://59.62.8.250:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://59.62.8.250:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://112.235.200.247:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?$海南移动V4
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?$海南移动V4
-CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8?$海南移动V4
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?$海南移动V4
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?$海南移动V4
 
-CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8?$海南移动V4
-CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8?$海南移动V4
-CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8?$海南移动V4
-CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8?$海南移动V4
-CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8?$海南移动V4
-CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8?$海南移动V4
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8?$海南移动V4
-CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8?$海南移动V4
-CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8?$海南移动V4
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8?$海南移动V4
-CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8?$海南移动V4
 
 CCTV3,http://59.62.8.250:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://112.235.200.247:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4http://113.74.172.186:4000/udp/239.253.43.121:5146?$广东电信主力线
 
-CCTV1,http://120.211.119.222:8899/hls/1/index.m3u8
-CCTV2,http://120.211.119.222:8899/hls/2/index.m3u8
-CCTV3,http://120.211.119.222:8899/hls/3/index.m3u8
-CCTV4,http://120.211.119.222:8899/hls/4/index.m3u8
-CCTV5,http://120.211.119.222:8899/hls/5/index.m3u8
-CCTV5+,http://120.211.119.222:8899/hls/17/index.m3u8
-CCTV6,http://120.211.119.222:8899/hls/6/index.m3u8
-CCTV7,http://120.211.119.222:8899/hls/7/index.m3u8
-CCTV8,http://120.211.119.222:8899/hls/8/index.m3u8
-CCTV9,http://120.211.119.222:8899/hls/9/index.m3u8
-CCTV10,http://120.211.119.222:8899/hls/10/index.m3u8
-CCTV11,http://120.211.119.222:8899/hls/11/index.m3u8
-CCTV12,http://120.211.119.222:8899/hls/12/index.m3u8
-CCTV13,http://120.211.119.222:8899/hls/13/index.m3u8
-CCTV14,http://120.211.119.222:8899/hls/14/index.m3u8
-CCTV15,http://120.211.119.222:8899/hls/15/index.m3u8
 CCTV-4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-4K,https://tv.cry33.com/ys4k.php?id=4k
 CCTV-8K,https://tv.cry33.com/ys4k.php?id=8k
+
 🍊央视频道👉IPV6,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
@@ -942,6 +869,8 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 武汉新闻,http://stream.appwuhan.com/1tzb/sd/live.m3u8
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
+湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://27.18.146.62:4022/rtp/239.69.1.41:9886
 湖北经视,http://119.98.202.147:85/rtp/239.69.1.41:9886
 湖北经视,http://121.60.89.12:8000/rtp/239.69.1.41:9886
@@ -981,40 +910,8 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 天津卫视,http://cdn.jdshipin.com:8880/ysp.php?id=tjws
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 海南卫视,http://cdn.jdshipin.com:8880/ysp.php?id=hinws
-吉林卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/1300.m3u8
 湖南卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/1300.m3u8
-河南卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel78/1300.m3u8
-安徽卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/1300.m3u8
-北京卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel24/1300.m3u8
-兵团卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel67/1300.m3u8
-重庆卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel56/1300.m3u8
-东方卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8
-东南卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel80/1300.m3u8
-甘肃卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel57/1300.m3u8
-广东卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
-广西卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel59/1300.m3u8
-贵州卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel30/2300.m3u8
-海南卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel62/2300.m3u8
-河北卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel79/1300.m3u8
-黑龙江卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel27/1300.m3u8
-湖北卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/1300.m3u8
-江苏卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel18/1300.m3u8
-江西卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel22/1300.m3u8
-辽宁卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel32/1300.m3u8
-内蒙古卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel93/1300.m3u8
 宁夏卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel69/1300.m3u8
-青海卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel60/1300.m3u8
-山东卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel29/1300.m3u8
-山西卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel54/1300.m3u8
-陕西卫视,http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel55/1300.m3u8
-深圳卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
-四川卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
-天津卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel28/1300.m3u8
-西藏卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/1300.m3u8
-西藏卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel66/2300.m3u8
-新疆卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel64/1300.m3u8
-云南卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel61/1300.m3u8
-浙江卫视,http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel19/1300.m3u8
 
 湖南卫视,http://222.223.118.222:2180/live/hunws/index.m3u8
 浙江卫视,http://222.223.118.222:2180/live/zjws/index.m3u8
@@ -1062,36 +959,6 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 江西卫视,http://58.19.38.162:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 贵州卫视,http://58.19.38.162:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$湖北联通 酒店
 
-河北卫视,http://106.115.27.17:9999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-北京卫视,http://106.115.27.17:9999/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-湖南卫视,http://106.115.27.17:9999/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-黑龙江卫视,http://106.115.27.17:9999/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-深圳卫视,http://106.115.27.17:9999/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-江苏卫视,http://106.115.27.17:9999/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-东方卫视,http://106.115.27.17:9999/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-浙江卫视,http://106.115.27.17:9999/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-天津卫视,http://106.115.27.17:9999/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-安徽卫视,http://106.115.27.17:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-辽宁卫视,http://106.115.27.17:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-山东卫视,http://106.115.27.17:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-云南卫视,http://106.115.27.17:9999/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-河南卫视,http://106.115.27.17:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-四川卫视,http://106.115.27.17:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-江西卫视,http://106.115.27.17:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-贵州卫视,http://106.115.27.17:9999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-湖北卫视,http://106.115.27.17:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-重庆卫视,http://106.115.27.17:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-东南卫视,http://106.115.27.17:9999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-广东卫视,http://106.115.27.17:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-广西卫视,http://106.115.27.17:9999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-吉林卫视,http://106.115.27.17:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-陕西卫视,http://106.115.27.17:9999/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-山西卫视,http://106.115.27.17:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-内蒙古卫视,http://106.115.27.17:9999/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-青海卫视,http://106.115.27.17:9999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-宁夏卫视,http://106.115.27.17:9999/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-西藏卫视,http://106.115.27.17:9999/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
-新疆卫视,http://106.115.27.17:9999/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
 
 陕西卫视,http://124.116.183.146:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信 酒店
 东方卫视,http://124.116.183.146:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信 酒店
@@ -1158,75 +1025,7 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 新疆卫视,http://ygbh.live/migu.php?id=xjws
 西藏卫视,http://ygbh.live/migu.php?id=xzws
 海南卫视,http://ygbh.live/migu.php?id=hinws
-东方卫视,http://dp.sxtv.top:88/md/migu.php?id=dfws
-重庆卫视,http://dp.sxtv.top:88/md/migu.php?id=cqws
-吉林卫视,http://dp.sxtv.top:88/md/migu.php?id=jlws
-辽宁卫视,http://dp.sxtv.top:88/md/migu.php?id=lnws
-内蒙古卫视,http://dp.sxtv.top:88/md/migu.php?id=nmws
-宁夏卫视,http://dp.sxtv.top:88/md/migu.php?id=nxws
-甘肃卫视,http://dp.sxtv.top:88/md/migu.php?id=gsws
-青海卫视,http://dp.sxtv.top:88/md/migu.php?id=qhws
-陕西卫视,http://dp.sxtv.top:88/md/migu.php?id=sxws
-山东卫视,http://dp.sxtv.top:88/md/migu.php?id=sdws
-河南卫视,http://dp.sxtv.top:88/md/migu.php?id=hnws
-湖北卫视,http://dp.sxtv.top:88/md/migu.php?id=hubws
-湖南卫视,http://dp.sxtv.top:88/md/migu.php?id=hunws
-江西卫视,http://dp.sxtv.top:88/md/migu.php?id=jxws
-江苏卫视,http://dp.sxtv.top:88/md/migu.php?id=jsws
-东南卫视,http://dp.sxtv.top:88/md/migu.php?id=dnws
-海峡卫视,http://dp.sxtv.top:88/md/migu.php?id=hxws
-广东卫视,http://dp.sxtv.top:88/md/migu.php?id=gdws
-大湾区卫视,http://dp.sxtv.top:88/md/migu.php?id=dwqws
-广西卫视,http://dp.sxtv.top:88/md/migu.php?id=gxws
-云南卫视,http://dp.sxtv.top:88/md/migu.php?id=ynws
-贵州卫视,http://dp.sxtv.top:88/md/migu.php?id=gzws
-新疆卫视,http://dp.sxtv.top:88/md/migu.php?id=xjws
-西藏卫视,http://dp.sxtv.top:88/md/migu.php?id=xzws
-海南卫视,http://dp.sxtv.top:88/md/migu.php?id=hinws
 
-湖南卫视,http://120.211.119.222:8899/hls/19/index.m3u8
-浙江卫视,http://120.211.119.222:8899/hls/26/index.m3u8
-江苏卫视,http://120.211.119.222:8899/hls/20/index.m3u8
-东方卫视,http://120.211.119.222:8899/hls/32/index.m3u8
-广东卫视,http://120.211.119.222:8899/hls/25/index.m3u8
-广西卫视,http://120.211.119.222:8899/hls/35/index.m3u8
-深圳卫视,http://120.211.119.222:8899/hls/23/index.m3u8
-河南卫视,http://120.211.119.222:8899/hls/48/index.m3u8
-河北卫视,http://120.211.119.222:8899/hls/18/index.m3u8
-北京卫视,http://120.211.119.222:8899/hls/21/index.m3u8
-天津卫视,http://120.211.119.222:8899/hls/22/index.m3u8
-辽宁卫视,http://120.211.119.222:8899/hls/28/index.m3u8
-吉林卫视,http://120.211.119.222:8899/hls/36/index.m3u8
-安徽卫视,http://120.211.119.222:8899/hls/29/index.m3u8
-山东卫视,http://120.211.119.222:8899/hls/24/index.m3u8
-四川卫视,http://120.211.119.222:8899/hls/31/index.m3u8
-重庆卫视,http://120.211.119.222:8899/hls/33/index.m3u8
-湖北卫视,http://120.211.119.222:8899/hls/30/index.m3u8
-山西卫视,http://120.211.119.222:8899/hls/38/index.m3u8
-陕西卫视,http://120.211.119.222:8899/hls/37/index.m3u8
-云南卫视,http://120.211.119.222:8899/hls/47/index.m3u8
-贵州卫视,http://120.211.119.222:8899/hls/49/index.m3u8
-东南卫视,http://120.211.119.222:8899/hls/34/index.m3u8
-旅游卫视,http://120.211.119.222:8899/hls/45/index.m3u8
-青海卫视,http://120.211.119.222:8899/hls/40/index.m3u8
-宁夏卫视,http://120.211.119.222:8899/hls/41/index.m3u8
-新疆卫视,http://120.211.119.222:8899/hls/43/index.m3u8
-西藏卫视,http://120.211.119.222:8899/hls/42/index.m3u8
-黑龙江卫视,http://120.211.119.222:8899/hls/27/index.m3u8
-内蒙古卫视,http://120.211.119.222:8899/hls/39/index.m3u8
-广东卫视,http://112.235.200.126:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://112.235.200.126:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://112.235.200.126:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://112.235.200.126:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://112.235.200.126:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://112.235.200.126:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://112.235.200.126:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://112.235.200.126:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://112.235.200.126:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://112.235.200.126:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://112.235.200.126:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://112.235.200.126:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://112.235.200.126:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://117.27.190.42:9998/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://61.136.67.238:50085/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://58.23.26.184:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1261,6 +1060,7 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 新疆卫视,http://qingcheng.pro:7890/udp/238.125.3.174:5140?$乌鲁木齐电信电信组播
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$延边广电
+
 🍊卫视频道👉IPV6,#genre#
 
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
