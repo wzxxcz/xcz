@@ -2692,6 +2692,16 @@
   "ext": "./lib/量子资源网.json"
 },
 {
+  "key": "非凡资源",
+  "name": "🍊非凡资源",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/ffzy.json"
+},
+{
   "key": "少泽影客（APP）",
   "name": "🌙少泽影客",
   "type": 3,
@@ -5090,16 +5100,6 @@
         "分类url": "https://www.aitv1.com/show/{cateId}-{area}-------{catePg}---{year}.html",
         "分类": "电影$dy#连续剧$lianxuju#综艺$zy#动漫$dm#纪录片$jilupian"
       }
-},
-{
-  "key": "非凡资源",
-  "name": "🍊非凡资源",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/ffzy.json"
 },
 {
   "key": "csp_午舞",
