@@ -2310,6 +2310,17 @@
     "ext":"./lib/臻品电影.json"
 },
 {
+  "key":"csp_xBPQ看客影视",
+  "name":"🍊看客影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/看客影视.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
