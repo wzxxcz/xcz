@@ -1750,6 +1750,13 @@
   "quickSearch": 1
 },
 {
+  "key":"畅梦",
+  "name":"☕️畅谈梦想",
+  "type":3,
+  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"
+},
+{
   "key":"畅梦影视",
   "name":"🎄畅梦影视",
   "type": 3,
@@ -2359,6 +2366,15 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
+},
+{
+  "key":"csp_mgtva",
+  "name":"🎃木瓜影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
+  "ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+  "分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}
 },
 {
   "key": "小柚",
@@ -3530,22 +3546,6 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},
-{
-  "key":"csp_mgtva",
-  "name":"🎃木瓜影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
-  "ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-  "分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}
-},
-{
-  "key":"畅梦",
-  "name":"☕️畅谈梦想",
-  "type":3,
-  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-  "ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"
 },
 {
   "key":"csp_AppMr",
