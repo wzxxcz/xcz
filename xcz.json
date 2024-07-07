@@ -1694,13 +1694,13 @@
 {
   "key":"机器人",
   "name":"💡机器影视",
-  "type": 3,
-  "api": "csp_Ikanbot",
-  "jar": "http://150.158.112.123/jar/xc.jar;md5;f825a0ce4269de14fdeab22d9418472e",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://v.ikanbot.com"
+  "type":3,
+  "api":"csp_Ikanbot",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1,
+  "ext":"https://v.aikanbot.com"
 },
 {
   "key":"追剧影视",
