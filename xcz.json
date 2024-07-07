@@ -2398,6 +2398,17 @@
   "分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}
 },
 {
+  "key": "csp_影视大全",
+  "name": "🏔影视大全",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar":"https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/ysdq.json"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
