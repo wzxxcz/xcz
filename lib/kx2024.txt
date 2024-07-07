@@ -891,7 +891,6 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.53.152.154:9901/tsfile/live/faacts/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://113.57.103.216:9000/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://27.18.146.62:4022/rtp/239.69.1.41:9886
 湖北经视,http://119.98.202.147:85/rtp/239.69.1.41:9886
 湖北经视,http://121.60.89.12:8000/rtp/239.69.1.41:9886
