@@ -2407,6 +2407,22 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/ysdq.json"
+},
+{
+  "key": "zztong",
+  "name": "🍊小橙子影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://gitee.com/wxbtt/bbtv/raw/master/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
+  "ext": {
+                "简介": "【小橙子影视】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
+                "线路标题": "[替换:索索线路>>小橙子影视]",
+                "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"
+            }
 },	  
 {
   "key": "小柚",
