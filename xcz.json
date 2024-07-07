@@ -2351,6 +2351,16 @@
   "ext": "./lib/奥特.json"
 },
 {
+  "key":"FreeOK",
+  "name":"🌱Free影院",
+  "type":3,
+  "api":"csp_FreeOK",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -3726,16 +3736,6 @@
   "简介":"class=\"abstract-content&&</div>",
   "分类url": "https://ylsm6.cc/haokan/{cateId}-{area}--{class}-----{catePg}---{year}.html"}
 },   
-{
-  "key":"FreeOK",
-  "name":"🌱Free影院",
-  "type":3,
-  "api":"csp_FreeOK",
-  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
 {
   "key":"csp_xpath_xfeiji",
   "name":"🍊小小影视",
