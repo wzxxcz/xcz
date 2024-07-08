@@ -2435,6 +2435,17 @@
   "ext": "https://gitee.com/wxbtt/xuanxuan/raw/master/lib/hjcj.json"
 },
 {
+  "key": "轩蓓｜vip线",
+  "name": "小橙子vip线",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/jar/hjys.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/hjzy9.json"
+},	  
+{
   "key": "影视工厂",
   "name": "🍊影视工厂",
   "type": 3,
