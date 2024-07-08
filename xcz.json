@@ -2526,6 +2526,16 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
+},
+{
+  "key":"北川影视",
+  "name":"💧北川影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/beichuan.json"
 },	  
 {
   "key": "小柚",
@@ -3909,16 +3919,6 @@
   "searchable": 1,
   "changeable": 0,
   "ext": "https://drpy.cainisi.cf/js/磁力熊[磁].js"
-},
-{
-  "key":"北川影视",
-  "name":"💧北川影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/beichuan.json"
 },
 {
   "key": "ynys",
