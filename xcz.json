@@ -2435,6 +2435,16 @@
   "ext": "https://gitee.com/wxbtt/xuanxuan/raw/master/lib/hjcj.json"
 },
 {
+  "key": "影视工厂",
+  "name": "🍊影视工厂",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -4436,16 +4446,6 @@
         "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
-},
-{
-  "key": "影视工厂",
-  "name": "🍊影视工厂",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 {
     "key":"csp_XBPQ_91蚂蚁影视",
