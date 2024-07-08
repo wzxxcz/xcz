@@ -2464,6 +2464,22 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/热播之家.json"
+},
+{
+  "key": "567🎬",
+  "name": "🎬小橙子567",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wxbtt/bbtv/raw/master/jar/Yoursmile.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+                "分类url": "https://www.567dyy.com/show/{cateId}--------{catePg}---.html",
+                "分类": "电影&电视剧&综艺&动漫",
+                "分类值": "1&2&3&4",
+                "欢迎进入小橙子影视": ""
+            }
 },	  
 {
   "key": "小柚",
