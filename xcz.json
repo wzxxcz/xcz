@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/wzbdyr/wzx/raw/master/xcz.jar",
+  "spider": "./xcz.jar",
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "logo": "http://php.540734621.xyz/logo/logo.php",
 	"lives": [{
@@ -714,6 +714,13 @@
   "ext": "http://www.qsas.top:89/drpy_js/好趣网[播].js"
 },
 {
+  "key":"好趣网",
+  "name":"🔥电视直播",
+  "type":3,
+  "api":"https://gitee.com/zhan-zhaobb/MVP/raw/master/js/drpy2.min.js",
+  "ext":"https://gitee.com/zhan-zhaobb/MVP/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
+},
+{
   "key": "Gitcafe",
   "name": "咖咖4K",
   "type": 3,
@@ -723,7 +730,7 @@
   "filterable": 1,
   "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/lib/HeChengChaXiu.jar",
   "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
-},	  
+},
 {
   "key": "玩偶",
   "name": "🍊小橙子玩偶",
@@ -1215,7 +1222,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/云盘资源.json"
-},	  
+},
 {
   "key": "mt",
   "name": "🏅摩托4K",
@@ -2536,7 +2543,7 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/beichuan.json"
-},	  
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
