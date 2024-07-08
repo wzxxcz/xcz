@@ -714,6 +714,17 @@
   "ext": "http://www.qsas.top:89/drpy_js/好趣网[播].js"
 },
 {
+  "key": "Gitcafe",
+  "name": "咖咖4K",
+  "type": 3,
+  "api": "csp_Paper",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/lib/HeChengChaXiu.jar",
+  "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+},	  
+{
   "key": "玩偶",
   "name": "🍊小橙子玩偶",
   "type": 3,
