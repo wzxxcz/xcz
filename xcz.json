@@ -2491,6 +2491,18 @@
                 "分类值": "1&2&3&4",
                 "欢迎进入小橙子影视": ""
             }
+},
+{
+  "key": "YQ",
+  "name": "🍊雨雨蓝光",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
 },	  
 {
   "key": "小柚",
