@@ -1517,6 +1517,25 @@
   "changeable": 1
 },
 {
+  "key": "nangua",
+  "name": "🍈南瓜影院",
+  "type": 3,
+  "playerType": "2",
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "jar": "http://47.99.102.252/jar/xc.zip;md5;dbc497e338adf57a686b81faf66378ec",
+  "ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"
+},
+{
+  "key": "ngys",
+  "name": "🍈南瓜影视",
+  "type": 3,
+  "api": "csp_AppYSDQ",
+  "jar": "http://47.99.102.252/jar/xc.zip;md5;dbc497e338adf57a686b81faf66378ec",
+  "searchable": 1,
+  "quickSearch": 0,
+  "changeable": 0
+},
+{
   "key": "小点",
   "name": "💥小点多线",
   "type": 3,
