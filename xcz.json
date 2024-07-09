@@ -1625,14 +1625,14 @@
   "ext": "https://www.6080yy3.com/"
 },
 {
-  "key":"看看影视",
-  "name":"💡看看影视",
-  "type":3,
-  "api":"csp_WebIV",
+  "key": "kkan",
+  "name": "💡看看影视",
+  "type": 3,
+  "api": "csp_WebIV",
   "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0
 },
 {
   "key":"甲子影视",
