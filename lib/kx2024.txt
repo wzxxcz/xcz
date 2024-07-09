@@ -62,6 +62,26 @@ TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 🍊央视频道👉小橙子,#genre#
+CCTV1,http://60.10.139.10:8801/hls/1/index.m3u8
+CCTV2,http://60.10.139.10:8801/hls/2/index.m3u8
+CCTV3,http://60.10.139.10:8801/hls/3/index.m3u8
+CCTV4,http://60.10.139.10:8801/hls/4/index.m3u8
+CCTV5,http://60.10.139.10:8801/hls/5/index.m3u8
+CCTV6,http://60.10.139.10:8801/hls/6/index.m3u8
+CCTV7,http://60.10.139.10:8801/hls/7/index.m3u8
+CCTV8,http://60.10.139.10:8801/hls/8/index.m3u8
+CCTV9,http://60.10.139.10:8801/hls/9/index.m3u8
+CCTV10,http://60.10.139.10:8801/hls/10/index.m3u8
+CCTV11,http://60.10.139.10:8801/hls/11/index.m3u8
+CCTV12,http://60.10.139.10:8801/hls/12/index.m3u8
+CCTV13,http://60.10.139.10:8801/hls/13/index.m3u8
+CCTV14,http://60.10.139.10:8801/hls/14/index.m3u8
+CCTV15,http://60.10.139.10:8801/hls/15/index.m3u8
+CCTV16,http://60.10.139.10:8801/hls/16/index.m3u8
+CCTV17,http://60.10.139.10:8801/hls/17/index.m3u8
+CCTV 8K,https://tv.cry33.com/ys4k.php?id=8k
+CCTV16 4Khttp://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+CCTV16,http://118.144.105.52:91/live/CCTV16hd-8M/live.m3u8
 CCTV1,http://123.122.120.156:8686/rtp/239.3.1.129:8008
 CCTV2,http://123.122.120.156:8686/rtp/239.3.1.60:8084
 CCTV3,http://123.122.120.156:8686/rtp/239.3.1.172:8001
@@ -892,7 +912,6 @@ CCTV_17,http://58.57.21.166:9901/tsfile/live/0019_1.m3u8
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://27.18.146.62:4022/rtp/239.69.1.41:9886
 湖北经视,http://119.98.202.147:85/rtp/239.69.1.41:9886
-湖北经视,http://121.60.89.12:8000/rtp/239.69.1.41:9886
 湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
 武汉教育,http://stream.appwuhan.com/jyzb/sd/live.m3u8
@@ -2645,8 +2664,8 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
 2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
     ,#genre#
-⑥开心转播线路1,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-⑥开心转播线路2,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+⑥小橙子转播线路1,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+⑥小橙子转播线路2,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 ⑥香港21:30四九,rtmp://100www.ku55.cn/zzjj123/livekj123?auth_key=2299702236-0-0-4d409d8bca97ea5ff8fd9cf763129ac1
 @老熬21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
 
@@ -2654,8 +2673,8 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 🍊宝全影院,http://live.dxms.top:80/dwy/mgak.php#https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://1.62.64.76/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8#https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e#http://110.249.196.71/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 🍊OK影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 🍊蜜蜂影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-🍊开心TV,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-🍊开心影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+🍊小橙子TV,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+🍊小橙子影视,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 🍊可以使用,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 🍊影视仓淘汰,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 🍊会闪退,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
