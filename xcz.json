@@ -2068,13 +2068,12 @@
   "key": "hipy_js_8号影院",
   "name": "🏅8号影院",
   "type": 3,
-  "api": "https://yubox.xyz/drpy_libs/drpy2.min.js",
-  "jar":"http://150.158.112.123/jar/xc.jar;md5;f825a0ce4269de14fdeab22d9418472e",
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "order_num": 9,
-  "ext": "https://yubox.xyz/drpy_js/8号影院.js"
+  "order_num": 0,
+  "ext": "http://47.99.102.252/drpy_js/8号影院.js"
 },
 {
   "key": "hipy_js_冠建影视",
