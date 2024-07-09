@@ -2557,6 +2557,26 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "https://czzy.top/"
+},
+{
+  "key": "yy",
+  "name": "🏅笙歌影视",
+  "type": 3,
+  "api": "csp_AppYY",
+  "jar": "http://47.99.102.252/jar/xc.zip;md5;dbc497e338adf57a686b81faf66378ec",
+  "searchable": 1,
+  "quickSearch": 0,
+  "changeable": 0
+},
+{
+  "key": "bro",
+  "name": "🏅铁剧影视",
+  "type": 3,
+  "api": "csp_AppBr",
+  "jar": "http://47.99.102.252/jar/xc.zip;md5;dbc497e338adf57a686b81faf66378ec",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0
 },	  
 {
   "key": "小柚",
