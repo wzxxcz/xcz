@@ -4360,17 +4360,13 @@
   "quickSearch":1
 },
 {
-  "key": "drpy_js_555[V2]影视",
+  "key": "555yingshi",
   "name":"🎃555影视",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "playerType": 2,
-  "changeable": 1,
-  "api": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/lib/drpy.min.js",
-  "jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",
-  "ext": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/js/jspy/555影视[V2].js"
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "ext": {"分类":"电影$1#电视剧$2#动漫$4",
+  "分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
 },
 {
   "key": "csp_xBPQ_小茶狐",
@@ -4413,14 +4409,6 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"changeable": 0
-},
-{
-  "key": "腾",
-  "name": "🎄腾腾影视",
-  "type": 3,
-  "api": "http://a.nxog.top/m/js/nxog.js",
-  "jar": "http://www.wya6.cn/tz/wyog.php",
-  "ext": "http://a.nxog.top/m/js/tt.js"
 },
 {
   "key": "csp_爱优",
