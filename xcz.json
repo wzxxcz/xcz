@@ -2471,7 +2471,7 @@
 },
 {
   "key":"csp_mgtva",
-  "name":"🎃木瓜影视",
+  "name":"🍈木瓜影视",
   "type": 3,
   "api": "csp_XBPQ",
   "ext": {
@@ -5679,6 +5679,16 @@
       "name": "上限万",
       "type": 1,
       "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
+    },
+    {
+      "name": "🦐虾米",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36"
+        }
+      }
     },
     {
       "name": "jx",
