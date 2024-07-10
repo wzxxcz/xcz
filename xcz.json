@@ -2470,11 +2470,13 @@
 {
   "key":"csp_mgtva",
   "name":"🎃木瓜影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;fc500cb4a4e5472b83ebf4a8ada71792",
-  "ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-  "分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+        "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧&综艺&动漫",
+        "分类值": "lianxuju&zongyi&dongman"
+      }
 },
 {
   "key": "csp_影视大全",
