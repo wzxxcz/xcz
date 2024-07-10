@@ -1300,6 +1300,16 @@
   "ext": "https://yubox.xyz/drpy_js/4k剧院.js"
 },
 {
+  "key": "胖虎影视",
+  "name": "🐯小橙子胖虎",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/panghuys.json"
+},
+{
   "key": "hipy_js_麻雀视频",
   "name": "🐦麻雀影视",
   "type": 3,
@@ -3205,15 +3215,6 @@
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/B站影视.js",
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-},
-{
-  "key": "胖虎影视",
-  "name": "🐯胖虎蓝光在线",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "playerType": "2",
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=胖虎"
 },
 {
   "key":"csp_盒子",
