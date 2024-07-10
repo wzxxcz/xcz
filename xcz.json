@@ -1417,6 +1417,17 @@
   "timeout": 15
 },
 {
+  "key": "csp_Jpys",
+  "name": "🏅金牌小橙子",
+  "type": 3,
+  "api": "csp_Jpys",
+  "jar": "https://gitee.com/pirate888/box/raw/master/lib/Yoursmile.jar",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},	  
+{
   "key":"4K影视",
   "name":"🍊4K影视",
   "type":3,
