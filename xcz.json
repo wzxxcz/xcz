@@ -1268,15 +1268,15 @@
   "filterable":1
 },
 {
-  "key": "csp_New6v",
-  "name":"💘New6V磁力",
+  "key": "新6V",
+  "name": "🧲新6V磁力",
   "type": 3,
-  "api": "csp_New6v",
-  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "api": "csp_SixV",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720727265069/fan.txt;md5;879429d053ddf8c9826aa6632d58105b",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1,
-  "ext":"https://www.xb6v.com"
+  "changeable": 0,
+  "ext": "https://www.xb6v.com/"
 },
 {
   "key":"csp_Xunlei8",
