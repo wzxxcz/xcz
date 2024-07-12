@@ -763,6 +763,20 @@
   "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
 },
 {
+  "key": "纸条",
+  "name": "🗞纸条搜索",
+  "type": 3,
+  "api": "csp_XiaoZhiTiao",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720708879516/okjpg.txt;md5;541ecc2690e3d3cb1af9b7cbf5fb36d6",
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt"
+      },
+      "timeout": 15
+},
+{
   "key": "阿里合集",
   "name": "🦋阿里合集",
   "type": 3,
