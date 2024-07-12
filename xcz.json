@@ -1483,14 +1483,14 @@
   "ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"
 },
 {
-  "key": "ngys",
-  "name": "🍈南瓜影视",
-  "type": 3,
-  "api": "csp_AppYSDQ",
-  "jar": "http://47.99.102.252/jar/xc.zip;md5;dbc497e338adf57a686b81faf66378ec",
-  "searchable": 1,
-  "quickSearch": 0,
-  "changeable": 0
+  "key":"南瓜影视",
+  "name":"🍈南瓜影视",
+  "type":3,
+  "api":"csp_WexNgys",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0
 },
 {
   "key": "小点",
