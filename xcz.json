@@ -752,6 +752,17 @@
       "timeout": 15
 },
 {
+  "key": "玩我哥哥",
+  "name":"🍊玩我哥哥",
+  "type":3,
+  "api":"csp_XYQHikerAL",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/玩我哥哥.json"
+},	  
+{
   "key": "Gitcafe",
   "name": "🚀小纸条云盘",
   "type": 3,
