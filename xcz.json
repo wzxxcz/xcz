@@ -2936,14 +2936,15 @@
   "ext": "./lib/七新.json"
 },
 {
-  "key": "疯狗影视",
+  "key":"csp_xBPQ_疯狗",
   "name": "🐕疯狗影视",
-  "type": 3,
-  "api": "csp_FengGo",
-  "jar":"http://150.158.112.123/jar/xc.jar;md5;f825a0ce4269de14fdeab22d9418472e",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/fgys.json"
 },
 {
   "key":"TVB云播",
