@@ -721,51 +721,8 @@
   "ext":"https://gitee.com/zhan-zhaobb/MVP/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
 },
 {
-  "key": "易搜",
-  "name": "⚗️小橙子玩偶",
-  "type": 3,
-  "api": "csp_YiSo",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720708879516/okjpg.txt;md5;541ecc2690e3d3cb1af9b7cbf5fb36d6",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
-      },
-      "timeout": 15
-},
-{
-  "key": "玩偶弹幕版",
-  "name": "⚗️玩偶弹幕4K",
-  "type": 3,
-  "api": "csp_Wogg",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchenok.jar",
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://www.wogg.net",
-        "danmu": true
-      },
-      "timeout": 25
-},
-{
-  "key": "csp_XYQHikerAL_玩偶哥哥",
-  "name": "🍺玩偶臻享4K",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/woggzx.json"
-},
-{
   "key": "易搜弹幕",
-  "name": "🚛易搜弹幕",
+  "name": "⚗️小橙子玩偶",
   "type": 3,
   "api": "csp_YiSo",
   "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchenok.jar",
@@ -779,16 +736,18 @@
       }
 },
 {
-  "key": "纸条",
-  "name": "🗞纸条搜索",
+  "key": "影搜弹幕",
+  "name": "🍹可欣玩偶",
   "type": 3,
-  "api": "csp_XiaoZhiTiao",
-  "jar": "https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;0abfa8bf4a40597e1673aecea35a21b3",
+  "api": "csp_Yingso",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
   "searchable": 1,
-  "filterable": 1,
+  "filterable": 0,
   "changeable": 0,
   "ext": {
-        "token": "file://TV/ali_token.txt"
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "danmu": true
       },
       "timeout": 15
 },
@@ -957,21 +916,6 @@
   "jar":"http://ttkx.live:55/lib/ttkx.jar"
 },
 {
-  "key": "影搜",
-  "name": "🌸影搜搜索",
-  "type": 3,
-  "api": "csp_Yingso",
-  "jar":"https://gitee.com/okjack/okk/raw/master/okjpg.txt;md5;7381b74107273f542b0d07997be46bd5",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt"
-      },
-      "timeout": 15
-},
-{
   "key": "土豆弹幕",
   "name": "🥔玩偶土豆4K弹幕",
   "type": 3,
@@ -1020,22 +964,6 @@
         "danmu": true
       },
       "timeout": 30
-},
-{
-  "key": "影搜弹幕",
-  "name": "🕵️影搜弹幕搜索",
-  "type": 3,
-  "api": "csp_Yingso",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 15
 },
 {
   "key": "盘Se",
