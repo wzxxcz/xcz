@@ -721,21 +721,19 @@
   "ext":"https://gitee.com/zhan-zhaobb/MVP/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
 },
 {
-  "key": "玩偶",
-  "name": "🍊小橙子玩偶",
+  "key": "易搜",
+  "name": "⚗️小橙子玩偶",
   "type": 3,
-  "api": "csp_WoGG",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
+  "api": "csp_YiSo",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720708879516/okjpg.txt;md5;541ecc2690e3d3cb1af9b7cbf5fb36d6",
   "searchable": 1,
-  "quickSearch": 1,
+  "filterable": 0,
   "changeable": 0,
-  "ext": {
-        "aliToken": "tvfan/token.txt",
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
-      }
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
+      },
+      "timeout": 15
 },
 {
   "key": "玩偶弹幕版",
@@ -851,20 +849,6 @@
   "filterable": 1,
   "ext": "./lib/玩偶哥哥.json",
   "jar":"http://ttkx.live:55/lib/ttkx.jar"
-},
-{
-  "key": "YiSo",
-  "name": "😹易搜搜索",
-  "type": 3,
-  "api": "csp_YiSo",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
 },
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
