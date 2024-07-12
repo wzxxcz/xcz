@@ -1131,13 +1131,13 @@
   "name": "🌟立播秒播",
   "type": 3,
   "api": "csp_Libvio",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720727265069/fan.txt;md5;879429d053ddf8c9826aa6632d58105b",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "ext": {
-        "quarkCookie": "tvfan/cookie.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
 },
 {
