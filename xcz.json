@@ -1241,6 +1241,20 @@
       "timeout": 25
 },
 {
+  "key": "csp_QuPanSou",
+  "name": "🤓趣盘搜搜索",
+  "type": 3,
+  "api": "csp_QuPanSou",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720708879516/okjpg.txt;md5;541ecc2690e3d3cb1af9b7cbf5fb36d6",
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 0,
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+},
+{
   "key": "mt",
   "name": "🏅摩托4K",
   "type": 3,
