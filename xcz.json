@@ -1225,6 +1225,22 @@
   "ext": "./lib/云盘资源.json"
 },
 {
+  "key": "土豆网盘",
+  "name": "🥔土豆4K",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720708879516/okjpg.txt;md5;541ecc2690e3d3cb1af9b7cbf5fb36d6",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top"
+      },
+      "timeout": 25
+},
+{
   "key": "mt",
   "name": "🏅摩托4K",
   "type": 3,
