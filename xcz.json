@@ -1194,6 +1194,15 @@
         "danmu": true
       },
       "timeout": 25
+},
+{
+  "key": "混合盘",
+  "name": "🚂混合盘网盘",
+  "type": 3,
+  "api": "csp_HunHePan",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/pg0316.jar",
+  "timeout": 60,
+  "ext": "./lib/tokenm.json"
 },	  
 {
   "key": "mt",
