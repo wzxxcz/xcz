@@ -1220,6 +1220,17 @@
       "timeout": 25
 },
 {
+  "key": "csp_XYQHikerAL_云盘资源",
+  "name":"📀云盘资源(搜索)",
+  "type":3,
+  "api":"csp_XYQHikerAL",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/云盘资源.json"
+},	  
+{
   "key": "mt",
   "name": "🏅摩托4K",
   "type": 3,
