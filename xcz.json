@@ -3083,6 +3083,18 @@
       ]
 },
 {
+  "key": "ikun",
+  "name": "🐔爱坤影视",
+  "type": 1,
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "http://43.242.202.173:25253/api/cai.php?id=id13",
+  "playUrl": "json:http://43.242.202.173:2525/ikun.php/?url=",
+      "categories": [   
+              ]
+},	  
+{
   "key": " 星辰影",
   "name": "🌟星辰蓝光纯净",
   "type": 3,
