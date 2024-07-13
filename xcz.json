@@ -767,6 +767,17 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/labi.json"
+},
+{
+  "key": "csp_XYQHiker_影搜",
+  "name":"📀影搜(搜索)",
+  "type":3,
+  "api":"csp_XYQHiker",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/影搜.json"
 },	  
 {
   "key": "csp_XYQHikerAL_多多",
@@ -1166,17 +1177,6 @@
         "cookie": "file://TV/quark_cookie.txt"
       },
       "timeout": 15
-},
-{
-  "key": "csp_XYQHiker_影搜",
-  "name":"📀影搜(搜索)",
-  "type":3,
-  "api":"csp_XYQHiker",
-  "jar": "http://ttkx.live:55/lib/ttkx.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/影搜.json"
 },
 {
   "key": "土豆弹幕版",
