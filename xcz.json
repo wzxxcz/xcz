@@ -721,30 +721,15 @@
   "ext":"https://gitee.com/zhan-zhaobb/MVP/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
 },
 {
-  "key": "易搜弹幕",
+  "key": "土豆",
   "name": "⚗️小橙子玩偶",
   "type": 3,
-  "api": "csp_YiSo",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchenok.jar",
+  "api": "csp_Wextudou",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen0708.jar",
   "searchable": 1,
-  "filterable": 0,
-  "changeable": 1,
-  "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true,
-        "cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
-      }
-},
-{
-      "key": "土豆",
-      "name": "土豆🥔臻享4K",
-      "type": 3,
-      "api": "csp_Wextudou",
-	"jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen0708.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },	  
+  "quickSearch": 1,
+  "filterable": 1
+},	  
 {
   "key": "影搜弹幕",
   "name": "🍹可欣玩偶",
@@ -771,7 +756,22 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/玩我哥哥.json"
-},	  
+},
+{
+  "key": "易搜弹幕",
+  "name": "🍊易搜弹幕",
+  "type": 3,
+  "api": "csp_YiSo",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchenok.jar",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 1,
+  "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true,
+        "cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
+      }
+},
 {
   "key": "Gitcafe",
   "name": "🚀小纸条云盘",
