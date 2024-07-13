@@ -3110,6 +3110,7 @@
   "name":"🍊星辰秒播",
   "type":3,
   "api":"csp_XBPQ",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
