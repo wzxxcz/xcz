@@ -2719,6 +2719,15 @@
       }
 },
 {
+  "key": "农民影视",
+  "name": "👨‍🌾农民直连",
+  "type": 3,
+  "api": "csp_WexNmys",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/nmys.jar",
+  "searchable": 1,
+  "changeable": 1
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
