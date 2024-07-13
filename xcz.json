@@ -846,6 +846,25 @@
         "type": "list"
       },
       "timeout": 30
+},
+{
+      "key": "阿里合集",
+      "name": "🧓云盘臻享4K",
+      "type": 3,
+      "api": "csp_AliShare",
+      "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchenok.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "share": "file://TV/阿里集合.json"
+      },
+      "style": {
+        "type": "list"
+      },
+      "timeout": 30
 },	  
 {
   "key": "csp_XYQHikerAL_多多",
