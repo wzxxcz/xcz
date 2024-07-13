@@ -721,18 +721,8 @@
   "ext":"https://gitee.com/zhan-zhaobb/MVP/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
 },
 {
-  "key": "土豆",
-  "name": "土豆🥔臻享4K",
-  "type": 3,
-  "api": "csp_Wextudou",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen0708.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
   "key": "易搜弹幕",
-  "name": "⚗️易搜弹幕",
+  "name": "⚗️小橙子玩偶",
   "type": 3,
   "api": "csp_YiSo",
   "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchenok.jar",
