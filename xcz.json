@@ -1237,16 +1237,6 @@
       "timeout": 25
 },
 {
-  "key": "土豆",
-  "name": "🥔土豆臻享4K",
-  "type": 3,
-  "api": "csp_Wextudou",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen0708.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},	  
-{
   "key": "csp_XYQHikerAL_云盘资源",
   "name":"📀云盘资源(搜索)",
   "type":3,
