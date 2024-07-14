@@ -829,6 +829,17 @@
       }
 },
 {
+  "key": "csp_XYQHikerAL_玩偶哥哥",
+  "name": "🍺玩偶臻享4K",
+  "type": 3,
+  "api": "csp_XYQHikerAL",
+  "jar": "https://gitee.com/dongchenliu/liu/blob/master/jar/dongchen.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/woggzx.json"
+},
+{
   "key": "阿里合集",
   "name": "🦋阿里合集",
   "type": 3,
