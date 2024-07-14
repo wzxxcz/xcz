@@ -2033,7 +2033,6 @@
   "name":"🍊1080",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "http://ttkx.live:55/lib/ttkx.jar",
   "searchable":1,
   "quickSearch":1,
   "ua": "okhttp/3.15",
