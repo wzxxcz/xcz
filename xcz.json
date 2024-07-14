@@ -922,14 +922,14 @@
 {
   "key": "玩偶哥哥",
   "name": "🍊玩偶哥哥",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/玩偶哥哥.json",
-  "jar": "http://ttkx.live:55/lib/ttkx.jar"
-},
+  "type":3,
+  "api":"csp_XYQHikerAL",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/玩偶哥哥.json"
+},	  
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
   "name": "🍊玩偶表哥",
