@@ -747,6 +747,22 @@
       "timeout": 15
 },
 {
+  "key": "玩偶",
+  "name": "🍺玩偶哥哥4K弹幕",
+  "type": 3,
+  "api": "csp_WoGG",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
+},
+{
   "key": "玩我哥哥",
   "name":"🍊玩我哥哥",
   "type":3,
