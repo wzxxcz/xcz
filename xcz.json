@@ -928,7 +928,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/玩偶哥哥.json",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar"
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
 },
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
