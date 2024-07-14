@@ -827,6 +827,17 @@
         "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
         "danmu": true
       }
+},
+{
+  "key": "csp_XYQHikerAL_云盘资源",
+  "name": "🚲云盘资源",
+  "type": 3,
+  "api": "csp_XYQHikerAL",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/yunpan.json"
 },	  
 {
   "key": "阿里合集",
