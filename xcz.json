@@ -764,6 +764,17 @@
   "ext":"./lib/玩我哥哥.json"
 },
 {
+  "key": "玩偶哥哥",
+  "name": "🍊玩偶哥哥",
+  "type":3,
+  "api":"csp_XYQHikerAL",
+  "jar": "http://ttkx.live:55/lib/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/玩偶哥哥.json"
+},	  
+{
   "key": "蜡笔玩偶",
   "name": "🖍︎蜡笔臻享4K",
   "type": 3,
@@ -919,17 +930,6 @@
   "ext": "./lib/找资源.json",
   "jar":"http://ttkx.live:55/lib/ttkx.jar"
 },
-{
-  "key": "玩偶哥哥",
-  "name": "🍊玩偶哥哥",
-  "type":3,
-  "api":"csp_XYQHikerAL",
-  "jar": "http://ttkx.live:55/lib/ttkx.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/玩偶哥哥.json"
-},	  
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
   "name": "🍊玩偶表哥",
