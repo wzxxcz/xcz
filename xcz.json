@@ -2696,16 +2696,14 @@
 },
 {
   "key": "厂长",
-  "name": "📔厂长不卡",
+  "name": "🌸厂长直连",
   "type": 3,
-  "api": "csp_NewCz",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720443281334/fan.txt;md5;1f219c086d40a58a296fbc3b262e7b7d",
-  "timeout": 15,
-  "playerType": 2,
+  "api": "csp_Czzy",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721016026738/okjpg.txt;md5;ce28e8904c555fba555a76abcafc7275",	
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
-  "ext": "https://czzy.top/"
+  "filterable": 1,
+  "timeout": 10
 },
 {
   "key": "yy",
