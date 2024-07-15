@@ -812,6 +812,21 @@
   "ext":"./lib/影搜.json"
 },
 {
+  "key": "影搜",
+  "name": "🌸影搜搜索",
+  "type": 3,
+  "api": "csp_Yingso",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721016026738/okjpg.txt;md5;ce28e8904c555fba555a76abcafc7275",	
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+},	  
+{
   "key": "夸克影搜",
   "name": "🚃夸克影搜",
   "type": 3,
