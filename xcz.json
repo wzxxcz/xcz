@@ -1366,7 +1366,19 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
-},	  
+},
+{
+  "key": "csp_XYQHikerAL_玩偶哥哥",
+  "name": "🍊阿里玩偶",
+  "type": 3,
+  "api": "csp_XYQHikerAL",
+  "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://150.158.91.136/xyq/玩偶哥哥.json"
+    },	  
 {
   "key": "mt",
   "name": "🏅摩托4K",
