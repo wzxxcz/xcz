@@ -764,6 +764,20 @@
   "ext":"./lib/玩我哥哥.json"
 },
 {
+  "key": "YiSo",
+  "name": "😹易搜搜索",
+  "type": 3,
+  "api": "csp_YiSo",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+},	  
+{
   "key": "玩偶哥哥",
   "name": "🍊玩偶哥哥",
   "type":3,
