@@ -1306,17 +1306,6 @@
   "ext":"./lib/云盘资源.json"
 },
 {
-  "key": "csp_XYQHikerAL_云盘资源",
-  "name": "🍊云盘资源",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://150.158.91.136/xyq/云盘资源.json"
-},	  
-{
   "key": "米搜",
   "name": "🦋米搜搜索",
   "type": 3,
