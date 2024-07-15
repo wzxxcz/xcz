@@ -1581,8 +1581,8 @@ CHC-家庭影院,http://www.furymax.top:85/rtp/239.69.1.243:11100
 湖北教育,http://www.furymax.top:85/rtp/239.69.1.206:10878
 湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886
 湖北经视,http://119.98.202.147:85/rtp/239.69.1.41:9886
-湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
 武汉一台新闻综合,http://www.furymax.top:85/rtp/239.69.1.145:10506
 武汉二台电视剧,http://www.furymax.top:85/rtp/239.69.1.146:10512
