@@ -2877,7 +2877,18 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/西屋影视.json"
-},	  
+},
+{
+  "key": "JOJO",
+  "name": "🍭JOJO直连",
+  "type": 3,
+  "api": "csp_Jiohub",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721021792319/okjpg.txt;md5;6066644a21c14b18027edd9ae6ddebb1",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "timeout": 10
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
@@ -4856,17 +4867,6 @@
     \"播放数组\":\"class=\\\"dslist-group&&</ul>\",
     \"分类\":\"豆瓣电影Top250$40#电影$1#电视剧$2#国产剧$13#港剧$14#综艺$3#动漫$4\",
     \"分类url\":\"http://www.czphgj.com/czvodshow/{cateId}--------{catePg}---.html\"}"
-},
-{
-  "key": "JOJO",
-  "name": "🍭JOJO直连",
-  "type": 3,
-  "api": "csp_Jiohub",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "timeout": 10,
-  "jar":"https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ad3ae756386837fbb992f77b6c9b4e8d"
 },
 {
   "key":"39影院",
