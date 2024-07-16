@@ -1390,7 +1390,20 @@
   "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
   "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
   "site":"https://duopan.fun","danmu":true}
-},	  
+},
+{
+  "key":"夸克玩弹幕4",
+  "name":"❤玩姐夸克",
+  "type":3,
+  "api":"csp_Wobg",
+  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;cf4951e1584289a42b16454d7316dbac",	
+  "quickSearch":1,
+  "changeable":1,
+  "filterable":1,
+  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+  "site":"https://woj.nxog.eu.org","danmu":true}
+},	  	  
 {
   "key": "mt",
   "name": "🏅摩托4K",
