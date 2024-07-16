@@ -752,19 +752,18 @@
       "timeout": 15
 },	  
 {
-  "key": "易搜",
+  "key": "YiSo",
   "name": "😹易搜搜索",
   "type": 3,
   "api": "csp_YiSo",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721016026738/okjpg.txt;md5;ce28e8904c555fba555a76abcafc7275",	
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",	
   "searchable": 1,
-  "filterable": 0,
+  "quickSearch": 1,
   "changeable": 0,
   "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
-      },
-      "timeout": 15
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
 },
 {
   "key": "玩偶哥哥",
