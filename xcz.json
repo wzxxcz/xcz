@@ -374,30 +374,18 @@
       "timeout": 30
 },
 {
-  "key": "盘Se",
-  "name": "🙀盘Se弹幕搜索",
-  "type": 3,
-  "api": "csp_PanSearch",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true
-      },
-      "timeout": 15
-},
-{
   "key": "PanSearch",
-  "name": "🙀盘Se搜索纯净",
+  "name": "🙀盘Se搜索",
   "type": 3,
   "api": "csp_PanSearch",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",	
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
-  "ext": "http://127.0.0.1:9978/file/TVBox/token.txt+4k|auto|fhd"
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
 },
 {
   "key":"玩弹幕弟",
