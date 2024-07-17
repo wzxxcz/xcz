@@ -917,14 +917,14 @@
   "changeable": 1
 },
 {
-  "key":"4K影视",
-  "name":"🍊4K影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "http://ttkx.live:55/lib/ttkx.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
+  "key": "csp_4k影视",
+  "name": "💚4k影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
   "ext":"./lib/4K影视.json"
 },
 {
@@ -2211,7 +2211,8 @@
   "key":"西屋影视",
   "name": "💚西屋影视",
   "type": 3,
-  "api": "csp_XBPQ",	
+  "api": "csp_XBPQ",
+  "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",	
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
