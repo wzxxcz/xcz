@@ -1195,6 +1195,15 @@
   "filterable":1
 },
 {
+  "key":"星辰影视",
+  "name":"💡星辰影视",
+  "type":3,
+  "api":"csp_WexXingchen",
+  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",	
+  "searchable":1,
+  "changeable":1
+},	  
+{
   "key":"愉悦影视",
   "name":"💡愉悦影视",
   "type":3,
@@ -2607,17 +2616,6 @@
       "categories": [   
               ]
 },	  
-{
-  "key":"csp_星辰",
-  "name":"🍊星辰秒播",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchen.jar",	
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/xcys.json"
-},
 {
   "key": "csp_xBPQ_玖八",
   "name": "💚98影视",
