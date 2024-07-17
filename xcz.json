@@ -269,17 +269,6 @@
   "ext": "./lib/土豆玩偶.json"
 },	  
 {
-  "key": "csp_XYQHikerAL_找资源",
-  "name": "🍊找资源",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/找资源.json",
-  "jar":"http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6"
-},
-{
   "key": "csp_XYQHikerAL_玩偶表哥",
   "name": "🍊玩偶表哥",
   "type": 3,
