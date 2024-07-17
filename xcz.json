@@ -883,17 +883,6 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720286340532/fan.txt;md5;078b93811264de157d3e38f18f11de8c"
 },
 {
-  "key": "小苹果",
-  "name": "🍎苹果蓝光弹幕",
-  "type": 3,
-  "api": "csp_Xpg",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "timeout": 15
-},
-{
   "key": "csp_Jpys",
   "name": "🏅金牌小橙子",
   "type": 3,
@@ -2618,17 +2607,6 @@
       "categories": [   
               ]
 },	  
-{
-  "key": " 星辰影",
-  "name": "🌟星辰蓝光纯净",
-  "type": 3,
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=星辰"
-},
 {
   "key":"csp_星辰",
   "name":"🍊星辰秒播",
