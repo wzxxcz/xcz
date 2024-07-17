@@ -2656,11 +2656,12 @@
   "name": "💚98影视",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar":"http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6"
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
+  "playerType": 1,
   "ext": "./lib/98影视.json",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar"
 },
 {
   "key": "南瓜弹幕版",
