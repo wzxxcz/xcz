@@ -1303,6 +1303,17 @@
   "changeable":1
 },
 {
+  "key": "csp_4k影视",
+  "name":"🍊2K影视VIP",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://gitee.com/chenrun1984/4k/raw/master/4K%E5%BD%B1%E8%A7%86.json",
+  "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/rgzy/4k/main/0407.jar"
+},	  
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
