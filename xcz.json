@@ -1184,13 +1184,20 @@
   "filterable":1
 },
 {
-  "key":"星辰影视",
-  "name":"💡星辰影视",
-  "type":3,
-  "api":"csp_WexXingchen",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",	
-  "searchable":1,
-  "changeable":1
+"key": "星辰",
+"name":"💡星辰影视",
+"type": 3,
+"api": "csp_XBPQ",
+"ext": {"作者": "小橙子",
+"站名": "星辰",
+"主页url": "https://yyrj.site",
+"搜索模式": "1",
+"搜索url":"/index.php/vod/show/id/fyclass/page/fypage.html",
+"线路数组":"<div class=\"module-tab-items&&</div>",
+"线路标题":"<span>&&</span>[不包含:飞刀资源]",
+"分类url": "/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类": "电影&剧集&综艺&动漫&短剧",
+"分类值": "1&2&3&4&5"}
 },	  
 {
   "key":"愉悦影视",
