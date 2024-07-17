@@ -1,17 +1,21 @@
-    {
-    
-    "作者":"小橙子",
-    
-    "站名":"茶狐杯",
-    
-    "主页url":"https://www.5jcd.com/",
-    
-    "简介":"+col-pd\">&&</p>",
-    
-    "线路数组":"<h3&&</h3>",
-    
-    "线路标题":"+>&&",
-    
-    "分类url":"https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
-    
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+{
+    "作者": "小橙子",
+    "站名": "茶杯狐",
+    "主页url": "https://www.5jcd.com/",
+    "分类url": "https://www.5jcd.com/show_/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ax",
+    "分类二次截取": "nav-menu\">&&</ul>",
+    "分类数组": "\"/typ&&</li>",
+    "分类标题": "\\&nbsp;&&<",
+    "分类ID": "/&&.html[替换:2>>32]",
+    "影片类型": "分类：&&</a>",
+    "影片年代": "年份：&&</a>",
+    "影片地区": "地区：&&</a>",
+    "影片状态": "状态：&&</p>",
+    "导演": "导演：&&</p>",
+    "主演": "主演：&&</p>",
+    "线路数组": "fa-circle-o-notch\">&&</div>",
+    "线路标题": "</i>&&</h3>",
+    "嗅探词":"m3u8",
+    "简介": "(小橙子)提醒您请勿相信影片中的广告，以免上当受骗！+sketch content\">&&</span>",
+    "排序": "月热度$hits_month#周热度$hits_week#更新时间$time"
+}
