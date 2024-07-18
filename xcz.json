@@ -74,6 +74,23 @@
       "timeout": 15
 },
 {
+  "key":"玩偶哥哥",
+  "name":"⛅玩偶弹幕4K",
+  "type":3,
+  "api":"csp_WoGG",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719265010033/fan.txt;md5;a610e504d51ef5a186ffb53c7c8072ac",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":0,
+  "ext":{
+  "aliToken":"tvfan/token.txt",
+  "quarkCookie":"tvfan/cookie.txt",
+  "from":"4k|auto|fhd",
+  "siteUrl":"https://www.wogg.link/",
+  "danMu":"弹"
+}
+},
+{
   "key": "csp_XYQHikerAL_云盘资源",
   "name": "🍊云盘资源",
   "type": 3,
