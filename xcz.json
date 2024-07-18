@@ -943,16 +943,16 @@
   "changeable": 1
 },
 {
-      "key": "秒播",
-      "name": "🐳秒播蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/miaobozx.json"
+  "key": "秒播",
+  "name": "🐳秒播蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/miaobozx.json"
 },
 {
   "key": "Zx4k",
