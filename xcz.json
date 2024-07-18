@@ -686,7 +686,19 @@
   "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
   "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
   "site":"https://woj.nxog.eu.org","danmu":true}
-},	  	  
+},
+{
+      "key": "csp_XYQHikerAL_影搜",
+      "name": "⛵影搜网盘",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/yingso.json"
+    },
+	  
 {
   "key": "mt",
   "name": "🏅摩托4K",
