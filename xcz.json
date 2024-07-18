@@ -708,6 +708,15 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/yingso.json"
+},
+{
+  "key": "混合盘",
+  "name": "🚂混合盘网盘",
+  "type": 3,
+  "api": "csp_HunHePan",
+  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/pg0316.jar",
+  "timeout": 60,
+  "ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/tokenm.json"
 },	  
 {
   "key": "mt",
