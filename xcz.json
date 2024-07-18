@@ -4960,6 +4960,13 @@
       }
 },
 {
+  "key": "drpy_js_朴樱影视",
+  "name": "🍊朴樱影视",
+  "type": 3,
+  "api": "https://gitee.com/stanlyshi/roas/raw/master/lib/drpy2.min.js",
+  "ext": "https://gitee.com/stanlyshi/roas/raw/master/js/%E6%9C%B4%E6%A8%B1%E5%BD%B1%E8%A7%86.js"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
