@@ -509,7 +509,7 @@
   "name": "🚁阿里云盘",
   "type": 3,
   "api": "csp_XYQHikerAL",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/dongchen.jar",
+  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
