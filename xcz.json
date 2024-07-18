@@ -1140,6 +1140,7 @@
 "name":"🔥视觉影院",
 "type":3,
 "api":"csp_XBPQ",
+"jar":"https://gitee.com/blueyangshu/box/raw/master/jar/zong.jar",
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
