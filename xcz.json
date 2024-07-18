@@ -2266,6 +2266,13 @@
   "分类url": "http://heyik.cn/index.php/vod/show/area/{area}/by/time/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
+},
+{
+  "key": "drpy_js_北极狐[V2]",
+  "name": "🦊北极狐",
+  "type": 3,
+  "api": "https://gitee.com/stanlyshi/roas/raw/master/lib/drpy2.min.js",
+  "ext": "https://gitee.com/stanlyshi/roas/raw/master/js/%E5%8C%97%E6%9E%81%E7%8B%90%5BV2%5D.js"
 },	  
 {
   "key": "小柚",
