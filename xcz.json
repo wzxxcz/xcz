@@ -1229,14 +1229,17 @@
   "filterable":1
 },
 {
-  "key":"星辰影视",
+  "key": "csp_duoju",
   "name":"💡星辰影视",
-  "type":3,
-  "api":"csp_WexXingchen",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",	
-  "searchable":1,
-  "changeable":1
-},	  
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "./lib/xinchen.json"
+},
 {
   "key":"愉悦影视",
   "name":"💡愉悦影视",
