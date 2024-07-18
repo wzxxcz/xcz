@@ -100,6 +100,17 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/云盘资源.json"
+},
+{
+  "key": "csp_XYQHikerAL_云盘资源",
+  "name": "🚲云盘资源",
+  "type": 3,
+  "api": "csp_XYQHikerAL",
+  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/yunpan.json"
 },	  
 {
   "key": "YiSo",
