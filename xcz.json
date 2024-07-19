@@ -28,7 +28,8 @@
   "name": "🍊小橙子电视",
   "type":3,
   "api":"https://gitee.com/wzbdyr/xcz/raw/master/lib/drpy2.min.js",
-  "ext":"https://gitee.com/wzbdyr/xcz/raw/master/lib/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
+  "ext":"https://gitee.com/wzbdyr/xcz/raw/master/lib/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js",
+  "jar": "https://gitee.com/zhan-zhaobb/MVP/raw/master/wzb.jar"
 },
 {
   "key": "玩偶",
