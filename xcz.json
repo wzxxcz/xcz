@@ -1825,24 +1825,14 @@
   "ext":"https://cloud.lxweb.cn/f/0QODt0/%E7%BE%8E%E8%A7%86%E7%BD%91.js"
 },
 {
-  "key":"月亮","name":"🌛月亮影视",
-  "type":3,"playerType":1,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "filterable":1,
-  "quickSearch":1,
-  "ext":{
-    "免嗅": "0",
-    "分类url":"https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-    "分类":"电视剧$2#电影$1#综艺$3#动漫$4",
-    "数组": "class=\"pack-packcover returl list-top-b\">&&pack-infolist",
-    "标题":"title=\"&&\"",
-    "副标题":"pack-prb hidden\">&&</span>",
-    "图片":"data-original=\"&&\"",
-    "链接":"href=\"&&\"",
-    "简介":"id=\"cText\">&&</a>",
-    "线路数组":"channelname swiper-slide\">&&</a>",
-    "线路标题":"&nbsp;&&<[排序:腾讯>奇艺>优酷>芒果TV>搜狐>其它][不包含:超高清专用]"}
+  "key": "月亮",
+  "name": "🌛月亮影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "分类url:https://www.zqzdzj.com/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 {
   "key": "Shys",
