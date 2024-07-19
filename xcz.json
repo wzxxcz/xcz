@@ -27,9 +27,8 @@
   "key": "好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
-  "api": "https://gitee.com/wzbdyr/xcz/raw/master/lib/drpy2.min.js",
-  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/%E5%A5%BD%E8%B6%A3%E7%BD%91.js",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/lib/TianV.jar"
+  "api": "https://gitee.com/yukey208208/PantyHose/raw/master/frame/drpy2.min.js",
+  "ext": "https://gitee.com/yukey208208/PantyHose/raw/master/lib/TianV/%E5%A5%BD%E8%B6%A3%E7%BD%91.js"
 },
 {
   "key":"好趣网",
