@@ -24,16 +24,8 @@
   "filterable": 0
 },
 {
-  "key": "好趣网",
-  "name": "🍊小橙子电视",
-  "type": 3,
-  "api": "https://gitee.com/yukey208208/PantyHose/raw/master/frame/drpy2.min.js",
-  "ext": "https://gitee.com/yukey208208/PantyHose/raw/master/lib/TianV/%E5%A5%BD%E8%B6%A3%E7%BD%91.js",
-  "jar": "https://gitee.com/yukey208208/PantyHose/raw/master/spider/TianV.jar"	
-},
-{
   "key":"好趣网",
-  "name":"🔥电视直播",
+  "name": "🍊小橙子电视",
   "type":3,
   "api":"https://gitee.com/zhan-zhaobb/MVP/raw/master/js/drpy2.min.js",
   "ext":"https://gitee.com/zhan-zhaobb/MVP/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
