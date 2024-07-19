@@ -791,17 +791,6 @@
   "filterable":1
 },
 {
-  "key": "csp_XYQHiker_‍dyx",
-  "name": "🍊小橙子宙磁",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/dyg.json",
-  "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/xmbjm/main/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-},
-{
   "key": "ygcl",
   "name": "🍊影港磁力",
   "type": 3,
