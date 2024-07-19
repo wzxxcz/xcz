@@ -2279,6 +2279,16 @@
   "type": 3,
   "api": "https://gitee.com/stanlyshi/roas/raw/master/lib/drpy2.min.js",
   "ext": "https://gitee.com/stanlyshi/roas/raw/master/js/%E5%8C%97%E6%9E%81%E7%8B%90%5BV2%5D.js"
+},
+{
+  "key": "maolvys",
+  "name": "🫏毛驴影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "分类url:https://www.maolvys.com/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },	  
 {
   "key": "小柚",
