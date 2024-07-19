@@ -1408,7 +1408,6 @@
   "name":"🍊光棍秒播",
   "type":3,
   "api":"csp_XBPQ",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
