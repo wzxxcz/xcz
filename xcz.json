@@ -1154,6 +1154,17 @@
   "changeable": 1
 },
 {
+  "key": "新视觉影院",
+  "name": "🔥视觉影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/xinshijue.json"
+},
+{
   "key": "csp_蛋蛋",
   "name": "🥚蛋蛋影视",
   "type": 3,
