@@ -2287,6 +2287,16 @@
   "ext": "https://www.kuin.one/api.php/app/"
 },
 {
+  "key": "csp_兔年",
+  "name": "🐇兔年影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/23yyds.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
