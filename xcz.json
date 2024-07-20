@@ -2534,20 +2534,6 @@
   "filterable":1
 },
 {
-  "key": "荐片弹幕版",
-  "name": "👍️荐片蓝光弹幕",
-  "type": 3,
-  "api": "csp_Jianpian",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-      "ext": {
-        "danmu": true
-      },
-      "timeout": 20
-},
-{
   "key": "csp_七新影视",
   "name": "💚七新影视",
   "type": 3,
