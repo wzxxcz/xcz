@@ -1397,7 +1397,7 @@
   "type":3,
   "ua": "okhttp/3.15",
   "api":"csp_XBPQ",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
