@@ -2900,6 +2900,7 @@
   "name":"🍊影图资源",
   "type":1,
   "api":"https://cj.vodimg.top/api.php/provide/vod/",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/wzb.jar",
   "searchable":1,
   "quickSearch":1
 },
