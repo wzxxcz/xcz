@@ -3601,6 +3601,7 @@
 {
   "key": "晴天",
   "name": "☀️晴天1080P",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/wzb.jar",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
