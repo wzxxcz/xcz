@@ -4778,15 +4778,6 @@
     \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"
 },
 {
-  "key":"1080资源",
-  "name":1️⃣080资源,
-  "type":0,
-  "api":"https://api.1080zyku.com/inc/api.php",
-  "searchable":1,
-  "quickSearch":1,
-  "changeable":1
-}, 
-{
   "key": "港剧网",
   "name": "🍊港剧影视",
   "type": 3,
