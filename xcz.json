@@ -2336,6 +2336,16 @@
   "ext": "./lib/23yyds.json"
 },
 {
+  "key":"csp_vs",
+  "name":"🍊VS秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/vsys.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
