@@ -2780,7 +2780,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/七新影视.json",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar"
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"
 },
 {
   "key":"臭蛋蛋",
