@@ -1338,7 +1338,6 @@ CHC家庭影院,http://dp.sxtv.top:88/神仙影视专用盗源死全家/cqyx.php
 
 湖北武汉,#genre#
 湖北公共新闻,http://www.tico2.eu.org:4022/rtp/239.69.1.40:9880
-湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886
 湖北经视,http://www.tico2.eu.org:4022/rtp/239.69.1.41:9886
 湖北经视,http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
@@ -1520,7 +1519,6 @@ CHC-高清电影,http://www.furymax.top:85/rtp/239.69.1.241:11088
 CHC-动作电影,http://www.furymax.top:85/rtp/239.69.1.242:11094
 CHC-家庭影院,http://www.furymax.top:85/rtp/239.69.1.243:11100
 湖北公共新闻,http://www.furymax.top:85/rtp/239.69.1.40:9880
-湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886
 湖北经视,http://www.tico2.eu.org:4022/rtp/239.69.1.41:9886
 湖北经视,http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
