@@ -2347,6 +2347,17 @@
   "ext":"./lib/vsys.json"
 },
 {
+  "key": "华为",
+  "name": "🍇华为采集",
+  "type": 1,
+  "api": "https://cjhwba.com/api.php/provide/vod",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "timeout": 10
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
