@@ -405,17 +405,18 @@
       }
 },
 {
-  "key":"玩弹幕弟",
+  "key":"夸克玩弹幕6",
   "name":"❤玩弟弹幕",
   "type":3,
-  "api":"csp_Wogg",
-  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367",
-  "searchable":1,
+  "api":"csp_Wobg",
+  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0",
   "quickSearch":1,
+  "changeable":1,
   "filterable":1,
   "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-  "site":"http://ttkx.live:7728","danmu":true}
-},
+  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://mihdr.top","danmu":true}
+}, 
 {
   "key":"玩弹幕哥",
   "name":"❤玩哥弹幕",
