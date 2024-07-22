@@ -1409,6 +1409,17 @@
   "changeable":1
 },
 {
+  "key":"厂长弹幕",
+  "name":"💡厂长弹幕",
+  "type":3,
+  "api":"csp_Czzy",
+  "jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
@@ -2119,17 +2130,6 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/beichuan.json"
-},
-{
-  "key": "厂长",
-  "name": "🌸厂长直连",
-  "type": 3,
-  "api": "csp_Czzy",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721016026738/okjpg.txt;md5;ce28e8904c555fba555a76abcafc7275",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "timeout": 10
 },
 {
   "key": "yy",
