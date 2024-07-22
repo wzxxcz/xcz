@@ -5100,7 +5100,19 @@
       "changeable": 0,
       "timeout": 10
 },
-{"key":"drpy_js_88看球","name":"⚽88看球","type":3,"api":"https://tv.nxog.top/m/js/nxog.js","ext":"https://tv.nxog.top/m/js/1.js"},
+{
+  "key": "88看球",
+  "name": "⚽88看球",
+  "type": 3,
+  "api": "csp_Kanqiu",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721457643957/okjpg.txt;md5;8266a873cc4d87dc25847c29248281af",
+  "searchable": 1,
+  "changeable": 0,
+  "style": {
+        "type": "list"
+      },
+      "timeout": 10
+},
 {"key":"drpy_js_JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://tv.nxog.top/m/js/nxog.js","ext":"https://tv.nxog.top/m/js/3.js"}
 ],
   "parses": [
