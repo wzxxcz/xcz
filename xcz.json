@@ -1430,6 +1430,17 @@
   "ext":{"danmu":true}
 },
 {
+  "key":"JOJO弹幕",
+  "name":"💡OJO弹幕",
+  "type":3,
+  "api":"csp_Jiohub",
+  "jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
+{
   "key": "csp_cally",
   "name": "🍊小橙子采集",
   "type": 3,
