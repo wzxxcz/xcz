@@ -1312,7 +1312,7 @@
   "name":"💡星辰影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen.jar",
   "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
