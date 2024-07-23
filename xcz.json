@@ -5170,6 +5170,7 @@
       },
       "timeout": 10
 },
+  {"key":"drpy_js_JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://tv.nxog.top/m/js/nxog.js","ext":"https://tv.nxog.top/m/js/3.js"}
 ],
   "parses": [
     {
