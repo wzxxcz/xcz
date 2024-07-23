@@ -1,4 +1,4 @@
-上海频道
+上海频道,#genre#
 新闻综合,https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 东方影视,https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 上海都市,https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
@@ -10,7 +10,7 @@
 上海教育,https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
 生活时尚,https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
 上海金山电视台,http://livejs1.newsjs.net/jspd/playlist.m3u8
-央视频道
+央视频道,#genre#
 CCTV1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 CCTV1,http://120.87.97.246:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVJJZNDYjNTYW0xrj2atp5krmovGfhet3wgtKVBhIbxM&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141158688&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e96acf29ccb8a&FvSeid=88fe5578aee15bbe&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4298&Fsv_chan_hls_se_idx=60&Fsv_TBt=8468056&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
@@ -754,7 +754,7 @@ CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
 CCTV8K,http://mtw.so/62HqYI
 CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV2024,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
-卫视频道
+卫视频道,#genre#
 东方卫视,http://103.116.245.163/sxg/sxg.php?id=/dfwsH265_4000.m3u8
 东方卫视,http://58.48.37.158:1111/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://175.8.213.198:8081/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1668,7 +1668,7 @@ CCTV2024,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 三沙卫视,http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 三沙卫视,http://22725y284r.yicp.fun:9902/tsfile/live/1031_1.m3u8
 三沙卫视,http://117.27.190.42:9998/tsfile/live/23250_1.m3u8?key=txiptv&playlive=1&authid=0
-体育频道
+体育频道,#genre#
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
@@ -1703,7 +1703,7 @@ CCTV2024,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 快乐垂钓,https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
 Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 J_SPORTS_4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-电影频道
+电影频道,#genre#
 CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 CHC动作电影,http://123.189.36.4:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://123.189.36.39:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1714,11 +1714,11 @@ CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c54
 倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-电视剧频道
+电视剧频道,#genre#
 庆余年,http://diyp.112114.xyz/douyu/7489563
 士兵突击,https://live.metshop.top/huya/11342430
 新水浒传,https://live.metshop.top/huya/11342384
-明星
+明星,#genre#
 周星驰,https://live.metshop.top/huya/11342412
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
@@ -1726,11 +1726,11 @@ CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c54
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 电影_强森,https://live.metshop.top/huya/21059581
 电影_梁家辉,https://live.metshop.top/huya/11342429
-主题片
+主题片,#genre#
 电影_喜乐影院,https://live.metshop.top/huya/21059580
 电影_谍战,https://live.metshop.top/huya/21059585
 电影_贺岁,https://live.metshop.top/huya/11601971
-港澳台
+港澳台,#genre#
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -1825,7 +1825,7 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-国际台
+国际台,#genre#
 CNN,https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 BBC,https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 BBC,https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
@@ -1853,7 +1853,7 @@ BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 韩国KBS,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-纪录片
+纪录片,#genre#
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 动物星球,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -1865,7 +1865,7 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 航拍中国第三季,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
-动画片
+动画片,#genre#
 中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
 优漫卡通,http://123.189.36.39:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
 优漫卡通,http://123.189.36.4:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1897,13 +1897,13 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 金鹰卡通,http://59.48.75.130:3052/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8
 青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-戏曲频道
+戏曲频道,#genre#
 戏曲精选,https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://extraott.com:80/live/7921751389/6097373662/5504.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 七彩戏剧,https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-解说频道
+解说频道,#genre#
 解说_乌贼说电影,https://live.metshop.top/huya/16604522
 解说_亮哥讲电影,https://live.metshop.top/huya/16144175
 解说_冷君说电影,https://live.metshop.top/huya/16739452
@@ -1926,12 +1926,12 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 解说_鱼丸电影,https://live.metshop.top/huya/16615910
 解说_鹿哥电影,https://live.metshop.top/huya/24396360
 解说_默爷侃电影,https://live.metshop.top/huya/17204307
-综艺频道
+综艺频道,#genre#
 热门综艺,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-游戏频道
+游戏频道,#genre#
 游戏风云,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
 电竞天堂,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-浙江频道
+浙江频道,#genre#
 上虞文化影视频道,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
@@ -1995,7 +1995,7 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 龙泉新闻综合频道,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 龙游新闻综合频道,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-江苏频道
+江苏频道,#genre#
 南京十八 (720p),https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京娱乐 (720p),https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8
 扬州城市频道,http://cm-wshls.homecdn.com/live/8bd.m3u8
@@ -2009,7 +2009,7 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 泰州三套影视娱乐频道,http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=bfff58e41720582991
 镇江二套社会民生频道,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合频道,http://cm-wshls.homecdn.com/live/2aa50.m3u8
-湖南频道
+湖南频道,#genre#
 湖南公共,http://124.228.160.169:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南公共,http://220.248.188.196:8991/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南国际,http://175.8.213.198:8081/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2046,7 +2046,7 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 金鹰纪实,http://117.27.190.42:9998/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,http://220.248.188.196:8991/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰纪实,https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-湖北频道
+湖北频道,#genre#
 武汉2电视剧,http://58.48.37.158:1111/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉3科技生活,http://58.48.37.158:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉外语 (576p),http://stream.appwuhan.com/6tzb/sd/live.m3u8
@@ -2057,7 +2057,7 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 湖北影视,http://58.51.111.46:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽频道
+安徽频道,#genre#
 安徽影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 安徽经济生活频道,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 安徽综艺体育频道,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
@@ -2065,7 +2065,7 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
 滁州市广播电视台 新闻综合频道 (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
 滁州市广播电视台 科教频道 (400p),http://live.cztv.cc:85/live/sjpd.m3u8
-广东频道
+广东频道,#genre#
 广东新闻,http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
 广东新闻,http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
@@ -2079,19 +2079,19 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
 广东珠江,http://61.146.224.42:8088/hls/2/index.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
-海南频道
+海南频道,#genre#
 海口一套综合频道,http://183.255.46.4:16080/live/tv01qnuu8lxfc0rj.m3u8
 海口三套城乡经济频道,http://183.255.46.4:16080/live/tv03fu70esbaw9si.m3u8
 海口二套生活娱乐频道,http://183.255.46.4:16080/live/tv02bueim7p8prw4.m3u8
 海口二套生活娱乐频道,http://183.255.46.4:16080/live/tv2502.m3u8
-内蒙频道
+内蒙频道,#genre#
 内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-辽宁频道
+辽宁频道,#genre#
 辽宁北方,http://123.189.36.39:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁北方,http://123.189.36.4:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁影视剧,http://123.189.36.39:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2102,15 +2102,15 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 辽宁经济,http://123.189.36.4:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://123.189.36.39:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://123.189.36.4:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西频道
+陕西频道,#genre#
 延安一套新闻综合频道,http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
 延安二套公共频道,http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
-山西频道
+山西频道,#genre#
 优购物电视购物,https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3
 运城一套新闻综合频道,http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
 运城三套科教频道,http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
 运城二套公共频道,http://live.0359tv.com/lsdream/t667aTY/live.m3u8
-山东频道
+山东频道,#genre#
 济宁公共频道,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 济宁图文频道,http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8
 济宁新闻综合频道,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
@@ -2122,7 +2122,7 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 青州电视台文化旅游频道,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 青州电视台新闻综合频道,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州电视台生活频道,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
-云南频道
+云南频道,#genre#
 丘北电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8
 云南少儿频道yntv7,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
 云南澜湄国际频道,http://tvlive.ynradio.com/live/yunnanguoji/chunks.m3u8
@@ -2131,7 +2131,7 @@ NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u
 广安新闻综合频道,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 西双版纳一套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8
 西双版纳二套,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
-春晚
+春晚,#genre#
 春晚20,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 春晚19,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
 春晚18,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
