@@ -5170,7 +5170,7 @@
       },
       "timeout": 10
 },
-  {"key":"drpy_js_JRKAN直播","name":"⚽JRKAN直播","type":3,"api":"https://tv.nxog.top/m/js/nxog.js","ext":"https://tv.nxog.top/m/js/3.js"}
+  {"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--xn6-mf3g9f.v.nxog.top/m/Bilibili/球类合集.json"}
 ],
   "parses": [
     {
