@@ -4269,7 +4269,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://cdn.teyonds.com/xp/奈飞影视.json",
+  "ext": "./lib/奈飞影视.json",
   "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
 },
 {
