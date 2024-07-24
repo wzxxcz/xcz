@@ -2972,12 +2972,12 @@
   "ext": "./lib/五月影视.js"
 },
 {
-  "key":"影图资源",
+  "key": "影图",
   "name":"🍊影图资源",
-  "type":1,
-  "api":"https://cj.vodimg.top/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1
+  "type": 1,
+  "api": "https://cj.vodimg.top/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
 },
 {
   "key": "csp_xBPQ_大米星球 ",
