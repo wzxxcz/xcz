@@ -1684,7 +1684,7 @@
   "name": "☘️影院蓝光",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
