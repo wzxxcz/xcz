@@ -947,6 +947,18 @@
   "ext":"http://api2.rinhome.com"
 },
 {
+  "key":"荐片弹幕",
+  "name":"💘荐片弹幕",
+  "type":3,
+  "api":"csp_Jianpian",
+  "playerType":1,
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true},
+  "jar":"https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0"
+},
+{
   "key": "csp_LiteApple",
   "name": "🍎小苹果复活",
   "type": 3,
