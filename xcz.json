@@ -1163,23 +1163,11 @@
   "分类url":"https://rebozj.pro/type/{cateId}.html"}
 },
 {
-  "key": "可可",
-  "name": "👻可可多线",
-  "type": 3,
-  "api": "csp_Kekys",
-  "jar":"https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;b50baf5a9e475b6e91000e3d87c8dd0c",
-  "timeout": 15,
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
   "key":"可可影视",
   "name":"💡可可影视",
   "type":3,
   "api":"csp_Keke",
-  "jar":"https://v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "jar":"https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;b50baf5a9e475b6e91000e3d87c8dd0c",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
