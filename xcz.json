@@ -1238,14 +1238,14 @@
   "filterable":1
 },
 {
-  "key": "kkan",
-  "name": "💡看看影视",
-  "type": 3,
-  "api": "csp_WebIV",
-  "jar":"https://v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0
+  "key":"看看影视",
+  "name":"💡看看影视",
+  "type":3,
+  "api":"csp_WebIV",
+  "jar": "https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0
 },
 {
   "key":"甲子影视",
