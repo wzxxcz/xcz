@@ -1258,13 +1258,14 @@
   "changeable":1
 },
 {
-  "key":"素白白",
+  "key": "csp_SuBaiBai",
   "name":"💡素白影视",
-  "type":3,
-  "api":"csp_Subaibai",
-  "jar":"https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
-  "searchable":1,
-  "changeable":1
+  "type": 3,
+  "api": "csp_SuBaiBai",
+  "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;0559B6AA34618E48F93C166F2D5E7479",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },
 {
   "key":"啾啾影视",
