@@ -1148,7 +1148,7 @@
   "name":"💡热播影视",
   "type":3,
   "api":"csp_AppRB",
-  "jar": "https://v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "jar":"https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
@@ -1158,7 +1158,7 @@
   "name":"🎃热播影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "jar": "https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
   "ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5",
   "分类url":"https://rebozj.pro/type/{cateId}.html"}
 },
