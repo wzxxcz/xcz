@@ -1631,6 +1631,7 @@
   "name": "🦐皮皮蓝光",
   "type": 3,
   "api": "csp_Pptv",
+  "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;0559B6AA34618E48F93C166F2D5E7479",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
