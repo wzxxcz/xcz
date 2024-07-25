@@ -1627,15 +1627,14 @@
   "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
 },
 {
-  "key": "皮皮虾",
+  "key": "csp_Pptv",
   "name": "🦐皮皮蓝光",
   "type": 3,
-  "api": "csp_AppSK",
+  "api": "csp_Pptv",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 0,
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/ppx.txt",
-  "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
+  "filterable": 1,
+  "ext": "https://www.myd04.com"
 },
 {
       "key": "飞刀",
