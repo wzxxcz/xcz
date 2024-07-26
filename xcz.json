@@ -1751,6 +1751,7 @@
   "name": "🏅8号影院",
   "type": 3,
   "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "jar":"http://47.99.102.252/jar/0725.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
