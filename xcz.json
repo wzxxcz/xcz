@@ -857,14 +857,25 @@
 },
 {
   "key": "hipy_js_4k剧院",
-  "name": "🏅小橙子4K",
+  "name": "🏅小橙子4k",
   "type": 3,
-  "api": "https://yubox.xyz/drpy_libs/drpy2.min.js",
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "order_num": 3,
-  "ext": "https://yubox.xyz/drpy_js/4k剧院.js"
+  "order_num": 0,
+  "ext": "http://47.99.102.252/drpy_js/4k剧院.js"
+},
+{
+  "key": "hipy_js_4K-AV",
+  "name": "🏅小橙子4k专线",
+  "type": 3,
+  "api": "http://47.99.102.252/drpy_dzlive/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://47.99.102.252/drpy_dzlive/drpy_js/4K-AV.js"
 },
 {
   "key": "胖虎影视",
