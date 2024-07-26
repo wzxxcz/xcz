@@ -849,7 +849,6 @@
   "name": "🧲Seed影视",
   "type": 3,
   "api": "csp_SeedHub",
-  "jar": "http://47.99.102.252/jar/0725.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
