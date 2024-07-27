@@ -1,349 +1,263 @@
-小橙子央卫视,#genre#
-CCTV-1 综合,http://10000.win14.eu.org:18975/23/010.php?id=cctv1.m3u8
-CCTV-2 财经,http://10000.win14.eu.org:18975/23/010.php?id=cctv2.m3u8
-CCTV-3 综艺,http://10000.win14.eu.org:18975/23/010.php?id=cctv3.m3u8
-CCTV-4 中文国际,http://10000.win14.eu.org:18975/23/010.php?id=cctv4.m3u8
-CCTV-5 体育,http://10000.win14.eu.org:18975/23/010.php?id=cctv5.m3u8
-CCTV-5+体育赛事,http://10000.win14.eu.org:18975/23/010.php?id=cctv5p.m3u8
-CCTV-6 电影,http://10000.win14.eu.org:18975/23/010.php?id=cctv6.m3u8
-CCTV-7 国防军事,http://10000.win14.eu.org:18975/23/010.php?id=cctv7.m3u8
-CCTV-8 电视剧,http://10000.win14.eu.org:18975/23/010.php?id=cctv8.m3u8
-CCTV-9 纪录,http://10000.win14.eu.org:18975/23/010.php?id=cctv9.m3u8
-CCTV-10 科教,http://10000.win14.eu.org:18975/23/010.php?id=cctv10.m3u8
-CCTV-11 戏曲,http://10000.win14.eu.org:18975/23/010.php?id=cctv11.m3u8
-CCTV-12 社会与法,http://10000.win14.eu.org:18975/23/010.php?id=cctv12.m3u8
-CCTV-13 新闻,http://10000.win14.eu.org:18975/23/010.php?id=cctv13.m3u8
-CCTV-14 少儿,http://10000.win14.eu.org:18975/23/010.php?id=cctv14.m3u8
-CCTV-15 音乐,http://10000.win14.eu.org:18975/23/010.php?id=cctv15.m3u8
-CCTV-16 奥林匹克,http://10000.win14.eu.org:18975/23/010.php?id=cctv16.m3u8
-CCTV-17 农业农村,http://10000.win14.eu.org:18975/23/010.php?id=cctv17.m3u8
-广州综合,http://10000.win14.eu.org:18975/23/020.php?pd=zonghe
-广州新闻,http://10000.win14.eu.org:18975/23/020.php?pd=xinwen
-广州法治,http://10000.win14.eu.org:18975/23/020.php?pd=fazhi
-广州竞赛,http://10000.win14.eu.org:18975/23/020.php?pd=jingsai
-广州影视,http://10000.win14.eu.org:18975/23/020.php?pd=yingshi
-南国都市[4K],http://10000.win14.eu.org:18975/23/020.php?pd=nanguo
-东莞新闻,http://10000.win14.eu.org:18975/23/020.php?pd=dgxw
-东莞生活,http://10000.win14.eu.org:18975/23/020.php?pd=dgsh
-佛山综合,http://10000.win14.eu.org:18975/23/0757.php?id=fszh
-佛山影视,http://10000.win14.eu.org:18975/23/0757.php?id=fsys
-佛山公共,http://10000.win14.eu.org:18975/23/0757.php?id=fsgg
-佛山南海,http://10000.win14.eu.org:18975/23/0757.php?id=fsnh
-佛山顺德,http://10000.win14.eu.org:18975/23/0757.php?id=fssd
-佛山高明,http://10000.win14.eu.org:18975/23/0757.php?id=fsgm
-佛山三水,http://10000.win14.eu.org:18975/23/0757.php?id=fsss
-CCTV-1 综合,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-1-CQ.m3u8
-CCTV-2 财经,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-2-CQ.m3u8
-CCTV-3 综艺,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-3-CQ.m3u8
-CCTV-4 中文国际,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-4-CQ.m3u8
-CCTV-5 体育,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-5-CQ.m3u8
-CCTV-5+体育赛事,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-5PLUS-CQ.m3u8
-CCTV-6 电影,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-6-CQ.m3u8
-CCTV-7 国防军事,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-7-CQ.m3u8
-CCTV-8 电视剧,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-8-CQ.m3u8
-CCTV-9 纪录,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-9-CQ.m3u8
-CCTV-10 科教,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-10-CQ.m3u8
-CCTV-11 戏曲,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-11-CQ.m3u8
-CCTV-12 社会与法,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-12-CQ.m3u8
-CCTV-13 新闻,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-13-CQ.m3u8
-CCTV-14 少儿,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-14-CQ.m3u8
-CCTV-15 音乐,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-15-CQ.m3u8
-CCTV-16 奥林匹克,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-16-CQ.m3u8
-CCTV-17 农业农村,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-17-CQ.m3u8
-CGTN,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CCTV-NEWS.m3u8
-CGTN俄语,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CGTN-PYCCNN.m3u8
-CGTN西语,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CGTN-ESPANOL.m3u8
-CGTN法语,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CGTN-FRANCAIS.m3u8
-CGTN阿语,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CGTN_A.m3u8
-湖南卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_HUNAN-CQ.m3u8
-浙江卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ZHEJIANG-CQ.m3u8
-江苏卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_JIANGSU-CQ.m3u8
-北京卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_BEIJING-CQ.m3u8
-东方卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_DONGFANG-CQ.m3u8
-深圳卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_SHENZHEN-CQ.m3u8
-广东卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_GUANGDONG-CQ.m3u8
-天津卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_TIANJIN-CQ.m3u8
-辽宁卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_LIAONING-CQ.m3u8
-山东卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_SHANDONG-CQ.m3u8
-吉林卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_JILIN-CQ.m3u8
-黑龙江卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_HEILONGJIANG-CQ.m3u8
-安徽卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ANHUI-CQ.m3u8
-湖北卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_HUBEI-CQ.m3u8
-河北卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_HEBEI-CQ.m3u8
-河南卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_HENAN-CQ.m3u8
-四川卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_SICHUAN-CQ.m3u8
-重庆卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CHONGQING-CQ.m3u8
-广西卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_GUANGXI-HQ.m3u8
-江西卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_JIANGXI-CQ.m3u8
-云南卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_YUNNAN-CQ.m3u8
-甘肃卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_GANSU-HQ.m3u8
-陕西卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_SHANXI-HQ.m3u8
-贵州卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_GUIZHOU-CQ.m3u8
-宁夏卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_NINGXIA.m3u8
-青海卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_QINGHAI.m3u8
-西藏卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_XIZANG.m3u8
-新疆卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_XINJIANG.m3u8
-延边卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_YANBIAN.m3u8
-东南卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_DONGNAN-CQ.m3u8
-厦门卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_XIAMEN.m3u8
-海南卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_HAINAN-HQ.m3u8
-三沙卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_SANSHA-HQ.m3u8
-农林卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_NONGLIN.m3u8
-康巴卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_KANGBA.m3u8
-安多卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ANDUO.m3u8
-兵团卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_BINGTUAN.m3u8
-内蒙古卫视,http://10000.win14.eu.org:18975/23/020_1.php?id=G_NEIMENGGU.m3u8
-北京纪实,http://10000.win14.eu.org:18975/23/020_1.php?id=G_BEIJINGJS-CQ.m3u8
-上海纪实,http://10000.win14.eu.org:18975/23/020_1.php?id=G_SHANGHAIJS-HD.m3u8
-徐闻综合,http://10000.win14.eu.org:18975/23/020.php?id=zanjiang01.m3u8
-女性时尚,http://10000.win14.eu.org:18975/23/020_1.php?id=G_NVXINGSS-CQ.m3u8
-CETV-1,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CETV-1-HQ.m3u8
-CETV-2,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CETV-2.m3u8
-CETV-3,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CETV-3.m3u8
-CETV-4,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CETV-4.m3u8
-早期教育,http://10000.win14.eu.org:18975/23/020_1.php?id=G_CETV-ZQJY-CQ.m3u8
-山东教育,http://10000.win14.eu.org:18975/23/020_1.php?id=G_SDETV.m3u8
-老故事,http://10000.win14.eu.org:18975/23/020_1.php?id=G_LAOGUSHI.m3u8
-发现之旅,http://10000.win14.eu.org:18975/23/020_1.php?id=G_FAXIANZL.m3u8
-天元围棋,http://10000.win14.eu.org:18975/23/020_1.php?id=G_TIANYUANWQ.m3u8
-国学频道,http://10000.win14.eu.org:18975/23/020_1.php?id=G_GUOXUE.m3u8
-中华美食,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ZHONGHUAMS.m3u8
-家庭理财,http://10000.win14.eu.org:18975/23/020_1.php?id=G_JIATINGLC.m3u8
-金鹰卡通,http://10000.win14.eu.org:18975/23/020_1.php?id=G_JINYING.m3u8
-卡酷少儿,http://10000.win14.eu.org:18975/23/020_1.php?id=G_KAKU.m3u8
-炫动卡通,http://10000.win14.eu.org:18975/23/020_1.php?id=G_XUANDONG.m3u8
-优漫卡通,http://10000.win14.eu.org:18975/23/020_1.php?id=G_YOUMAN.m3u8
-嘉佳卡通,http://10000.win14.eu.org:18975/23/020_1.php?id=G_JIAJIA.m3u8
-袋鼠动物园,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ZOO-101.m3u8
-长颈鹿动物园,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ZOO-201.m3u8
-火烈鸟动物园,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ZOO-401.m3u8
-老虎动物园,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ZOO-501.m3u8
-黑熊动物园,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ZOO-601.m3u8
-狮子动物园,http://10000.win14.eu.org:18975/23/020_1.php?id=G_ZOO-901.m3u8
-可欣央卫视,#genre#
-CCTV-1 综合,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv1
-CCTV-2 财经,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv2
-CCTV-3 综艺,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv3
-CCTV-4 中文国际,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv4
-CCTV-5 体育,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv5
-CCTV-5+ 体育赛事,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv5p
-CCTV-6 电影,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv6
-CCTV-7 国防军事,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv7
-CCTV-8 电视剧,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv8
-CCTV-9 纪录,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv9
-CCTV-10 科教,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv10
-CCTV-11 戏曲,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv11
-CCTV-12 社会与法,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv12
-CCTV-13 新闻,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv13
-CCTV-14 少儿,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv14
-CCTV-15 音乐,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv15
-CCTV-16 奥林匹克,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv16
-CCTV-17 农业农村,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv17
-CCTV-4K,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv4k
-CCTV-16[4K],http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cctv16_4k
-兵器科技,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=bqkj
-第一剧场,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=dyjc
-怀旧剧场,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hjjc
-风云剧场,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=fyjc
-风云音乐,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=fyyy
-风云足球,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=fyzq
-央视文化精品,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=whjp
-女性时尚,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=nxss
-高尔夫网球,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=gefwq
-央视台球,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=ystq
-中学生,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=zxs
-发现之旅,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=fxzl
-老故事,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=lgs
-书画,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=sh
-中国天气,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=zgtq
-CGTN,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cgtn
-CETV1中教1台,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cetv1
-CETV4中教4台,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cetv4
-CETV早期教育,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=zqjy
-北京卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=bjws
-东方卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=dfws
-天津卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=tjws
-重庆卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqws
-黑龙江卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hljws
-吉林卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=jlws
-辽宁卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=lnws
-内蒙古卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=nmws
-宁夏卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=nxws
-青海卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=qhws
-河北卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hbws
-安徽卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=ahws
-河南卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hnws
-湖北卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hubws
-湖南卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hunws
-江西卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=jxws
-江苏卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=jsws
-浙江卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=zjws
-东南卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=dnws
-广东卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=gdws
-深圳卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=szws
-广西卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=gxws
-云南卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=ynws
-贵州卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=gzws
-四川卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=scws
-新疆卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=xjws
-兵团卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=btws
-西藏卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=xzws
-海南卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hinws
-三沙卫视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=ssws
-CHC高清电影,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=chcgq
-CHC动作电影,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=chcdz
-CHC家庭影院,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=chcjt
-北京纪实科教,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=bjjskj
-北京卡酷,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=bjkk
-中华特产,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=zhtc
-生态环境,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=sthj
-四海钓鱼,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=shdy
-车迷频道,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cmpd
-百姓健康,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=bxjk
-环球奇观,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hqqg
-环球旅游,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hqly
-优优宝贝,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=yybb
-聚鲨环球精选,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=jshwjx
-东方财经,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=dfcj
-欢笑剧场,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hxjc
-都市剧场,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=dsjc
-魅力足球,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=mlxq
-动漫秀场,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=dmxc
-游戏风云,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=yxfy
-生活时尚,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=shss
-法治天地,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=fztd
-金色学堂,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=jsxt
-重庆新闻,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqxw
-重庆科教,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqkj
-重庆影视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqys
-重庆文体娱乐,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqwtyl
-重庆少儿,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqse
-重庆时尚生活,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqsssh
-重庆新农村,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqxnc
-重庆社会与法,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqshyf
-重庆移动,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqyd
-重庆汽摩,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cqqm
-重广融媒,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cgrm
-爱看导视,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=akds
-合川综合,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=hczh
-长寿综合,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cszh
-酉阳综合,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=yyzh
-云阳综合,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=yunyzh
-铜梁综合,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=tlzh
-家有购物,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=jygw
-新动漫,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=xdm
-证券服务,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=zqfw
-山东教育,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=sdjy
-收藏天下,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=sctx
-国学频道,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=gxpd
-快乐垂钓,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=klcd
-金鹰卡通,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=jykt
-先锋乒羽,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=xfpy
-财富天下,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cftx
-天元围棋,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=tywq
-重温经典,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=cwjd
-求索纪录,http://10000.win14.eu.org:18975/23/cqyx_023.php?id=qsjl
-豆豆央卫视,#genre#
-CCTV-1 综合,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv1.m3u8
-CCTV-2 财经,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv2.m3u8
-CCTV-3 综艺,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv3.m3u8
-CCTV-4 中文国际,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv4.m3u8
-CCTV-5 体育,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv5.m3u8
-CCTV-5+体育赛事,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv5p.m3u8
-CCTV-6 电影,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv6.m3u8
-CCTV-7 国防军事,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv7.m3u8
-CCTV-8 电视剧,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv8.m3u8
-CCTV-9 纪录,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv9.m3u8
-CCTV-10 科教,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv10.m3u8
-CCTV-11 戏曲,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv11.m3u8
-CCTV-12 社会与法,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv12.m3u8
-CCTV-13 新闻,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv13.m3u8
-CCTV-14 少儿,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv14.m3u8
-CCTV-15 音乐,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv15.m3u8
-CCTV-16 奥林匹克,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv16.m3u8
-CCTV-17 农业农村,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cctv17.m3u8
-CETV-1,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cetv1.m3u8
-CGTN,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cgtn.m3u8.m3u8
-CCTV风云音乐,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=fyyy.m3u8
-CCTV风云剧场,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=fyjc.m3u8
-CCTV风云足球,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=fyzq.m3u8
-CCTV央视台球,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=ystq.m3u8
-CCTV高尔夫网球,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gef.m3u8
-CCTV兵器科技,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=bqkj.m3u8
-CCTV怀旧剧场,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=hjjc.m3u8
-CCTV女性时尚,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=nxss.m3u8
-CCTV发现之旅,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=fxzl.m3u8
-CCTV世界地理,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=sjdl.m3u8
-CCTV卫生健康,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=wsjk.m3u8
-CCTV央视文化精品,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=yswhjp.m3u8
-CCTV第一剧场,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=dyjc.m3u8
-CCTV老故事,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=lgs.m3u8
-CCTV中学生,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=zxs.m3u8
-CETV-1,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cetv1.m3u8
-CHC家庭影院,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=chcjt.m3u8
-CHC动作电影,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=chcdz.m3u8
-CHC影迷电影,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=chcym.m3u8
-经典重温,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=jdcw.m3u8
-纪实科教,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=bjkj.m3u8
-魅力足球,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=mlzq.m3u8
-法治天地,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=fztd.m3u8
-金色学堂,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=jsxt.m3u8
-天元围棋,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=tywq.m3u8
-东方财*,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=dfcj.m3u8
-都市剧场,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=dsjc.m3u8
-动漫秀场,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=dmxc.m3u8
-游戏风云,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=yxfy.m3u8
-劲爆体育,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=jbty.m3u8
-niao-1,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=fhzx.m3u8
-niao-2,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=fhzw.m3u8
-湖南卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=hnws.m3u8
-浙江卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=zjws.m3u8
-江苏卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=jsws.m3u8
-北京卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=bjws.m3u8
-东方卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=dfws.m3u8
-广东卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gdws.m3u8
-深圳卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=szws.m3u8
-甘肃卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gsws.m3u8
-广西卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gxws.m3u8
-海南卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=hainws.m3u8
-河北卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=hbws.m3u8
-河南卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=henws.m3u8
-安徽卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=ahws.m3u8
-湖北卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=hbws.m3u8
-吉林卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=jlws.m3u8
-江西卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=jxws.m3u8
-辽宁卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=lnws.m3u8
-宁夏卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=nxws.m3u8
-青海卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=qhws.m3u8
-山东卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=sdws.m3u8
-陕西卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=sxws.m3u8
-四川卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=scws.m3u8
-天津卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=tjws.m3u8
-西藏卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=xzws.m3u8
-新疆卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=xjws.m3u8
-云南卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=ynws.m3u8
-兵团卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=btws.m3u8
-重庆卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=cqws.m3u8
-黑龙江卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=hljws.m3u8
-内蒙古卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=nmgws.m3u8
-贵州卫视,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gzws.m3u8
-贵阳2,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gy2.m3u8
-贵阳3,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gy2.m3u8
-贵州公共,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gzgg.m3u8
-贵州3,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gz3.m3u8
-贵州4,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gz4.m3u8
-贵州5,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gz5.m3u8
-贵州6,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gz6.m3u8
-贵州7,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gz7.m3u8
-卡酷少儿,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=kkse.m3u8
-嘉佳卡通,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gdjjkt.m3u8
-金鹰卡通,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=jykt.m3u8
-汽摩频道,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=qmpd.m3u8
-国学频道,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=gxpd.m3u8
-书画频道,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=shpd.m3u8
-中国交通,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=zgjt.m3u8
-中国气象,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=zgtq.m3u8
-乐游,http://10000.win14.eu.org:18975/23/gzyx_0851.php?id=ly.m3u8
+央视频道,#genre#
+CCTV-1 综合,http://42.237.178.83:4000/rtp/225.1.4.73:1102
+CCTV-1 综合,http://60.189.35.225:9999/udp/233.50.200.99:5140
+CCTV-1 综合,http://114.243.99.53:4000/rtp/239.3.1.129:8008
+CCTV-1 综合,http://125.116.63.105:4022/udp/233.50.200.99:5140
+CCTV-1 综合,http://218.1.185.15:999/udp/239.45.3.145:5140
+CCTV-2 财经,http://42.237.178.83:4000/rtp/225.1.4.74:1103
+CCTV-2 财经,http://60.189.35.225:9999/udp/233.50.200.25:5140
+CCTV-2 财经,http://114.243.99.53:4000/rtp/239.3.1.60:8084
+CCTV-2 财经,http://125.116.63.105:4022/udp/233.50.200.25:5140
+CCTV-3 综艺,http://60.189.35.225:9999/udp/233.50.200.107:5140
+CCTV-3 综艺,http://42.237.178.83:4000/rtp/225.1.4.158:1194
+CCTV-3 综艺,http://114.243.99.53:4000/rtp/239.3.1.172:8001
+CCTV-3 综艺,http://218.1.185.15:999/udp/239.45.1.68:5140
+CCTV-3 综艺,http://123.113.237.36:8012/rtp/239.3.1.172:8001
+CCTV-4 中文国际,http://171.116.226.81:8085/rtp/226.0.2.156:9160
+CCTV-4 中文国际,http://60.189.35.225:9999/udp/233.50.200.101:5140
+CCTV-4 中文国际,http://42.237.178.83:4000/rtp/225.1.5.30:1333
+CCTV-4 中文国际,http://218.1.185.15:999/udp/239.45.0.2:5140
+CCTV-4 中文国际,http://123.113.237.36:8012/rtp/239.3.1.105:8092
+CCTV-5 体育,http://60.189.35.225:9999/udp/233.50.200.108:5140
+CCTV-5 体育,http://125.116.63.105:4022/udp/233.50.200.108:5140
+CCTV-5 体育,http://42.237.178.83:4000/rtp/225.1.4.159:1195
+CCTV-5 体育,http://218.1.185.15:999/udp/239.45.1.69:5140
+CCTV-5 体育,http://123.113.237.36:8012/rtp/239.3.1.173:8001
+CCTV-5+ 体育赛事,http://125.116.63.105:4022/udp/233.50.201.220:5140
+CCTV-5+ 体育赛事,http://60.189.35.225:9999/udp/233.50.201.220:5140
+CCTV-5+ 体育赛事,http://171.116.226.81:8085/rtp/226.0.2.168:9256
+CCTV-5+ 体育赛事,http://114.243.99.53:4000/rtp/239.3.1.130:8004
+CCTV-5+ 体育赛事,http://123.113.237.36:8012/rtp/239.3.1.130:8004
+CCTV-6 电影,http://114.243.99.53:4000/rtp/239.3.1.174:8001
+CCTV-6 电影,http://60.189.35.225:9999/udp/233.50.200.109:5140
+CCTV-6 电影,http://42.237.178.83:4000/rtp/225.1.4.160:1196
+CCTV-6 电影,http://125.116.63.105:4022/udp/233.50.200.109:5140
+CCTV-6 电影,http://218.1.185.15:999/udp/239.45.1.70:5140
+CCTV-7 国防军事,http://114.243.99.53:4000/rtp/239.3.1.61:8104
+CCTV-7 国防军事,http://42.237.178.83:4000/rtp/225.1.4.76:1105
+CCTV-7 国防军事,http://125.116.63.105:4022/udp/233.50.200.24:5140
+CCTV-7 国防军事,http://60.189.35.225:9999/udp/233.50.200.24:5140
+CCTV-7 国防军事,http://218.1.185.15:999/udp/239.45.3.56:5140
+CCTV-8 电视剧,http://125.116.63.105:4022/udp/233.50.200.110:5140
+CCTV-8 电视剧,http://114.243.99.53:4000/rtp/239.3.1.175:8001
+CCTV-8 电视剧,http://60.189.35.225:9999/udp/233.50.200.110:5140
+CCTV-8 电视剧,http://42.237.178.83:4000/rtp/225.1.4.161:1197
+CCTV-8 电视剧,http://123.113.237.36:8012/rtp/239.3.1.175:8001
+CCTV-9 纪录,http://114.243.99.53:4000/rtp/239.3.1.62:8112
+CCTV-9 纪录,http://42.237.178.83:4000/rtp/225.1.4.77:1106
+CCTV-9 纪录,http://60.189.35.225:9999/udp/233.50.200.23:5140
+CCTV-9 纪录,http://123.113.237.36:8012/rtp/239.3.1.62:8112
+CCTV-9 纪录,http://171.116.226.81:8085/rtp/226.0.2.161:9200
+CCTV-10 科教,http://42.237.178.83:4000/rtp/225.1.4.78:1107
+CCTV-10 科教,http://60.189.35.225:9999/udp/233.50.200.22:5140
+CCTV-10 科教,http://114.243.99.53:4000/rtp/239.3.1.63:8116
+CCTV-10 科教,http://218.1.185.15:999/udp/239.45.3.8:5140
+CCTV-10 科教,http://123.113.237.36:8012/rtp/239.3.1.63:8116
+CCTV-11 戏曲,http://42.237.178.83:4000/rtp/225.1.4.215:1268
+CCTV-11 戏曲,http://114.243.99.53:4000/rtp/239.3.1.152:8120
+CCTV-11 戏曲,http://114.241.57.249:4000/rtp/239.3.1.152:8120
+CCTV-11 戏曲,http://219.145.19.76:5552/rtp/239.112.205.213:5140
+CCTV-12 社会与法,http://60.189.35.225:9999/udp/233.50.200.21:5140
+CCTV-12 社会与法,http://125.116.63.105:4022/udp/233.50.200.21:5140
+CCTV-12 社会与法,http://42.237.178.83:4000/rtp/225.1.4.79:1108
+CCTV-12 社会与法,http://218.1.185.15:999/udp/239.45.3.10:5140
+CCTV-12 社会与法,http://123.113.237.36:8012/rtp/239.3.1.64:8124
+CCTV-13 新闻,http://114.243.99.53:4000/rtp/239.3.1.124:8128
+CCTV-13 新闻,http://125.116.63.105:4022/udp/233.50.200.111:5140
+CCTV-13 新闻,http://60.189.35.225:9999/udp/233.50.200.111:5140
+CCTV-13 新闻,http://42.237.178.83:4000/rtp/225.1.4.113:1293
+CCTV-13 新闻,http://123.113.237.36:8012/rtp/239.3.1.124:8128
+CCTV-14 少儿,http://171.116.226.81:8085/rtp/226.0.2.166:9240
+CCTV-14 少儿,http://125.116.63.105:4022/udp/233.50.200.103:5140
+CCTV-14 少儿,http://60.189.35.225:9999/udp/233.50.200.103:5140
+CCTV-14 少儿,http://114.243.99.53:4000/rtp/239.3.1.65:8132
+CCTV-14 少儿,http://42.237.178.83:4000/rtp/225.1.4.80:1109
+CCTV-15 音乐,http://42.237.178.83:4000/rtp/225.1.4.216:1269
+CCTV-15 音乐,http://114.243.99.53:4000/rtp/239.3.1.153:8136
+CCTV-15 音乐,http://114.241.57.249:4000/rtp/239.3.1.153:8136
+CCTV-15 音乐,http://219.145.19.76:5552/rtp/239.112.205.214:5140
+CCTV-15 音乐,http://123.113.237.36:8012/rtp/239.3.1.153:8136
+CCTV-16 奥林匹克,http://60.189.35.225:9999/udp/233.50.200.112:5140
+CCTV-16 奥林匹克,http://115.201.170.144:9999/udp/233.50.200.112:5140
+CCTV-16 奥林匹克,http://125.116.63.105:4022/udp/233.50.200.112:5140
+CCTV-16 奥林匹克,http://171.116.226.81:8085/rtp/226.0.2.169:9264
+CCTV-17 农业农村,http://42.237.178.83:4000/rtp/225.1.4.226:2506
+CCTV-17 农业农村,http://219.145.19.76:5552/rtp/239.112.205.211:5140
+CCTV-17 农业农村,http://60.189.35.225:9999/udp/233.50.200.113:5140
+CCTV-17 农业农村,http://218.1.185.15:999/udp/239.45.3.52:5140
+CCTV-17 农业农村,http://123.113.237.36:8012/rtp/239.3.1.151:8144
+CHC动作电影,http://42.237.178.83:4000/rtp/225.1.4.208:1261
+CHC动作电影,http://61.240.58.167:8082/rtp/226.0.2.94:8012
+CHC动作电影,http://171.116.226.81:8085/rtp/226.0.2.94:8012
+CHC动作电影,http://219.145.19.76:5552/rtp/239.112.205.207:5140
+CHC家庭影院,http://42.237.178.83:4000/rtp/225.1.4.209:1262
+CHC家庭影院,http://171.116.226.81:8085/rtp/226.0.2.240:9820
+CHC家庭影院,http://61.240.58.167:8082/rtp/226.0.2.240:9820
+CHC家庭影院,http://219.145.19.76:5552/rtp/239.112.205.205:5140
+CHC高清电影,http://42.237.178.83:4000/rtp/225.1.4.207:1260
+CHC高清电影,http://117.13.250.38:4022/udp/225.1.1.214:5002
+CHC高清电影,http://61.240.58.167:8082/rtp/226.0.2.93:8004
+CHC高清电影,http://171.116.226.81:8085/rtp/226.0.2.93:8004
+CHC高清电影,http://219.145.19.76:5552/rtp/239.112.205.206:5140
+兵器科技,http://171.116.226.81:8085/rtp/226.0.2.223:9696
+兵器科技,http://61.240.58.167:8082/rtp/226.0.2.223:9696
+兵器科技,http://219.145.19.76:5552/rtp/239.111.205.74:5140
+兵器科技,http://117.13.250.38:4022/udp/225.1.2.166:5002
+怀旧剧场,http://219.145.19.76:5552/rtp/239.111.205.67:5140
+怀旧剧场,http://171.116.226.81:8085/rtp/226.0.2.224:9704
+怀旧剧场,http://61.240.58.167:8082/rtp/226.0.2.224:9704
+世界地理,http://117.13.250.38:4022/udp/225.1.2.171:5002
+世界地理,http://219.145.19.76:5552/rtp/239.111.205.71:5140
+世界地理,http://61.240.58.167:8082/rtp/226.0.2.222:9688
+世界地理,http://171.116.226.81:8085/rtp/226.0.2.222:9688
+文化精品,http://61.240.58.167:8082/rtp/226.0.2.219:9664
+文化精品,http://171.116.226.81:8085/rtp/226.0.2.219:9664
+文化精品,http://219.145.19.76:5552/rtp/239.111.205.75:5140
+文化精品,http://117.13.250.38:4022/udp/225.1.2.177:5002
+央视台球,http://61.240.58.167:8082/rtp/226.0.2.216:9640
+央视台球,http://219.145.19.76:5552/rtp/239.111.205.70:5140
+央视台球,http://171.116.226.81:8085/rtp/226.0.2.216:9640
+央视台球,http://117.13.250.38:4022/udp/225.1.2.170:5002
+高尔夫网球,http://219.145.19.76:5552/rtp/239.111.205.73:5140
+高尔夫网球,http://117.13.250.38:4022/udp/225.1.2.169:5002
+风云剧场,http://219.145.19.76:5552/rtp/239.111.205.66:5140
+风云剧场,http://61.240.58.167:8082/rtp/226.0.2.227:9728
+风云剧场,http://171.116.226.81:8085/rtp/226.0.2.227:9728
+风云音乐,http://171.116.226.81:8085/rtp/226.0.2.220:9672
+风云音乐,http://219.145.19.76:5552/rtp/239.111.205.69:5140
+风云音乐,http://61.240.58.167:8082/rtp/226.0.2.220:9672
+第一剧场,http://171.116.226.81:8085/rtp/226.0.2.221:9680
+第一剧场,http://61.240.58.167:8082/rtp/226.0.2.221:9680
+第一剧场,http://219.145.19.76:5552/rtp/239.111.205.65:5140
+女性时尚,http://219.145.19.76:5552/rtp/239.111.205.72:5140
+女性时尚,http://171.116.226.81:8085/rtp/226.0.2.226:9720
+女性时尚,http://61.240.58.167:8082/rtp/226.0.2.226:9720
+女性时尚,http://117.13.250.38:4022/udp/225.1.2.172:5002
+风云足球,http://171.116.226.81:8085/rtp/226.0.2.225:9712
+风云足球,http://110.178.52.143:8082/udp/239.1.1.101:8101
+风云足球,http://61.240.58.167:8082/rtp/226.0.2.225:9712
+风云足球,http://219.145.19.76:5552/rtp/239.111.205.68:5140
+风云足球,http://117.13.250.38:4022/udp/225.1.2.168:5002
+电视指南,http://110.178.52.143:8082/udp/239.1.1.90:8090
+电视指南,http://61.240.58.167:8082/rtp/226.0.2.218:9656
+电视指南,http://171.116.226.81:8085/rtp/226.0.2.218:9656
+电视指南,http://117.13.250.38:4022/udp/225.1.2.167:5002
+卫视频道,#genre#
+北京卫视,http://42.237.178.83:4000/rtp/225.1.4.81:1110
+北京卫视,http://125.116.63.105:4022/udp/233.50.200.179:5140
+北京卫视,http://114.243.99.53:4000/rtp/239.3.1.241:8000
+北京卫视,http://60.189.35.225:9999/udp/233.50.200.179:5140
+北京卫视,http://218.1.185.15:999/udp/239.45.3.229:5140
+湖南卫视,http://60.189.35.225:9999/udp/233.50.200.190:5140
+湖南卫视,http://218.1.185.15:999/udp/239.45.3.228:5140
+湖南卫视,http://114.243.99.53:4000/rtp/239.3.1.132:8012
+湖南卫视,http://123.113.237.36:8012/rtp/239.3.1.132:8012
+湖南卫视,http://42.237.178.83:4000/rtp/225.1.4.82:1111
+东方卫视,http://42.237.178.83:4000/rtp/225.1.4.85:1114
+东方卫视,http://125.116.63.105:4022/udp/233.50.200.146:5140
+东方卫视,http://60.189.35.225:9999/udp/233.50.200.146:5140
+东方卫视,http://218.1.185.15:999/udp/239.45.3.146:5140
+东方卫视,http://123.113.237.36:8012/rtp/239.3.1.136:8032
+四川卫视,http://42.237.178.83:4000/rtp/225.1.4.151:1306
+四川卫视,http://60.189.35.225:9999/udp/233.50.200.118:5140
+四川卫视,http://171.116.226.81:8085/rtp/226.0.2.179:9344
+四川卫视,http://218.1.185.15:999/udp/239.45.1.83:5140
+四川卫视,http://125.116.63.105:4022/udp/233.50.200.118:5140
+天津卫视,http://60.189.35.225:9999/udp/233.50.200.104:5140
+天津卫视,http://114.243.99.53:4000/rtp/239.3.1.141:1234
+天津卫视,http://42.237.178.83:4000/rtp/225.1.4.86:1115
+天津卫视,http://218.1.185.15:999/udp/239.45.1.124:5140
+天津卫视,http://123.113.237.36:8012/rtp/239.3.1.141:1234
+安徽卫视,http://183.141.217.186:9999/udp/233.50.200.106:5140
+安徽卫视,http://125.116.63.105:4022/udp/233.50.200.106:5140
+安徽卫视,http://60.189.35.225:9999/udp/233.50.200.106:5140
+安徽卫视,http://218.1.185.15:999/udp/239.45.1.120:5140
+安徽卫视,http://42.237.178.83:4000/rtp/225.1.4.87:1116
+山东卫视,http://42.237.178.83:4000/rtp/225.1.4.88:1117
+山东卫视,http://60.189.35.225:9999/udp/233.50.201.105:5140
+山东卫视,http://125.116.63.105:4022/udp/233.50.201.105:5140
+山东卫视,http://218.1.185.15:999/udp/239.45.3.238:5140
+山东卫视,http://171.116.226.81:8085/rtp/226.0.2.149:9104
+广东卫视,http://42.237.178.83:4000/rtp/225.1.4.166:1207
+广东卫视,http://171.116.226.81:8085/rtp/226.0.2.146:9080
+广东卫视,http://60.189.35.225:9999/udp/233.50.200.149:5140
+广东卫视,http://218.1.185.15:999/udp/239.45.3.230:5140
+广东卫视,http://125.116.63.105:4022/udp/233.50.200.149:5140
+广西卫视,http://117.13.250.38:4022/udp/225.1.2.81:5002
+广西卫视,http://218.1.185.15:999/udp/239.45.0.5:5140
+江苏卫视,http://42.237.178.83:4000/rtp/225.1.4.83:1112
+江苏卫视,http://114.243.99.53:4000/rtp/239.3.1.135:8028
+江苏卫视,http://218.1.185.15:999/udp/239.45.3.177:5140
+江苏卫视,http://60.189.35.225:9999/udp/233.50.200.144:5140
+江苏卫视,http://125.116.63.105:4022/udp/233.50.200.144:5140
+江西卫视,http://171.116.226.81:8085/rtp/226.0.2.54:8344
+江西卫视,http://60.189.35.225:9999/udp/233.50.200.119:5140
+江西卫视,http://183.141.217.186:9999/udp/233.50.200.119:5140
+江西卫视,http://218.1.185.15:999/udp/239.45.1.122:5140
+江西卫视,http://42.237.178.83:4000/rtp/225.1.4.139:1305
+河北卫视,http://125.116.63.105:4022/udp/233.50.200.105:5140
+河北卫视,http://114.243.99.53:4000/rtp/239.3.1.148:8072
+河北卫视,http://42.237.178.83:4000/rtp/225.1.4.123:1304
+河北卫视,http://218.1.185.15:999/udp/239.45.1.44:5140
+河北卫视,http://60.189.35.225:9999/udp/233.50.200.105:5140
+河南卫视,http://42.237.178.83:4000/rtp/225.1.4.98:1127
+河南卫视,http://171.116.226.81:8085/rtp/226.0.2.52:8328
+河南卫视,http://60.189.35.225:9999/udp/233.50.201.144:5140
+河南卫视,http://125.116.63.105:4022/udp/233.50.201.144:5140
+河南卫视,http://218.1.185.15:999/udp/239.45.0.3:5140
+浙江卫视,http://42.237.178.83:4000/rtp/225.1.4.84:1113
+浙江卫视,http://114.243.99.53:4000/rtp/239.3.1.137:8036
+浙江卫视,http://60.189.35.225:9999/udp/233.50.201.100:5140
+浙江卫视,http://218.1.185.15:999/udp/239.45.3.178:5140
+浙江卫视,http://171.116.226.81:8085/rtp/226.0.2.144:9064
+海南卫视,http://117.13.250.38:4022/udp/225.1.2.82:5002
+海南卫视,http://218.1.185.15:999/udp/239.45.1.81:5140
+深圳卫视,http://42.237.178.83:4000/rtp/225.1.4.90:1119
+深圳卫视,http://113.251.228.27:58888/rtp/235.254.198.71:1560
+深圳卫视,http://171.116.226.81:8085/rtp/226.0.2.147:9088
+深圳卫视,http://60.189.35.225:9999/udp/233.50.200.188:5140
+深圳卫视,http://218.1.185.15:999/udp/239.45.3.231:5140
+湖北卫视,http://171.116.226.81:8085/rtp/226.0.2.150:9112
+湖北卫视,http://114.243.99.53:4000/rtp/239.3.1.138:8044
+湖北卫视,http://42.237.178.83:4000/rtp/225.1.4.89:1118
+湖北卫视,http://60.189.35.225:9999/udp/233.50.200.147:5140
+湖北卫视,http://218.1.185.15:999/udp/239.45.3.239:5140
+山西卫视,http://110.178.52.143:8082/udp/239.1.1.1:8001
+东南卫视,http://42.237.178.83:4000/rtp/225.1.4.228:1274
+东南卫视,http://114.243.99.53:4000/rtp/239.3.1.156:8148
+东南卫视,http://60.189.35.225:9999/udp/233.50.201.146:5140
+东南卫视,http://218.1.185.15:999/udp/239.45.1.121:5140
+东南卫视,http://183.141.217.186:9999/udp/233.50.201.146:5140
+贵州卫视,http://114.243.99.53:4000/rtp/239.3.1.149:8076
+贵州卫视,http://60.189.35.225:9999/udp/233.50.201.142:5140
+贵州卫视,http://218.1.185.15:999/udp/239.45.1.80:5140
+贵州卫视,http://42.237.178.83:4000/rtp/225.1.4.122:1302
+贵州卫视,http://171.116.226.81:8085/rtp/226.0.2.180:9352
+辽宁卫视,http://171.116.226.81:8085/rtp/226.0.2.173:9296
+辽宁卫视,http://42.237.178.83:4000/rtp/225.1.4.167:1208
+辽宁卫视,http://125.116.63.105:4022/udp/233.50.201.141:5140
+辽宁卫视,http://60.189.35.225:9999/udp/233.50.201.141:5140
+辽宁卫视,http://218.1.185.15:999/udp/239.45.1.123:5140
+重庆卫视,http://113.251.228.27:58888/rtp/235.254.196.249:1268
+重庆卫视,http://60.189.35.225:9999/udp/233.50.200.114:5140
+重庆卫视,http://42.237.178.83:4000/rtp/225.1.4.157:1308
+重庆卫视,http://171.116.226.81:8085/rtp/226.0.2.174:9304
+重庆卫视,http://218.1.185.15:999/udp/239.45.1.84:5140
+黑龙江卫视,http://125.116.63.105:4022/udp/233.50.200.189:5140
+黑龙江卫视,http://42.237.178.83:4000/rtp/225.1.4.91:1120
+黑龙江卫视,http://60.189.35.225:9999/udp/233.50.200.189:5140
+黑龙江卫视,http://218.1.185.15:999/udp/239.45.3.232:5140
+黑龙江卫视,http://123.113.237.36:8012/rtp/239.3.1.133:8016
+吉林卫视,http://117.13.250.38:4022/udp/225.1.2.26:5002
+吉林卫视,http://218.1.185.15:999/udp/239.45.0.6:5140
+吉林卫视,http://114.241.57.249:4000/rtp/239.3.1.240:8172
+吉林卫视,http://171.116.226.81:8085/rtp/226.0.2.58:8376
+吉林卫视,http://42.237.178.83:4000/rtp/225.1.4.174:1309
+云南卫视,http://125.116.63.105:4022/udp/233.50.200.115:5140
+云南卫视,http://60.189.35.225:9999/udp/233.50.200.115:5140
+云南卫视,http://42.237.178.83:4000/rtp/225.1.4.152:1307
+云南卫视,http://183.141.217.186:9999/udp/233.50.200.115:5140
+云南卫视,http://218.1.185.15:999/udp/239.45.0.4:5140
 
 
 湖北电信,#genre#
@@ -439,498 +353,15 @@ CCTV（HD）5+,http://www.furymax.top:85/rtp/239.69.1.12:9712
 CCTV（HD）16-4K,http://www.furymax.top:85/rtp/239.69.1.13:9718
 
 
-咪咕央卫视,#genre#
-CCTV1综合,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV1
-CCTV2财经,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV2
-CCTV3综艺,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV3
-CCTV4中文国际,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV4
-CCTV5体育*,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV5
-CCTV5+体育赛事*,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV5p
-CCTV6电影,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV6
-CCTV7国防军事,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV7
-CCTV8电视剧,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV8
-CCTV9纪录,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV9
-CCTV10科教,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV10
-CCTV11戏曲,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV11
-CCTV12社会与法,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV12
-CCTV13新闻,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV13
-CCTV14少儿,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV14
-CCTV15音乐,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV15
-CCTV17农业农村,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV17
-CCTV4欧洲,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV4欧洲
-CCTV4美洲,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CCTV4美洲
-CGTN,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CGTN
-CGTN Documentary,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CGTNDocumentary
-CGTN阿拉伯语,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CGTN阿拉伯语
-CGTN西班牙语,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CGTN西班牙语
-CGTN法语,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CGTN法语
-CGTN俄语,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CGTN俄语
-发现之旅,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=发现之旅
-中学生,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=中学生
-老故事,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=老故事
-江苏卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=江苏卫视
-江西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=江西卫视
-陕西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=陕西卫视
-海南卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=海南卫视
-大湾区卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=大湾区卫视
-湖北卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=湖北卫视
-青海卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=青海卫视
-吉林卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=吉林卫视
-海峡卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=海峡卫视
-上海新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=上海新闻综合
-上视纪实人文,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=上视纪实人文
-上海外语,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=上海外语
-七彩戏剧,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=七彩戏剧
-南京新闻综合频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=南京新闻综合频道
-南京教科频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=南京教科频道
-南京十八频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=南京十八频道
-江苏城市频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=江苏城市频道
-江苏国际,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=江苏国际
-江苏教育,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=江苏教育
-江苏影视频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=江苏影视频道
-江苏综艺频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=江苏综艺频道
-连云港新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=连云港新闻综合
-公共新闻频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=公共新闻频道
-淮安新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=淮安新闻综合
-泰州新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=泰州新闻综合
-体育休闲频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=体育休闲频道
-宿迁新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=宿迁新闻综合
-徐州新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=徐州新闻综合
-优漫卡通频道,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=优漫卡通频道
-嘉佳卡通,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=嘉佳卡 
-经典动画大集合,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=经典动画大集合
-临洮电视台,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=临洮电视台
-NBA经典,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=NBA经典
-五大联赛经典,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=五大联赛经典
-CBA经典,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=CBA经典
-UFC格斗精选,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=UFC格斗精选
-劲爆体育,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=劲爆体育
-魅力足球,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=魅力足球
-掼蛋精英赛,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=掼蛋精英赛
-全民乒乓,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=全民乒乓
-四海钓鱼,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=四海钓鱼
-游戏风云,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=游戏风云
-红色轮播台,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=红色轮播台
-欢笑剧场,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=欢笑剧场
-军事迷必看大片,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=军事迷必看大片
-周杰伦现场,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=周杰伦现场
-龙胜龙脊梯田,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=龙胜龙脊梯田
-邕城,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=邕城
-遇龙河,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=遇龙河
-钱塘江,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=钱塘江
-开封鼓楼,http://dp.sxtv.top:88/小橙子电视欢迎您/migu.php?id=开封鼓楼
-
-
-陕西广电,#genre#
-CCTV1HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5490
-CCTV2HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5612
-CCTV3HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5611
-CCTV4HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5610
-CCTV5HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5489
-CCTV5+HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5494
-CCTV6HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5609
-CCTV7HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6002
-CCTV8HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5492
-CCTV9HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5607
-CCTV10HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5606
-CCTV11HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5853
-CCTV12HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5605
-CCTV13HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6062
-CCTV14HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5604
-CCTV15HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5854
-CCTV16HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6095
-CCTV17HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5608
-央视台球HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6083
-发现之旅,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6018
-老故事,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6017
-中学生,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6027
-CGTN,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5519
-CGTN,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5707
-CGTN,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5708
-CETV1,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5516
-CETV1,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5709
-CETV1,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5710
-CHC家庭影院,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5927
-CHC家庭影院,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6315
-北京卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5502
-北京卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5602
-东方卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5503
-天津卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5588
-重庆卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5601
-黑龙江卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5594
-吉林卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5598
-辽宁卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5593
-内蒙古卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5511
-内蒙古卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5725
-内蒙古卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5726
-宁夏卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5522
-宁夏卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5727
-宁夏卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5728
-甘肃卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5561
-青海卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5528
-青海卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5729
-青海卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5730
-陕西卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5498
-农林卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6335
-河北卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6328
-山西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5507
-山西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5735
-山西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5736
-山东卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6326
-安徽卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5590
-河南卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6064
-湖北卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6322
-湖南卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5506
-江西卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5599
-江苏卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5504
-浙江卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5505
-东南卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5549
-广东卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5589
-深圳卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5592
-广西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5557
-广西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5719
-广西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5720
-云南卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6063
-贵州卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5586
-四川卫视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5600
-新疆卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5560
-兵团卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5518
-兵团卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5731
-兵团卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5732
-西藏卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5559
-海南卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5562
-北京纪实科教HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6011
-百姓健康,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6021
-环球奇观,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6029
-四海钓鱼,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6025
-优优宝贝,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6023
-中华特产,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6022
-陕西新闻资讯HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5500
-陕西都市青春HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5830
-陕西公共HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6334
-陕西生活HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6331
-陕西体育休闲HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6093
-陕西影视HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6329
-陕西西部电影HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6332
-影视剧,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6306
-西安新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5668
-西安教育电视台,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6015
-长安一套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5841
-长安一套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5896
-高陵综合HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6338
-鄠邑综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5839
-鄠邑综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5919
-鄠邑二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5851
-鄠邑二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5969
-临潼综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5966
-临潼影视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5967
-蓝田综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5864
-阎良综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5866
-周至综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5837
-周至综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5867
-周至二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5838
-周至二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5968
-安康综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5855
-安康综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6053
-白河综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5847
-白河综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5921
-汉阴综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5849
-汉阴综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5922
-岚皋综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5850
-岚皋综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5861
-宁陕综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5848
-宁陕综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5923
-平利电视台,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5846
-平利电视台,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5924
-石泉综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5879
-石泉综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6005
-旬阳新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5844
-旬阳新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5878
-旬阳民生文化,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5925
-镇坪综合HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6312
-镇坪综合HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6343
-紫阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5845
-紫阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5928
-宝鸡综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5826
-宝鸡综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5827
-宝鸡综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5658
-宝鸡综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6038
-宝鸡2,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6344
-陈仓综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5869
-凤翔综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5929
-凤翔文化影视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5930
-扶风综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5935
-凤县综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5868
-陇县综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5938
-陇县道德文化,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5939
-麟游综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5931
-眉县新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5933
-眉县经济生活,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5934
-岐山综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5911
-岐山二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5933
-千阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5937
-太白综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5918
-汉中新闻综合HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6065
-城固综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5944
-佛坪综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5947
-留坝电视台,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5943
-略阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5870
-勉县综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5880
-勉县经济,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5946
-宁强综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5881
-宁强二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5945
-南郑综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5882
-西乡综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5862
-西乡综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5863
-洋县综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5871
-镇巴综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5883
-商洛综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5666
-商洛综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5825
-丹凤综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5952
-洛南综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5949
-商南综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5953
-山阳新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5950
-山阳影视娱乐,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5951
-商州综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5875
-镇安综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5876
-镇安综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5954
-柞水综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5877
-铜川新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5661
-铜川新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5820
-铜川新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5821
-耀州综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5884
-渭南新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5660
-渭南新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5818
-渭南新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5819
-白水综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5914
-白水二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5964
-澄城综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5961
-澄城综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6061
-澄城公共,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5962
-大荔新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5912
-大荔影视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5960
-美丽大荔,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5959
-富平综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5905
-富平二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5906
-韩城综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5874
-韩城综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5877
-韩城生活,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5965
-合阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5858
-合阳二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5859
-合阳三套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5860
-华阴综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5856
-华阴二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5857
-华州综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5955
-华州二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5956
-蒲城综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5913
-蒲城二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5963
-潼关新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5915
-潼关公共,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5958
-潼关人文旅游,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5957
-咸阳新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5659
-咸阳新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5815
-咸阳新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5816
-杨凌综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5697
-杨凌综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5897
-杨凌综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5900
-杨凌综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5940
-杨凌现代农业,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5698
-杨凌现代农业,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5901
-杨凌现代农业,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5941
-彬州新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5982
-淳化综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5986
-长武综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5984
-泾阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5899
-泾阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5917
-泾阳二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5988
-礼泉新闻,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5978
-礼泉影视,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5979
-乾县综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5977
-三原综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5973
-武功新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5898
-兴平综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5975
-兴平二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5976
-旬邑综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5985
-永寿综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5980
-延安综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5662
-延安综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5700
-延安综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5828
-延安综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5829
-延安综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6044
-延安公共,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5699
-安塞综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5902
-宝塔电视台,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5885
-富县综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5695
-甘泉综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5904
-黄陵综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5886
-黄龙综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5916
-洛川综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5908
-吴起综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5910
-延长综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5907
-延川综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5889
-宜川新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5909
-子长综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5887
-榆林新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5822
-榆林新闻综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5823
-榆林二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6337
-定边综合HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6013
-定边二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5993
-府谷综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5891
-府谷二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5992
-横山综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5894
-横山综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6000
-横山二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6001
-靖边综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5892
-靖边二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5994
-佳县综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5890
-米脂综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5895
-清涧综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5996
-绥德综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5995
-神木综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5694
-神木综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5893
-神木二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5991
-吴堡综合HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6010
-榆阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5852
-榆阳二套,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5990
-子洲综合,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5997
-子洲综合HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6340
-子洲综合HD,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6341
-重温经典,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=5563
-cctv1,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6308
-凤凰中文,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6317
-凤凰资讯,http://dp.sxtv.top:88/小橙子电视欢迎您/sxgd.php?id=6320
-
-
-重庆有线,#genre#
-CCTV1综合,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv1
-CCTV2财经,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv2
-CCTV3综艺,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv3
-CCTV4中文国际,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv4
-CCTV5体育,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv5
-CCTV5+体育赛事,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv5p
-CCTV6电影,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv6
-CCTV7国防军事,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv7
-CCTV8电视剧,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv8
-CCTV9纪录,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv9
-CCTV10科教,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv10
-CCTV11戏曲,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv11
-CCTV12社会与法,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv12
-CCTV13新闻,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv13
-CCTV14少儿,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv14
-CCTV15音乐,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv15
-CCTV16奥林匹克,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv16
-CCTV17农业农村,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv17
-CCTV4K 高清,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cctv4k
-CCTV兵器科技,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=bqkj
-CCTV第一剧场,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=dyjc
-CCTV怀旧剧场,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hjjc
-CCTV风云剧场,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=fyjc
-CCTV风云音乐,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=fyyy
-CCTV风云足球,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=fyzq
-CCTV央视文化精品,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=whjp
-CCTV女性时尚,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=nxss
-CCTV高尔夫网球,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=gefwq
-CCTV央视台球,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=ystq
-CCTV央广购物,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=yggw
-CCTV中视购物,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=zsgw
-中学生,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=zxs
-发现之旅,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=fxzl
-老故事,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=lgs
-书画,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=sh
-中国天气,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=zgtq
-CGTN,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cgtn
-CETV1中教1台,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cetv1
-CETV4中教4台,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cetv4
-CETV早期教育,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=zqjy
-CHC高清电影,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=chcgq
-CHC动作电影,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=chcdz
-CHC家庭影院,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=chcjt
-北京卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=bjws
-东方卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=dfws
-天津卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=tjws
-重庆卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqws
-黑龙江卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hljws
-吉林卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=jlws
-辽宁卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=lnws
-内蒙古卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=nmws
-宁夏卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=nxws
-青海卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=qhws
-河北卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hbws
-山西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=sxiws
-安徽卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=ahws
-河南卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hnws
-湖北卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hubws
-湖南卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hunws
-江西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=jxws
-江苏卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=jsws
-浙江卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=zjws
-东南卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=dnws
-广东卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=gdws
-深圳卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=szws
-广西卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=gxws
-云南卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=ynws
-贵州卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=gzws
-四川卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=scws
-新疆卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=xjws
-兵团卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=btws
-西藏卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=xzws
-海南卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hinws
-三沙卫视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=ssws
-北京纪实科教,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=bjjskj
-北京卡酷,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=bjkk
-中华特产,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=zhtc
-生态环境,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=sthj
-四海钓鱼,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=shdy
-车迷频道,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cmpd
-百姓健康,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=bxjk
-环球奇观,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hqqg
-环球旅游,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hqly
-优优宝贝,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=yybb
-聚鲨环球精选,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=jshwjx
-东方财经,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=dfcj
-欢笑剧场,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hxjc
-都市剧场,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=dsjc
-魅力足球,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=mlxq
-动漫秀场,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=dmxc
-游戏风云,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=yxfy
-生活时尚,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=shss
-法治天地,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=fztd
-金色学堂,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=jsxt
-重庆新闻,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqxw
-重庆科教,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqkj
-重庆影视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqys
-重庆文体娱乐,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqwtyl
-重庆少儿,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqse
-重庆时尚生活,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqsssh
-重庆新农村,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqxnc
-重庆社会与法,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqshyf
-重庆移动,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqyd
-重庆汽摩,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cqqm
-重广融媒,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cgrm
-爱看导视,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=akds
-合川综合,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=hczh
-长寿综合,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cszh
-酉阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=yyzh
-云阳综合,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=yunyzh
-铜梁综合,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=tlzh
-家有购物,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=jygw
-新动漫,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=xdm
-证券服务,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=zqfw
-山东教育,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=sdjy
-收藏天下,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=sctx
-国学频道,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=gxpd
-快乐垂钓,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=klcd
-金鹰卡通,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=jykt
-先锋乒羽,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=xfpy
-风尚购物,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=fsgw
-财富天下,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cftx
-天元围棋,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=tywq
-摄影频道,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=sypd
-求索纪录,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=qsjl
-重温经典,http://dp.sxtv.top:88/小橙子电视欢迎您/cqyx.php?id=cwjd
-
-
-中国港澳,#genre#
+港澳频道,#genre#
+凤凰中文,http://115.201.170.144:9999/udp/233.50.200.42:5140
+凤凰中文,http://60.189.35.225:9999/udp/233.50.200.42:5140
+凤凰中文,http://125.116.63.105:4022/udp/233.50.200.42:5140
+凤凰中文,http://183.141.217.186:9999/udp/233.50.200.42:5140
+凤凰资讯,http://115.201.170.144:9999/udp/233.50.200.192:5140
+凤凰资讯,http://60.189.35.225:9999/udp/233.50.200.192:5140
+凤凰资讯,http://125.116.63.105:4022/udp/233.50.200.192:5140
+凤凰资讯,http://183.141.217.186:9999/udp/233.50.200.192:5140
 凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
 凤凰卫视资讯台,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -986,26 +417,31 @@ TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 
 
- 奥运频道,#genre#
- TVB奥运新闻台,https://mytv.btjson.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运801台,https://mytv.btjson.us.kg/stream/tvb/801/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运802台,https://mytv.btjson.us.kg/stream/tvb/802/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运803台,https://mytv.btjson.us.kg/stream/tvb/803/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运804台,https://mytv.btjson.us.kg/stream/tvb/804/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运805台,https://mytv.btjson.us.kg/stream/tvb/805/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运806台,https://mytv.btjson.us.kg/stream/tvb/806/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运807台,https://mytv.btjson.us.kg/stream/tvb/807/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运808台,https://mytv.btjson.us.kg/stream/tvb/808/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运809台,https://mytv.btjson.us.kg/stream/tvb/809/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运810台,https://mytv.btjson.us.kg/stream/tvb/810/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运811台,https://mytv.btjson.us.kg/stream/tvb/811/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运812台,https://mytv.btjson.us.kg/stream/tvb/812/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运813台,https://mytv.btjson.us.kg/stream/tvb/813/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运814台,https://mytv.btjson.us.kg/stream/tvb/814/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运815台,https://mytv.btjson.us.kg/stream/tvb/815/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运816台,https://mytv.btjson.us.kg/stream/tvb/816/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运互动窗1,https://mytv.btjson.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
- TVB奥运互动窗2,https://mytv.btjson.us.kg/stream/tvb/2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+数字频道,#genre#
+金鹰卡通,http://61.240.58.167:8082/rtp/226.0.2.172:9288
+金鹰卡通,http://171.116.226.81:8085/rtp/226.0.2.172:9288
+游戏风云,http://60.189.35.225:9999/udp/233.50.200.14:5140
+游戏风云,http://218.1.185.15:999/udp/239.45.3.131:5140
+游戏风云,http://125.116.63.105:4022/udp/233.50.200.14:5140
+游戏风云,http://171.116.226.81:8085/rtp/226.0.2.78:8536
+游戏风云,http://183.141.217.186:9999/udp/233.50.200.14:5140
+全纪实,http://218.1.185.15:999/udp/239.45.3.135:5140
+纪实人文,http://110.178.52.143:8082/udp/239.1.1.45:8045
+纪实人文,http://117.13.250.38:4022/udp/225.1.2.25:5002
+纪实人文,http://114.243.99.53:4000/rtp/239.3.1.212:8060
+纪实人文,http://218.1.185.15:999/udp/239.45.3.212:5140
+纪实人文,http://123.113.237.36:8012/rtp/239.3.1.212:8060
+都市剧场,http://125.116.63.105:4022/udp/233.50.200.11:5140
+都市剧场,http://115.201.170.144:9999/udp/233.50.200.11:5140
+都市剧场,http://60.189.35.225:9999/udp/233.50.200.11:5140
+都市剧场,http://183.141.217.186:9999/udp/233.50.200.11:5140
+都市剧场,http://218.1.185.15:999/udp/239.45.3.136:5140
+欢笑剧场,http://60.189.35.225:9999/udp/233.50.200.229:5140
+欢笑剧场,http://125.116.63.105:4022/udp/233.50.200.229:5140
+欢笑剧场,http://115.201.170.144:9999/udp/233.50.200.229:5140
+欢笑剧场,http://218.1.185.15:999/udp/239.45.3.196:5140
+欢笑剧场,http://183.141.217.186:9999/udp/233.50.200.229:5140
+五星体育,http://218.1.185.15:999/udp/239.45.3.210:5140
 
 
 湾湾频道,#genre#
