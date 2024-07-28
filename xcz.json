@@ -1544,11 +1544,13 @@
 {
   "key":"美柏",
   "name":"🏝美柏蓝光",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "changeable": 1,
-  "ext":"./lib/meibai.json"
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/美柏.json"
 },
 {
   "key":"csp_xBPQ白嫖电影网",
