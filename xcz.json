@@ -2960,6 +2960,17 @@
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
+  "key":"csp_盒子",
+  "name":"🍊盒子秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/hezi.json"
+},
+{
   "key": "csp_七新",
   "name": "👼七新2K",
   "type": 3,
