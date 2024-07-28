@@ -1252,15 +1252,15 @@
   "changeable": 1
 },
 {
-  "key": "新视觉影院",
+   "key":"csp_视觉",
   "name": "🔥视觉影院",
-  "type": 3,
-  "api": "csp_XBPQ",
+  "type":3,
+  "api":"csp_XBPQ",
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/xinshijue.json"
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/xinshijue.json"
 },
 {
   "key": "csp_蛋蛋",
