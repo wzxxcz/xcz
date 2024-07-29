@@ -2201,7 +2201,7 @@
 },
 {
   "key": "轩蓓｜超解线",
-  "name": "小橙子超解线",
+  "name": "🍊小橙子超解线",
   "type": 3,
   "searchable": 1,
   "quickSearch": 1,
@@ -2212,7 +2212,7 @@
 },
 {
   "key": "轩蓓｜vip线",
-  "name": "小橙子vip线",
+  "name": "🍊小橙子vip线",
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/jar/hjys.jar",
