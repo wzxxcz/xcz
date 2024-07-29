@@ -912,14 +912,16 @@
       }
 },
 {
-  "key": "胖虎影视",
-  "name": "🐯小橙子胖虎",
+  "key": "phys",
+  "name": "🐯胖虎影视",
   "type": 3,
-  "api": "csp_XBPQ",
+  "api": "csp_Panghu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/panghuys.json"
+  "playerType": 1,
+  "ext": "https://physvod.com",
+  "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
 },
 {
   "key": "360zy",
