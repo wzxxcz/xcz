@@ -4303,13 +4303,6 @@
   "ext":"https://szyyds.cn/tv/jsxp/zaixiandianying8.json"
 },
 {
-  "key":"drpy_js_奇珍异兽",
-  "name":"🍊奇珍影视",
-  "type":3,
-  "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
-},
-{
   "key": "即可",
   "name": "👋即刻BPQ",
   "type": 3,
