@@ -30,6 +30,8 @@
   "api":"https://gitee.com/wzbdyr/xcz/raw/master/js/drpy2.min.js",
   "ext":"https://gitee.com/wzbdyr/xcz/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
 },
+{"key": "py_cctv_full","name": " 🐦央视大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./py_cctv_full.py"},
+
 {
   "key": "玩偶",
   "name": "⚗️小橙子玩偶",
