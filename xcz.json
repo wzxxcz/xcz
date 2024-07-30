@@ -3788,16 +3788,6 @@
       }
 },
 {
-  "key":"csp_嘟嘟",
-  "name":"🐽嘟嘟电影",
-  "type":3,
-  "api":"csp_AppYsV2",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://m.dududy.app/lvdou_api.php/v1.vod"
-},
-{
   "key":"sp_saiwei",
   "name":"🚴🏿‍♂️赛维影视",
   "type":1,
