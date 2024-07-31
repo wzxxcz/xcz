@@ -47,23 +47,6 @@
       }
 },
 {
-  "key": "玩偶",
-  "name": "⚗️玩偶4K",
-  "type": 3,
-  "api": "csp_Wogg",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722354122940/okjpg.txt;md5;da8c509c5278a9e5bfb340e84b9defd7",
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "wogg": true
-      },
-      "timeout": 30
-},	  
-{
   "key": "影搜",
   "name": "🍹可欣玩偶",
   "type": 3,
