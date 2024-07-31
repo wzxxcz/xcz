@@ -2580,6 +2580,16 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://cms.4u4.cn/api.php/app/"
+},	
+{
+  "key": "追风",
+  "name": "🍊追风采集",
+  "type": 1,
+  "api": "http://www.zfsp.cc/api.php/provide/vod",
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "timeout": 10
 },	  
 {
   "key": "小柚",
