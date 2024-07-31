@@ -816,14 +816,14 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=六趣"
 },
 {
-  "key": "酷吧电影",
+  "key":"酷吧电影",
   "name":"💘酷吧磁力",
-  "type": 3,
-  "api": "csp_KubaCL",
-  "jar": "http://47.99.102.252/jar/0725.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+  "type":3,
+  "api":"csp_KubaCL",
+  "jar": "https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
 },
 {
   "key": "新6V",
