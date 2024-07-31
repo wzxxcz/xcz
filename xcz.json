@@ -5,7 +5,7 @@
   "lives": [{
 		    "name": "live",
             "type":0,
- 	        "url": "https://raw.gitcode.com/wzbdyr1980/xcz/raw/master/lib/xcz.txt",
+ 	        "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dyr1980/xcz/main/live.txt",
             "ua": "okhttp/3.15",
             "playerType": 1,
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
