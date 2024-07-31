@@ -493,16 +493,15 @@
   "key": "夸搜",
   "name": "🐌夸搜搜索",
   "type": 3,
-  "api": "csp_PanSearch",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+  "api": "csp_Qkso",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722354122940/okjpg.txt;md5;da8c509c5278a9e5bfb340e84b9defd7",
   "searchable": 1,
-  "quickSearch": 1,
+  "filterable": 1,
   "changeable": 0,
   "ext": {
-        "pan": "quark",
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
 },
 {
   "key": "玩偶哥哥",
