@@ -2570,15 +2570,6 @@
   "timeout": 10
 },
 {
-  "key": "全网看影院",
-  "name": "🍊全网看影院",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ext": {"简介":"小橙子为您剧情介绍:+stui-content__desc col-pd clearfix\">&&</div>",
-  "分类url":"https://wrea.91qkw.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "分类":"短剧$28#电视剧$2#电影$1#动漫$4#综艺$3"}
-},
-{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
