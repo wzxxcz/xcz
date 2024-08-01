@@ -737,6 +737,17 @@
   "ext": "j3UE7cVyk0jKGyMPkJ35EnqUgtOg+PN9OJevxJzkfD20vgt+RqQVvc3kcbSRgThbJjVk2hC6FWnD0fWIqWd4D4S/NPFftLiwX7Yf2pvV3P2hRAjNWiPO+iJQ33XkJeUHW9gMIzn0FkxZOs+o8juC1SnSkfjblSU1wtxBOetwgC8habcRdvOZEjBSLuZj8SlIjQ9QzwZivBSQGQ44j1bkAxNO4k1MhYbM5Z6QWxv/341MNNt7lsI9pldpg5/KtM/USj9Ftmmree+9m/3E/UgIwWzCl3Ax9B8NQQ7uGFr2wq68ahEIcCZyL3l+U37oARUk"
 },
 {
+  "key": "Gitcafe",
+  "name": "🏅咖咖4K",
+  "type": 3,
+  "api": "csp_Paper",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/lib/HeChengChaXiu.jar",
+  "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+},
+{
   "key":"Alist",
   "name":"🍊小雅网盘",
   "type":3,
