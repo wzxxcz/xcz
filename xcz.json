@@ -685,6 +685,21 @@
   "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://duopan.fun","danmu":true}
 }, 
 {
+  "key":"玩弹幕2",
+  "name":"❤玩备弹幕",
+  "type":3,
+  "api":"csp_Wogg",
+  "quickSearch":1,
+  "changeable":1,
+  "filterable":1,
+  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+	   "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+	   "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+	   "site":"https://wogg.xxooo.cf","danmu":true
+        },
+  "jar":"https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;894cf6d2fa3a41069f2cf7be7669460d"
+},
+{
   "key":"夸克盘搜弹幕",
   "name":"❤夸克搜弹幕",
   "type":3,
