@@ -5,7 +5,7 @@
   "lives": [{
 		    "name": "live",
             "type":0,
- 	        "url": "http://47.99.102.252/live.txt",
+ 	        "url": "https://raw.gitcode.com/wzbdyr1980/xcz/raw/master/lib/xcz.txt",
             "ua": "okhttp/3.15",
             "playerType": 1,
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
