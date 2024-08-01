@@ -712,6 +712,20 @@
       }
 },
 {
+  "key": "盘他",
+  "name": "🍄盘他U夸",
+  "type": 3,
+  "api": "csp_PanTa",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722468799367/fan.txt;md5;a4fe2a2e54c40cb2491e3fbe31afa3e5",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+},
+{
   "key": "mt",
   "name": "🏅摩托4K",
   "type": 3,
