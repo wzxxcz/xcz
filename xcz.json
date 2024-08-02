@@ -2654,6 +2654,19 @@
       }
 },
 {
+      "key": "哩咕TV",
+      "name": "#⃣️哩咕高清云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ligutv.com/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$3#综艺$4#短剧$5"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
