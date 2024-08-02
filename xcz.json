@@ -2667,6 +2667,26 @@
       }
 },
 {
+      "key": "胖虎",
+      "name": "☀️备选高清流畅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+        "过滤词": "/cdn.physvod.com/#116.m3u8",
+        "影片地区": "备用有广！",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:奇艺#优酷#腾讯#PC#B仿#芒果]",
+        "线路标题": "<span>&&</span>",
+        "分类url": "https://www.phyt.net/vodshow/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$7#解说$8#其他$9"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
