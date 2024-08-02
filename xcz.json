@@ -1058,11 +1058,11 @@
   "changeable": 1
 },	  
 {
-  "key": "csp_Jpys",
+  "key": "金牌影视",
   "name": "🏅金牌小橙子",
   "type": 3,
   "api": "csp_Jpys",
-  "jar": "https://gitee.com/pirate888/box/raw/master/lib/Yoursmile.jar",
+  "jar": "https://gitlab.com/dokiss1/tvbox/-/blob/master/jar/fanou.txt",
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
