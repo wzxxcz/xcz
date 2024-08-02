@@ -1565,6 +1565,16 @@
   "filterable":1
 },
 {
+  "key": "白羊影院",
+  "name": "🐑白羊超清极速",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/白羊影院.json"
+},
+{
   "key": "csp_全网",
   "name": "🥣全网独家",
   "type": 3,
