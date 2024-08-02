@@ -2623,6 +2623,19 @@
   "timeout": 10
 },
 {
+      "key": "影视大全",
+      "name": "🌞首选蓝光无广",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$5#综艺$4#短剧$3"
+      }
+},
+{
       "key": "88ys",
       "name": "🌟次选超清多线",
       "type": 3,
