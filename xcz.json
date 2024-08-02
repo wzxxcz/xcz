@@ -2703,7 +2703,16 @@
   "searchable": 1,
   "changeable": 1,
   "ext": "./lib/好影快看.json"
-},	  
+},
+{
+  "key": "酷吧影视",
+  "name": "🧿酷吧蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "./lib/酷吧影视.json"
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
