@@ -1902,15 +1902,14 @@
   "ext": "https://www.tvkuys.xyz/api.php/app/"
 },
 {
-  "key": "4K影院",
-  "name": "☘️影院蓝光",
+  "key": "天堂蓝光",
+  "name": "🧿天堂蓝光",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/4kvm.json"
+  "ext": "./lib/影院蓝光.json"
 },
 {
   "key": "剧集",
