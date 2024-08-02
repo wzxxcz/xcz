@@ -2696,6 +2696,15 @@
       }
 },
 {
+  "key": "好影快看",
+  "name": "🧿好影蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "./lib/好影快看.json"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
