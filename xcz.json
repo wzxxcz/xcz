@@ -90,19 +90,18 @@
   "ext": "./lib/云盘资源.json"
 },
 {
-  "key": "易搜",
-  "name": "😹易搜搜索",
-  "type": 3,
-  "api": "csp_YiSo",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721457643957/okjpg.txt;md5;8266a873cc4d87dc25847c29248281af",	
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
-      },
-      "timeout": 15
+      "key": "YiSo",
+      "name": "😹易搜阿狸",
+      "type": 3,
+      "api": "csp_YiSo",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722550044078/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
 },
 {
   "key": "蜡笔弹幕",
