@@ -2623,6 +2623,24 @@
   "timeout": 10
 },
 {
+      "key": "88ys",
+      "name": "🌟次选超清多线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "图片": "data-original=\"&&\"[不包含:/img.php?url=]",
+        "搜索url": "https://www.88tvs.cn/vodsearch/-------------.html?wd={wd}",
+        "搜索模式": "1",
+        "搜索数组": "<div class=\"thumb\"&&</li>",
+        "简介": "小橙子提醒您，请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content\"&&</div>",
+        "分类url": "https://www.88tvs.cn/vodshow/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
