@@ -2740,6 +2740,16 @@
   "ext": "./lib/海纳TV.json"
 },
 {
+  "key": "千神影视",
+  "name": "🧿千神蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/千神影视.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
