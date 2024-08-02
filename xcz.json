@@ -2730,6 +2730,16 @@
   "ext": "./lib/酷吧影视.json"
 },
 {
+  "key": "海纳TV",
+  "name": "🧿海纳蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/海纳TV.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
