@@ -2750,6 +2750,20 @@
   "ext": "./lib/千神影视.json"
 },
 {
+      "key": "可乐影视",
+      "name": "🧿可乐蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "小橙子提醒您,请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
+        "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$20#电视剧$21#动漫$22#综艺$23#体育$24#短剧$25"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
