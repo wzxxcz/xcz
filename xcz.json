@@ -2791,6 +2791,19 @@
       }
 },
 {
+      "key": "宝片影视",
+      "name": "🧿宝片蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
