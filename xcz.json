@@ -1049,6 +1049,16 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720286340532/fan.txt;md5;078b93811264de157d3e38f18f11de8c"
 },
 {
+  "key": "煤球",
+  "name": "🍓煤球多线",
+  "type": 3,
+  "api": "csp_Appmq",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722550044078/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},	  
+{
   "key": "csp_Jpys",
   "name": "🏅金牌小橙子",
   "type": 3,
