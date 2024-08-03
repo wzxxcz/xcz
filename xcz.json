@@ -2831,6 +2831,19 @@
       }
 },
 {
+      "key": "蜗牛影视",
+      "name": "🧿蜗牛蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://wniutv.com/wnys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
