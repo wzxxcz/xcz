@@ -4606,16 +4606,6 @@
   "api": "https://www.394tv.com/api.php/provide/vod/at/xml"
 },
 {
-  "key": "hundong",
-  "name": "🐺猎狼影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://ysjtv.yy365.vip/api.php/app/"
-},
-{
   "key": "cj__U酷资源",
   "name": "🍊U酷影视",
   "type": 0,
