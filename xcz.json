@@ -2874,16 +2874,6 @@
   "ext": "http://ys.ccbk.cc:86/mogai_api.php/v1.vod"
 },
 {
-  "key": "大米星球",
-  "name": "⚡大米APP",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://dmxq.info/api.php/app/"
-},
-{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
