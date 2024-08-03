@@ -2844,6 +2844,15 @@
       }
 },
 {
+  "key": "侠客影视",
+  "name": "🧿侠客蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "changeable": 1,
+  "ext": "./lib/侠客影视.json"
+},
+{
   "key": "追剧兔",
   "name": "⚡剧兔APP",
   "type": 3,
