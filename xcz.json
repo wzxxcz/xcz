@@ -2804,6 +2804,19 @@
       }
 },
 {
+      "key": "没事影院",
+      "name": "🧿没事蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
