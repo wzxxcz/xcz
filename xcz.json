@@ -3011,6 +3011,16 @@
   "ext": "http://mf.songshu.cyou/api.php/app/"
 },
 {
+  "key": "555影院",
+  "name": "⚡555APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://5setp.vip/api.php/app/"
+},
+{
       "key": "优质资源",
       "name": "🌀优质采集",
       "type": 0,
