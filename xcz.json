@@ -3043,6 +3043,14 @@
       ]
 },
 {
+  "key": "追风影视",
+  "name": "💡追风快播",
+  "type": 1,
+  "api": "http://www.zfsp.cc/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
