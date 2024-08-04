@@ -3129,6 +3129,19 @@
   "quickSearch": 1
 },
 {
+      "key": "PUA外剧",
+      "name": "🖥️PUA外剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.p-ua.com/vodshow/26-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "欧美剧$22#海外剧$23#日韩剧$24#卡通剧$25#福利剧$49"
+      }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
