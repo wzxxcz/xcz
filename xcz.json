@@ -2963,6 +2963,16 @@
   "ext": "http://ysjtv.yy365.vip/api.php/app/"
 },
 {
+  "key": "沐沐电影",
+  "name": "⚡沐沐APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://nnystv.cn/api.php/app/"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
