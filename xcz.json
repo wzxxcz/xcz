@@ -1621,6 +1621,14 @@
   "filterable":1
 },
 {
+  "key": "墨白影视",
+  "name": "💡墨白快播",
+  "type": 1,
+  "api": "https://nm.xxxc137.top/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "白羊影院",
   "name": "🐑白羊超清极速",
   "type": 3,
