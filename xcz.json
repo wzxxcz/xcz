@@ -3001,6 +3001,16 @@
   "ext": "http://www.bczhuiju.com/api.php/v1.vod"
 },
 {
+  "key": "柠檬影院",
+  "name": "⚡柠檬APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://mf.songshu.cyou/api.php/app/"
+},
+{
       "key": "优质资源",
       "name": "🌀优质采集",
       "type": 0,
