@@ -2943,6 +2943,16 @@
   "ext": "https://www.xingyiying.com/api.php/v1.vod"
 },
 {
+  "key": "影馆影视",
+  "name": "⚡影馆APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://4kdyg.top/api.php/v1.vod"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
