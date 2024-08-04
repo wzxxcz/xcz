@@ -3085,6 +3085,14 @@
       ]
 },
 {
+  "key": "影猫影视",
+  "name": "💡影猫快播",
+  "type": 1,
+  "api": "http://ysm.tkbot.fun/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
