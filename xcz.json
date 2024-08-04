@@ -2973,6 +2973,16 @@
   "ext": "https://nnystv.cn/api.php/app/"
 },
 {
+  "key": "千梦影视",
+  "name": "⚡千梦APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.qmjzys.com/api.php/app/"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
