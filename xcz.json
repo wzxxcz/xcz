@@ -2953,6 +2953,16 @@
   "ext": "https://4kdyg.top/api.php/v1.vod"
 },
 {
+  "key": "异世界",
+  "name": "⚡异界APP",
+  "api": "csp_AppYsV2",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://ysjtv.yy365.vip/api.php/app/"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
