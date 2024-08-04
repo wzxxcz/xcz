@@ -1112,7 +1112,17 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},	  
+},
+{
+  "key": "蜂鸟",
+  "name": "🕊️蜂鸟直连",
+  "type": 3,
+  "api": "csp_AppSK",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/fengniao.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
+},
 {
   "key": "金牌影视",
   "name": "🏅金牌小橙子",
