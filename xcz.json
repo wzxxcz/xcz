@@ -2933,6 +2933,16 @@
   "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
 },
 {
+  "key": "星易影影院",
+  "name": "⚡星影APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.xingyiying.com/api.php/v1.vod"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
