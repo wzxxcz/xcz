@@ -2983,6 +2983,16 @@
   "ext": "https://www.qmjzys.com/api.php/app/"
 },
 {
+  "key": "北川影视",
+  "name": "⚡北川APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://www.bczhuiju.com/api.php/v1.vod"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
