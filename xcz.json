@@ -3093,6 +3093,14 @@
   "quickSearch": 1
 },
 {
+  "key": "何以影视",
+  "name": "💡何以快播",
+  "type": 1,
+  "api": "https://www.heyik.cn/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
