@@ -3101,6 +3101,14 @@
   "quickSearch": 1
 },
 {
+  "key": "HG影视",
+  "name": "💡皇冠快播",
+  "type": 1,
+  "api": "https://hong.hgyx.vip/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
