@@ -3198,6 +3198,16 @@
       ]
 },
 {
+  "key": "csp_觅知",
+  "name": "🍊觅知影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./hccx/觅知影视.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
