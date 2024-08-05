@@ -3205,7 +3205,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./hccx/觅知影视.json"
+  "ext": "./lib/觅知影视.json"
 },
 {
   "key": "小柚",
