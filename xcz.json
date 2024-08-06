@@ -1393,6 +1393,15 @@
   "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=七味"
 },
 {
+  "key":"在线之家",
+  "name":"💡在线之家",
+  "type":3,
+  "api":"csp_Wexzxzj",
+  "jar": "https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "changeable":1
+},	  
+{
   "key":"全网┃影视",
   "name":"💡全网影视",
   "type":3,
