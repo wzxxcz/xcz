@@ -47,19 +47,8 @@
       }
 },
 {
-  "key":"搜索弹幕",
-  "name": "🍹可欣玩偶",
-  "type":3,
-  "api":"csp_PanSearch",
-  "searchable":1,
-  "filterable":0,
-  "changeable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},
-  "jar":"https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"
-},	  
-{
   "key": "玩偶弹幕版",
-  "name":"⛅玩偶弹幕4K",
+  "name": "🍹可欣玩偶",
   "type": 3,
   "api": "csp_Wogg",
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchenok.jar",
@@ -316,21 +305,6 @@
         "token": "file://TV/ali_token.txt"
       },
       "timeout": 15
-},
-{
-  "key":"夸克玩弹幕6",
-  "name":"❤玩弟弹幕",
-  "type":3,
-  "api":"csp_Wobg",
-  "quickSearch":1,
-  "changeable":1,
-  "filterable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-	  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
-	  "site":"https://mihdr.top","danmu":true
-        },
-  "jar":"https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"
 },
 {
   "key":"玩弹幕1",
