@@ -620,7 +620,7 @@
       "timeout": 25
 },
 {
-  "key":"夸克玩弹幕6",
+  "key":"夸克玩弹幕7",
   "name":"❤玩欧弹幕",
   "type":3,
   "api":"csp_Wobg",
@@ -630,8 +630,9 @@
   "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
 	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
 	  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
-	  "site":"https://vip.omii.top","danmu":true},
-  "jar":"https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;894cf6d2fa3a41069f2cf7be7669460d"
+	  "site":"https://vip.omii.top","danmu":true
+        },
+  "jar":"https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"
 },
 {
   "key":"夸克玩弹幕3",
