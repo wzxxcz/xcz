@@ -342,12 +342,11 @@
   "name":"❤搜索弹幕",
   "type":3,
   "api":"csp_PanSearch",
-  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;244027cbc4b3cd016d8335d175688367",
   "searchable":1,
   "filterable":0,
   "changeable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-  "danmu":true}
+  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},
+  "jar":"https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"
 },
 {
   "key":"小纸条弹幕",
