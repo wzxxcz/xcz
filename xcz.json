@@ -365,6 +365,18 @@
   "danmu":true}
 },
 {
+  "key":"小纸条弹幕",
+  "name":"❤纸条弹幕",
+  "type":3,
+  "api":"csp_XiaoZhiTiao",
+  "searchable":1,
+  "filterable":1,
+  "changeable":0,
+  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true
+        },
+  "jar":"https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"
+},	  
+{
   "key":"csp_Upyunso",
   "name":"📀UP云搜(搜索)",
   "type":3,
