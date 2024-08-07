@@ -3217,6 +3217,16 @@
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
 {
+  "key": "csp_七月",
+  "name": "🍊七月影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/七月影视.json"
+},
+{
   "key": "可达蓝光",
   "name": "🧿可达蓝光",
   "type": 3,
@@ -4827,16 +4837,6 @@
   "categories": [
         "短剧"
       ]
-},
-{
-  "key": "csp_七月",
-  "name": "🍊七月影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/七月影视.json"
 },
 {
   "key": "jszy",
