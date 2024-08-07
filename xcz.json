@@ -1828,16 +1828,6 @@
   "ext": "http://47.108.190.141/hipy/drpy_js/采集之王[合].js?type=url&params=http://47.108.190.141/hipy/json/采集静态.json"
 },
 {
-  "key":"真不卡",
-  "name":"🌴真不卡",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/zhenbuka.json"
-},
-{
   "key": "csp_不卡",
   "name": "🌴不卡影视",
   "type": 3,
