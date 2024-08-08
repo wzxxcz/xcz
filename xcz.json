@@ -1532,17 +1532,6 @@
   "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
 },
 {
-  "key":"视频库",
-  "name":"💡视频影视",
-  "type":3,
-  "api":"csp_WebVidHub",
-  "jar": "https://v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "ext":"https://vidhub1.cc"
-},
-{
   "key":"Vidhub视频",
   "name":"💡视频影视",
   "type": 3,
