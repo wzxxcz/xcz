@@ -3206,17 +3206,6 @@
   "ext": "./lib/觅知影视.json"
 },
 {
-  "key": "小柚",
-  "name": "❤小柚App",
-  "type": 3,
-  "api": "csp_AppSK",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714982657770/fan.txt;md5;5c80b7ff2b016f49144335e5c48883c5",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
-},
-{
   "key": "csp_七月",
   "name": "🍊七月影视",
   "type": 3,
@@ -3226,6 +3215,51 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/七月影视.json"
+},
+{
+            "key": "爱迪影视",
+            "name": "🍊爱迪影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://adys.tv/",
+                "数组": "class=\"vodlist_thumb lazyload\"&&</a",
+                "图片": "data-background-image=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+                "过滤词": "/hls/#php",
+                "副标题": "<span class=\"pack_tagtext\">&&</span>",
+                "线路数组": "href=\"javascript:void(0);\"&&</a>[不包含:VIP线路#app专用]",
+                "线路标题": "alt=\"&&\"",
+                "播放数组": "class=\"content_playlist list_scroll clearfix&&</ul>",
+                "影片年代": "上映时间：&&</li>",
+                "影片类型": "地区：&&</li>",
+                "影片状态": "语言：&&</li>",
+                "导演": "导演：&&</li>",
+                "主演": "主演：&&</li>",
+                "简介": "小橙子提醒您,请勿相信影片中的广告，以免上当受骗。+<div class=\"content_desc context clearfix\"&&</span>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "免嗅": "0",
+                "分类url": "https://adys.tv/show/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "国产剧$guochanju#港台剧$gangtaiju#韩剧$hanju#美剧$meiju#日剧$riju#英剧$yingju#泰剧$taiju#其他剧$qita#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#传记$zhuanji#日韩动漫$rihan#欧美动漫$oumei#动漫电影$cartoon#港台综艺$gtzy#韩国综艺$variety#欧美综艺$oumeizongyi#日本综艺$ribenzongyi#纪录片$jilu"
+            }
+},
+{
+  "key": "小柚",
+  "name": "❤小柚App",
+  "type": 3,
+  "api": "csp_AppSK",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714982657770/fan.txt;md5;5c80b7ff2b016f49144335e5c48883c5",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
 {
   "key": "可达蓝光",
