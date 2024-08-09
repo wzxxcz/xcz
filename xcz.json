@@ -3330,6 +3330,13 @@
                     "解说"
                 ]
             }
+},
+{
+  "key": "drpy_365",
+  "name": "🍊年年影视",
+  "type": 3,
+  "api": "https://ghproxy.cn/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
 },	  
 {
   "key": "小柚",
