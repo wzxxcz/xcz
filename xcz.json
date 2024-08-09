@@ -1146,13 +1146,14 @@
   "changeable": 1
 },
 {
-  "key":"csp_Jpys","name":"🍊金牌影视",
+  "key":"csp_Jpys",
+  "name":"🍊金牌影视",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-            "ext": {
+  "ext": {
                 "影片地区": "小橙子制作",
                 "搜索url": "https://www.diemi.cc/search/?wd={wd}",
                 "搜索链接": "href=\"&&\"",
