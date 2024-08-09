@@ -3344,7 +3344,15 @@
   "type": 3,
   "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/0/main/drpy_libs/drpy2.js",
   "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/0/main/js/分享ZR.js"
-},	  
+},
+{
+  "key": "XBPQ_WC",
+  "name": "🍊忘川影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+  "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享WC.json"
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
