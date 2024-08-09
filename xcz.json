@@ -3300,6 +3300,38 @@
             }
 },
 {
+            "key": "君离(SP)",
+            "name": "🍊君离影视",
+            "type": 3,
+            "api": "csp_AppSk",
+            "jar": "http://tipu.xjqxz.top/box/sk.jar",
+            "ext": {
+                "SiteUrl": "http://sk.jlzj.xyz/app.txt",
+                "域名匹配": [
+                    ".txt",
+                    ".json"
+                ],
+                "授权验证": true,
+                "验证信息": {
+                    "Post": {
+                        "sign": "a758867cf74d7677533ec6c82f15ca76"
+                    },
+                    "BuildCk": true,
+                    "CkFormat": "%s##5483##%s##ckzmbc",
+                    "AesKey": "ygcnbcrvaervztmw",
+                    "AesIv": "1212164105143708"
+                },
+                "AesKey": "ygcnbclnqzsmebxd",
+                "AesIv": "8249692684143708",
+                "线路排序": "APP专用->APP备用->APP备用2->APP备用3->APP备用4->APP备用5",
+                "分类过滤": [
+                    "短剧",
+                    "体育",
+                    "解说"
+                ]
+            }
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
