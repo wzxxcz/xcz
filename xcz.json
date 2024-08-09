@@ -2592,7 +2592,7 @@
   "name": "👨‍🌾农民直连",
   "type": 3,
   "api": "csp_WexNmys",
-  "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+  "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/xs.jar",
   "searchable": 1,
   "changeable": 1
 },
