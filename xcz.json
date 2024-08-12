@@ -3354,6 +3354,16 @@
   "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享WC.json"
 },
 {
+  "key": "新感觉",
+  "name": "🍊分享感觉",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://43.248.100.147:9891/api.php/app/"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -6093,6 +6103,17 @@
             "url": "http://159.75.157.29:75/yylx/?uid=66523&key=5433236&url=",
 	    "status_text": "正常"
     }, 
+    {
+            "name": "小橙子专线1",
+            "type": "1",
+            "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+            "flag": [
+                "NBY"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            }
+   },  
     {
       "name": "羽路均沾",
       "type": 0,
