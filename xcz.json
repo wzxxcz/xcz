@@ -3387,7 +3387,18 @@
   "filterable": 1,
   "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
   "ext": "./lib/UU.json"
-},	  
+},
+{
+  "key": "187687",
+  "name": "🍊分享白狐",
+  "type": 3,
+  "searchable": 1,
+  "changeable": 0,
+  "quickSearch": 1,
+  "playerType": "2",
+  "api": "csp_XBPQ",
+  "ext":"./lib/分享BF.json"
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
