@@ -2357,10 +2357,11 @@
   "name":"🍈木瓜影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",
-  "ext":{"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-  "分类":"电影&电视剧&综艺&动漫",
-  "分类值": "dianying&lianxuju&zongyi&dongman"}
+  "ext":{"副标题":"小橙子在线",
+	  "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+	  "分类":"电影&电视剧&综艺&动漫",
+	  "分类值": "dianying&lianxuju&zongyi&dongman"
+        }
 },
 {
   "key": "csp_影视大全",
