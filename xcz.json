@@ -3362,6 +3362,17 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://43.248.100.147:9891/api.php/app/"
+},
+{
+  "key": "uuys",
+  "name": "🍊分享悠悠",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+  "ext": "./lib/UU.json"
 },	  
 {
   "key": "小柚",
