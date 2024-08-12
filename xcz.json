@@ -6115,6 +6115,19 @@
 	    "status_text": "正常"
     }, 
     {
+            "name": "小橙子专线",
+            "type": "1",
+            "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
+            "flag": [
+                "4kvip",
+                "m78"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0",
+                "status_text": "正常"
+            }
+    },
+    {
             "name": "小橙子专线1",
             "type": "1",
             "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
