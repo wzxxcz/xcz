@@ -3400,6 +3400,14 @@
   "ext":"./lib/分享BF.json"
 },
 {
+  "key": "csp_4K网",
+  "name": "🍊分享时刻",
+  "type": 3,"playerType": "2",
+  "api": "csp_XBPQ",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/XbyQ.jar",
+  "ext": "./lib/分享4k.json"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
