@@ -1,0 +1,7 @@
+{
+    "嗅探词": ".mp4#.m3u8#.flv#.pan.wo.cn/openapi/download",
+    "副标题":"小橙子在线",
+    "搜索url":"/search.php;post;searchword={wd}",
+    "分类url":"https://www.1080.ee/vodshow/{cateId}--{by}------{catePg}---.html[https://www.1080.ee/vodtype/{cateId}.html];;RC",   
+    "分类":"电视剧$2#电影$1#动漫$3#综艺$20"
+}
