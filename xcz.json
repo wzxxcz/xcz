@@ -3406,6 +3406,13 @@
   "api": "csp_XBPQ",
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/XbyQ.jar",
   "ext": "./lib/分享4k.json"
+},
+{
+  "key": "XBPQ_hjl",
+  "name": "🍊分享韩剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": "./lib/分享HJ.json"
 },	  
 {
   "key": "小柚",
