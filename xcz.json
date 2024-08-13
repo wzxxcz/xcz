@@ -3413,6 +3413,13 @@
   "type": 3,
   "api": "csp_XBPQ",
   "ext": "./lib/分享HJ.json"
+},
+{
+  "key": "libhd2",
+  "name": "🍊分享丽波",
+   "type": 3,
+  "api": "csp_XBPQ",
+  "ext": "./lib/LiBo.json"
 },	  
 {
   "key": "小柚",
