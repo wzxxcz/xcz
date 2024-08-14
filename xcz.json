@@ -3430,6 +3430,13 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/分享YZ.json?ref=master"
+},
+{
+  "key":"🚨蛋蛋赞影视",
+  "name":"🚨分享蛋蛋",
+  "type":3,
+  "api":"https://www.xn--rgv465a.top/box/js/drpy2.min.js",
+  "ext":"https://www.xn--rgv465a.top/box/js/蛋蛋赞.js"
 },	  
 {
   "key": "小柚",
