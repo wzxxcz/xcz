@@ -5762,12 +5762,6 @@
   "ext": "./lib/威士影视.json"
 },
 {
-  "key": "T4-黑狐",
-  "name": "🦊黑狐影视",
-  "type": 4,
-  "api": "https://catbox.n13.club/t9/heihu.php"
-},	  
-{
       "key": "蚂蚁ys",
       "name": "🐜蚂蚁影院",
       "type": 3,
