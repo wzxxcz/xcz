@@ -5762,16 +5762,11 @@
   "ext": "./lib/威士影视.json"
 },
 {
-  "key": "Hhys",
+  "key": "T4-黑狐",
   "name": "🦊黑狐影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://m1839732.cf.caoni.ru/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/黑狐.json"
-},
+  "type": 4,
+  "api": "https://catbox.n13.club/t9/heihu.php"
+},	  
 {
       "key": "蚂蚁ys",
       "name": "🐜蚂蚁影院",
