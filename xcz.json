@@ -3450,7 +3450,15 @@
   "playerType":2,
   "ext":"http://124.222.116.5/mb/api.php/provide/vod/|Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.33|qiaoji",
   "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/jar/524.jar"
-},	  
+},
+{
+  "key": "csp_xBPQ_zhui",
+  "name": "🍊分享追影",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {"分类url":"http://svip.zhuiying.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+  "分类":"短剧$24#电视剧$21#电影$20#动漫$23#综艺$22"}
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
