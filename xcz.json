@@ -3198,13 +3198,11 @@
   "quickSearch": 1
 },
 {
-  "key": "HG影视",
+  "key": "皇冠影视",
   "name": "💡皇冠快播",
   "type": 1,
-  "api": "https://hong.hgyx.vip/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1
-},
+  "api": "https://hong.hgyx.vip/api.php/provide/vod/"
+},	  
 {
       "key": "PUA外剧",
       "name": "🖥️PUA外剧",
