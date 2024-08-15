@@ -3475,6 +3475,16 @@
   "type" : 3,
   "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
   "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/奇珍异兽.js"
+},
+{
+  "key": "dr_优酷2",
+  "name": "🔭优酷视频",
+  "type": 3,
+  "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/优酷.js"
 },	  
 {
   "key": "小柚",
@@ -6150,6 +6160,12 @@
       "type": 1,
       "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
     },
+    {
+      "name": "小橙子推荐0",
+      "type": 1,
+      "url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
+      "status_text": "正常"
+    },	  
     {
       "name": "小橙子推荐A",
       "type": 1,
