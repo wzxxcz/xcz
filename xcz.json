@@ -3489,6 +3489,12 @@
   "name": "💎五一采集",
   "type": 1,
   "api": "http://www.51zhuiju.cc/api.php/provide/vod/"
+},
+{
+  "key": "星星资源",
+  "name": "💎星星采集",
+  "type": 1,
+  "api": "http://vip.smzj6.vip/api.php/provide/vod/"
 },	  
 {
   "key": "小柚",
