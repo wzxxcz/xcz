@@ -4075,12 +4075,10 @@
   "ext": "./lib/五月影视.js"
 },
 {
-  "key": "影图",
-  "name":"🍊影图资源",
+  "key": "影图资源",
+  "name": "💎影图采集",
   "type": 1,
-  "api": "https://cj.vodimg.top/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1
+  "api": "https://cj.vodimg.top/api.php/provide/vod/"
 },
 {
   "key":"大米星球",
