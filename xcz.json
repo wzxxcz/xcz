@@ -3487,6 +3487,12 @@
   "ext": "https://notabug.org/ygfxz/6/raw/main/js/js/优酷.js"
 },
 {
+  "key": "五一资源",
+  "name": "💎五一采集",
+  "type": 1,
+  "api": "http://www.51zhuiju.cc/api.php/provide/vod/"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
