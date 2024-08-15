@@ -3468,6 +3468,13 @@
   "线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]",
   "分类url": "https://www.wangfei.live/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
   "分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"}
+},
+{
+  "key" : "drpy_js_奇珍异兽",
+  "name" : "🦜奇珍异兽",
+  "type" : 3,
+  "api" : "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/奇珍异兽.js"
 },	  
 {
   "key": "小柚",
