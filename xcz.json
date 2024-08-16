@@ -3541,15 +3541,6 @@
       ]
 },
 {
-  "key":"爱奇艺",
-  "name":"🍊分享奇艺",
-  "type":3,
-  "api":"csp_IQIYI",
-  "quickSearch":1,
-  "searchable":1,
-  "filterable":1
-},	  
-{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
