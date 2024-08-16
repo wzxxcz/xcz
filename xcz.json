@@ -3541,6 +3541,12 @@
       ]
 },
 {
+  "key": "三八资源",
+  "name": "💎三八采集",
+  "type": 1,
+  "api": "https://vod38.com/api.php/provide/vod/"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
