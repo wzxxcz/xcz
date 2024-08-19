@@ -3611,6 +3611,27 @@
   "name": "🍋柠檬采集",
   "type": 1,
   "api": "https://www.nmnm.cc/api.php/provide/vod/"
+},
+{
+  "key": "Bilfun",
+  "name": "🎒七之社区",
+  "type": 1,
+  "api": "https://cdk.centos.chat/api.php/provide/vod",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "categories": [
+            "柒之社(蓝光专区)",
+            "电影",
+            "连续剧",
+            "综艺",
+            "动漫",
+            "体育赛事",
+            "纪录片",
+            "电影解说",
+            "短剧",
+            "预告片",
+      ]
 },	  
 {
   "key": "小柚",
