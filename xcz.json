@@ -3593,7 +3593,13 @@
   "name": "💎无忧采集",
   "type": 1,
   "api": "https://www.wyvod.com/api.php/provide/vod/"
-},   	  
+}, 
+{
+  "key": "九零资源",
+  "name": "💎九零采集",
+  "type": 1,
+  "api": "https://oknnews.com/api.php/provide/vod/"
+},	  
 {
   "key": "小柚",
   "name": "❤小柚App",
