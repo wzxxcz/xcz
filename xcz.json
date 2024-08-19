@@ -3599,6 +3599,12 @@
   "name": "💎九零采集",
   "type": 1,
   "api": "https://oknnews.com/api.php/provide/vod/"
+},
+{
+  "key": "努努资源",
+  "name": "💎努努采集",
+  "type": 1,
+  "api": "https://www.nuuub.com/api.php/provide/vod/"
 },	  
 {
   "key": "小柚",
