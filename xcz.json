@@ -3605,6 +3605,12 @@
   "name": "💎努努采集",
   "type": 1,
   "api": "https://www.nuuub.com/api.php/provide/vod/"
+},
+{
+  "key": "柠檬资源",
+  "name": "🍋柠檬采集",
+  "type": 1,
+  "api": "https://www.nmnm.cc/api.php/provide/vod/"
 },	  
 {
   "key": "小柚",
