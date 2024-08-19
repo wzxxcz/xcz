@@ -3632,6 +3632,16 @@
             "短剧",
             "预告片",
       ]
+},
+{
+  "key":"荔枝",
+  "name":"🍐荔枝采集",
+  "type":3,
+  "api":"csp_AppYsV2",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://api.zjys.vip/api.php/iptv/vod/"
 },	  
 {
   "key": "小柚",
