@@ -1143,7 +1143,7 @@
   "name": "🌤️酷云七七",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "./lib/spider.jar",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
   "ext": {"简介":"小橙子剧情介绍:+video-info-item video-info-content vod_content\">&&</div>",
   "数组":"<a&&module-item-cover",
   "图片":"src=\"&&\"",
