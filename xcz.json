@@ -223,20 +223,20 @@
       "timeout": 25
 },	  
 {
-  "key": "易搜弹幕",
+  "key":"易搜弹幕",
   "name": "🚛易搜弹幕",
-  "type": 3,
-  "api": "csp_YiSo",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/dongchenok.jar",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 1,
-  "ext": {
-        "token": "file://TV/ali_token.txt",
-        "danmu": true,
-        "cookie": "satoken=60201207-5254-4d44-8ed9-db4ed5476163"
-      }
-},
+  "type":3,
+  "api":"csp_YiSo",
+  "searchable":1,
+  "filterable":0,
+  "changeable":1,
+  "ext":{
+	  "token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
+	  "danmu":true,
+	  "cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
+        },
+  "jar":"https://xn--ak7-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"
+},	  
 {
   "key": "csp_XYQHikerAL_土豆",
   "name": "🍊土豆玩偶",
