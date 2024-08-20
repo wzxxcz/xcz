@@ -2346,17 +2346,17 @@
     "filterable":1,
     "ext":"./lib/臻品电影.json"
 },
-{
-  "key":"csp_xBPQ看客影视",
-  "name":"🍊看客影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/看客影视.json"
-},
+{      
+  "key": "kanke",      
+  "name":"🍊看客影视",     
+  "type": 3,      
+  "api": "csp_XBPQ",   
+  "ext": 
+  {
+    "分类url":"https://kanke.cc/Type/{cateId}/page/{catePg}/year/{year}",        
+    "分类":"剧库$1#番剧$4#纪录$3#影库$2"
+  }
+},	  
 {
   "key": "123影视",
   "name": "🍊123影视",
