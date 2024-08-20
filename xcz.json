@@ -1138,6 +1138,21 @@
   "changeable": 1,
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724011440046/fan.txt;md5;f6c7214d9b4bef41c97d248790060a9a"
 },
+{ 
+  "key": "酷云$七七",
+  "name": "🌤️酷云七七",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "./lib/spider.jar",
+  "ext": {"简介":"小橙子剧情介绍:+video-info-item video-info-content vod_content\">&&</div>",
+  "数组":"<a&&module-item-cover",
+  "图片":"src=\"&&\"",
+  "标题":"alt=\"&&\">",
+  "副标题":"module-item-text\">&&</div>",
+  "播放数组":"module-blocklist scroll-box scroll-box-y\">&&</div>",
+  "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "分类":"短剧$21#电视剧$2#电影$1#动漫$4#综艺$3"}
+},	  
 {
   "key": "煤球",
   "name": "🍓煤球多线",
