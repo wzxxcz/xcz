@@ -1738,16 +1738,6 @@
   "分类":"短剧$5#电视剧$2#电影$1#动漫$3#综艺$4"}
 },
 {
-  "key": "jp弹幕",
-  "name": "🍊金瓶影视",
-  "type": 3,
-  "api": "csp_Jpys",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.jar"
-},	  
-{
   "key": "白羊影院",
   "name": "🐑白羊超清极速",
   "type": 3,
