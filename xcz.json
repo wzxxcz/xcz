@@ -1466,15 +1466,15 @@
   "changeable":1
 },
 {
-  "key": "csp_SuBaiBai",
+  "key": "shu素白白",
   "name":"💡素白影视",
   "type": 3,
-  "api": "csp_SuBaiBai",
-  "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;0559B6AA34618E48F93C166F2D5E7479",	
+  "api": "csp_XBPQ",
   "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
+  "changeable": 1,
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/XbyQ.jar",
+  "ext": "./SBB.json"
+},	  
 {
   "key": "啾啾影视",
   "name":"💡啾啾影视",
