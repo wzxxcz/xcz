@@ -1839,14 +1839,6 @@
   "ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"
 },
 {
-  "key":"畅梦影视",
-  "name":"🎄畅梦影视",
-  "type": 3,
-  "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "jar":"http://www.wya6.cn/tz/wyz.php;md5;31e6192040d63714d063d5a5aba287a9",
-  "ext": "https://weixine.net/js/changmeng.js"
-},
-{
   "key":"剧圈圈",
   "name":"🍊剧圈圈",
   "type":3,
