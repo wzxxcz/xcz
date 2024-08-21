@@ -1498,17 +1498,20 @@
   "filterable":1
 },
 {
-  "key": "csp_duoju",
+  "key": "星辰影院",
   "name":"💡星辰影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen.jar",
-  "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 0,
-  "ext": "./lib/xinchen.json"
-},
+  "filterable": 1,
+  "ext": {
+        "影片类型": "小橙子制作",
+        "播放标题": ">&&<[不包含:1080P]",
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
+},	  
 {
   "key":"愉悦影视",
   "name":"💡愉悦影视",
