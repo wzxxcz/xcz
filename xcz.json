@@ -2449,8 +2449,9 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
+  "jar": "https://gitee.com/wxbtt/bbtv/raw/master/jar/sx.jar;md5;aa6ee948740552fd1cf3346143ed85a2",
   "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
-},
+},	  
 {
   "key": "csp_热播",
   "name": "🍊热播之家",
