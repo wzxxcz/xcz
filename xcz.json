@@ -3644,6 +3644,18 @@
         "犯罪片",
         "伦理片"
       ]
+},
+{
+  "key": "王某某影视MAX",
+  "name": "🍊小橙子影院",
+  "playerType": 1,
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "https://gitee.com/wxbtt/bbtv/raw/master/xgj/fm.jar;md5;2db0ca4bba291bb9357998923bea5c34",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://wmmys.wmmys.cn/api.php/app/"
 },	  
 {
   "key": "小柚",
