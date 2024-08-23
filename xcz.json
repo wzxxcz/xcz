@@ -3737,19 +3737,8 @@
   "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"}
 },
 {
-  "key": "hipy_js_策驰影院(自动)",
-  "name": "🐎策驰影视",
-  "type": 3,
-  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://47.99.102.252/drpy_js/策驰影院(自动).js"
-},
-{
   "key": "cechi",
-  "name": "🐎策驰影院",
+  "name": "🐎策驰影视",
   "type": 3,
   "api": "csp_CeChi",
   "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/jar/SoEasy.jar;md5;2913291fc4c832e3753573593b727b89",
