@@ -273,22 +273,6 @@
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"
 },
 {
-  "key": "doudouxie",
-  "name": "🐋玩偶哥哥4K弹幕",
-  "type": 3,
-  "api": "csp_Wogg",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "wogg": true,
-        "danmu": true
-      },
-      "timeout": 30
-},
-{
   "key": "盘Se",
   "name": "🙀盘Se搜索",
   "type": 3,
@@ -583,23 +567,6 @@
       "timeout": 25
 },
 {
-  "key": "土豆弹幕",
-  "name": "🥔玩偶土豆4K弹幕",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
-},
-{
   "key":"夸克玩弹幕7",
   "name":"❤玩欧弹幕",
   "type":3,
@@ -836,17 +803,6 @@
   "filterable":1,
   "changeable":0,
   "ext": "./lib/小雅.json"
-},
-{
-  "key": "六趣",
-  "name": "🍱六趣阿里4K纯净",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=六趣"
 },
 {
   "key":"酷吧电影",
@@ -1421,17 +1377,6 @@
   "changeable": 1
 },	  
 {
-  "key": "七味影视",
-  "name": "🌿七味蓝光秒播",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=七味"
-},
-{
   "key":"在线之家",
   "name":"💡在线之家",
   "type":3,
@@ -1896,18 +1841,6 @@
   "ext": "分类url:https://www.ggdy.net/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 {
-  "key": "韩圈",
-  "name": "🦄韩圈蓝光无广",
-  "type": 3,
-  "api": "csp_HanXiaoQuan",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "playerType": 2,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "timeout": 10
-},
-{
   "key": "1080资源",
   "name": "🔥1080资源",
   "type": 0,
@@ -2077,17 +2010,6 @@
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js",
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-},
-{
-  "key": "dan酷影视",
-  "name": "😎酷影蓝光纯净",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.tvkuys.xyz/api.php/app/"
 },
 {
   "key": "天堂蓝光",
@@ -3714,17 +3636,6 @@
   "ext": "./lib/可达影视.json"
 },
 {
-  "key": "素眉",
-  "name": "🍡素眉蓝光纯净",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=素眉"
-},
-{
   "key": "神仙影视",
   "name":"🍊神仙影视",
   "type": 3,
@@ -4011,20 +3922,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/98影视.json"
-},
-{
-  "key": "南瓜弹幕版",
-  "name": "🎃南瓜蓝光弹幕",
-  "type": 3,
-  "api": "csp_Nangua",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-        "danmu": true
-      },
-      "timeout": 10
 },
 {
   "key": "暴风采集",
@@ -4755,16 +4652,6 @@
   "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
 },
 {
-  "key": "机器人bot",
-  "name": "🤖机器蓝光无广",
-  "type": 3,
-  "api": "csp_Ikanbot",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
   "key":"csp_AppMr",
   "name":"👻明明影视",
   "type":3,
@@ -5065,17 +4952,6 @@
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
-},
-{
-  "key": "电影牛",
-  "name": "🐂影牛有广勿信",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=电影牛"
 },
 {
   "key": "mayiys",
