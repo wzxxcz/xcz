@@ -1917,17 +1917,6 @@
   "changeable": 1
 },
 {
-  "key": "csp_xBPQ_wencai",
-  "name": "😭呜呜蓝光无广",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
-},
-{
   "key": "hipy_js_采集之王[合]",
   "name": "👶采集之王[合]",
   "type": 3,
