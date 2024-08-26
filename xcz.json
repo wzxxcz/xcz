@@ -1422,7 +1422,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./SBB.json"
+  "ext": "./lib/SBB.json"
 },
 {
   "key": "啾啾影视",
