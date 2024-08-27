@@ -1576,6 +1576,15 @@
   "ext":"https://v.aikanbot.com"
 },
 {
+  "key": "追剧",
+  "name": "🍓追剧多线",
+  "type": 3,
+  "api": "csp_AppTT",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",	
+  "playerType": 2,
+  "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+},	  
+{
   "key": "追剧影视",
   "name":"💡追剧影视",
   "type": 3,
