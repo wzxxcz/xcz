@@ -94,7 +94,57 @@
         "site": "https://4k.4u4.cn",
         "danmu": true
       }
-},	  
+},
+{
+      "key": "团长弹幕",
+      "name": "🏳️夸克团长4K弹幕",
+      "type": 3,
+      "api": "csp_Tzfile",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "danmu": true
+      },
+      "timeout": 25
+},
+{
+      "key": "夸克至臻弹幕",
+      "name": "🏆️夸克至臻4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://mihdr.top",
+        "danmu": true
+      }
+},
+{
+      "key": "夸克奥秘弹幕",
+      "name": "🐼奥秘资源4K弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://vip.omii.top",
+        "danmu": true
+      }
+},	  	  
 {
   "key": "csp_XYQHikerAL_云盘资源",
   "name": "🚲云盘资源",
@@ -828,40 +878,6 @@
   "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/lib/HeChengChaXiu.jar",
   "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
 },
-{
-      "key": "夸克至臻弹幕",
-      "name": "🏆️夸克至臻4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://mihdr.top",
-        "danmu": true
-      }
-},
-{
-      "key": "夸克奥秘弹幕",
-      "name": "🐼奥秘资源4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://vip.omii.top",
-        "danmu": true
-      }
-},	  
 {
   "key":"Alist",
   "name":"🍊小雅网盘",
