@@ -4572,13 +4572,17 @@
   "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}
 },
 {
-  "key": "csp_YQKan",
-  "name": "🎉一起看",
+  "key": "一起看弹幕",
+  "name": "🫘一起看蓝光弹幕",
   "type": 3,
-  "api": "csp_YQKan",
+  "api": "csp_Yqk",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1
+  "filterable": 1,
+  "ext": {
+           "danmu": true
+         }
 },
 {
   "key": "drpy_js_小白菜儿",
