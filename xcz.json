@@ -1875,7 +1875,18 @@
   "type": 3,
   "api": "csp_AppYsV2",
   "ext": "https://www.zjtu.one/api.php/app/"
-},	  
+},
+{
+  "key": "csp_xBPQ_wencai",
+  "name": "😭呜呜蓝光无广",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
+},	  	  
 { 
   "key": "桃子影院",
   "name": "🥝桃子影视",
