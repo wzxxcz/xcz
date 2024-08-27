@@ -1857,6 +1857,13 @@
   "type": 3,
   "api": "csp_AppYsV2",
   "ext": "https://mas.szyyds.cn/api.php/app/"
+},
+{
+  "key": "剧兔",
+  "name": "🐇剧兔蓝光纯净",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "ext": "https://www.zjtu.one/api.php/app/"
 },	  
 { 
   "key": "桃子影院",
