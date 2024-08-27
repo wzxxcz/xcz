@@ -1115,6 +1115,20 @@
   "jar":"https://xn--jem-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"
 },
 {
+  "key": "荐片弹幕版",
+  "name": "👍️荐片蓝光弹幕",
+  "type": 3,
+  "api": "csp_Jianpian",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+          "danmu": true
+         },
+  "timeout": 20
+},	  
+{
       "key": "圥忈主页",
       "name": "🌼小橙子主页",
       "type": 3,
