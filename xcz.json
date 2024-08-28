@@ -3809,6 +3809,25 @@
   "ext": "http://wmmys.wmmys.cn/api.php/app/"
 },
 {
+  "key": "蓝天白云",
+  "name": "🍊秒播影视",
+  "type": 1,
+  "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1,
+  "playurl": "https://jx.wolongzywcdn.com:65/m3u8.php?url=",
+  "categories": [
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "欧美片"
+      ]
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
