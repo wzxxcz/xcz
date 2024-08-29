@@ -4047,6 +4047,16 @@
   "ext": "./lib/老六影视.json"
 },
 {
+  "key": "csp_XYQHiker_电影牛影院",
+  "name": "🐄影牛影院",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/电影牛影院.json"
+},	  
+{
   "key": "赘婿影视",
   "name": "🍊赘婿影视",
   "type": 3,
