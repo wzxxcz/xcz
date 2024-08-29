@@ -1584,12 +1584,12 @@
   "key":"圣城影视",
   "name":"💡圣城影视",
   "type":3,
-  "api":"csp_AppNK",
+  "api":"csp_SC1080",
+  "jar": "https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
   "searchable":1,
-  "changeable":1,
-  "ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w==",
-  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"
-},	  
+  "quickSearch":1,
+  "filterable":1
+},
 {
   "key": "星辰影院",
   "name":"💡星辰影视",
