@@ -3143,6 +3143,16 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/策驰影视.json"
+},
+{
+  "key": "小熊蓝光",
+  "name": "🧿小熊蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/小熊影视.json"
 },	  
 {
   "key": "追剧兔",
