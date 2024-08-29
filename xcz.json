@@ -3135,6 +3135,16 @@
   "ext": "./lib/侠客影视.json"
 },
 {
+  "key": "策驰蓝光",
+  "name": "🧿策驰蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./json/策驰影视.json"
+},	  
+{
   "key": "追剧兔",
   "name": "⚡剧兔APP",
   "type": 3,
