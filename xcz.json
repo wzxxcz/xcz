@@ -3255,6 +3255,16 @@
   "ext": "https://5setp.vip/api.php/app/"
 },
 {
+  "key": "NRTFIY星球",
+  "name": "⚡NETFIYAPP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.netfly.tv/api.php/app/"
+},	  
+{
       "key": "优质资源",
       "name": "🌀优质采集",
       "type": 0,
