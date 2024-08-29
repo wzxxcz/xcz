@@ -1658,16 +1658,16 @@
   "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
 },
 {
-  "key":"视频库",
+  "key":"Vidhub视频",
   "name":"💡视频影视",
-  "type":3,
-  "api":"csp_WebVidHub",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "ext":"https://vidhub1.cc",
-  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"
-},	  
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./lib/Vidhub.json"
+},
 {
   "key":"机器人",
   "name":"💡机器影视",
