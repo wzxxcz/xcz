@@ -3142,7 +3142,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./json/策驰影视.json"
+  "ext": "./lib/策驰影视.json"
 },	  
 {
   "key": "追剧兔",
