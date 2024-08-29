@@ -3263,6 +3263,16 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://www.netfly.tv/api.php/app/"
+},
+{
+  "key": "思古电影",
+  "name": "⚡思古APP",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://siguyy.cn/api.php/app/"
 },	  
 {
       "key": "优质资源",
