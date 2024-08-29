@@ -4051,6 +4051,7 @@
   "name": "🐄影牛影院",
   "type": 3,
   "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
