@@ -3972,7 +3972,7 @@
       "name": "🍉吃瓜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
+      "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/XBPQ.jar",
       "ext": {
         "站名": "吃瓜影视",
         "主页url": "https://www.chiguafilm.com/",
