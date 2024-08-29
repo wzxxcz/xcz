@@ -1669,6 +1669,17 @@
   "ext":"./lib/Vidhub.json"
 },
 {
+  "key":"视频库",
+  "name":"🌙视频┃影视",
+  "type":3,
+  "api":"csp_WebVidHub",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0,
+  "ext":"https://vidhub1.cc",
+  "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"
+},	  
+{
   "key":"机器人",
   "name":"💡机器影视",
   "type":3,
