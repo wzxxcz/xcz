@@ -3973,16 +3973,6 @@
   "分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"}
 },
 {
-  "key": "cechi",
-  "name": "🐎策驰影视",
-  "type": 3,
-  "api": "csp_CeChi",
-  "jar": "https://gitee.com/wxbtt/xuanxuan/raw/master/jar/SoEasy.jar;md5;2913291fc4c832e3753573593b727b89",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
   "key": "悠云追剧",
   "name": "🍊悠云追剧",
   "type": 3,
