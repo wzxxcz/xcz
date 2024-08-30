@@ -3974,6 +3974,16 @@
   "api": "http://www.xiaobao168.com/api.php/provide/vod/",
   "searchable": 1,
   "quickSearch": 1
+},
+{
+  "key": "时代影院",
+  "name": "💥时代影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/时代影视.json"
 },	  
 {
   "key": "小柚",
