@@ -4120,7 +4120,7 @@
 },
 {
   "key":"csp_ipianba",
-  "name":"🎃片吧影视",
+  "name":"🎟️片吧影视",
   "type":3,
   "api":"csp_XBPQ",
   "ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
