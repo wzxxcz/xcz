@@ -5085,12 +5085,16 @@
   "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
 },
 {
-  "key":"drpy_js_奈飞中文",
+  "key": "csp_XYQHiker_奈飞中文",
   "name":"👢奈飞中文",
-  "type":3,
-  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/奈飞中文.js"
-},
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/奈飞中文.json"
+},	  
 {
   "key": "sx",
   "name": "🤡师兄驾到",
