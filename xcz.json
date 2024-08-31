@@ -2110,17 +2110,6 @@
         "韩国动漫"
       ]
 },
-{
-  "key": "hipy_js_8号影院",
-  "name": "🏅8号影院",
-  "type": 3,
-  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://47.99.102.252/drpy_js/8号影院.js"
-},
 { "key": "金曼TV",                     
   "name": "🍊金曼影视", 
   "type": 3,  
