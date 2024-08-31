@@ -1823,16 +1823,6 @@
   "ext": "./lib/白羊影院.json"
 },
 {
-  "key":"csp_Kuaikan",
-  "name": "👀快看影院",
-  "type":3,
-  "api":"csp_Kuaikan",
-  "ua": "okhttp/3.15",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},	  
-{
   "key": "华为",
   "name": "🍇华为采集",
   "type": 1,
