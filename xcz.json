@@ -1969,13 +1969,6 @@
   "quickSearch": 1
 },
 {
-  "key":"畅梦",
-  "name":"☕️畅谈梦想",
-  "type":3,
-  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-  "ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"
-},
-{
   "key":"剧圈圈",
   "name":"🍊剧圈圈",
   "type":3,
