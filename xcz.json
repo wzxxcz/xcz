@@ -1928,17 +1928,6 @@
   "ext": "./lib/callyxbpq.json"
 },
 {
-  "key":"美柏",
-  "name":"🏝美柏蓝光",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/meibai.json"
-},
-{
   "key":"csp_xBPQ白嫖电影网",
   "name":"🍊白嫖影视网",
   "type":3,
