@@ -1842,16 +1842,6 @@
   "ext":"./lib/HDmoli.json"
 },
 {
-  "key": "快乐影视",
-  "name": "⭐快乐大全秒播",
-  "type": 3,
-  "api": "csp_AppMr",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
-},
-{
   "key": "小马",
   "name": "🐎小马蓝光纯净",
   "type": 3,
