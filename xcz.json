@@ -1886,13 +1886,6 @@
   "ext": "./lib/白羊影院.json"
 },
 {
-  "key": "csp_全网",
-  "name": "🥣全网独家",
-  "type": 3,
-  "api": "csp_Xdys",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722424344981/mifan.txt;md5;25de059347e76ff21b0182c5b411d9a4"
-},
-{
   "key":"csp_Kuaikan",
   "name": "👀快看影院",
   "type":3,
