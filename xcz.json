@@ -2007,15 +2007,6 @@
   "ext": "分类url:https://www.ggdy.net/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
 },
 {
-  "key": "1080资源",
-  "name": "🔥1080资源",
-  "type": 0,
-  "api": "https://api.1080zyku.com/inc/api.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
   "key": "hipy_js_采集之王[合]",
   "name": "👶采集之王[合]",
   "type": 3,
