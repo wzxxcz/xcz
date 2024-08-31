@@ -1788,28 +1788,6 @@
   "quickSearch": 1
 },
 {
-  "key": "csp_XYQHiker_哔嘀影视",
-  "name":"💡哔嘀影视",
-  "type":3,
-  "api":"csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/哔嘀影视.json"
-},
-{
-  "key":"csp_Bdys",
-  "name":"💡哔嘀影院",
-  "type":3,
-  "api":"csp_Bdys",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://www.yjys02.com"
-},	  
-{
   "key":"HDmoli",
   "name":"💡魔力高清",
   "type":3,
