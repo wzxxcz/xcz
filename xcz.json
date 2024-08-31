@@ -1834,15 +1834,6 @@
   "api": "csp_AppYsV2",
   "ext": "https://www.zjtu.one/api.php/app/"
 },
-{ 
-  "key": "桃子影院",
-  "name": "🥝桃子影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ext": {"简介":"小橙子剧情介绍:+show-desc\" style=*>&&</div>",
-  "分类url":"https://ios.taozi007.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-  "分类":"短剧$5#电视剧$2#电影$1#动漫$3#综艺$4"}
-},
 {
   "key": "白羊影院",
   "name": "🐑白羊超清极速",
