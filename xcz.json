@@ -1661,7 +1661,18 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",	
   "playerType": 2,
   "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
-},	  
+},
+{
+  "key": "追剧影视",
+  "name":"💡追剧影视",
+  "type": 3,
+  "api": "csp_AppZJ",
+  "jar": "http://47.99.102.252/jar/s.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://z.kzjtv.com/"
+},
 {
   "key":"明日影视",
   "name":"💡明日影视",
@@ -1964,6 +1975,13 @@
   "quickSearch": 1
 },
 {
+  "key":"畅梦",
+  "name":"☕️畅谈梦想",
+  "type":3,
+  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"
+},
+{
   "key":"剧圈圈",
   "name":"🍊剧圈圈",
   "type":3,
@@ -2123,6 +2141,18 @@
   "order_num": 0,
   "ext": "http://47.99.102.252/drpy_js/8号影院.js"
 },
+{
+  "key": "hipy_js_冠建影视",
+  "name": "🏅冠建影视",
+  "type": 3,
+  "api": "https://yubox.xyz/drpy_libs/drpy2.min.js",
+  "jar":"http://150.158.112.123/jar/xc.jar;md5;f825a0ce4269de14fdeab22d9418472e",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://yubox.xyz/drpy_js/冠建影视.js"
+},
 { "key": "金曼TV",                     
   "name": "🍊金曼影视", 
   "type": 3,  
@@ -2133,6 +2163,14 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "./lib/jinman.json"  
+},
+{
+  "key":"drpy_js_人人影视",
+  "name":"👩‍❤‍👨人人影视",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js",
+  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
   "key": "天堂蓝光",
@@ -2451,6 +2489,14 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
+},
+{
+  "key": "freeok",
+  "name":"🌱Free影视",
+  "type": 3,
+  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+  "api": "csp_FreeOK",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722424344981/mifan.txt;md5;25de059347e76ff21b0182c5b411d9a4"
 },
 {
   "key":"csp_mgtva",
