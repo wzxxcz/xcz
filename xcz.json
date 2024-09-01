@@ -1335,6 +1335,51 @@
   "ext": "./lib/文才.json"
 },
 {
+  "key": "南瓜",
+  "name": "🎃南瓜多线",
+  "type": 3,
+  "api": "csp_NanGua",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350",	
+  "timeout": 15,
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},	  
+{
+  "key": "nangua",
+  "name": "🍈南瓜影院",
+  "type": 3,
+  "playerType": "2",
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "jar": "http://47.99.102.252/jar/xc.zip;md5;dbc497e338adf57a686b81faf66378ec",
+  "ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"
+},
+{
+  "key":"南瓜影视",
+  "name":"💡南瓜影视",
+  "type":3,
+  "api":"csp_WexNgys",
+  "jar": "https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0
+},
+{
+  "key": "南瓜弹幕版",
+  "name": "🎃南瓜蓝光弹幕",
+  "type": 3,
+  "api": "csp_Nangua",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "danmu": true
+         },
+  "timeout": 10
+},	  
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
