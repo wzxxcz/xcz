@@ -1665,16 +1665,6 @@
   "changeable":1
 },
 {
-  "key": "大米星球",
-  "name": "🍛大米星球蓝光",
-  "type": 3,
-  "api": "csp_AppDaMi",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},	  	  
-{
   "key": "厂长",
   "name": "📔厂长不卡",
   "type": 3,
@@ -1706,16 +1696,6 @@
   "jar":"https://xn--jem-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
   "searchable":1,
   "changeable":1
-},
-{
-  "key":"最新┃影视",
-  "name":"💡最新影视",
-  "type":3,
-  "api":"csp_Zx1080",
-  "jar":"https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
 },
 {
   "key": "墨白影视",
