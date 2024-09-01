@@ -408,6 +408,45 @@
   "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
 },
 {
+  "key": "Lib",
+  "name": "🌟立播秒播",
+  "type": 3,
+  "api": "csp_Libvio",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722550044078/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+},
+{
+  "key":"️玩偶欧",
+  "name":"❤️玩偶欧4K",
+  "type":3,
+  "api":"csp_XYQHikerAL",
+  "jar": "https://v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/woo.json"
+},
+{
+  "key": "UpYun",
+  "name": "😻Up搜搜索",
+  "type": 3,
+  "api": "csp_UpYun",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+        "aliToken": "tvfan/token.txt",
+        "from": "4k|auto|fhd"
+      }
+},
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
