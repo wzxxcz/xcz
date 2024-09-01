@@ -2031,7 +2031,42 @@
   "filterable": 1,
   "order_num": 210,
   "ext": "https://gitee.com/wxbtt/bbtv/raw/master/lib/采集之王.js?type=url&params=https://gitee.com/wxbtt/bbtv/raw/master/lib/采集静态.json"
-},	  
+},
+{
+  "key": "csp_不卡",
+  "name": "🌴不卡影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/HeChengChaXiu.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/真不卡影视.json"
+},
+{
+  "key": "xp_7喜电影",
+  "name": "🍹7喜电影",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/xiaomei5201/xiaomeitv/raw/master/jar/Yoursmile.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "changeable": 1,
+  "ext": "./lib/7喜电影.json"
+},
+{
+  "key": "极光",
+  "name": "☀极光App",
+  "type": 3,
+  "api": "csp_AppSK",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
+},
 {
   "key": "优酷",
   "name": "🍊优酷(官)",
