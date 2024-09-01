@@ -1755,16 +1755,6 @@
   "ext": "https://www.zjtu.one/api.php/app/"
 },
 {
-  "key": "白羊影院",
-  "name": "🐑白羊超清极速",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/白羊影院.json"
-},
-{
   "key": "华为",
   "name": "🍇华为采集",
   "type": 1,
@@ -4265,16 +4255,6 @@
   "name": "💎影图采集",
   "type": 1,
   "api": "https://cj.vodimg.top/api.php/provide/vod/"
-},
-{
-  "key":"大米星球",
-  "name":"🍛大米星球",
-  "type":3,
-  "api":"csp_AppDaMi",
-  "jar": "https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;b50baf5a9e475b6e91000e3d87c8dd0c",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0
 },
 {
   "key": "滋滋", 
