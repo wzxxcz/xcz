@@ -112,7 +112,24 @@
            "site": "https://mihdr.top",
            "danmu": true
          }
-},	  
+},
+{
+  "key": "夸克奥秘弹幕",
+  "name": "🐼奥秘资源4K弹幕",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://vip.omii.top",
+           "danmu": true
+        }
+},	  	  
 {
   "key": "优酷",
   "name": "🍊优酷(官)",
