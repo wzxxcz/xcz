@@ -1955,6 +1955,43 @@
   "ext":"./lib/meibai.json"
 },
 {
+  "key":"csp_xBPQ白嫖电影网",
+  "name":"🍊白嫖影视网",
+  "type":3,
+  "ua": "okhttp/3.15",
+  "api":"csp_XBPQ",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/白嫖电影网.json"
+},
+{
+  "key": "初恋资源",
+  "name": "🧡初恋官源",
+  "type": 1,
+  "api": "https://video.adminqt.cn/api.php/provide/vod/",
+  "searchable": 1,
+  "quickSearch": 1
+},
+{
+  "key":"畅梦",
+  "name":"☕️畅谈梦想",
+  "type":3,
+  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
+  "ext":"https://notabug.org/ygfxz/6/raw/main/js/changmeng.js"
+},
+{
+  "key":"剧圈圈",
+  "name":"🍊剧圈圈",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/剧圈圈.json"
+},
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
