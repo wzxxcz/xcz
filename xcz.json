@@ -156,6 +156,23 @@
          }
 },
 {
+  "key": "蜡笔弹幕",
+  "name": "👠蜡笔在线",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722354122940/okjpg.txt;md5;da8c509c5278a9e5bfb340e84b9defd7",	
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://duopan.fun",
+        "danmu": true
+      },
+      "timeout": 25
+},
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
