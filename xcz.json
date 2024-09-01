@@ -928,6 +928,38 @@
   "filterable": 1
 },
 {
+  "key":"美剧天堂",
+  "name":"💘美剧磁力",
+  "type":3,
+  "api":"csp_MeijuTT",
+  "jar": "https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key": "ygcl",
+  "name": "🍊影港磁力",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/影港磁力.json",
+  "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+},
+{
+  "key": "hipy_js_4k剧院",
+  "name": "🏅小橙子4k",
+  "type": 3,
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://47.99.102.252/drpy_js/4k剧院.js"
+},
+{
   "key": "hipy_js_4K-AV",
   "name": "🏅小橙子4k专线",
   "type": 3,
@@ -1668,7 +1700,42 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
-},	  	  
+},
+{
+  "key": "厂长",
+  "name": "📔厂长不卡",
+  "type": 3,
+  "api": "csp_NewCz",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",	
+  "timeout": 15,
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "https://www.czys.pro/"
+},	  
+{
+  "key":"厂长弹幕",
+  "name":"💡厂长弹幕",
+  "type":3,
+  "api":"csp_Czzy",
+  "jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;e52ed9ca0aa59469976be3f2d8f419f0",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
+{
+  "key": "JOJO",
+  "name":"💡OJO弹幕",
+  "type": 3,
+  "api": "csp_Jiohub",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723648173635/okjpg.txt;md5;aaa8eb83291083d1d117ed1e65bba497",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "timeout": 10
+},	  
 {
   "key": "优酷",
   "name": "🍊优酷(官)",
