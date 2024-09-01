@@ -887,6 +887,47 @@
   "filterable":1
 },
 {
+  "key": "新6V",
+  "name": "🧲新6V磁力",
+  "type": 3,
+  "api": "csp_SixV",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "https://www.xb6v.com/"
+},
+{
+  "key":"迅雷吧",
+  "name":"💘迅雷吧磁力",
+  "type":3,
+  "api":"csp_Xunlei8",
+  "jar": "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59342d3fa71b245484e9a5129e63de22",	
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key":"Mp4电影",
+  "name":"💘Mp4电影磁力",
+  "type":3,
+  "api":"csp_Mp4Mov",
+  "jar": "https://xn--ak7-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key": "SeedHub",
+  "name": "🧲Seed影视",
+  "type": 3,
+  "api": "csp_SeedHub",
+  "jar": "http://47.99.102.252/jar/0725.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
