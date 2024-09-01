@@ -207,6 +207,45 @@
   "changeable": 1
 },
 {
+  "key": "纸条",
+  "name": "🗞纸条搜索",
+  "type": 3,
+  "api": "csp_XiaoZhiTiao",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723648173635/okjpg.txt;md5;aaa8eb83291083d1d117ed1e65bba497",	
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "ext": {
+            "token": "file://TV/ali_token.txt"
+         },
+  "timeout": 15
+},
+{
+  "key": "Gitcafe",
+  "name": "🚀小纸条云盘",
+  "type": 3,
+  "api": "csp_Gitcafe",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
+},
+{
+  "key": "小纸条弹幕",
+  "name": "🚟小纸条弹幕",
+  "type": 3,
+  "api": "csp_XiaoZhiTiao",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/xiaozt.jar",
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "danmu": true
+      }
+},
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
