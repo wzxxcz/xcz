@@ -1850,6 +1850,17 @@
   "api": "csp_AppYsV2",
   "ext": "https://www.zjtu.one/api.php/app/"
 },
+{
+  "key": "csp_xBPQ_wencai",
+  "name": "😭呜呜蓝光无广",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
+},	  	  
 { 
   "key": "桃子影院",
   "name": "🥝桃子影视",
@@ -1868,13 +1879,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/白羊影院.json"
-},
-{
-  "key": "csp_全网",
-  "name": "🥣全网独家",
-  "type": 3,
-  "api": "csp_Xdys",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722424344981/mifan.txt;md5;25de059347e76ff21b0182c5b411d9a4"
 },
 {
   "key": "优酷",
