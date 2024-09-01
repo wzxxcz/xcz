@@ -1188,6 +1188,43 @@
   "播放数组":"module-blocklist scroll-box scroll-box-y\">&&</div>",
   "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
   "分类":"短剧$21#电视剧$2#电影$1#动漫$4#综艺$3"}
+},
+{
+  "key": "煤球",
+  "name": "🍓煤球多线",
+  "type": 3,
+  "api": "csp_Appmq",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},	  
+{
+  "key": "金牌影视",
+  "name": "🏅金牌小橙子",
+  "type": 3,
+  "api": "csp_Jpys",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/fanou.txt",
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key":"csp_Jpys",
+  "name":"🍊金牌影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+                "影片地区": "小橙子制作",
+                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
+                "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
+            }
 },	  
 {
   "key": "优酷",
