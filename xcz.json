@@ -2479,14 +2479,6 @@
   "filterable":1
 },
 {
-  "key": "freeok",
-  "name":"🌱Free影视",
-  "type": 3,
-  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-  "api": "csp_FreeOK",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722424344981/mifan.txt;md5;25de059347e76ff21b0182c5b411d9a4"
-},
-{
   "key":"csp_mgtva",
   "name":"🥑木瓜影视",
   "type":3,
