@@ -1632,6 +1632,48 @@
   "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
 },
 {
+  "key":"Vidhub视频",
+  "name":"💡视频影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./lib/Vidhub.json"
+},
+{
+  "key":"机器人",
+  "name":"💡机器影视",
+  "type":3,
+  "api":"csp_Ikanbot",
+  "jar": "https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1,
+  "ext":"https://v.aikanbot.com"
+},
+{
+  "key": "追剧",
+  "name": "🍓追剧多线",
+  "type": 3,
+  "api": "csp_AppTT",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",	
+  "playerType": 2,
+  "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+},	  
+{
+  "key": "追剧影视",
+  "name":"💡追剧影视",
+  "type": 3,
+  "api": "csp_AppZJ",
+  "jar": "http://47.99.102.252/jar/s.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://z.kzjtv.com/"
+},
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
