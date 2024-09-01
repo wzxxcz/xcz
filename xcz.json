@@ -1544,6 +1544,50 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key":"圣城影视",
+  "name":"💡圣城影视",
+  "type":3,
+  "api":"csp_SC1080",
+  "jar": "https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key": "星辰影院",
+  "name":"💡星辰影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+        "影片类型": "小橙子制作",
+        "播放标题": ">&&<[不包含:1080P]",
+        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+      }
+},	  
+{
+  "key":"愉悦影视",
+  "name":"💡愉悦影视",
+  "type":3,
+  "api":"csp_Wexyuyueys",
+  "jar":"https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;b50baf5a9e475b6e91000e3d87c8dd0c",
+  "searchable":1,
+  "changeable":1
+},
+{
+  "key":"花蕊影视",
+  "name":"💡花蕊影视",
+  "type": 3,
+  "api": "csp_Wexhuaruitv",
+  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/jiazi.jar",
+  "playerType": 1,
+  "searchable": 1,
+  "changeable": 1
+},
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
