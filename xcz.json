@@ -928,16 +928,6 @@
   "filterable": 1
 },
 {
-  "key":"美剧天堂",
-  "name":"💘美剧磁力",
-  "type":3,
-  "api":"csp_MeijuTT",
-  "jar": "https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
-{
   "key": "ygcl",
   "name": "🍊影港磁力",
   "type": 3,
