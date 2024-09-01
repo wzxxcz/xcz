@@ -1663,17 +1663,6 @@
   "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
 },	  
 {
-  "key": "追剧影视",
-  "name":"💡追剧影视",
-  "type": 3,
-  "api": "csp_AppZJ",
-  "jar": "http://47.99.102.252/jar/s.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://z.kzjtv.com/"
-},
-{
   "key":"明日影视",
   "name":"💡明日影视",
   "type":3,
