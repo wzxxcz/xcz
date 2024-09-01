@@ -798,6 +798,36 @@
       }
 },
 {
+  "key": "盘他",
+  "name": "🍄盘他U夸",
+  "type": 3,
+  "api": "csp_PanTa",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723462510172/fan.txt;md5;80004bdf8ea71093c980aa89a7d4e3d9",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+},	  
+{
+      "key": "表哥网盘",
+      "name": "🍀表哥臻享4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchenok.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://wobge.run.goorm.io/"
+      },
+      "timeout": 25
+},
+{
   "key": "优酷",
   "name": "🍊优酷(官)",
   "type": 3,
