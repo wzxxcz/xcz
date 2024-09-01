@@ -1540,17 +1540,6 @@
   "changeable":1
 },
 {
-  "key": "csp_骚火",
-  "name":"💡骚火影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/HeChengChaXiu.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/骚火影视.json"
-},
-{
   "key":"圣城影视",
   "name":"💡圣城影视",
   "type":3,
