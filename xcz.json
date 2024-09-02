@@ -1700,6 +1700,16 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/百万.json"
+},
+{
+  "key": "影咖影视",
+  "name": "💡影咖影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/影咖.json"
 },	  
 {
   "key":"大米星球",
