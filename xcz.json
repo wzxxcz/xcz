@@ -1692,6 +1692,16 @@
   "changeable":1
 },
 {
+  "key": "百万影视",
+  "name": "💡百万影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/百万.json"
+},	  
+{
   "key":"大米星球",
   "name":"🍛大米星球",
   "type":3,
