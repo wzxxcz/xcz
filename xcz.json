@@ -4090,6 +4090,17 @@
   "searchable": 1,
   "changeable": 1,
   "ext": "./lib/哈皮影视.json"
+},
+{
+  "key": "影视渣渣",
+  "name": "🍋影视渣渣",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar":"http://ttkx.live:55/lib/ttkx.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/影视渣渣.json"
 },	  
 {
   "key": "小马影视",
