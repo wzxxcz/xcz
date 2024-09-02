@@ -993,17 +993,15 @@
       }
 },
 {
-  "key": "phys",
+  "key": "胖虎影视",
   "name": "🐯胖虎影视",
   "type": 3,
-  "api": "csp_Panghu",
+  "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "playerType": 1,
-  "ext": "https://physvod.com",
-  "jar": "http://m1839732.cf.caoni.ru/meow3.jar;md5;7ED8A8EB93D557777161C48E39814528"
-},
+  "ext": "./lib/panghuys.json"
+},	  
 {
   "key": "cjzy_360资源",
   "name": "🧭360采集",
