@@ -3961,6 +3961,16 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/时代影视.json"
+},
+{
+  "key": "木易影画",
+  "name": "🖼️影画无广",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/木易影画.json"
 },	  
 {
   "key": "小柚",
