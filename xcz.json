@@ -2176,6 +2176,7 @@
   "name": "💥金漫影视",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",	
   "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
