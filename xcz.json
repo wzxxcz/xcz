@@ -6731,9 +6731,11 @@
   "header":{"User-Agent":"okhttp/3.12.11"} } 
     },
     {
-      "name": "上限万",
-      "type": 1,
-      "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
+      "name":"LX专线",
+      "url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "flag":["LXTX"],
+      "header":{"User-Agent":"Dalvik/2.1.0"},
+     "type":"1"
     },
     {
       "name": "小橙子推荐0",
