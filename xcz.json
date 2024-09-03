@@ -2171,17 +2171,6 @@
   "order_num": 0,
   "ext": "https://yubox.xyz/drpy_js/冠建影视.js"
 },
-{ "key": "金曼TV",                     
-  "name": "🍊金曼影视", 
-  "type": 3,  
-  "playerType": 1,    
-  "api": "csp_XBPQ",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "./lib/jinman.json"  
-},
 {
   "key": "金漫影视",
   "name": "💥金漫影视",
