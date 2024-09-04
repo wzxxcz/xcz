@@ -1152,14 +1152,14 @@
       }
 },
 {
-  "key": "csp_LiteApple",
-  "name": "🍎小苹果复活",
+  "key": "苹果",
+  "name": "🍎苹果不卡",
   "type": 3,
   "api": "csp_LiteApple",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725384717374/fan.txt;md5;764421b45d9fff19a772e8366c64c5e5",	
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350"
+  "changeable": 1
 },
 {
   "key": "小苹果",
