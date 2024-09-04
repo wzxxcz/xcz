@@ -1736,7 +1736,19 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"http://122.228.85.203:1000/api.php/app/"
-},	  	  	  
+},
+{
+  "key":"丘丘影视",
+  "name":"💡丘丘影视",
+  "playerType":1,
+  "type":3,
+  "api":"csp_AppYsV2",
+  "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://111.173.115.204:2211/api.php/app/"
+},	  
 {
   "key":"大米星球",
   "name":"🍛大米星球",
