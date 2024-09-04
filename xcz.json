@@ -892,15 +892,15 @@
   "filterable":1
 },
 {
-  "key": "新6V",
+  "key":"New6v",
   "name": "🧲新6V磁力",
-  "type": 3,
-  "api": "csp_SixV",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725384717374/fan.txt;md5;764421b45d9fff19a772e8366c64c5e5",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": "https://www.xb6v.com/"
+  "type":3,
+  "api":"csp_New6v",
+  "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",		
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://www.xb6v.com"
 },	  
 {
   "key":"迅雷吧",
