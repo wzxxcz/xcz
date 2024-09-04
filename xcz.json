@@ -412,15 +412,15 @@
   "name": "🌟立播秒播",
   "type": 3,
   "api": "csp_Libvio",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722550044078/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725384717374/fan.txt;md5;764421b45d9fff19a772e8366c64c5e5",	
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-},
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
+         }
+},	  
 {
   "key":"️玩偶欧",
   "name":"❤️玩偶欧4K",
