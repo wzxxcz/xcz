@@ -1630,15 +1630,15 @@
   "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
 },
 {
-  "key":"Vidhub视频",
-  "name":"💡视频影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":"./lib/Vidhub.json"
+  "key":"视频库",
+  "name":"💡视视影视",
+  "type":3,
+  "api":"csp_WebVidHub",
+  "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0,
+  "ext":"https://vidhub1.cc"
 },
 {
   "key":"机器人",
