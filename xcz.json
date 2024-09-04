@@ -1529,14 +1529,14 @@
   "ext": "./lib/SBB.json"
 },
 {
-  "key": "啾啾影视",
+  "key":"啾啾影视",
   "name":"💡啾啾影视",
-  "type": 3,
-  "api": "csp_Wexjiohub",
-  "searchable": 1,
-  "changeable": 1 ,
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar"
-},	  
+  "type":3,
+  "api":"csp_Wexjiohub",
+  "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
+  "searchable":1,
+  "changeable":1
+},
 {
   "key":"纯享影视",
   "name":"💡纯享影视",
