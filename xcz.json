@@ -1795,16 +1795,16 @@
   "ext":{"danmu":true}
 },
 {
-  "key": "JOJO",
+  "key":"JOJO弹幕",
   "name":"💡OJO弹幕",
-  "type": 3,
-  "api": "csp_Jiohub",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723648173635/okjpg.txt;md5;aaa8eb83291083d1d117ed1e65bba497",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "timeout": 10
-},
+  "type":3,
+  "api":"csp_Jiohub",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true},
+  "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
+},	  
 {
   "key":"酷看影视",
   "name":"💡欧欧影视",
