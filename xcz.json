@@ -122,9 +122,9 @@
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "site": "https://mihdr.top",
-           "danmu": true
+          "danmu": true
          }
-},
+},	  
 {
   "key": "夸克奥秘弹幕",
   "name": "🐼奥秘资源4K弹幕",
