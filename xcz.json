@@ -1490,7 +1490,18 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},	  
+},
+{
+  "key":"一起看弹幕",
+  "name":"💘起起弹幕",
+  "type":3,
+  "api":"csp_Yqk",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true},
+  "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
+},	  	  
 {
   "key":"在线之家",
   "name":"💡在线之家",
@@ -4066,17 +4077,6 @@
         "体育"
       ]
 },
-{
-  "key":"一起看弹幕",
-  "name":"💘起起弹幕",
-  "type":3,
-  "api":"csp_Yqk",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{"danmu":true},
-  "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
-},	  
 {
   "key": "小柚",
   "name": "❤小柚App",
