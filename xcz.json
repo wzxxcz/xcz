@@ -1776,14 +1776,14 @@
   "name": "📔厂长不卡",
   "type": 3,
   "api": "csp_NewCz",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",	
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",	
   "timeout": 15,
   "playerType": 2,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1,
   "ext": "https://www.czys.pro/"
-},
+},	  
 {
   "key":"厂长弹幕",
   "name":"💡厂长弹幕",
