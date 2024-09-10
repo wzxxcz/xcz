@@ -31,6 +31,14 @@
   "ext":"https://gitee.com/wzbdyr/xcz/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
 },
 {
+  "key":"开心直播点播",
+  "name":"📺︎可欣直播点播",
+  "type":3,
+  "api":"http://ttkx.live:55/lib/sdtv.js",
+  "ext":"http://ttkx.live:55/lib/kxzb1.txt",
+  "jar":"http://ttkx.live:55/lib/sdtv.jar"
+},	  
+{
   "key": "玩偶",
   "name": "⚗️小橙子玩偶",
   "type": 3,
