@@ -1123,8 +1123,7 @@
   "changeable":1,
   "playerType":"1",
   "api":"https://gitee.com/wzbdyr/xcz/raw/master/lib/drpy2.min.js",
-  "ext":"https://gitee.com/wzbdyr/xcz/raw/master/lib/jp.js",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"	
+  "ext":"https://gitee.com/wzbdyr/xcz/raw/master/lib/jp.js" 	
 },	  
 {
   "key":"荐片",
