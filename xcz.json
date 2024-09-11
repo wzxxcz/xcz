@@ -4114,6 +4114,17 @@
       ]
 },
 {
+  "key": "nangua",
+  "name": "🍘旺旺奔跑",
+  "type": 3,
+  "api": "csp_WebNM",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/bp.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://m.wwgz.cn"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
