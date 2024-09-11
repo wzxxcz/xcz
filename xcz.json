@@ -3641,12 +3641,24 @@
   "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/mygoww/xoxo/main/js/365.js"
 },
 {
-  "key": "drpy_zr",
-  "name": "🍊孜然影视",
-  "type": 3,
-  "api": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/0/main/drpy_libs/drpy2.js",
-  "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/0/main/js/分享ZR.js"
-},
+      "key": "csp_XBPQ_孜然",
+      "name": "🥰孜然影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.zrys.top",
+        "搜索Url": "https://www.zrys.top/index.php/vod/search.html?wd={wd}",
+        "标题": "title=\"&&蓝光在线播放\"",
+        "线路数组 ": "<div class=\"cf swiper-wrapper\"&&</div",
+        "分类url": "https://www.zrys.top/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}/",
+        "分类": "电视剧&电影&综艺&动漫",
+        "分类值": "2&1&3&4",
+        "地区": "中国大陆$中国大陆#香港$香港#台湾$台湾#韩国$韩国#日本$日本#泰国$泰国#英国$英国#美国$美国#新加坡$新加坡"
+      }
+},	  
 {
   "key": "XBPQ_WC",
   "name": "🍊忘川影视",
