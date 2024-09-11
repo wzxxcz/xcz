@@ -4126,6 +4126,33 @@
       ]
 },
 {
+      "key": "幺吉影视",
+      "name": "🧁幺吉影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "<div class=\"module-item-note\"&&</div",
+        "播放数组": "module-play-list-content&&</div></div>",
+        "播放列表": "<a&&/a>",
+        "播放标题": "<span>&&</span>",
+        "播放链接": "href=\"&&\"",
+        "线路数组": "class=\"module-tab-item tab-item&&<small>[替换:>>#云>>]",
+        "倒序": "0",
+        "跳转解析": "默认$空#极速$https://jx.fkpzw.com/?url=#极速①$https://jx.fkpzw.com/?url=#极速②$https://jx.fkpzw.com/?url=#极速③$https://jx.fkpzw.com/?url=#①线$https://app.fkpzw.com/?url=#②线$https://app.fkpzw.com/?url=#③线$https://app.fkpzw.com/?url=",
+        "跳转播放链接": "解析+urlDecode(var player_*url\":\"&&\")",
+        "分类url": "https://vip.yjitv.com/yjyy/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html[https://vip.yjitv.com/yjys/{cateId}/{catePg}.html];;mak",
+        "分类": "电影&电视剧&动漫&综艺",
+        "分类值": "dianying&dianshiju&dongmna&zongyi",
+        "筛选": "1",
+        "类型": "动作片$dzp#喜剧片$xjp#爱情片$aqp#科幻片$khp#恐怖片$kbp#剧情片$jqp#战争片$zzp||国产剧$gcj#港台剧$gtj#日韩剧$rhj#海外剧$hwj||空||空||空||空",
+        "年份": "2000-2024",
+        "排序": "最新$time#最热$hits#评分$score"
+      }
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
