@@ -338,20 +338,6 @@
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"
 },
 {
-  "key": "盘Se",
-  "name": "🙀盘Se搜索",
-  "type": 3,
-  "api": "csp_PanSearch",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722791745724/fan.txt;md5;6569779195625775f841ee964e8cec56",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-        "token": "file://TV/ali_token.txt"
-      },
-      "timeout": 15
-},
-{
   "key":"玩弹幕1",
   "name":"❤玩哥弹幕",
   "type":3,
