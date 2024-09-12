@@ -1192,6 +1192,7 @@
   "name": "🥑木耳资源",
   "type": 3,
   "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
