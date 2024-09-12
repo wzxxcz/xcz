@@ -470,22 +470,6 @@
          }
 },
 {
-  "key": "玩偶哥哥",
-  "name": "⛅饭偶扫码4K",
-  "type": 3,
-  "api": "csp_WoGG",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/fan0708.zip",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.link/",
-        "danMu": "弹"
-      }
-},
-{
   "key":"夸克玩弹幕2",
   "name":"❤玩歌夸克",
   "type":3,
