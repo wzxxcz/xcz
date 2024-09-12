@@ -330,61 +330,6 @@
   "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
 },	  
 {
-  "key":"️玩偶欧",
-  "name":"❤️玩偶欧4K",
-  "type":3,
-  "api":"csp_XYQHikerAL",
-  "jar": "https://v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/woo.json"
-},
-{
-  "key": "UpYun",
-  "name": "😻Up搜搜索",
-  "type": 3,
-  "api": "csp_UpYun",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-},
-{
-  "key": "PanSou",
-  "name": "🦊盘搜搜索",
-  "type": 3,
-  "api": "csp_PanSou",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-        "aliToken": "tvfan/token.txt",
-        "from": "4k|auto|fhd"
-      }
-},
-{
-  "key": "土豆网盘",
-  "name": "🥔土豆4K",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722354122940/okjpg.txt;md5;da8c509c5278a9e5bfb340e84b9defd7",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top"
-      },
-      "timeout": 25
-},
-{
   "key":"夸克趣盘搜弹幕",
   "name":"❤趣盘弹幕",
   "type":3,
@@ -411,86 +356,6 @@
            "Cloud-drive": "tvfan/Cloud-drive.txt",
            "from": "4k|auto"
          }
-},
-{
-  "key":"夸克玩弹幕2",
-  "name":"❤玩歌夸克",
-  "type":3,
-  "api":"csp_Wobg",
-  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;cf4951e1584289a42b16454d7316dbac",	
-  "quickSearch":1,
-  "changeable":1,
-  "filterable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-  "site":"https://wou.nxog.eu.org","danmu":true}
-},
-{
-  "key":"夸克玩弹幕5",
-  "name":"❤玩妹夸克",
-  "type":3,
-  "api":"csp_Wobg",
-  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;cf4951e1584289a42b16454d7316dbac",		
-  "quickSearch":1,
-  "changeable":1,
-  "filterable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-  "site":"https://tv.yydsys.top","danmu":true}
-},
-{
-  "key":"夸克玩弹幕6",
-  "name":"❤玩欧夸克",
-  "type":3,
-  "api":"csp_Wobg",
-  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;cf4951e1584289a42b16454d7316dbac",		
-  "quickSearch":1,
-  "changeable":1,
-  "filterable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-  "site":"https://duopan.fun","danmu":true}
-},
-{
-  "key":"夸克玩弹幕4",
-  "name":"❤玩姐夸克",
-  "type":3,
-  "api":"csp_Wobg",
-  "jar": "https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;cf4951e1584289a42b16454d7316dbac",	
-  "quickSearch":1,
-  "changeable":1,
-  "filterable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-  "site":"https://woj.nxog.eu.org","danmu":true}
-},
-{
-  "key": "csp_XYQHikerAL_影搜",
-  "name": "⛵影搜网盘",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/yingso.json"
-},
-{
-  "key": "土豆弹幕版",
-  "name": "🥔土豆弹幕4K",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchenok.jar",
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://tudou.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
 },
 {
       "key": "土豆弹幕",
@@ -589,21 +454,6 @@
   "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
 },	  
 {
-  "key":"玩弹幕2",
-  "name":"❤玩备弹幕",
-  "type":3,
-  "api":"csp_Wogg",
-  "quickSearch":1,
-  "changeable":1,
-  "filterable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-	   "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-	   "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
-	   "site":"https://wogg.xxooo.cf","danmu":true
-        },
-  "jar":"https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;894cf6d2fa3a41069f2cf7be7669460d"
-},
-{
   "key":"夸克盘搜弹幕",
   "name":"❤夸克搜弹幕",
   "type":3,
@@ -671,23 +521,17 @@
            "Cloud-drive": "tvfan/Cloud-drive.txt",
            "from": "4k|auto"
          }
-},	  
-{
-      "key": "表哥网盘",
-      "name": "🍀表哥臻享4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchenok.jar",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://wobge.run.goorm.io/"
-      },
-      "timeout": 25
 },
+{
+  "key": "土豆",
+  "name": "🥔土豆臻享4K",
+  "type": 3,
+  "api": "csp_Wextudou",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen0615.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},	  
 {
   "key": "mt",
   "name": "🏅摩托4K",
