@@ -500,17 +500,6 @@
       }
 },
 {
-  "key": "csp_XYQHikerAL_阿里云盘网",
-  "name": "🚁阿里云盘",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "jar": "https://gitee.com/SiestaYU/tvbox/raw/master/lib/dongchen.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/alypw.json"
-},
-{
   "key": "土豆网盘",
   "name": "🥔土豆4K",
   "type": 3,
