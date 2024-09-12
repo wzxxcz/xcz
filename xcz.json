@@ -504,16 +504,6 @@
   "jar":"https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;894cf6d2fa3a41069f2cf7be7669460d"
 },
 {
-  "key": "土豆",
-  "name": "🥔土豆臻享4K",
-  "type": 3,
-  "api": "csp_Wextudou",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen0708.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
   "key": "米搜",
   "name": "🦋小米盘搜",
   "type": 3,
