@@ -1135,15 +1135,16 @@
   "changeable": 1
 },
 {
-  "key":"可可影视",
+  "key": "csp_XYQHiker_可可影视",
   "name":"💡可可影视",
   "type":3,
-  "api":"csp_Keke",
-  "jar":"https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "api":"csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",	
   "searchable":1,
   "quickSearch":1,
-  "filterable":1
-},
+  "filterable":1,
+  "ext":"./lib/可可影视.json"
+},	  
 {
   "key": "shiju影视",
   "name": "🔥视觉影院",
