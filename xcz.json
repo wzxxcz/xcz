@@ -1238,16 +1238,17 @@
   "changeable":1
 },
 {
-  "key": "csp_素白",
+  "key": "js_subaibai",
   "name":"💡素白影视",
   "type": 3,
-  "api": "csp_XBPQ",
-  "jar":"http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",	
+  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/SBB.json"
-},
+  "ext": "http://ttkx.live:55/lib/素白白[优].js"
+},	  
 {
   "key":"啾啾影视",
   "name":"💡啾啾影视",
