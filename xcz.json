@@ -246,17 +246,6 @@
   "timeout": 15
 },
 {
-  "key": "Gitcafe",
-  "name": "🚀小纸条云盘",
-  "type": 3,
-  "api": "csp_Gitcafe",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-},
-{
   "key": "小纸条弹幕",
   "name": "🚟小纸条弹幕",
   "type": 3,
