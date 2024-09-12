@@ -1186,7 +1186,18 @@
   "filterable":1,
   "ext":{"danmu":true},
   "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
-},	  	  
+},
+{
+  "key": "hipy_js_黑木耳资源[资]",
+  "name": "🥑木耳资源",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://ttkx.live:55/lib/黑木耳资源[资].js"
+},	  
 {
   "key":"在线之家",
   "name":"💡在线之家",
