@@ -371,17 +371,6 @@
   "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
 },
 {
-  "key":"搜索弹幕",
-  "name":"❤搜索弹幕",
-  "type":3,
-  "api":"csp_PanSearch",
-  "searchable":1,
-  "filterable":0,
-  "changeable":1,
-  "ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true},
-  "jar":"https://xn--pwu-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"
-},
-{
   "key":"立播弹幕",
   "name": "🌟立播秒播",
   "type":3,
