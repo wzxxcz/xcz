@@ -930,16 +930,15 @@
             }
 },
 {
-  "key": "csp_4k影视",
+  "key":"4K影视",
   "name": "💚4k影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
   "ext":"./lib/4K影视.json"
-},
+},	  
 {
   "key": "糯米",
   "name": "🍙糯米秒播",
