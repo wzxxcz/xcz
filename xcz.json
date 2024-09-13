@@ -1083,6 +1083,14 @@
   "timeout": 10
 },
 {
+  "key": "畅梦",
+  "name": "💡畅梦影视",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "ext": "http://ttkx.live:55/lib/畅梦.js"
+},	  
+{
   "key": "小点",
   "name": "💥小点多线",
   "type": 3,
