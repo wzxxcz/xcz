@@ -1917,16 +1917,14 @@
       ]
 },
 {
-  "key": "csp_茶杯",
+  "key":"茶狐杯",
   "name": "🍵茶杯影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar":"http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "playerType": 1,
-  "ext": "./lib/茶杯狐.json"
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/茶狐杯.json"
 },
 {
   "key": "hipy_js_8号影院",
