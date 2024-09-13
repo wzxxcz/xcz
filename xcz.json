@@ -72,18 +72,6 @@
          }
 },
 {
-  "key": "万色山川",
-  "name": "🏔️万色山川4K纯净",
-  "type": 3,
-  "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/123qq.js"
-},
-{
   "key":"欧歌幕1",
   "name":"🐲小橙子4K弹幕",
   "type":3,
