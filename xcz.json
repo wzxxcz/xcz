@@ -1790,15 +1790,15 @@
   "ext":"./lib/剧圈圈.json"
 },
 {
-  "key": "光棍影视",
-  "name": "🍊光棍影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "filterable": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "ext": "分类url:https://www.ggdy.net/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
-},
+  "key":"光棍影视",
+  "name":"🍊光棍秒播",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/guangun.json"
+},	  
 {
   "key": "1080资源",
   "name": "🔥1080资源",
