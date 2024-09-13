@@ -5421,16 +5421,6 @@
   "分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}
 },
 {
-  "key": "csp_xBPQ_小茶狐",
-  "name": "🍊小茶狐",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/小茶狐.json"
-},
-{
   "key": "app影视",
   "name": "🍊app影视",
   "type": 3,
