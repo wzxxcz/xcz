@@ -1188,6 +1188,13 @@
   "filterable": 1,
   "order_num": 0,
   "ext": "http://ttkx.live:55/lib/黑木耳资源[资].js"
+},
+{
+  "key": "碟调影视",
+  "name": "🏰碟调蓝光在线",
+  "type": 3,
+  "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js"
 },	  
 {
   "key":"在线之家",
