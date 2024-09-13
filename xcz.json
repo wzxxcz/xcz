@@ -1013,14 +1013,15 @@
   "changeable": 1
 },	  
 {
-  "key": "csp_文才",
-  "name": "💜文才(有广)",
+  "key": "文采xp",
+  "name": "♨️文采蓝光纯净",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
-  "ext": "./lib/文才.json"
+  "filterable": 1,
+  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=文采"
 },
 {
   "key": "南瓜",
