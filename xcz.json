@@ -1731,26 +1731,6 @@
   "filterable":1
 },	  
 {
-  "key": "华为",
-  "name": "🍇华为采集",
-  "type": 1,
-  "api": "https://cjhwba.com/api.php/provide/vod",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "timeout": 10
-},
-{
-  "key": "php_huaweiba",
-  "name": "🍇华为吧",
-  "type": 4,
-  "api": "https://t4.doube.eu.org/huaweiba.php",
-  "searchable": 1,
-  "quickSearch":0,
-  "filterable":0
-},
-{
       "key": "华为",
       "name": "🌼华为影视",
       "type": 1,
