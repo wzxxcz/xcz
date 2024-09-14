@@ -1832,6 +1832,16 @@
   "ext": "https://gitee.com/wxbtt/bbtv/raw/master/lib/采集之王.js?type=url&params=https://gitee.com/wxbtt/bbtv/raw/master/lib/采集静态.json"
 },
 {
+  "key":"采集之王",
+  "name":"🐲采王采集",
+  "type":3,
+  "api":"https://xn--bmw-mf3g9f.v.nxog.top/m/js/drpy2.min.js",
+  "searchable":1,
+  "quickSearch":1,
+  "order_num":142,
+  "ext":"https://xn--bmw-mf3g9f.v.nxog.top/m/js/采集之王.js?type=url&params=https://xn--bmw-mf3g9f.v.nxog.top/m/json/采集静态.json"
+},	  
+{
   "key": "csp_不卡",
   "name": "🌴不卡影视",
   "type": 3,
