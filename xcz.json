@@ -608,14 +608,14 @@
   "filterable":1
 },
 {
-  "key": "SeedHub",
-  "name": "🧲Seed影视",
-  "type": 3,
-  "api": "csp_SeedHub",
-  "jar": "http://47.99.102.252/jar/0725.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
+  "key":"SeedHub",
+  "name":"🎃SeedHub磁力",
+  "type":3,
+  "api":"csp_SeedHub",
+  "jar": "https://xn--tft-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
 },
 {
   "key":"美剧天堂",
