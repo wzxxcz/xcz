@@ -661,7 +661,7 @@
   "filterable":1
 },
 {
-  "key": "ygcl",
+  "key": "csp_XYQHikerdyx",
   "name": "🍊影港磁力",
   "type": 3,
   "api": "csp_XYQHiker",
@@ -669,7 +669,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/影港磁力.json",
-  "jar": "http://m1839732.cf.caoni.ru/meow4.jar;md5;369DE8C4321A5C0ED6E7497F93863319"
+  "jar": "https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
 },
 {
   "key": "hipy_js_4k剧院",
