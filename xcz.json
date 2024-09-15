@@ -6414,6 +6414,19 @@
       }
 },
 {
+  "key": "VS影院",
+  "name": "🍹VS影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+           "简介": "小橙子为您剧情介绍:+",
+           "线路数组": "#playlist&&</a>",
+           "分类url": "https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html",
+           "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+         },
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/XBPQ.jar"
+},
+{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
