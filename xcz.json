@@ -347,20 +347,6 @@
   "jar":"https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;894cf6d2fa3a41069f2cf7be7669460d"
 },
 {
-  "key": "米搜",
-  "name": "🦋小米盘搜",
-  "type": 3,
-  "api": "csp_MIPanSo",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",		
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},
-{
       "key": "土豆弹幕",
       "name": "🥔玩偶土豆4K弹幕",
       "type": 3,
