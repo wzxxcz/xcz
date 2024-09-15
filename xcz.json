@@ -3947,7 +3947,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://gitee.com/zhan-zhaobb/MVP/raw/master/json/10voflix.json"
+  "ext": "./lib/10voflix.json"
 },
 {
   "key": "小柚",
