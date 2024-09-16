@@ -4241,15 +4241,13 @@
       }
 },
 {
-  "key":"csp_河马",
+  "key": "河马",
   "name":"🦛河马影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
-	  "分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}
+  "type": 3,
+  "api": "csp_Hmys",
+  "playerType": 1,
+  "ext": "https://m.jmzp.net.cn",
+  "jar": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/FxzHm.jar?ref=master"
 },
 {
   "key":"橙汁",
