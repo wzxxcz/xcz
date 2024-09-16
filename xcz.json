@@ -3991,6 +3991,13 @@
   "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享HD.js?ref=master"
 },
 {
+  "key": "hipy_js_fxz旋风",
+  "name": "🌪️分享旋风",
+  "type": 3,
+  "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
+  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享XF.js"
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
