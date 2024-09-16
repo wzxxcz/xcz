@@ -3975,17 +3975,6 @@
   "ext": "./lib/10voflix.json"
 },
 {
-  "key": "fxzgy",
-  "name": "💖分享腾云",
-  "playerType": 1,
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://110.40.61.7:81/api.php/app/"
-},
-{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -6708,7 +6697,7 @@
       "url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
       "flag":["LXTX"],
       "header":{"User-Agent":"Dalvik/2.1.0"},
-     "type":"1"
+      "type":"1"
     },
     {
 	    "name":"666专线",
@@ -6724,11 +6713,6 @@
 	    "type":0,
 	    "url":"https://jx.yparse.com/index.php?url=",
 	    "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-    },
-    {
-	    "name":"LX专线",
-	    "url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-	    "flag":["LXTX"],"header":{"User-Agent":"Dalvik/2.1.0"},"type":"1"
     },
     {
 	    "name":"BD专线",
