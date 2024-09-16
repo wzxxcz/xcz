@@ -3975,6 +3975,17 @@
   "ext": "./lib/10voflix.json"
 },
 {
+  "key": "fxzgy",
+  "name": "💖分享腾云",
+  "playerType": 1,
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://110.40.61.7:81/api.php/app/"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
