@@ -215,20 +215,6 @@
   "timeout": 15
 },
 {
-  "key": "小纸条弹幕",
-  "name": "🚟小纸条弹幕",
-  "type": 3,
-  "api": "csp_XiaoZhiTiao",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/jar/xiaozt.jar",
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "danmu": true
-      }
-},
-{
   "key": "多多弹幕",
   "name": "🍥多多弹幕4K弹幕",
   "type": 3,
