@@ -1262,6 +1262,18 @@
   "type": 3,
   "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
   "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js"
+},
+{
+  "key":"君君",
+  "name":"💡君君影视",
+  "type":3,
+  "changeable":0,
+  "api":"csp_AppYsV2",
+  "jar": "https://xn--b3s-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://122.228.85.203:1000/api.php/app/"
 },	  
 {
   "key":"在线之家",
@@ -6657,6 +6669,12 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name":"4K解析",
+      "type":1,
+      "url":"http://1.xiaomi666.work.gd/aini10.php?url=",
+      "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}
     },
     {
       "name": "剖云",
