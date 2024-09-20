@@ -924,7 +924,18 @@
   "quickSearch": 1,
   "filterable": 1,
   "timeout": 15
-},	  
+},
+{
+  "key":"小苹果弹幕",
+  "name":"💘苹果弹幕",
+  "type":3,
+  "api":"csp_Xpg",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true},
+  "jar":"https://xn--saw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
+},	  	  
 { 
   "key": "酷云$七七",
   "name": "🌤️酷云七七",
