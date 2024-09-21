@@ -1708,6 +1708,15 @@
   "ext":"./lib/HDmoli.json"
 },
 {
+  "key":"农民影视",
+  "name":"💡农民影视",
+  "type":3,
+  "api":"csp_WexNmys",
+  "jar": "https://xn--dpu-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "changeable":1
+},
+{
   "key": "快乐影视",
   "name": "⭐快乐大全秒播",
   "type": 3,
@@ -2677,17 +2686,6 @@
         "分类": "电视剧$dianshiju#动漫$dongman#综艺$zongyi#电影$dianying"
       }
 },
-{
-  "key": "drpy_bx",
-  "name": "👨‍🌾农民直连",
-  "api":"https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
-  "type": 3,
-  "searchable": 1,
-  "changeable": 0,
-  "quickSearch": 1,
-  "playerType": "2",
-  "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享BX.json"
-},	  
 {
   "key":"西屋影视",
   "name": "💚西屋影视",
