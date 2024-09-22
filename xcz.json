@@ -4079,6 +4079,16 @@
         }
 },
 {
+  "key": "fxznl",
+  "name": "🍼奶酪影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享nl.json?ref=master"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
