@@ -2191,16 +2191,6 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
 },
 {
-  "key":"csp_xBPQ_奇优",
-  "name":"🍊奇优秒播",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/qiyou.json"
-},
-{
   "key": "csp_xBPQ_奇优",
   "name": "🍊奇优影院",
   "type": 3,
