@@ -4023,7 +4023,13 @@
   "type": 3,
   "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
   "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享XF.js"
-},	  
+},
+{
+  "key": "fxz小猫咪",
+  "name": "🐈猫咪影视",
+  "type": 1,
+  "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
@@ -6671,6 +6677,38 @@
       "name": "Web聚合",
       "type": 3,
       "url": "Web"
+    },
+    {
+      "name": "🍊小橙子主解c",
+      "type": 1,
+      "url": "http://122.228.85.203:7979/api/?key=b9ef43e71b3fc7fb3c23a9ff8f970d18&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "NBY",
+          "ST4K"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "🍊小橙子主解d",
+      "url": "http://43.248.100.147:6068/KEY/70xgjgj.php?url=",
+      "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
     },
     {
       "name":"4K解析",
