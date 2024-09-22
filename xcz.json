@@ -1734,6 +1734,16 @@
          }
 },
 {
+  "key": "fxznl",
+  "name": "🍼奶酪影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享nl.json?ref=master"
+},
+{
   "key": "小马",
   "name": "🐎小马蓝光纯净",
   "type": 3,
@@ -4077,16 +4087,6 @@
            "分类url": "https://www.skr2.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/",
            "分类": "电影$84#大陆剧$81#港台剧$82#桜剧$32#桜漫$1#日漫$46#国漫$47#美漫$85#综艺$91"
         }
-},
-{
-  "key": "fxznl",
-  "name": "🍼奶酪影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/分享nl.json?ref=master"
 },
 {
   "key": "小柚",
