@@ -4089,6 +4089,19 @@
         }
 },
 {
+  "key": "fxzlc",
+  "name": "🧃绿茶影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
+  "ext": {
+           "分类url": "https://lvcha.asia/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;m",
+           "编码": "UTF-8",
+           "请求头": "手机",
+           "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+         }
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
