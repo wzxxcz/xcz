@@ -1715,6 +1715,14 @@
   "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
 },
 {
+  "key": "hipy_js_fxzpt",
+  "name": "🍇葡萄影视",
+  "type": 3,
+  "ua": "okhttp/3.15",
+  "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享葡萄.js"
+},
+{
   "key": "小马",
   "name": "🐎小马蓝光纯净",
   "type": 3,
