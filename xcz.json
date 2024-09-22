@@ -4039,6 +4039,16 @@
   "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
 },
 {
+  "key": "fxzKY1",
+  "name": "🍊魔影影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://111.173.115.204:5566/api.php/app/"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
