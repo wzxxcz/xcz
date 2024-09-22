@@ -1723,6 +1723,17 @@
   "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享葡萄.js"
 },
 {
+  "key": "nu",
+  "name": "🍊Nuu影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
+  "ext": {
+          "分类url": "https://nuu.su/x/id/{cateId}/page/{catePg}.html",
+          "分类": "https://json.heimuer.xyz/api.php/provide/vod?ac=list"
+         }
+},
+{
   "key": "小马",
   "name": "🐎小马蓝光纯净",
   "type": 3,
