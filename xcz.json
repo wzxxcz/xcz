@@ -4188,7 +4188,30 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
-},	  
+},
+{
+  "key":"UU影视",
+  "name":"✨UU影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{
+	  "请求头":"User-Agent$MOBILE_UA",
+	  "编码":"UTF-8",
+	  "主页url":"https://uuys.cc",
+	  "二次截取":"module-page&&<divid=\"page\">",
+	  "数组":"<a&&</div></div>",
+	  "图片":"data-original=\"&&\"",
+	  "标题":"title=\"&&\"",
+	  "链接":"href=\"&&\"",
+	  "副标题":"🍊module-item-note&&</div>",
+	  "线路数组":"itemtab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
+	  "线路标题":"<span>&&</span>+【共+<small>&&</small>+集】",
+	  "播放数组":"module-play-list\"&&</div>",
+	  "播放标题":">&&</","简介":"小橙子提醒您，请勿相信视频里的广告！🍊+<p>&&</p>",
+	  "搜索url":"https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
+	  "分类url":"https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+	  "分类":"电影$2#电视剧$1#综艺$4#动漫$3"}
+},
 {
   "key": "七味影视",
   "name": "🌿七味蓝光秒播",
