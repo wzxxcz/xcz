@@ -4973,16 +4973,6 @@
   "jar": "http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3"
 },
 {
-  "key": "csp_xBPQ_jishu",
-  "name": "🍊极速影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "./lib/极速.json"
-},
-{
   "key":"圆周率",
   "name":"🍊率率影视",
   "api":"csp_AppYsV2",
@@ -5932,6 +5922,16 @@
         "日韩综艺",
         "欧美综艺"
       ]
+},
+{
+  "key":"极速影视",
+  "name":"🍊极速影视",
+  "type":0,
+  "playerType":2,
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "api":"https://jszyapi.com/api.php/provide/vod/at/xml"
 },
 {
   "key":"csp_appysv2_天天视频",
