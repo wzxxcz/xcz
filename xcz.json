@@ -1711,6 +1711,18 @@
   "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
 },
 {
+  "key":"墨点影视",
+  "name":"🕶️墨点影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "分类url":"https://www.modiandy.com/area/{area}/by/{by}/class/{class}/{cateId}/page/{catePg}/year/{year}",
+	  "分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#微电影$weidianying"}
+},	  
+{
   "key":"隔壁老王",
   "name":"🕵️‍♀️老王电影",
   "type":3,
