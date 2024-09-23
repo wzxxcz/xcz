@@ -2032,16 +2032,18 @@
   "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
 },
 {
-  "key": "csp_Pptv",
+  "key":"皮皮影视",
   "name": "🦐皮皮蓝光",
-  "type": 3,
-  "api": "csp_Pptv",
-  "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;0559B6AA34618E48F93C166F2D5E7479",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.myd04.com"
-},
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "分类url":"https://pptv09.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+	  "分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$5"
+        }
+},	  
 {
       "key": "飞刀",
       "name": "🗡️飞刀蓝光",
