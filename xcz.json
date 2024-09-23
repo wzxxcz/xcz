@@ -4134,6 +4134,17 @@
   "ext": "./lib/好影影视.json"
 },
 {
+  "key": "凯少爷蚂蚁影库",
+  "name": "🐜蚂蚁影库",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/xyqxbpq.jar",
+  "ext": {
+           "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+           "分类url": "https://www.mayiyingku.com/type/{cateId}.html"
+         }
+},	  
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
