@@ -4190,6 +4190,16 @@
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
 {
+  "key":"开心影视",
+  "name":"🍊开心影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{
+	  "分类url":"http://www.cnqksz.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+	  "分类":"电影&电视剧&综艺&动漫&动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&动画片&纪录片&国产剧&香港剧&韩国剧&欧美剧&台湾剧&日本剧&其它剧",
+	  "分类值":"1&2&3&4&6&7&8&9&10&11&12&24&23&13&14&15&16&20&21&22"}
+},
+{
   "key":"UU影视",
   "name":"✨UU影视",
   "type":3,
