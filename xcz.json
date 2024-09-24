@@ -1421,6 +1421,17 @@
   "ext":"./lib/兄弟影视.json"
 },
 {
+  "key": "csp_XYQH_mf影院",
+  "name": "💡明妃影视",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/免费影视.json",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"
+},	  
+{
   "key":"米米影视",
   "name":"💡米米影视",
   "type":3,
