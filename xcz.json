@@ -7167,6 +7167,64 @@
       "type": "1"
     },
     {
+      "name": "🍊可欣专线6",
+      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
+    {
+      "name": "🍊可欣专线7",
+      "url": "https://api.huohua.vip/api/?key=LqSFybBQvYzN52Tneg&url=",
+      "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
+    {
+      "name": "🍊小橙子聚合",
+      "url": "http://43.248.100.147:6068//KEY/XGJ/root/key/44jxzy.php?url=",
+      "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua",
+        "NBY",
+        "ETH-",
+        "mytv",
+        "nmys",
+        "BBA",
+        "4kvip",
+        "m78"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
+    {
       "name":"4K解析",
       "type":1,
       "url":"http://1.xiaomi666.work.gd/aini10.php?url=",
@@ -7188,10 +7246,10 @@
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "header": {
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36"
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
         }
       }
-    },  
+    },
     {
       "name": "🌎壹壹",
       "type": 1,
