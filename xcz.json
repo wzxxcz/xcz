@@ -4180,6 +4180,17 @@
          }
 },
 {
+  "key":"黑狐影视T4",
+  "name":"🦊黑狐影视",
+  "type":4,
+  "api":"https://catbox.n13.club/t4/heihu.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":true
+},	  
+{
   "key": "吉吉短剧",
   "name": "🍊吉吉影视",
   "type": 3,
@@ -6535,16 +6546,6 @@
         "分类url": "https://qzy998-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#连续剧$2#动漫$4#综艺$3#记录片$5"
       }
-},
-{
-  "key": "csp_XBPQ_lz",
-  "name": "🍊黑乎影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/黑乎影视.json"
 },
 {
   "key":"csp_XBPQ_dudu30",
