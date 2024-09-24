@@ -1419,6 +1419,16 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/兄弟影视.json"
+},
+{
+  "key": "兄弟影视",
+  "name":"💡兄弟影视",
+  "type": 3,
+  "api": "csp_Xdys",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },	  
 {
   "key":"米米影视",
