@@ -1425,7 +1425,7 @@
   "name":"💡兄弟影视",
   "type": 3,
   "api": "csp_Xdys",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
