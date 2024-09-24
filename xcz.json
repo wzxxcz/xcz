@@ -1701,6 +1701,17 @@
   "changeable":1
 },
 {
+  "key": " fxzds ",
+  "name": "🦘袋鼠影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XBPQ%20(2).jar",
+  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/分享DS.json"
+},	  
+{
   "key": "快乐影视",
   "name": "⭐快乐大全秒播",
   "type": 3,
