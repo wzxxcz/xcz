@@ -6945,6 +6945,16 @@
       }
     },
     {
+      "name": "🍊小橙子主解b",
+      "type": 1,
+      "url": "http://122.228.85.203:6789/api/?key=b0eb275e1d779b0b2c0f9644f6d6bf83&url=",
+      "ext": {
+        "flag": [
+          "qq"
+        ]
+      }
+    },
+    {
       "name": "🍊小橙子主解c",
       "type": 1,
       "url": "http://122.228.85.203:7979/api/?key=b9ef43e71b3fc7fb3c23a9ff8f970d18&url=",
@@ -6975,6 +6985,49 @@
         "User-Agent": "Dalvik/2.1.0"
       },
       "type": "1"
+    },
+    {
+      "name": "🍊小橙子主解",
+      "type": 1,
+      "url": "http://101.34.60.156/api/?key=6ee72d9fd3e5b8b1aaa75b014bf0069f&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip",
+          "ltnb",
+          "rrmj",
+          "gzsp",
+          "xigua",
+          "ST4K",
+          "NBY",
+          "BBA"
+        ]
+      }
     },
     {
       "name": "🍊小橙子主解1",
@@ -7041,6 +7094,79 @@
       }
     },
     {
+      "name": "🍊小橙子主解4",
+      "type": 1,
+      "url": "https://jx.xiaofengtv.com/M3/json.php/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ]
+      }
+    },
+    {
+      "name": "🍊小橙子主解5",
+      "type": 1,
+      "url": "http://43.136.176.188:91/api/?key=7c042082ebe5f467569e8faa896b7e30&url=",
+      "ext": {
+        "flag": [
+          "imgo",
+          "youku",
+          "qq",
+          "NBY",
+          "4K"
+        ]
+      }
+    },
+    {
+      "name": "🍊可欣专线",
+      "url": "http://43.248.100.147:6068/bba/781xgjjson.php?url=",
+      "flag": [
+        "BBA"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
+    {
+      "name": "🍊可欣专线3",
+      "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
+      "flag": [
+        "4kvip"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
+    {
+      "name": "🍊可欣专线4",
+      "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
+      "flag": [
+        "m78"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
+    {
       "name":"4K解析",
       "type":1,
       "url":"http://1.xiaomi666.work.gd/aini10.php?url=",
@@ -7105,7 +7231,7 @@
   "header":{"User-Agent":"okhttp/3.12.11"} } 
     },
     {
-      "name":"LX专线",
+      "name":"🍊LX专线",
       "url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
       "flag":["LXTX"],
       "header":{"User-Agent":"Dalvik/2.1.0"},
@@ -7239,16 +7365,16 @@
             }
     },
     {
-            "name": "小橙子专线1",
-            "type": "1",
-            "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
-            "flag": [
-                "NBY"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-   },  
+      "name": "🍊小橙子专线1",
+      "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
+      "flag": [
+        "NBY"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
     {
       "name": "羽路均沾",
       "type": 0,
