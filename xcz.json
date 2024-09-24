@@ -6915,6 +6915,36 @@
       "url": "Web"
     },
     {
+      "name": "🍊小橙子主解a",
+      "type": 1,
+      "url": "https://jk.tvd.us.kg/home/api?type=ys&uid=1305086&key=bhjkqrsvwzCGHKUW13&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
       "name": "🍊小橙子主解c",
       "type": 1,
       "url": "http://122.228.85.203:7979/api/?key=b9ef43e71b3fc7fb3c23a9ff8f970d18&url=",
@@ -6945,6 +6975,70 @@
         "User-Agent": "Dalvik/2.1.0"
       },
       "type": "1"
+    },
+    {
+      "name": "🍊小橙子主解1",
+      "type": 1,
+      "url": "https://jxjson.icu/neibu.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "🍊小橙子主解3",
+      "type": 1,
+      "url": "http://110.42.99.99:3722/lg.php/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
     },
     {
       "name":"4K解析",
