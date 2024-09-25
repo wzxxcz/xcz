@@ -7238,6 +7238,47 @@
       "type": "1"
     },
     {
+	    "name":"可欣解析1",
+	    "type":1,
+	    "url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+	    "ext":{
+		    "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],
+		    "header":{"User-Agent":"okhttp/4.9.1"}}
+    }, 
+    {
+	    "name":"-关注小橙子-",
+	    "type":0,
+	    "url":"https://cdn.zyc888.top/?url=",
+	    "ext":{
+		    "header":{
+			    "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+			    "referer":"https://jiejie.uk/"
+		             }
+	         }
+    },
+    {
+	    "name":"-小橙子APP-",
+	    "type":0,
+	    "url":"https://jx.jsonplayer.com/player/?url=",
+	    "ext":{
+		    "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
+		    "header":{
+			       "User-Agent":"okhttp/4.1.0"
+		             }
+	          }
+    },
+    {
+	    "name":"-关注可欣-",
+	    "type":0,
+	    "url":"https://www.8090g.cn/?url=",
+	    "ext":{
+		    "header":{
+			       "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+			       "referer":"https://www.xyflv.cc/"
+		             }
+	          }
+    },
+    {
       "name":"4K解析",
       "type":1,
       "url":"http://1.xiaomi666.work.gd/aini10.php?url=",
@@ -7369,10 +7410,15 @@
       "url": "https://www.pangujiexi.com/jiexi/?url="
     }, 
     {
-      "name": "IK9",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url="
-    },
+	    "name": "IK9",
+	    "type":0,
+	    "url":"https://yparse.ik9.cc/index.php?url=",
+	    "ext":{
+		    "header":{
+			       "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+		             }
+	          }
+    },  
     {
       "name": "小橙子推荐0",
       "type": 1,
@@ -7523,12 +7569,6 @@
       "name":"线路3",
       "type":0,
       "url":"https://jx.yparse.com/index.php?url=",
-      "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-    },
-    {
-      "name":"线路4",
-      "type":0,
-      "url":"https://jx.jsonplayer.com/player/?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
     },
     {
@@ -7732,7 +7772,6 @@
     },
 {"name":"蚂蚁天下","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 	{"name":"线路6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-	{"name":"线路7","type":0,"url":"https://www.8090g.cn/?url="},
 	{"name":"线路8","type":0,"url":"https://jx.yangtu.top?url="},
 	{"name":"线路9","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
   {
@@ -8470,7 +8509,6 @@
 {"name":"-关注-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
 {"name":"-欧歌-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"-公众号-","type":0,"url":"https://jx.m3u8.pw/?url="},
-{"name":"-欧歌APP-","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"-谢谢-","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
     {
       "name": "♻️玉米1",
@@ -9727,16 +9765,6 @@
         ],
         "header": {
           "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "-777-",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
         }
       }
     },
