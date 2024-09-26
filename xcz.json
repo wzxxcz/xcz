@@ -93,6 +93,7 @@
   "name": "☁️云星资源4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",	
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -925,16 +926,18 @@
   "changeable": 1
 },
 {
-  "key": "小苹果",
+  "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
   "api": "csp_Xpg",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "timeout": 15
-},
+  "ext": {
+           "danmu": true
+         }
+},	  
 {
   "key":"小苹果弹幕",
   "name":"💘苹果弹幕",
