@@ -1286,6 +1286,17 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"http://122.228.85.203:1000/api.php/app/"
+},
+{
+  "key": "说给风听",
+  "name": "🌀说给风听",
+  "playerType": 1,
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://www.6qu.top/api.php/app/"
 },	  
 {
   "key":"在线之家",
