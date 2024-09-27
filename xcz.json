@@ -104,7 +104,24 @@
            "wogg": true,
            "danmu": true
         }
-},	  
+},
+{
+  "key": "玩偶备用弹幕",
+  "name": "🌎玩偶备用4K弹幕",
+  "type": 3,
+  "api": "csp_Wogg",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://wogg.xxooo.cf",
+           "danmu": true
+         }
+},
 {
   "key": "夸克云星弹幕",
   "name": "☁️云星资源4K弹幕",
