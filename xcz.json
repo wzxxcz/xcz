@@ -6840,14 +6840,13 @@
   "name": "👌🏻在线短剧",
   "type": 3,
   "api": "csp_Duanju",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726639361099/okjpg.txt;md5;978e26787468ce33f42b46df051ef812",	
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
   "searchable": 1,
   "changeable": 0,
   "style": {
-            "type": "rect",
-            "ratio": 1.433
-          },
-  "timeout": 10
+              "type": "rect",
+              "ratio": 1.433
+           }
 },	  
 {
   "key":"良品短剧",
