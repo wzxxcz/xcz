@@ -767,6 +767,17 @@
   "ext": "http://47.99.102.252/drpy_dzlive/drpy_js/4K-AV.js"
 },
 {
+  "key": "在线4K",
+  "name":"🍊线线4K",
+  "type":3,
+  "api":"csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/4kav.json"
+},
+{
       "key": "花姐影院",
       "name": "🍹可欣影院",
       "type": 3,
@@ -4314,17 +4325,6 @@
            "分类": "电影&电视剧&综艺&动漫",
            "分类值": "1&2&3&4"
         }
-},
-{
-  "key": "在线4K",
-  "name":"🍊线线4K",
-  "type":3,
-  "api":"csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/4kav.json"
 },
 {
   "key": "小柚",
