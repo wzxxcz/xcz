@@ -93,7 +93,7 @@
   "name": "🌎玩偶智能4K弹幕",
   "type": 3,
   "api": "csp_WoGG",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",	
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -102,7 +102,7 @@
            "from": "4k|auto",
            "siteUrl": "https://www.wogg.net/",
            "danMu": "弹"
-         }
+        }
 },
 {
   "key": "玩偶备用弹幕",
