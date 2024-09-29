@@ -4316,6 +4316,17 @@
         }
 },
 {
+  "key": "在线4K",
+  "name":"🍊线线4K",
+  "type":3,
+  "api":"csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./lib/4kav.json"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -5308,7 +5319,7 @@
   "name": "🍊麻衣呀呼",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -5819,7 +5830,7 @@
   "type": 3,
   "ua": "okhttp/3.15",
   "api": "csp_XBPQ",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
