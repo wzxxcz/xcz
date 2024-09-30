@@ -658,7 +658,18 @@
   "order_num": 0,
   "changeable": 0,
   "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-},  
+},
+{
+  "key":"瓜子",
+  "name": "❤️嗑嗑瓜子超清纯净",
+  "type":3,
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1,
+  "playerType":"1",
+  "api":"http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "ext":"http://ttkx.live:55/lib/瓜子.js"
+},
 {
   "key":"Alist",
   "name":"🍊小雅网盘",
