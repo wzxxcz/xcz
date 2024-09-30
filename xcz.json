@@ -1658,7 +1658,17 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://43.248.100.147:9891/api.php/app/"
-},	  
+},
+{
+  "key": "云星1080",
+  "name": "☁️云星1080影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cms.4u4.cn/api.php/app/"
+},		  
 {
   "key":"大米星球",
   "name":"🍛大米星球",
@@ -2993,16 +3003,6 @@
   "ext": "./lib/蓝光影视.json",
   "jar": "http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"
 },
-{
-  "key": "云星1080",
-  "name": "☁️云星1080影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cms.4u4.cn/api.php/app/"
-},	
 {
   "key": "追风",
   "name": "🍊追风采集",
