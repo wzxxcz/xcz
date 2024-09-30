@@ -1659,39 +1659,6 @@
   "filterable": 1,
   "ext": "http://43.248.100.147:9891/api.php/app/"
 },
-{ 
-  "key": "大师兄",
-  "name": "🤡大师兄影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": {
-	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
-	  "分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-	  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"
-         }
-},	  
-{
-  "key": "云星1080",
-  "name": "☁️云星1080影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cms.4u4.cn/api.php/app/"
-},
-{
-  "key": "白嫖者",
-  "name": "🍊白嫖者联盟",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": {
-        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-        "副标题": "class=\"pic-text text-right\"&&</span>",
-        "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
-      }
-},	  
 {
   "key":"大米星球",
   "name":"🍛大米星球",
@@ -1835,6 +1802,49 @@
   "jar": "https://xn--wbe-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
   "searchable":1,
   "changeable":1
+},
+{ 
+  "key": "大师兄",
+  "name": "🤡大师兄影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
+	  "分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"
+         }
+},	  
+{
+  "key": "云星1080",
+  "name": "☁️云星1080影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cms.4u4.cn/api.php/app/"
+},
+{
+  "key": "白嫖者",
+  "name": "🍊白嫖者联盟",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+        "副标题": "class=\"pic-text text-right\"&&</span>",
+        "简介": "⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
+      }
+},	  	  
+{
+  "key": "凯奇追剧",
+  "name": "🍊凯奇追剧",
+  "type": 3,
+  "ua": "okhttp/3.15",
+  "api": "csp_XBPQ",
+  "ext": {"简介":"+hl-content-text\">&&</span>",
+  "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}
 },	  
 {
   "key": " fxzds ",
@@ -4595,16 +4605,6 @@
   "ext": {"简介":">&&</div>",
   "分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
   "分类": "电影$1#连续剧$2#动漫$4#综艺$3"}
-},
-{
-  "key": "凯奇追剧",
-  "name": "🍊凯奇追剧",
-  "type": 3,
-  "ua": "okhttp/3.15",
-  "api": "csp_XBPQ",
-  "ext": {"简介":"+hl-content-text\">&&</span>",
-  "分类url": "https://www.kqyy.tv/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-  "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}
 },
 {
   "key": "老六影视",
