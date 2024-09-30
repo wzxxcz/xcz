@@ -650,16 +650,6 @@
   "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
 },
 {
-  "key": "摸鱼瓜子",
-  "name": "❤️嗑嗑瓜子超清纯净",
-  "type": 3,
-  "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-},
-{
   "key":"瓜子",
   "name": "❤️嗑嗑瓜子超清纯净",
   "type":3,
