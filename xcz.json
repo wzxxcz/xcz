@@ -5032,17 +5032,6 @@
          }
 },
 {
-  "key": "大师兄",
-  "name": "🐥师兄蓝光纯净",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=大师兄"
-},	  
-{
   "key": "海兔",
   "name": "🐇海兔影院",
   "type": 3,
