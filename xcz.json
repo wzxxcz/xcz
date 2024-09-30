@@ -6996,6 +6996,11 @@
       "url": "Web"
     },
     {
+      "name":"Json并发",
+      "type":2,
+      "url":"Parallel"
+    },
+    {
       "name": "🍊小橙子主解a",
       "type": 1,
       "url": "https://jk.tvd.us.kg/home/api?type=ys&uid=1305086&key=bhjkqrsvwzCGHKUW13&url=",
@@ -8410,12 +8415,6 @@
         }
       }
     },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    
     {
       "name": "乐酷蓝光",
       "type": 1,
