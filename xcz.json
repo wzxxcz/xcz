@@ -353,19 +353,20 @@
   "jar":"https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610"
 },
 {
-  "key": "立播影视",
+  "key":"立播弹幕",
   "name":"❤立播弹幕",
-  "type": 3,
-  "api": "csp_Libvio",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
-         }
+  "type":3,
+  "api":"csp_Libvio",
+  "jar": "https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+  "searchable":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":{
+	  "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+	  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+	  "danmu":true
+        }
 },
 {
   "key": "夸克趣盘搜弹幕",
