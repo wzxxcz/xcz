@@ -489,19 +489,19 @@
   "jar":"https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;894cf6d2fa3a41069f2cf7be7669460d"
 },
 {
-  "key":"夸克米搜弹幕",
+  "key":"米搜弹幕",
   "name":"❤米搜弹幕",
   "type":3,
   "api":"csp_Qkpanso",
   "searchable":1,
   "filterable":1,
-  "changeable":1,
+  "changeable":0,
   "ext":{
 	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-	  "danmu":true
+	  "site":"https://www.misou.fun","danmu":true
         },
   "jar":"https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610"
-},	  
+},
 {
   "key":"玩弹幕2",
   "name":"❤玩表弹幕",
