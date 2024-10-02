@@ -1565,7 +1565,18 @@
   "quickSearch":1,
   "changeable":1,
   "ext":"https://v.aikanbot.com"
-},	  
+},
+{
+  "key":"机器人弹幕",
+  "name":"💘机机弹幕",
+  "type":3,
+  "api":"csp_Ikanbot",
+  "jar": "https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
 {
   "key": "追剧",
   "name": "🍓追剧多线",
