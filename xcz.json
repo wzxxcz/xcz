@@ -5471,6 +5471,7 @@
   "name":"🍊腾讯VIP(官)",
   "type":3,
   "api":"http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
   "ext":"http://ttkx.live:55/lib/腾讯VIP.js"
 },
 {
