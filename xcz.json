@@ -4353,6 +4353,12 @@
   "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
 },
 {
+  "key": "农民采集",
+  "name": "🌾悯农影视",
+  "type": 1,
+  "api": "https://www.xncnews.com/api.php/provide/vod/"
+},
+{
   "key": "fxzKY1",
   "name": "🍊魔影影视",
   "type": 3,
