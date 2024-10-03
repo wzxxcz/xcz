@@ -6882,7 +6882,18 @@
            "分类url": "https://ysj.us/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
            "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
       }
-},	  
+},
+{
+  "key": "央视大全",
+  "name": "🌔央视大全",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://ttkx.live:55/lib/大全央视.js"
+},
 {
   "key": "短剧",
   "name": "🌈上头短剧",
