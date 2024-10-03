@@ -5513,11 +5513,12 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
 },
 {
-  "key": "腾讯",
+  "key": "hipy_js_fxztx",
   "name": "🍊腾讯(官备)",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+  "ua": "okhttp/3.15",
+  "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享TX1.js?ref=master"
 },
 {
   "key": "芒果",
