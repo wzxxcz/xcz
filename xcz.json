@@ -5482,14 +5482,11 @@
   "ext": "./lib/tengxun.js"
 },
 {
-  "key": "meowtv_txsp",
+  "key": "hipy_js_fxztx1",
   "name": "🍊腾讯(官)",
   "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/腾讯视频.js"
+  "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
+  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享TX2.js"
 },
 {
   "key":"360",
