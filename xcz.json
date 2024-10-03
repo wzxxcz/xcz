@@ -221,18 +221,17 @@
   "timeout": 15
 },	  
 {
-  "key": "易搜弹幕",
+  "key": "YiSo",
   "name": "😹易搜阿狸",
   "type": 3,
   "api": "csp_YiSo",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
   "searchable": 1,
-  "filterable": 0,
-  "changeable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "danmu": true,
-           "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
          }
 },
 {
