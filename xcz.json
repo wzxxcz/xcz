@@ -1489,12 +1489,12 @@
   "key":"圣城影视",
   "name":"💡圣城影视",
   "type":3,
-  "api":"csp_SC1080",
-  "jar":"https://xn--b3s-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
+  "api":"csp_XBPQ",
   "searchable":1,
   "quickSearch":1,
-  "filterable":1
-},	  
+  "filterable":1,
+  "ext":"./lib/sc1080.json"
+},
 {
   "key": "星辰影院",
   "name":"💡星辰影视",
