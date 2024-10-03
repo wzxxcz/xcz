@@ -7075,6 +7075,15 @@
       "url":"Parallel"
     },
     {
+      "name":"🍊小橙子影视",
+      "type":1,
+      "url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=",
+      "ext":{
+	      "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],
+	      "header":{"User-Agent":"okhttp/4.9.1"}
+            }
+    },
+    {
       "name": "🍊小橙子主解a",
       "type": 1,
       "url": "https://jk.tvd.us.kg/home/api?type=ys&uid=1305086&key=bhjkqrsvwzCGHKUW13&url=",
@@ -7404,15 +7413,14 @@
 	         }
     },
     {
-	    "name":"-小橙子APP-",
-	    "type":0,
-	    "url":"https://jx.jsonplayer.com/player/?url=",
-	    "ext":{
-		    "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
-		    "header":{
-			       "User-Agent":"okhttp/4.1.0"
-		             }
-	          }
+      "name":"-小橙子APP-",
+      "type":0,
+      "url":"https://jx.jsonplayer.com/player/?url=",
+      "ext":{
+	      "header":{
+		         "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+	               }
+            }
     },
     {
 	    "name":"-关注可欣-",
