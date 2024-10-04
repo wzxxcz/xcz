@@ -7122,7 +7122,37 @@
     {
       "name": "🍊小橙子主解a",
       "type": 1,
-      "url": "https://jk.tvd.us.kg/home/api?type=ys&uid=1305086&key=bhjkqrsvwzCGHKUW13&url=",
+      "url": "https://6qu.us.kg/jx.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "🍊小橙子主解a*",
+      "type": 1,
+      "url": "http://jx.jwl.icu/jx.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -7176,7 +7206,37 @@
     },
     {
       "name": "🍊小橙子主解d",
-      "url": "http://43.248.100.147:6068/KEY/70xgjgj.php?url=",
+      "type": 1,
+      "url": "http://112.74.124.75:8899/jiexi/api.php?url=",
+      "ext": {
+        "flag": [
+          "ST4K",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "🍊小橙子主解e",
+      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
       "flag": [
         "youku",
         "qq",
@@ -7235,9 +7295,69 @@
       }
     },
     {
+      "name": "🍊小橙子主解0",
+      "type": 1,
+      "url": "https://jf.hanliu8.cn/api/?key=vGz0SydWbL1XjS3LPX&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "🍊小橙子主解+",
+      "type": 1,
+      "url": "https://yun.zfsr.cn/api/?key=82c93ab9d0b9e7ceeace5d9b1daa087c&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
       "name": "🍊小橙子主解1",
       "type": 1,
-      "url": "https://jxjson.icu/neibu.php?url=",
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
@@ -7260,6 +7380,40 @@
         ],
         "header": {
           "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "🍊小橙子主解2",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
         }
       }
     },
@@ -7365,23 +7519,6 @@
       "url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=",
       "flag": [
         "m78"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      },
-      "type": "1"
-    },
-    {
-      "name": "🍊可欣专线6",
-      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-      "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua"
       ],
       "header": {
         "User-Agent": "Dalvik/2.1.0"
@@ -7534,13 +7671,6 @@
   "header":{"User-Agent":"okhttp/3.12.11"} } 
     },
     {
-      "name":"🍊LX专线",
-      "url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-      "flag":["LXTX"],
-      "header":{"User-Agent":"Dalvik/2.1.0"},
-      "type":"1"
-    },
-    {
 	    "name":"666专线",
 	    "url":"http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=",
 	    "type":"1"
@@ -7616,35 +7746,6 @@
       "url": "http://466.jxjx.8.ahrljk.cn:8663/api/?key=4qb8lbCsVF4M4V9ryt&url=",
       "status_text": "正常"
     },	  
-    {
-      "name": "小橙子推荐A",
-      "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },  
     {
      "name": "小橙子推荐",
      "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
@@ -7945,16 +8046,6 @@
           "User-Agent": "Dart/3.0(dart:io)"
         }
       }
-    },
-    {
-      "name": "并发",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "嗅探",
-      "type": 3,
-      "url": "Web"
     },
     {
       "name": "影视",
@@ -8465,12 +8556,6 @@
       }
     },
     {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    
-    {
       "name": "小橙子",
       "type": 1,
       "url": "https://www.qiaoji8.com/tvbox/json1.php?url=",
@@ -8690,7 +8775,6 @@
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
-    {"name":"-聚合-","type":3,"url":"Demo"},
 {"name":"-关注-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
 {"name":"-欧歌-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"-公众号-","type":0,"url":"https://jx.m3u8.pw/?url="},
@@ -10564,33 +10648,6 @@
       "name": "♻️龙23",
       "type": 0,
       "url": "https://www.nxflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "♻️龙24",
-      "type": 0,
-      "url": "https://www.playm3u8.cn/jiexi.php?url=",
       "ext": {
         "flag": [
           "qq",
