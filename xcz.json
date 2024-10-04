@@ -1737,15 +1737,14 @@
   "ext": "https://www.czzy77.com/"
 },	  
 {
-  "key":"厂长弹幕",
+  "key": "fxzczzy",
   "name":"💡厂长弹幕",
-  "type":3,
-  "api":"csp_Czzy",
-  "jar":"https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{"danmu":true}
+  "type": 3,
+  "api": "csp_NewCz",
+  "searchable": 1,
+  "changeable": 1,
+  "playerType": 1,
+  "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar"
 },
 {
   "key":"JOJO弹幕",
