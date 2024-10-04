@@ -7111,15 +7111,6 @@
       "url":"Parallel"
     },
     {
-      "name":"🍊小橙子影视",
-      "type":1,
-      "url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=",
-      "ext":{
-	      "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],
-	      "header":{"User-Agent":"okhttp/4.9.1"}
-            }
-    },
-    {
       "name": "🍊小橙子主解a",
       "type": 1,
       "url": "https://6qu.us.kg/jx.php?url=",
@@ -7491,6 +7482,15 @@
           "4K"
         ]
       }
+    },
+    {
+      "name":"🍊小橙子影视",
+      "type":1,
+      "url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=",
+      "ext":{
+	      "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],
+	      "header":{"User-Agent":"okhttp/4.9.1"}
+            }
     },
     {
       "name": "🍊可欣专线",
