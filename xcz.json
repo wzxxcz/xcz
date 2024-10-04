@@ -4507,6 +4507,17 @@
         }
 },
 {
+  "key": "csp_极光",
+  "name": "🍊极光影视",
+  "type": 3,
+  "api": "csp_AppSK",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==",
+  "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
