@@ -4426,16 +4426,11 @@
          }
 },
 {
-  "key":"黑狐影视T4",
+  "key": "T4-黑狐",
   "name":"🦊黑狐影视",
-  "type":4,
-  "api":"https://catbox.n13.club/t4/heihu.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":true
-},	  
+  "type": 4,
+  "api": "https://catbox.n13.club/t4/heihu.php"
+},
 {
   "key": "吉吉短剧",
   "name": "🍊吉吉影视",
