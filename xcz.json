@@ -1348,16 +1348,14 @@
          }
 },
 {
-  "key": "hipy_js_黑木耳资源[资]",
+  "key": "T4-heimuer",
   "name": "🥑木耳资源",
-  "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "type": 4,
+  "api": "https://tang.hz.cz/power/hme?token=647c28ca",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/黑木耳资源[资].js"
+  "changeable": 0
 },
 {
   "key": "碟调影视",
