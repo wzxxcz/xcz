@@ -1058,20 +1058,14 @@
   "changeable": 1
 },
 {
-  "key":"csp_Jpys",
+  "key": "fxzjpyy",
   "name":"🍊金牌影视",
   "type": 3,
-  "api": "csp_XBPQ",
+  "api": "csp_Jpys",
   "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-                "影片地区": "小橙子制作",
-                "搜索url": "https://www.diemi.cc/search/?wd={wd}",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
-                "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
-            }
+  "changeable": 1,
+  "playerType": 1,
+  "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar"
 },
 {
   "key":"4K影视",
