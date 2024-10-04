@@ -1877,7 +1877,13 @@
 	  "分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 	  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"
          }
-},	  
+},
+{
+  "key": "T4-黑狐",
+  "name":"🦊黑狐影视",
+  "type": 4,
+  "api": "https://catbox.n13.club/t4/heihu.php"
+},
 {
   "key": "云星1080",
   "name": "☁️云星1080影视",
@@ -4424,12 +4430,6 @@
            "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
            "分类url": "https://17k.video/index.php/vod/type/id/{cateId}.html"
          }
-},
-{
-  "key": "T4-黑狐",
-  "name":"🦊黑狐影视",
-  "type": 4,
-  "api": "https://catbox.n13.club/t4/heihu.php"
 },
 {
   "key": "吉吉短剧",
