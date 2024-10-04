@@ -1304,6 +1304,17 @@
   "changeable": 1
 },
 {
+  "key": "蜂2鸟",
+  "name": "💖分享蜂鸟",
+  "type": 3,
+  "api": "csp_AppSK",
+  "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
+},
+{
   "key": "shiju影视",
   "name": "🔥视觉影院",
   "type": 3,
