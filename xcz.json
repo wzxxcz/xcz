@@ -4539,6 +4539,17 @@
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
 {
+  "key": " fxzyg ",
+  "name": "🤴一哥影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "",
+  "ext": "./lib/分享yg.json"
+},
+{
   "key":"开心影视",
   "name":"🍊开心影视",
   "type":3,
