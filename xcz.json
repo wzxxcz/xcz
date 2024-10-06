@@ -1576,15 +1576,14 @@
 },
 {
   "key":"视频库",
-  "name":"💡视视影视",
+  "name":"💡视频影视",
   "type":3,
   "api":"csp_WebVidHub",
-  "jar": "https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
   "searchable":1,
   "quickSearch":0,
   "filterable":0,
   "ext":"https://vidhub1.cc"
-},	  
+},
 {
   "key":"机器人",
   "name":"💡机器影视",
