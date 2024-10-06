@@ -1936,6 +1936,18 @@
          }
 },
 {
+  "key": "fxzAI4",
+  "name": "🌤️哇云影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "playerType": 1,
+  "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=",
+  "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
+},
+{
   "key": "白嫖者",
   "name": "🍊白嫖者联盟",
   "type": 3,
@@ -4514,18 +4526,6 @@
           "分类url": "https://www.iidie.com/type-{cateId}-{catePg}/",
           "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
         }
-},
-{
-  "key": "fxzAI4",
-  "name": "🌤️哇云影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "playerType": 1,
-  "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=",
-  "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
 {
   "key": "小柚",
