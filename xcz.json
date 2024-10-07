@@ -56,6 +56,23 @@
 },
 {
   "key": "玩偶弹幕",
+  "name": "⚗️小橙子玩偶",
+  "type": 3,
+  "api": "csp_Wogg",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/danmu.jar",
+  "ext": {
+           "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+           "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+           "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+           "wogg": true,
+           "danmu": true
+      }
+},
+{
+  "key": "玩偶弹幕",
   "name": "🍹可欣玩偶",
   "type": 3,
   "api": "csp_Wogg",
@@ -643,23 +660,6 @@
 	  "danmu":true
         },
   "jar":"https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610"
-},
-{
-  "key": "玩偶弹幕",
-  "name": "⚗️小橙子玩偶",
-  "type": 3,
-  "api": "csp_Wogg",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/danmu.jar",
-  "ext": {
-           "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-           "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-           "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
-           "wogg": true,
-           "danmu": true
-      }
 },
 {
   "key": "mt",
