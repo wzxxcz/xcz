@@ -72,6 +72,22 @@
       }
 },
 {
+  "key": "玩偶备用弹幕",
+  "name": "⚗️小橙子玩偶",
+  "type": 3,
+  "api": "csp_Wogg",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "jar": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/danmu.jar",
+  "ext": {
+           "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+           "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+           "site": "https://wogg.xxooo.cf",
+           "danmu": true
+      }
+},	  
+{
   "key": "玩偶弹幕",
   "name": "🍹可欣玩偶",
   "type": 3,
