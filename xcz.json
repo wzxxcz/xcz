@@ -39,20 +39,20 @@
   "jar":"http://ttkx.live:55/lib/sdtv.jar"
 },
 {
-  "key": "玩偶备用弹幕",
+  "key": "玩偶",
   "name": "⚗️小橙子玩偶",
   "type": 3,
-  "api": "csp_Wogg",
+  "api": "csp_WoGG",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "jar": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/danmu.jar",
+  "changeable": 0,
   "ext": {
-           "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-           "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-           "site": "https://wogg.xxooo.cf",
-           "danmu": true
-         }
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto",
+           "siteUrl": "https://www.wogg.net/",
+           "danMu": "弹"
+        }
 },
 {
   "key": "玩偶弹幕",
@@ -87,6 +87,22 @@
 		"site":"https://woog.nxog.asia","danmu": true
 	      },
   "jar":"https://xn--gvu-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610"
+},
+{
+  "key": "玩偶",
+  "name": "🌎玩偶智能4K弹幕",
+  "type": 3,
+  "api": "csp_WoGG",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+           "Cloud-drive": "TVBox/Cloud-drive.txt",
+           "from": "4k|auto",
+           "siteUrl": "https://www.wogg.net/",
+           "danMu": "弹"
+         }
 },
 {
   "key": "玩偶备用弹幕",
