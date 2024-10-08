@@ -5540,14 +5540,6 @@
   "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
 },
 {
-  "key":"搜狗",
-  "name":"🍎搜狗(官)",
-  "type":3,
-  "api":"http://item.xpgtv.xyz/js/lib/drpy2.min.js",
-  "jar": "http://item.xpgtv.xyz/box/2024906a.jar;md5;dc088786e93880341970cdb96419e725",	
-  "ext":"http://item.xpgtv.xyz/js/caigou.js"
-},	  
-{
   "key": "芒果",
   "name": "🥭芒果(官)",
   "type": 3,
