@@ -39,22 +39,6 @@
   "jar":"http://ttkx.live:55/lib/sdtv.jar"
 },
 {
-  "key": "玩偶",
-  "name": "⚗️小橙子玩偶",
-  "type": 3,
-  "api": "csp_WoGG",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto",
-           "siteUrl": "https://www.wogg.net/",
-           "danMu": "弹"
-        }
-},
-{
   "key": "玩偶弹幕",
   "name": "⚗️小橙子玩偶",
   "type": 3,
