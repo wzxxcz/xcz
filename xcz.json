@@ -7180,8 +7180,8 @@
   "parses": [
     {
       "name": "☯️自动解析聚合",
-      "type":3,
-      "url":"Demo"
+      "type": 3,
+      "url": "Demo"
     },
     {
       "name":"智能解析",
