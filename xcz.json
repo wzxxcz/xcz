@@ -1683,16 +1683,18 @@
   "filterable": 1,
   "ext": "./lib/影咖.json"
 },
-{ 
-  "key": "csp_SP33",
+{
+  "key": "三六零弹幕",
   "name": "💡360影视",
   "type": 3,
-  "api": "csp_SP360",
-  "jar": "https://xn--otg-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+  "api": "csp_Sp360",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
   "searchable": 1,
-  "quickSearch": 1,
   "filterable": 1,
-  "changeable": 0
+  "changeable": 1,
+  "ext": {
+           "danmu": true
+         }
 },
 {
   "key":"六六六",
