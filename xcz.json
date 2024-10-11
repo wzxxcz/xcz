@@ -1888,6 +1888,14 @@
         }
 },
 {
+  "key":"csp_Tvyb",
+  "name":"💡云云影视",
+  "type":3,
+  "api":"csp_Jiaozi",
+  "jar": "https://xn--d6v-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",	
+  "playerType":2
+},	  
+{
   "key": "csp_XBPQ_fxzcjy",
   "name": "🍃柴姬影视",
   "type": 3,
