@@ -280,7 +280,7 @@
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "site": "https://tv.yydsys.top",
-          "danmu": true
+           "danmu": true
          }
 },	  
 {
