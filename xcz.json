@@ -540,14 +540,14 @@
   "jar":"https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610"
 },
 {
-  "key": "夸搜弹幕",
-  "name": "🐟夸搜狸夸",
+  "key": "夸克盘搜弹幕",
+  "name": "🐟夸搜弹幕盘搜",
   "type": 3,
-  "api": "csp_Qkso",
+  "api": "csp_Qkpanso",
   "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
   "searchable": 1,
   "filterable": 1,
-  "changeable": 0,
+  "changeable": 1,
   "ext": {
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "danmu": true
