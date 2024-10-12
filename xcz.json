@@ -1284,16 +1284,6 @@
   "changeable": 1
 },
 {
-  "key":"可可影视",
-  "name":"💡可可影视",
-  "type":3,
-  "api":"csp_Keke",
-  "jar": "https://xn--tft-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
-{
   "key": "樱花",
   "name": "💥樱花多线",
   "type": 3,
