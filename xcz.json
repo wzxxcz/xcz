@@ -914,16 +914,17 @@
   "ext":"http://api2.rinhome.com"
 },
 {
-  "key": "荐片",
-  "name": "🧲荐片纯净磁力",
-  "type": 3,
-  "api": "csp_Jianpian",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},	  
+  "key":"荐片弹幕",
+  "name":"💘荐片弹幕",
+  "type":3,
+  "api":"csp_Jianpian",
+  "jar":"https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+  "playerType":1,
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
 {
   "key": "荐片弹幕",
   "name": "👍️荐片蓝光弹幕",
