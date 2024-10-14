@@ -1726,15 +1726,15 @@
   "ext": "http://43.248.100.147:9891/api.php/app/"
 },
 {
-  "key":"大米星球",
+  "key": "大米星球",
   "name":"🍛大米星球",
-  "type":3,
-  "api":"csp_AppDaMi",
-  "jar": "https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
+  "type": 3,
+  "api": "csp_AppDaMi",
+  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},	  
 {
   "key": "厂长",
   "name": "📔厂长不卡",
