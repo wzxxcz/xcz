@@ -7235,6 +7235,56 @@
       "url":"Parallel"
     },
     {
+      "name": "-777-",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    }, 
+    {
+      "name": "-8090g-",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "name": "-ik9-",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url="
+    },
+    {
+      "name": "-杰森-",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    }, 
+    {
+      "name": "-阳途-",
+      "type": 0,
+      "url": "https://jx.yangtu.top/?url="
+    }, 
+    {
+      "name": "-冰豆-",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "-m3u8TV-",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    }, 
+    {
+      "name": "-听乐-",
+      "type": 0,
+      "url": "https://jx.dj6u.com/?url="
+    },
+    {
+      "name": "-云析-",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "-红狐-",
+      "type": 0,
+      "url": "https://player.mrgaocloud.com/player/?url="
+    },
+    {
       "name": "🍊小橙子主解a",
       "type": 1,
       "url": "https://6qu.us.kg/jx.php?url=",
@@ -7767,16 +7817,6 @@
 	         }
     },
     {
-      "name":"-小橙子APP-",
-      "type":0,
-      "url":"https://jx.jsonplayer.com/player/?url=",
-      "ext":{
-	      "header":{
-		         "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-	               }
-            }
-    },
-    {
 	    "name":"-关注可欣-",
 	    "type":0,
 	    "url":"https://www.8090g.cn/?url=",
@@ -7859,12 +7899,6 @@
     {
 	    "name":"YY专线",
 	    "url":"http://122.228.85.203:6789/api/?key=de7ed0ead4328fe74ade88bd922e3f4f&url=","type":"1"
-    },
-    {
-	    "name":"-小橙子公众号-",
-	    "type":0,
-	    "url":"https://jx.yparse.com/index.php?url=",
-	    "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
     },
     {
 	    "name":"BD专线",
@@ -7952,16 +7986,6 @@
       "type": 0,
       "url": "https://www.pangujiexi.com/jiexi/?url="
     }, 
-    {
-	    "name": "IK9",
-	    "type":0,
-	    "url":"https://yparse.ik9.cc/index.php?url=",
-	    "ext":{
-		    "header":{
-			       "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-		             }
-	          }
-    },  
     {
       "name": "小橙子推荐0",
       "type": 1,
@@ -8066,12 +8090,6 @@
       "name":"线路2",
       "type":0,
       "url":"https://jx.quankan.app/?url=",
-      "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-    },
-    {
-      "name":"线路3",
-      "type":0,
-      "url":"https://jx.yparse.com/index.php?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
     },
     {
@@ -8264,59 +8282,7 @@
       "url": "http://122.228.84.103:7777/api/?key=rSqUtltpbfk1xsQFjz&url="
     },
 {"name":"蚂蚁天下","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-	{"name":"线路6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 	{"name":"线路8","type":0,"url":"https://jx.yangtu.top?url="},
-	{"name":"线路9","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-  {
-      "name": "小橙子解析10",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-  {
-      "name": "小橙子嗅探1",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "yk",
-          "优酷",
-          "mgtv",
-          "imgo",
-          "芒果"
-        ]
-      }
-    },
     {
       "name": "ok",
       "type": 0,
@@ -8436,16 +8402,6 @@
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
           "referer": "https://www.xyflv.cc/"
-        }
-      }
-    },
-    {
-      "name": "-云解析-",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
         }
       }
     },
@@ -8580,12 +8536,6 @@
       "ext": 
       {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}
     },
-    {
-      "name": "8090嗅探",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
-    {"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}}, 
     {
 			"name": "宝片",
 			"type": 1,
@@ -8878,10 +8828,6 @@
             "type": 1,
             "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
-{"name": "自动解析0","type": 1,"url": "https://yyyy.life/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6?url="},
-{"name": "自动解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
-{"name": "自动解析2","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2255&my=eknpqvADFHOPR02458&format=json&url="},
-{"name": "自动解析","type": 1,"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"超级解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url="},
 {"name":"左岸解析", "type": 1, "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="}, 
 {"name": "小鱼解析", "type": 1, "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="},
@@ -8889,7 +8835,6 @@
 {"name":"小米解析","type": 1,"url": "http://xhww.fun:63/小米特别爱肥猫.php?url="},
 {"name": "超级解析2","type": 1,"url": "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 {"name":"4433嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name": "高清嗅探","type": 0,"url": "https://www.8090g.cn/jiexi/?url="}, 
 {"name":"嗅探01","type":0,"url":"https://jx.jsonplayer.com/player/?=&url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
 {"name":"嗅探02","type":0,"url":"https://www.nxflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
 {"name":"嗅探05","type":0,"url":"https://jx.xyflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},   
@@ -9023,11 +8968,6 @@
       "name": "♻️玉米4",
       "type": 1,
       "url": "http://119.91.31.224:81/txjx.php?url="
-    },
-    {
-      "name": "♻️阳途",
-      "type": 1,
-      "url": "https://jx.yangtu.top/?url="
     },
     {
       "name": "♻️欧歌APP",
@@ -9320,11 +9260,6 @@
       "name": "♻️秒看",
       "type": 1,
       "url": "http://mkzy.vip/play.php/?url="
-    },
-    {
-      "name": "♻️yangtu",
-      "type": 1,
-      "url": "https://jx.yangtu.top/?url="
     },
     {
       "name": "♻️纯净/B站",
@@ -10324,16 +10259,6 @@
       "name": "♻️搜狗",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
-    },
-    {
-      "name": "♻️高清1",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
     },
     {
       "name": "♻️高清2",
