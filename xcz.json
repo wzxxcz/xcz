@@ -4635,6 +4635,17 @@
   "ext": "http://154.12.19.146/api.php/app/"
 },
 {
+  "key": "电影天堂_js",
+  "name": "👨‍🍳‍电影天堂",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://ttkx.live:55/lib/js/电影天堂.js"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
