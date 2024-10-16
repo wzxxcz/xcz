@@ -4576,12 +4576,16 @@
         }
 },	  
 {
-  "key": "hipy_js_fxz闪电",
-  "name": "🪐闪电影视",
+  "key": "闪电影院_js",
+  "name": "🚀闪电影视",
   "type": 3,
-  "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js",
-  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/闪雷电.js?ref=master"
-},
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "ext": "http://ttkx.live:55/lib/闪电影院.js",
+  "timeout": 15
+},	  
 {
   "key": "csp_Jpys",
   "name": "🍊碟迷影视",
