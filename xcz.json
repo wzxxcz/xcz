@@ -1954,7 +1954,18 @@
   "filterable": 1,
   "order_num": 0,
   "ext": "http://ttkx.live:55/lib/js/111tv[自动].js"
-},	  
+},
+{
+  "key": "爱优影视[自动]_js",
+  "name": "👨‍🍳‍爱优影视",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://ttkx.live:55/lib/js/爱优影视[自动].js"
+},
 {
   "key": "csp_XBPQ_fxzcjy",
   "name": "🍃柴姬影视",
