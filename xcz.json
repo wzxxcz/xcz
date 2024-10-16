@@ -1927,7 +1927,7 @@
 	  "主演":"vod_actor\"*\"&&\"","简介":"vod_remarks\"*\"&&\"+vod_content\"*\"&&\"","线路二次截取":"","线路数组":"\"vod_play_from\":&&,","线路标题":"\"&&\"","播放二次截取":"","播放数组":"vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]","播放列表":":&&,","播放标题":"\"&&$",
 	  "跳转解析":"默认$http://pan.qiaoji8.com/tvbox/neibu.php?url=","播放链接":"解析+$&&\"","跳转播放链接":"url\"*\"&&\""
         }
-},
+},	  
 {
   "key":"csp_Tvyb",
   "name":"🌤️云云影视",
@@ -1943,6 +1943,17 @@
   "api":"csp_Jiaozi",
   "jar": "https://xn--d6v-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",	
   "playerType":2
+},
+{
+  "key": "111tv[自动]_js",
+  "name": "👨‍🍳‍111tv",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://ttkx.live:55/lib/js/111tv[自动].js"
 },	  
 {
   "key": "csp_XBPQ_fxzcjy",
