@@ -28,7 +28,7 @@
   "name": "🍊小橙子电视",
   "type": 3,
   "api": "https://gitee.com/wzbdyr/xcz/raw/master/lib/drpy2.min.js",
-  "jar": "http://ttkx.live:55./lib/ttkx.jar",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
