@@ -27,12 +27,12 @@
   "key": "好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
-  "api": "https://mirror.ghproxy.com/https://github.com/wzxxcz/xcz/raw/refs/heads/master/lib/drpy2.min.js",	
+  "api": "https://mirror.ghproxy.com/https://github.com/wzxxcz/xcz/raw/master/lib/drpy2.min.js",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 87,
-  "ext": "https://mirror.ghproxy.com/https://github.com/wzxxcz/xcz/raw/refs/heads/master/lib/haoquwang.js"
+  "ext": "https://mirror.ghproxy.com/https://github.com/wzxxcz/xcz/raw/master/lib/haoquwang.js"
 },	  
 {
   "key":"开心直播点播",
