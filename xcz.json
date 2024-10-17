@@ -27,12 +27,12 @@
   "key": "好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
-  "api": "./lib/drpy2.min.js",	
+  "api": "https://github.com/wzxxcz/xcz/raw/refs/heads/master/lib/drpy2.min.js",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 87,
-  "ext": "./lib/haoquwang.js"
+  "ext": "https://github.com/wzxxcz/xcz/raw/refs/heads/master/lib/haoquwang.js"
 },	  
 {
   "key":"开心直播点播",
