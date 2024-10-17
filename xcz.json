@@ -2553,14 +2553,15 @@
       ]
 },
 {
-  "key":"茶狐杯",
+  "key": "茶杯狐_js",
   "name": "🍵茶杯影院",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/茶狐杯.json"
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://ttkx.live:55/lib/js/茶杯狐.js"
 },
 {
   "key": "hipy_js_8号影院",
