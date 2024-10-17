@@ -7147,20 +7147,7 @@
   "name": "👌🏻在线短剧",
   "type": 3,
   "api": "csp_Duanju",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "changeable": 0,
-  "style": {
-              "type": "rect",
-              "ratio": 1.433
-           }
-},
-{
-  "key": "在线短剧",
-  "name": "👌🏻在线短剧",
-  "type": 3,
-  "api": "csp_Duanju",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20241009.jar",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx202420241017.jar",	
   "searchable": 1,
   "changeable": 0,
   "style": {
