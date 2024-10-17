@@ -24,12 +24,16 @@
   "filterable": 0
 },
 {
-  "key":"好趣网",
+  "key": "好趣网",
   "name": "🍊小橙子电视",
-  "type":3,
-  "api":"https://gitee.com/wzbdyr/xcz/raw/master/js/drpy2.min.js",
-  "ext":"https://gitee.com/wzbdyr/xcz/raw/master/js/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD.js"
-},
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 87,
+  "ext": "http://ttkx.live:55/lib/好趣网.js"
+},	  
 {
   "key":"开心直播点播",
   "name":"📺︎可欣直播点播",
