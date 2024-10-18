@@ -815,11 +815,11 @@
   "ext": "http://ttkx.live:55/lib/js/4K-AV.js"
 },	  
 {
-  "key": "4K在线看",
+  "key": "4K_XYQHiker",
   "name":"🍊线线4K",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",	
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
