@@ -2065,6 +2065,17 @@
   "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
 {
+  "key": "魔方影视_js",
+  "name": "👨‍🍳‍魔方影视",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://ttkx.live:55/lib/js/魔方影视.js"
+},	  
+{
   "key": "白嫖者",
   "name": "🍊白嫖者联盟",
   "type": 3,
