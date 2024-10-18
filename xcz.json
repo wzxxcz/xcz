@@ -5190,17 +5190,6 @@
   "ext":"./lib/hezi.json"
 },
 {
-  "key": "csp_七新",
-  "name": "👼七新2K",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/七新影视.json",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"
-},
-{
   "key":"臭蛋蛋",
   "name":"🍊臭蛋2K",
   "type":3,
