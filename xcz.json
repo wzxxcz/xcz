@@ -4684,6 +4684,17 @@
   "filterable": 1,
   "order_num": 0,
   "ext": "http://ttkx.live:55/lib/js/七新电影网.js"
+},
+{
+  "key": "飘花影院_js",
+  "name": "👨‍🍳‍飘花影院",
+  "type": 3,
+  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://ttkx.live:55/lib/js/飘花影院.js"
 },	  
 {
   "key": "小柚",
