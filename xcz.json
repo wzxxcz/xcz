@@ -5061,16 +5061,6 @@
   "ext": "./lib/红狐狸.json"
 },
 {
-  "key": "csp_七新影视",
-  "name": "💚七新影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/七新.json"
-},
-{
   "key":"csp_xBPQ_疯狗",
   "name": "🐕疯狗影视",
   "type":3,
