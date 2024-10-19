@@ -7347,7 +7347,7 @@
     {
       "name": "☯️自动解析聚合",
       "type": 3,
-      "url": "Demo"
+      "url":"Demo"
     },
     {
       "name":"智能解析",
@@ -7365,6 +7365,106 @@
       "url":"Parallel"
     },
     {
+       "name":"小橙子解析1",
+       "type":1,
+       "url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
+       "ext":{
+	       "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],
+	       "header":{"User-Agent":"okhttp/4.9.1"}
+             }
+    },
+    {
+       "name":"XG蓝光",
+       "url":"http://43.248.100.147:6068/bba/xgjjiexi.php?url=",
+       "flag":["BBA"],"header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"XM蓝光",
+       "url":"http://121.62.61.51:6888/api/?key=wyn1txZX5RKA2kVFUX&url=",
+       "flag":["NBY"],"header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"MX蓝光",
+       "url":"http://122.51.15.119:1234/home/api?type=ys&cc=&uid=52565&key=bfhorsvAEGHMRV3469&url=",
+       "flag":["MXTV"],
+       "header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"LX蓝光",
+       "url":"http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+       "flag":["LXTX"],
+       "header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"TX蓝光",
+       "url":"http://43.248.100.147:9527/jx.php?url=",
+       "flag":["TX"],
+       "header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"MY蓝光",
+       "url":"http://zy.uiovo.com/api/?key=85907fa019f741cdf0e0a15ec078ca0a&ud=113&url=",
+       "flag":["mytv","nmys","yhdm"],
+       "header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"BN蓝光",
+       "url":"http://43.248.128.138:1111/home/api?type=ys&uid=3085188&key=egioqrtxzABORUW269&url=",
+       "flag":["BNNB"],
+       "header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"DJ专线",
+       "url":"http://jx.voooe.cn/api/?key=aa70f97f8c109a3c6937ea27a98da6e0&url=",
+       "flag":["duanju"],"header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"XGJ官解",
+       "url":"http://43.248.100.147:6068/KEY/XGJ/root/key/gg.php?url=",
+       "flag":["youku","qq","qiyi","bilibili","mgtv","sohu","letv","xigua"],
+       "header":{"User-Agent":"Dalvik/2.1.0"},
+       "type":"1"
+    },
+    {
+       "name":"XGJ聚合",
+       "url":"http://43.248.100.147:6068/KEY/XGJ/root/key/k.php?url=",
+       "flag":["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","NBY","ETH-","BBA","LXTX","TX","MXTV","mytv","nmys","yhdm","BNNB","duanju"],
+       "header":{"User-Agent":"Dalvik/2.1.0"},"type":"1"},{"name":"-关注-","type":0,"url":"https://cdn.zyc888.top/?url=",
+       "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}
+    },
+    {
+       "name":"-wzx解析-",
+       "type":0,
+       "url":"https://t1.qlplayer.cyou/player/?url=",
+       "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    },
+    {
+       "name":"-ik9-",
+       "type":0,
+       "url":"https://yparse.ik9.cc/index.php?url=",
+       "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
+    },
+    {
+       "name":"-xcz解析-",
+       "type":0,
+       "url":"https://jx.jsonplayer.com/player/?url=",
+       "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}
+    },
+    {
+       "name":"-kx解析-",
+       "type":0,
+       "url":"https://www.8090g.cn/?url=",
+       "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}
+    },
+    {
       "name": "-777-",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
@@ -7374,16 +7474,6 @@
       "type": 0,
       "url": "https://www.8090g.cn/jiexi/?url="
     },
-    {
-      "name": "-ik9-",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url="
-    },
-    {
-      "name": "-杰森-",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    }, 
     {
       "name": "-阳途-",
       "type": 0,
@@ -7528,52 +7618,6 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    },
-    {
-      "name": "🍊小橙子主解d*",
-      "type": 1,
-      "url": "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },
-    {
-      "name": "🍊小橙子主解e",
-      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
-      "flag": [
-        "youku",
-        "qq",
-        "qiyi",
-        "bilibili",
-        "mgtv",
-        "pptv",
-        "xigua"
-      ],
-      "header": {
-        "User-Agent": "Dalvik/2.1.0"
-      },
-      "type": "1"
     },
     {
       "name": "🍊小橙子主解",
@@ -7928,14 +7972,6 @@
       "type": "1"
     },
     {
-	    "name":"可欣解析1",
-	    "type":1,
-	    "url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
-	    "ext":{
-		    "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],
-		    "header":{"User-Agent":"okhttp/4.9.1"}}
-    }, 
-    {
 	    "name":"-关注小橙子-",
 	    "type":0,
 	    "url":"https://cdn.zyc888.top/?url=",
@@ -7945,17 +7981,6 @@
 			    "referer":"https://jiejie.uk/"
 		             }
 	         }
-    },
-    {
-	    "name":"-关注可欣-",
-	    "type":0,
-	    "url":"https://www.8090g.cn/?url=",
-	    "ext":{
-		    "header":{
-			       "user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
-			       "referer":"https://www.xyflv.cc/"
-		             }
-	          }
     },
     {
       "name":"4K解析",
@@ -8044,11 +8069,6 @@
 	    "name":"XGJ专线",
 	    "url":"http://43.248.119.153:9991/jx/?url=",
 	    "flag":["youku","qq","qiyi","bilibili","mgtv","pptv","xigua"],"header":{"User-Agent":"Dalvik/2.1.0"},"type":"1"
-    },
-    {
-	    "name":"XGJ聚合",
-	    "url":"http://43.248.100.147:1122/XGJ/jxzy.php?url=",
-	    "flag":["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","NBY","ETH-","mytv","nmys","BTOL","4kvip","m78"],"header":{"User-Agent":"Dalvik/2.1.0"},"type":"1"
     },
     {
 	    "name":"DM专线",
@@ -8290,52 +8310,6 @@
           "1905",
           "NetFilx"
         ]
-      }
-    },
-    {
-      "name": "🍉小橙子西瓜",
-      "type": 0,
-      "url": "https://t1.qlplayer.cyou/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ],
-        "header": {
-          "User-Agent": "Dart/3.0(dart:io)"
-        }
       }
     },
     {
