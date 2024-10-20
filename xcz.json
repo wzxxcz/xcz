@@ -2623,15 +2623,19 @@
   "ext": "http://ttkx.live:55/lib/js/茶杯狐.js"
 },
 {
-  "key": "hipy_js_8号影院",
+  "key":"8号影院",
   "name": "🏅8号影院",
-  "type": 3,
-  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://47.99.102.252/drpy_js/8号影院.js"
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "搜索url":"http://www.soutiyi.com/search.php?searchword={wd}",
+	  "搜索链接":"href=\"&&\"","简介":"请勿相信影片中的广告，以免上当受骗。+<pclass=\"col-pddetail\"&&</span>",
+	  "线路数组":"<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>","线路标题":"蓝光专线","分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html",
+	  "分类":"动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"
+        }
 },
 {
   "key": "hipy_js_冠建影视",
