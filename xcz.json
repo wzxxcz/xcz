@@ -1575,15 +1575,21 @@
   "changeable": 1
 },
 {
-  "key": "兄弟影视",
+  "key":"兄弟",
   "name":"💡兄弟影视",
-  "type": 3,
-  "api": "csp_Xdys",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},	  
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "嗅探词":".m3u8?#sns-creator-preview.xhscdn.com#.m3u8#47.96.255.149#v3-cold-src.toutiaovod.com#38.61.5.6:11301#tvcms.aikanhd.vip#.mp4",
+	  "过滤词":"/dmku.brovod.top/#xdad.m3u8","影片年代":"<divclass=\"module-info-tag\">&&</div>","影片状态":"备注：&&</div>",
+	  "影片类型":"module-info-tag\">&&立即播放","线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</span>",
+	  "分类url":"https://www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+	  "分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6"
+        }
+},
 {
   "key": "csp_XYQH_mf影院",
   "name": "💡明妃影视",
