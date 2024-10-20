@@ -3060,20 +3060,19 @@
   "ext": "./lib/热播之家.json"
 },
 {
-  "key": "567🎬",
+  "key":"人人影视",
   "name": "🎬小橙子567",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wxbtt/bbtv/raw/master/jar/Yoursmile.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-                "分类url": "https://www.567dyy.com/show/{cateId}--------{catePg}---.html",
-                "分类": "电影&电视剧&综艺&动漫",
-                "分类值": "1&2&3&4",
-                "欢迎进入小橙子影视": ""
-            }
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "影片类型":"小橙子影视",
+	  "简介":"请勿相信影片中的广告，以免上当受骗。+<divclass=\"stui-pannel_bd\"&&</div>",
+	  "分类url":"https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+	  "分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+       }
 },
 {
   "key": "YQ",
