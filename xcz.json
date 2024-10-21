@@ -27,20 +27,20 @@
   "key": "好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 87,
-  "ext": "http://ttkx.live:55/lib/好趣网.js"
+  "ext": "http://kxrj.site:55/lib/好趣网.js"
 },	  
 {
   "key":"开心直播点播",
   "name":"📺︎可欣电视",
   "type":3,
-  "api":"http://ttkx.live:55/lib/sdtv.js",
-  "ext":"http://ttkx.live:55/lib/kxzb1.txt",
-  "jar":"http://ttkx.live:55/lib/sdtv.jar"
+  "api":"http://kxrj.site:55/lib/sdtv.js",
+  "ext":"http://kxrj.site:55/lib/kxzb1.txt",
+  "jar":"http://kxrj.site:55/lib/sdtv.jar"
 },
 {
   "key": "hipy_js_KTV歌厅[听]",
