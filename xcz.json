@@ -1544,20 +1544,11 @@
   "changeable":1
 },
 {
-  "key":"花蕊影视",
-  "name":"💡花蕊影视",
-  "type": 3,
-  "api": "csp_Wexhuaruitv",
-  "jar": "https://gitee.com/dongchenliu/liu/raw/master/lib/jiazi.jar",
-  "playerType": 1,
-  "searchable": 1,
-  "changeable": 1
-},
-{
   "key":"兄弟",
   "name":"💡兄弟影视",
   "type":3,
   "api":"csp_XBPQ",
+  "jar": "https://xn--ps4-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
