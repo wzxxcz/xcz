@@ -1489,23 +1489,21 @@
   "changeable":1
 },
 {
-  "key": "js_subaibai",
+  "key":"素白白",
   "name":"💡素白影视",
-  "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://ttkx.live:55/lib/素白白[优].js"
-},
+  "type":3,
+  "api":"csp_Subaibai",
+  "jar": "https://xn--ps4-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",	
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},	  
 {
   "key":"啾啾影视",
   "name":"💡啾啾影视",
   "type":3,
   "api":"csp_Wexjiohub",
-  "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
+  "jar":"https://xn--ps4-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",	
   "searchable":1,
   "changeable":1
 },
