@@ -1444,6 +1444,7 @@
   "name": "🌀醉挽清风4K纯净",
   "type": 3,
   "api": "https://gitee.com/wzbdyr/xcz/raw/master/js/drpy.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
