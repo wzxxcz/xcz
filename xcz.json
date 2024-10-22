@@ -676,8 +676,8 @@
   "quickSearch":1,
   "changeable":1,
   "playerType":"1",
-  "api":"http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
-  "ext":"http://ttkx.live:55/lib/瓜子.js"
+  "api":"http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "ext":"http://kxrj.site:55/lib/瓜子.js"
 },
 {
   "key":"Alist",
