@@ -995,19 +995,6 @@
   "changeable": 1
 },
 {
-  "key": "小苹果弹幕",
-  "name": "🍎苹果蓝光弹幕",
-  "type": 3,
-  "api": "csp_Xpg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "danmu": true
-         }
-},	  
-{
   "key":"小苹果弹幕",
   "name":"💘苹果弹幕",
   "type":3,
