@@ -660,7 +660,7 @@
   "name": "🌀小满万全4K纯净",
   "type": 3,
   "api": "http://我不是.摸鱼儿.xyz/json/js/drpy.min.js",
-  "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1426,12 +1426,13 @@
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K纯净",
   "type": 3,
-  "api": "http://我不是.摸鱼儿.xyz/json/js/drpy.min.js",
+  "api": "https://gitee.com/wzbdyr/xcz/raw/master/js/drpy.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/js/qingfeng.js"
 },
 {
   "key":"在线之家",
