@@ -7149,15 +7149,14 @@
   "name": "👌🏻在线短剧",
   "type": 3,
   "api": "csp_Duanju",
-  "jar": "http://kxrj.site:55/lib/ttkx.jar",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
   "searchable": 1,
   "changeable": 0,
   "style": {
              "type": "rect",
              "ratio": 1.433
-           },
-  "timeout": 10
-},
+           }
+},	  
 {
   "key":"良品短剧",
   "name":"🐞良品短剧",
