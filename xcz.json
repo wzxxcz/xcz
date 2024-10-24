@@ -1640,7 +1640,7 @@
   "name": "💡360影视",
   "type": 3,
   "api": "csp_Sp360",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
   "searchable": 1,
   "filterable": 1,
   "changeable": 1,
