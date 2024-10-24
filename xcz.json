@@ -4665,17 +4665,6 @@
         }
 },
 {
-  "key": "七味影视",
-  "name": "🌿七味蓝光秒播",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=七味"
-},	  
-{
   "key": "可达蓝光",
   "name": "🧿可达蓝光",
   "type": 3,
