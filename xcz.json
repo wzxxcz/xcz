@@ -1707,55 +1707,26 @@
   "ext": "https://czzy.top/"
 },	  
 {
-  "key": "fxzczzy",
+  "key":"厂长弹幕",
   "name":"💡厂长弹幕",
-  "type": 3,
-  "api": "csp_NewCz",
-  "searchable": 1,
-  "changeable": 1,
-  "playerType": 1,
-  "jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/jar/分享者c.jar"
-},
-{
-  "key":"JOJO弹幕",
-  "name":"💡OJO弹幕",
   "type":3,
-  "api":"csp_Jiohub",
+  "api":"csp_Czzy",
+  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":{"danmu":true},
-  "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;d2741230d5013288c2e7669c53db7780"
-},	  
-{
-  "key":"酷看影视",
-  "name":"💡欧欧影视",
-  "type":3,
-  "api":"csp_Wexkukantv",
-  "jar":"https://xn--jem-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
-  "searchable":1,
-  "changeable":1
+  "ext":{"danmu":true}
 },
 {
-  "key":"笙歌┃影视",
-  "name":"💡笙歌影视",
+  "key":"厂长1",
+  "name":"💡厂长影视",
   "type":3,
-  "api":"csp_AppYY",
-  "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
-  "searchable":1,
-  "quickSearch":0,
-  "changeable":0
-},	  
-{
-  "key":"最新┃影视",
-  "name":"💡最新影视",
-  "type":3,
-  "api":"csp_Zx1080",
-  "jar":"https://xn--gue-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "api":"csp_Czzy",
+  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},
+},    
 {
   "key":"天天",
   "name":"💡天天影视",
