@@ -762,24 +762,24 @@
   "key": "hipy_js_4k剧院",
   "name": "🏅小橙子4k",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20240912.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 6,
-  "ext": "http://ttkx.live:55/lib/4k剧院.js"
+  "ext": "http://kxrj.site:55/lib/4k剧院.js"
 },	  
 {
   "key": "4K-AV_js",
   "name": "🏅小橙子4k专线",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/4K-AV.js"
+  "ext": "http://kxrj.site:55/lib/js/4K-AV.js"
 },	  
 {
   "key": "4K_XYQHiker",
@@ -1902,23 +1902,23 @@
   "key": "111tv[自动]_js",
   "name": "👨‍🍳‍111tv",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/111tv[自动].js"
+  "ext": "http://kxrj.site:55/lib/js/111tv[自动].js"
 },
 {
   "key": "爱优影视[自动]_js",
   "name": "👨‍🍳‍爱优影视",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/爱优影视[自动].js"
+  "ext": "http://kxrj.site:55/lib/js/爱优影视[自动].js"
 },
 {
   "key": "csp_XBPQ_fxzcjy",
@@ -1995,12 +1995,12 @@
   "key": "魔方影视_js",
   "name": "👨‍🍳‍魔方影视",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/魔方影视.js"
+  "ext": "http://kxrj.site:55/lib/js/魔方影视.js"
 },	  
 {
   "key": "白嫖者",
@@ -2387,7 +2387,7 @@
   "key": "hipy_js_采集之王[合]",
   "name": "👶采集之王",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -2496,12 +2496,12 @@
   "key": "茶杯狐_js",
   "name": "🍵茶杯影院",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/茶杯狐.js"
+  "ext": "http://kxrj.site:55/lib/js/茶杯狐.js"
 },
 {
   "key":"8号影院",
@@ -2725,7 +2725,7 @@
   "name": "🍊奇趣影视",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
   "playerType": 1,
   "searchable": 1,
   "quickSearch": 1,
@@ -2737,7 +2737,7 @@
     "name":"🍊爱看影院",
     "type":3,
     "api":"csp_XBPQ",
-    "jar":"http://ttkx.live:55/lib/ttkx.jar",
+    "jar":"http://kxrj.site:55/lib/ttkx.jar",
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
@@ -3005,12 +3005,12 @@
   "key": "js_毒蛇",
   "name": "🐍毒蛇影视",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://ttkx.live:55/lib/毒蛇电影[优].js"
+  "ext": "http://kxrj.site:55/lib/毒蛇电影[优].js"
 },			  
 {
   "key": "蚂蚁资源",
@@ -4542,8 +4542,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
-  "ext": "http://ttkx.live:55/lib/闪电影院.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "ext": "http://kxrj.site:55/lib/闪电影院.js",
   "timeout": 15
 },	  
 {
@@ -4576,34 +4576,34 @@
   "key": "电影天堂_js",
   "name": "👨‍🍳‍电影天堂",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/电影天堂.js"
+  "ext": "http://kxrj.site:55/lib/js/电影天堂.js"
 },
 {
   "key": "七新电影网_js",
   "name": "👨‍🍳‍七新电影网",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/七新电影网.js"
+  "ext": "http://kxrj.site:55/lib/js/七新电影网.js"
 },
 {
   "key": "飘花影院_js",
   "name": "👨‍🍳‍飘花影院",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/飘花影院.js"
+  "ext": "http://kxrj.site:55/lib/js/飘花影院.js"
 },	  
 {
   "key": "小柚",
@@ -4641,12 +4641,12 @@
   "key": "电影兔_js",
   "name": "🐇‍电影兔",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/电影兔.js"
+  "ext": "http://kxrj.site:55/lib/js/电影兔.js"
 },
 {
   "key":"YY影视",
@@ -4739,7 +4739,7 @@
   "name": "🍋影视渣渣",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar":"http://ttkx.live:55/lib/ttkx.jar",	
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -7010,12 +7010,12 @@
   "key": "嘀哩嘀哩_js",
   "name": "👨‍🍳‍嘀哩嘀哩",
   "type": 3,
-  "api": "http://ttkx.live:55/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/js/嘀哩嘀哩.js"
+  "ext": "http://kxrj.site:55/lib/js/嘀哩嘀哩.js"
 },
 {
   "key": "央视大全",
@@ -7026,7 +7026,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://ttkx.live:55/lib/大全央视.js"
+  "ext": "http://kxrj.site:55/lib/大全央视.js"
 },
 {
   "key": "短剧",
