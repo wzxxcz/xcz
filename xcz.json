@@ -1016,6 +1016,17 @@
   "quickSearch":1,
   "filterable":1
 },
+{
+  "key": "醉挽清风",
+  "name": "🌀醉挽清风4K纯净",
+  "type": 3,
+  "api": "http://我不是.摸鱼儿.xyz/json/js/drpy.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+},	  
 { 
   "key": "酷云$七七",
   "name": "🌤️酷云七七",
