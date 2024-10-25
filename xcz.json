@@ -403,6 +403,7 @@
   "name":"❤玩歌弹幕",
   "type":3,
   "api":"csp_Wobg",
+  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
   "quickSearch":1,
   "changeable":1,
   "filterable":1,
@@ -411,8 +412,7 @@
 	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
 	  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
 	  "site":"https://yunpan.yunpay.cc","danmu":true
-        },
-  "jar":"https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610"
+        }
 },
 {
   "key":"夸克玩弹幕1",
