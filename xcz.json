@@ -4651,6 +4651,24 @@
   "ext": "http://kxrj.site:55/lib/js/电影兔.js"
 },
 {
+  "key":"kimivod",
+  "name":"🧿柯觅影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "图片":"data-src=\"&&\"",
+	  "副标题":"<divclass=\"absoluterightbottomsmall-marginsmall-roundblackwhite-textsmall-text\">&nbsp;&&&nbsp;",
+	  "影片类型":"<navclass=\"scrollno-margin\"&&</nav>","导演":"導演:&&</a>","主演":"主演:&&</p>",
+	  "简介":"小橙子提醒您，请勿相信影片中的广告，以免上当受骗。+<pstyle=\"position:relative;display:inline-block;\"&&</div>",
+	  "线路数组":"<adata-ui=\"&&</div>","线路标题":">&&</span>",
+	  "分类url":"https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+	  "分类":"电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"
+        }
+},	  
+{
   "key":"YY影视",
   "name":"✨UU影视",
   "type":3,
