@@ -4585,15 +4585,23 @@
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
 {
-  "key": " fxzyg ",
-  "name": "🤴一哥影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar": "",
-  "ext": "./lib/分享yg.json"
+  "key":"一个G",
+  "name":"🧿逸哥影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "影片年代":"<divclass=\"module-info-tag\">&&</div>",
+	  "影片状态":"备注：&&</div>",
+	  "影片类型":"module-info-tag\">&&立即播放",
+	  "简介":"小橙子提醒您，请勿相信影片中的广告，以免上当受骗。+style=\"line-height:20px;\"&&</div>",
+	  "线路数组":"data-dropdown-value=&&</div>",
+	  "线路标题":"<span>&&</span>",
+	  "分类url":"https://yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+	  "分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+        }
 },
 {
   "key":"开心影视",
