@@ -7031,20 +7031,6 @@
   "ext":"https://xn--ps4-mf3g9f.v.nxog.top/m/json/dj.json"
 },
 {
-  "key":"csp_XBPQ_红果短剧",
-  "name":"🐞红果短剧",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{
-	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
-	  "分类url":"https://www.jinyanw.com/type/{cateId}-{catePg}.html",
-	  "分类":"有声动漫$youshengdongman#女频恋爱$nvpinlianai#翻转爽剧$fanzhuanshuangju#古装仙侠$guzhuangxianxia#年代穿越$niandaichuanyue#脑洞悬疑$naodongxuanyi#现代都市$xiandaidushi"
-        }
-},
-{
   "key": "Aid",
   "name": "🚑急救教学",
   "type": 3,
