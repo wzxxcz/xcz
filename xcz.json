@@ -35,12 +35,15 @@
   "ext": "http://kxrj.site:55/lib/好趣网.js"
 },	  
 {
-  "key": "开心直播点播",
+  "key": "lf_live10_min",
   "name": "📺︎可欣电视",
   "type": 3,
-  "api": "http://kxrj.site:55/lib/sdtv.js",
-  "ext": "http://kxrj.site:55/lib/kxzb1.txt",
-  "jar": "http://kxrj.site:55/lib/sdtv.jar"
+  "searchable": 0,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "api": "http://kxrj.site:55/lib/lf_live10_min-output.js",
+  "ext": "http://kxrj.site:55/lib/lf_live.json"
 },	  
 {
   "key": "hipy_js_KTV歌厅[听]",
