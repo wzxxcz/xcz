@@ -43,6 +43,7 @@
   "filterable": 1,
   "changeable": 1,
   "api": "http://kxrj.site:55/lib/lf_live10_min-output.js",
+  "jar": "http://kxrj.site:55/lib/ttkx.jar",	
   "ext": "http://kxrj.site:55/lib/lf_live.json"
 },	  
 {
