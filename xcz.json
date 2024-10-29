@@ -1539,15 +1539,15 @@
   "ext": "http://43.248.100.147:9891/api.php/app/"
 },
 {
-  "key": "大米星球",
+  "key":"大米星球",
   "name":"🍛大米星球",
-  "type": 3,
-  "api": "csp_AppDaMi",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},	  
+  "type":3,
+  "api":"csp_AppDaMi",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
 {
   "key": "厂长",
   "name": "📔厂长不卡",
