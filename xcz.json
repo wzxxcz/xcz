@@ -1268,17 +1268,17 @@
   "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js"
 },
 {
-  "key":"君君",
+  "key":"junjun",
   "name":"💡君君影视",
   "type":3,
-  "changeable":0,
-  "api":"csp_AppYsV2",
-  "jar": "https://xn--b3s-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
   "searchable":1,
   "quickSearch":1,
-  "filterable":1,
-  "ext":"http://122.228.85.203:1000/api.php/app/"
-},
+  "api":"https://xn--dkw0c.v.nxog.top/m//js/appys.js",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",	
+  "ext":{
+	  "host":"http://43.248.100.147:9892/api.php/app/","*":["https://xn--aa-k40eif.v.nxog.top/m/jx.php?ou=公众号欧歌APP&url=","https://jxjson.icu/neibu.php?url="]
+        }
+},	  
 {
   "key": "说给风听",
   "name": "🌀说给风听",
