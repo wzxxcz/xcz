@@ -1228,15 +1228,14 @@
 },
 {
   "key":"影盒",
-  "name":"💡影探影视",
+  "name":"💡影盒影视",
   "type":3,
+  "api":"csp_AppYsV2",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",		
   "searchable":1,
   "quickSearch":1,
-  "api":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724696944407/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",	
-  "ext":{
-	  "host":"http://cmsytv.lyyytv.cn/api.php/app/","*":["https://xn--aa-k40eif.v.nxog.top/m/jx.php?ou=公众号欧歌APP&url=","https://jxjson.icu/neibu.php?url="]
-        }
+  "filterable":1,
+  "ext":"http://cmsytv.lyyytv.cn/api.php/app/"
 },
 {
   "key": "蜂2鸟",
