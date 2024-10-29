@@ -7038,7 +7038,55 @@
       "url":"Parallel"
     },
     {
+      "name":"小橙子解析",
+      "type":"1",
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=0&url=",
+      "ext":{
+	      "flag":["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","NBY","ETH-","BBA","TX","MXTV","mytv","nmys","yhdm","BNNB","letu","DJWB","DJWX","DJWT","duanju"],"header":{"User-Agent":"Dalvik/2.1.0"}
+            }
+    },
+    {
       "name":"-关注小橙子-",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=1&url="
+    },
+    {
+      "name":"-XCZ-",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=2&url="
+    },
+    {
+      "name":"-WZXXCZ-",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=3&url="
+    },
+    {
+      "name":"WZXWKX",
+      "type":1,
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=4&url="
+    },
+    {
+      "name":"小橙子解析2",
+      "type":1,
+      "url":"https://jxjson.icu/neibu.php?url=",
+      "ext":{
+	      "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],
+	      "header":{"User-Agent":"okhttp/4.9.1"}
+            }
+    },
+    {
+      "name":"-WKXWZX-",
+      "type":1,
+      "url":"http://jx.lengai.love/ld/?url="
+    },
+    {
+      "name":"-kx解析-",
+      "type":0,
+      "url":"https://www.8090g.cn/?url=",
+      "ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}
+    },
+    {
+      "name":"-关注小橙子1-",
       "type":0,
       "url":"https://cdn.zyc888.top/?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}
@@ -7062,24 +7110,9 @@
       "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}
     },
     {
-      "name":"-kx解析-",
-      "type":0,
-      "url":"https://www.8090g.cn/?url=",
-      "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}
-    },
-    {
       "name":"小橙子解析1",
       "type":1,
       "url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
-      "ext":{
-	      "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],
-	      "header":{"User-Agent":"okhttp/4.9.1"}
-            }
-    },
-    {
-      "name":"小橙子解析2",
-      "type":1,
-      "url":"https://jxjson.icu/neibu.php?url=",
       "ext":{
 	      "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],
 	      "header":{"User-Agent":"okhttp/4.9.1"}
@@ -7718,14 +7751,6 @@
       }
     },
     {
-  "name":"小橙子一",
-  "type":1,
-  "url":"http://119.91.123.253:2345/Api/yun.php?url=", 
-  "ext": { 
-  "flag": ["YuMi","FYNB","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-  "header":{"User-Agent":"okhttp/3.12.11"} } 
-    },
-    {
 	    "name":"666专线",
 	    "url":"http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=",
 	    "type":"1"
@@ -7916,12 +7941,6 @@
       "url": "https://xcqq.vip/api/?type=app&key=AYUEMgpSnGJNHbmSNn&url="
     },
     {
-      "name":"线路2",
-      "type":0,
-      "url":"https://jx.quankan.app/?url=",
-      "ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
-    },
-    {
       "name":"线路5",
       "type":0,
       "url":"https://jx.aidouer.net/?url=",
@@ -8006,8 +8025,6 @@
       "type": 1,
       "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
     },
-    
-    { "name": "小橙子春盈解析", "type": 1, "url": "http://119.91.123.253:2345/Api/yun.php?url=", "ext": { "flag": [ "qq", "腾讯", "企鹅", "IQiYi", "qiyi", "爱奇艺", "奇艺", "youku", "YouKu", "优酷", "sohu", "SoHu", "搜狐", "letv", "LeShi", "乐视", "imgo", "mgtv", "MangGuo", "芒果", "SLYS4k", "BYGA", "luanzi", "AliS", "dxzy", "bilibili", "QEYSS", "xigua", "西瓜视频", "腾讯视频", "奇艺视频", "优酷视频", "芒果视频", "乐视视频" ], "header": { "User-Agent": "Dart/2.18 (dart:io)" }}}, 
     {
             "name": "️春盈绣探",
             "type": 0,
@@ -8267,7 +8284,7 @@
     {
       "name": "-全看-",
       "type": 0,
-      "url": "https://jx.quankan.app/?url=",
+      "url": "",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
@@ -8320,14 +8337,9 @@
       {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}
     },
     {
-			"name": "宝片",
-			"type": 1,
-			"url": "https://wuzei.serv00.net/jx/kk.php?url="
-		},
-    {
-      "name": "小橙子解析2",
+      "name": "宝片",
       "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+      "url": "https://wuzei.serv00.net/jx/kk.php?url="
     },
     {
       "name": "小橙子解析7",
@@ -8715,7 +8727,6 @@
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
 {"name":"-关注-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
-{"name":"-欧歌-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"-公众号-","type":0,"url":"https://jx.m3u8.pw/?url="},
 {"name":"-谢谢-","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://www.xyflv.cc/"}}},
     {
