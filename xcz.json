@@ -1031,16 +1031,6 @@
   "filterable":1
 },
 {
-  "key": "饭团影视",
-  "name": "🍚饭团影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/fantuan.json"
-},
-{
   "key": "文采",
   "name": "💮文采秒播",
   "type": 3,
