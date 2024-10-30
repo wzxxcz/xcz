@@ -1021,15 +1021,6 @@
   "changeable": 1
 },
 {
-  "key": "酷看影视",
-  "name": "🏅酷看影视",
-  "jar": "http://47.99.102.252/jar/xc.jar",
-  "type": 3,
-  "api": "csp_Wexkukantv",
-  "searchable": 1,
-  "changeable": 1
-},
-{
   "key": "秒播",
   "name": "🐳秒播蓝光",
   "type": 3,
