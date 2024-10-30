@@ -1334,15 +1334,15 @@
 	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+vod_remarks\"*\"&&\"+vod_content\"*\"&&\"","线路二次截取":"","线路数组":"\"vod_play_from\":&&,","线路标题":"\"&&\"","播放二次截取":"","播放数组":"vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]","播放列表":":&&,","播放标题":"\"&&$","跳转解析":"默认$http://pan.qiaoji8.com/tvbox/neibu.php?url=","播放链接":"解析+$&&\"","跳转播放链接":"url\"*\"&&\""}
 },
 {
-  "key": "南坊追剧",
-  "name": "💡南坊影视",
+  "key": "臭蛋蛋_js",
+  "name": "👨‍🍳‍臭蛋蛋影视",
   "type": 3,
-  "api": "csp_AppMao",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
-  "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/臭蛋蛋.js"
 },
 {
   "key":"视频库",
