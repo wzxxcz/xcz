@@ -4357,7 +4357,18 @@
   "filterable": 1,
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/飘花影院.js"
-},	  
+},
+{
+  "key": "bilfun(自动)_js",
+  "name": "👨‍🍳‍bilfun影视",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/bilfun(自动).js"
+},
 {
   "key": "小柚",
   "name": "❤小柚App",
