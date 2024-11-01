@@ -1086,11 +1086,11 @@
   "name": "🎃南瓜蓝光纯净",
   "type": 3,
   "api": "csp_NanGua",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
-},	  
+},
 {
   "key": "南瓜弹幕",
   "name": "🎃南瓜蓝光弹幕",
