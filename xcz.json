@@ -128,6 +128,22 @@
   "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540"
 },
 {
+  "key": "玩偶",
+  "name": "🌎玩偶智能4K弹幕",
+  "type": 3,
+  "api": "csp_WoGG",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+           "Cloud-drive": "TVBox/Cloud-drive.txt",
+           "from": "4k|auto",
+           "siteUrl": "https://www.wogg.net/",
+           "danMu": "弹"
+         }
+},	  
+{
   "key": "夸克云星弹幕",
   "name": "☁️云星资源4K弹幕",
   "type": 3,
