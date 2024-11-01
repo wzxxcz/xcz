@@ -1239,6 +1239,16 @@
   "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js"
 },
 {
+  "key": "凡人影视",
+  "name": "🤡凡人蓝光弹幕",
+  "type": 3,
+  "api": "csp_AppFr",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},	  
+{
   "key":"junjun",
   "name":"💡君君影视",
   "type":3,
