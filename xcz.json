@@ -555,25 +555,11 @@
   "timeout": 30
 },	  
 {
-  "key": "盘Se",
-  "name": "🙀盘Se搜索",
-  "type": 3,
-  "api": "csp_PanSearch",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884068216/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77",	
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 0,
-  "ext": {
-           "token": "file://TV/ali_token.txt"
-         },
-  "timeout": 15
-},
-{
   "key": "搜索弹幕",
   "name": "🙀盘Se弹幕搜索",
   "type": 3,
   "api": "csp_PanSearch",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
   "searchable": 1,
   "filterable": 0,
   "changeable": 1,
