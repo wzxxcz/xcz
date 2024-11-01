@@ -567,6 +567,20 @@
            "token": "file://TV/ali_token.txt"
          },
   "timeout": 15
+},
+{
+  "key": "搜索弹幕",
+  "name": "🙀盘Se弹幕搜索",
+  "type": 3,
+  "api": "csp_PanSearch",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "danmu": true
+        }
 },	  
 {
   "key": "米搜弹幕",
