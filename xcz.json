@@ -1004,6 +1004,20 @@
   "filterable":1
 },
 {
+  "key": "Bili",
+  "name": "🆙哔哩合集蓝光",
+  "type": 3,
+  "api": "csp_Bili",
+  "style": {
+              "type": "rect",
+              "ratio": 1.597
+           },
+  "searchable": 1,
+  "quickSearch": 0,
+  "changeable": 0,
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
+},
+{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
