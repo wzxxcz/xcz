@@ -1008,6 +1008,7 @@
   "name": "🆙哔哩合集蓝光",
   "type": 3,
   "api": "csp_Bili",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",
   "style": {
               "type": "rect",
               "ratio": 1.597
