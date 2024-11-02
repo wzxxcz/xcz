@@ -1004,21 +1004,6 @@
   "filterable":1
 },
 {
-  "key": "Bili",
-  "name": "🆙哔哩合集蓝光",
-  "type": 3,
-  "api": "csp_Bili",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",
-  "style": {
-              "type": "rect",
-              "ratio": 1.597
-           },
-  "searchable": 1,
-  "quickSearch": 0,
-  "changeable": 0,
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
-},
-{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
@@ -6906,6 +6891,36 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=央视经典"
+},
+{
+  "key": "Bili",
+  "name": "🆙哔哩合集蓝光",
+  "type": 3,
+  "api": "csp_Bili",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+  "style": {
+              "type": "rect",
+              "ratio": 1.597
+           },
+  "searchable": 1,
+  "quickSearch": 0,
+  "changeable": 0,
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
+},
+{
+  "key": "Biliych",
+  "name": "🆙哔哩歌曲蓝光",
+  "type": 3,
+  "api": "csp_Bili",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+  "style": {
+              "type": "rect",
+              "ratio": 1.597
+           },
+  "searchable": 1,
+  "quickSearch": 0,
+  "changeable": 0,
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩歌曲"
 },
 {
   "key": "短剧",
