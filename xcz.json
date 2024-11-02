@@ -576,7 +576,7 @@
 },
 {
   "key": "米搜弹幕",
-  "name": "🦋米盘搜搜",
+  "name": "🍚小米弹幕搜索",
   "type": 3,
   "api": "csp_Qkpanso",
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
@@ -588,7 +588,21 @@
            "site": "https://www.misou.fun",
            "danmu": true
         }
-},	  
+},
+{
+  "key": "米搜",
+  "name": "🦋米盘搜搜4K纯净",
+  "type": 3,
+  "api": "csp_MIPanSo",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+           "Cloud-drive": "TVBox/Cloud-drive.txt",
+           "from": "4k|auto"
+         }
+},
 {
   "key":"搜索弹幕",
   "name":"❤搜索弹幕",
