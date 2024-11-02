@@ -967,6 +967,17 @@
   "changeable": 1
 },
 {
+  "key": "央视经典",
+  "name": "🇨🇳央视经典合集",
+  "type": 3,
+  "api": "csp_Bili",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=央视经典"
+},
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
