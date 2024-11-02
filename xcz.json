@@ -122,7 +122,7 @@
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
   "api": "csp_WoGG",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
@@ -132,7 +132,7 @@
            "siteUrl": "https://www.wogg.net/",
            "danMu": "弹"
          }
-},	  
+},
 {
   "key": "夸克云星弹幕",
   "name": "☁️云星资源4K弹幕",
