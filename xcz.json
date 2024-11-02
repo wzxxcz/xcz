@@ -71,7 +71,7 @@
   "name":"🐲小橙子玩偶",
   "type": 3,
   "api": "csp_Wogg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -82,7 +82,7 @@
            "site": "https://wogg.xxooo.cf",
            "danmu": true
         }
-},	  
+},
 {
   "key": "玩偶弹幕",
   "name": "🍹可欣玩偶",
