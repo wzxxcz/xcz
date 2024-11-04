@@ -101,23 +101,6 @@
          }
 },
 {
-  "key":"欧歌幕1",
-  "name":"🐲小橙子4K弹幕",
-  "type":3,
-  "api":"csp_Wobg",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-	"ext":{
-		"token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-		"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-		"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
-		"site":"https://woog.nxog.asia","danmu": true
-	      },
-  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81"
-},
-{
   "key": "玩偶",
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
