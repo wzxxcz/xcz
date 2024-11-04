@@ -6962,6 +6962,17 @@
   "filterable":0
 },
 {
+  "key": "csp_XYQHiker_爱你短剧",
+  "name": "🍊爱你短剧",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://kxrj.site:55/lib/爱你短剧.json"
+},
+{
   "key": "Aid",
   "name": "🚑急救教学",
   "type": 3,
