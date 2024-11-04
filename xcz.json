@@ -6973,6 +6973,17 @@
   "ext": "http://kxrj.site:55/lib/爱你短剧.json"
 },
 {
+  "key": "csp_XYQHiker_河马短剧",
+  "name": "🦛河马短剧",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "http://kxrj.site:55/lib/ttkx.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://kxrj.site:55/lib/河马短剧.json"
+},
+{
   "key": "Aid",
   "name": "🚑急救教学",
   "type": 3,
