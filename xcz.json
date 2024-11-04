@@ -6984,6 +6984,16 @@
   "ext": "http://kxrj.site:55/lib/河马短剧.json"
 },
 {
+  "key": "js_蓝莓短剧",
+  "name": "🫐蓝莓短剧",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://kxrj.site:55/lib/蓝莓短剧.js"
+},
+{
   "key": "Aid",
   "name": "🚑急救教学",
   "type": 3,
