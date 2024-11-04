@@ -71,13 +71,12 @@
   "name": "🐠随缘4k",
   "type": 3,
   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-  "jar": "https://7154.kstore.space/lib/cz.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
   "changeable": 0,
-  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/%E6%9E%81%E7%B1%B3.js"
+  "ext": "https://codeberg.org/qijiyun/yunfensi4k/raw/branch/main/lib/%E6%9E%81%E7%B1%B3.js"
 },
 {
   "key": "玩偶备用弹幕",
