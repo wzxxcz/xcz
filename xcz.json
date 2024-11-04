@@ -7147,6 +7147,11 @@
 	      "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
     },
     {
+      "name": "-云析1-",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
       "name": "-爱豆-",
       "type":0,
       "url":"https://jx.aidouer.net/?url=",
@@ -7186,6 +7191,11 @@
       "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}
     },
     {
+      "name": "-xcz解析1-",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
       "name":"小橙子解析1",
       "type":1,
       "url":"https://xcoo.vip/xiaojun/xiaojunjiexi.php?url=",
@@ -7202,6 +7212,16 @@
 	      "flag":["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","NBY","ETH-","BBA","TX","MXTV","mytv","nmys","yhdm","BNNB","letu","DJWB","DJWX","DJWT","duanju"],
 	      "header":{"User-Agent":"Dalvik/2.1.0"}
             }
+    },
+    {
+      "name": "虾米1",
+      "type": 0,
+      "url": "https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="
+    },
+    {
+      "name": "-ik91-",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url="
     },
     {
        "name":"XG蓝光",
