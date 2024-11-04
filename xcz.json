@@ -565,7 +565,7 @@
   "name": "🙀盘Se弹幕搜索",
   "type": 3,
   "api": "csp_PanSearch",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
   "searchable": 1,
   "filterable": 0,
   "changeable": 1,
@@ -573,7 +573,7 @@
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "danmu": true
          }
-},
+},	  
 {
   "key": "米搜弹幕",
   "name": "🍚小米弹幕搜索",
