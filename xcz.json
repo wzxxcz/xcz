@@ -67,18 +67,6 @@
   "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
 },
 {
-  "key": "极4k",
-  "name": "🐲小橙子随缘4k",
-  "type": 3,
-  "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://codeberg.org/qijiyun/yunfensi4k/raw/branch/main/lib/极米.js"
-},	  
-{
   "key": "玩偶备用弹幕",
   "name":"🐲小橙子玩偶",
   "type": 3,
