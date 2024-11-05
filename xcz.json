@@ -1724,6 +1724,18 @@
   "order_num": 0,
   "changeable": 0,
   "ext": "http://www.mpanso.com/小米/FREE.js"
+},
+{
+  "key": "闪电极速",
+  "name": "⚡️闪电影视",
+  "type": 3,
+  "api": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/smdy.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/wj/smdySD.js"
 },	  
 {
   "key":"85K",
@@ -4393,17 +4405,6 @@
            "分类": "电影&电视剧&综艺&动漫",
            "分类值": "1&2&3&4"
         }
-},	  
-{
-  "key": "闪电影院_js",
-  "name": "🚀闪电影视",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "ext": "http://kxrj.site:55/lib/闪电影院.js",
-  "timeout": 15
 },	  
 {
   "key":"碟迷",
