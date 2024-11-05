@@ -1055,16 +1055,18 @@
   "ext": "http://kxrj.site:55/lib/金牌影视.js"
 },
 {
-  "key": "糯米",
+  "key": "糯米弹幕",
   "name": "🍓糯米秒播",
   "type": 3,
-  "api": "csp_Nmyswv",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727184114979/fan.txt;md5;3754afe8b20b0a18c982ee8dd026bc55",
-  "timeout": 15,
+  "api": "csp_Nmys",
+  "jar": "http://xn--v6q485m.xn--esstbv41m2ra.icu/jar/smdyxs.txt",	
   "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1
-},
+  "filterable": 1,
+  "ext": {
+           "danmu": true
+         }
+},	  
 {
   "key":"比特影视",
   "name": "🍄比特秒播",
