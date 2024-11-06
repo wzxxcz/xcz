@@ -4948,7 +4948,7 @@
       "name": "🍊量子资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "jar": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.txt.txt",
+      "jar": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
       "searchable": 1,
       "quickSearch": 1,
       "playurl": "https://jx.nnxv.cn/tv.php?url=",
