@@ -604,18 +604,6 @@
         }
 },
 {
-  "key": "芒果",
-  "name": "🥭芒果影视",
-  "type": 3,
-  "api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/qihaoyyds/js/raw/master/芒果影视.js"
-},	  
-{
   "key": "fxz影酷4k",
   "name": "🍊影酷影视",
   "type": 3,
