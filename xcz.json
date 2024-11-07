@@ -7205,7 +7205,7 @@
     {
       "name":"小橙子解析",
       "type":"1",
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=0&url=",
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
       "ext":{
 	      "flag":["youku","qq","qiyi","bilibili","mgtv","pptv","xigua","NBY","ETH-","BBA","TX","MXTV","mytv","nmys","yhdm","BNNB","letu","DJWB","DJWX","DJWT","duanju"],"header":{"User-Agent":"Dalvik/2.1.0"}
             }
@@ -7213,31 +7213,27 @@
     {
       "name":"-关注小橙子-",
       "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=1&url="
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="
     },
     {
       "name":"-XCZ-",
       "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=2&url="
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="
     },
     {
       "name":"-WZXXCZ-",
       "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=3&url="
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=3&url="
     },
     {
       "name":"WZXWKX",
       "type":1,
-      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌app&mz=4&url="
+      "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=4&url="
     },
     {
       "name":"小橙子解析2",
       "type":1,
-      "url":"https://jxjson.icu/neibu.php?url=",
-      "ext":{
-	      "flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],
-	      "header":{"User-Agent":"okhttp/4.9.1"}
-            }
+      "url":"https://jxjson.icu/neibu.php?url="
     },
     {
       "name":"-WKXWZX-",
@@ -7263,11 +7259,6 @@
       "url":"https://jx.yparse.com/index.php?url=",
       "ext":{
 	      "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-    },
-    {
-      "name": "-云析1-",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
     },
     {
       "name": "-爱豆-",
