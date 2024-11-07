@@ -118,11 +118,11 @@
          }
 },
 {
-  "key": "夸克云星弹幕",
+  "key": "云星日记",
   "name": "☁️云星资源4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/柒豪.zip",	
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -133,7 +133,7 @@
            "site": "https://4k.4u4.cn",
            "danmu": true
          }
-},	  
+},
 {
   "key": "团长弹幕",
   "name": "🏳️夸克团长4K弹幕",
