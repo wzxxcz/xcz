@@ -4447,7 +4447,7 @@
   "name":"🧿文采影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",	
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",		
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -4457,7 +4457,7 @@
 	  "分类url":"https://www.iidie.com/type-{cateId}-{catePg}/",
 	  "分类":"国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
         }
-},
+},	  
 {
   "key": "csp_appys_fxz酒客",
   "name": "🍸酒客影视",
