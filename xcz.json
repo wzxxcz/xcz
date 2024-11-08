@@ -306,7 +306,7 @@
   "name":"❤玩哥弹幕",
   "type":3,
   "api":"csp_Wobg",
-  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
+  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -316,8 +316,8 @@
 	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
 	  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
 	  "site":"https://woog.nxog.eu.org","danmu": true
-        }
-},
+       }
+},	  
 {
   "key":"夸克玩弹幕6",
   "name":"❤玩弟弹幕",
