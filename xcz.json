@@ -7077,6 +7077,17 @@
   "ext": "http://kxrj.site:55/lib/蓝莓短剧.js"
 },
 {
+  "key": "你好帅",
+  "name": "🍊好帅短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+           "分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html",
+           "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
+           "播放数组": "<div class=\"sort-item\"&&</div>"
+         }
+},
+{
   "key": "Aid",
   "name": "🚑急救教学",
   "type": 3,
