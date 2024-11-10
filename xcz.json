@@ -5535,14 +5535,16 @@
   "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
 },
 {
-  "key": "meowtv_mgsp",
+  "key": "芒果",
   "name": "🥭芒果(官)",
   "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/芒果视频.js"
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/qihaoyyds/js/raw/master/芒果影视.js"
 },
 {
   "key": "hipy_js_fxztx1",
