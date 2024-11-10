@@ -5535,13 +5535,6 @@
   "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
 },
 {
-  "key": "芒果",
-  "name": "🥭芒果(官)",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/mangguo.js"
-},
-{
   "key": "meowtv_mgsp",
   "name": "🥭芒果(官)",
   "type": 3,
