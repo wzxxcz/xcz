@@ -5535,19 +5535,6 @@
   "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
 },
 {
-  "key": "芒果",
-  "name": "🥭芒果(官)",
-  "type": 3,
-  "api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/柒豪.zip",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/qihaoyyds/js/raw/master/芒果影视.js"
-},
-{
   "key": "hipy_js_fxztx1",
   "name": "🍊腾讯(官)",
   "type": 3,
