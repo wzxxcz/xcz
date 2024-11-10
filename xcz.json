@@ -331,7 +331,8 @@
 	  "token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
 	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
 	  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
-	  "site":"https://mihdr.top","danmu":true
+	  "site":"https://mihdr.top",
+	  "danmu":true
         }
 },
 {
