@@ -4555,6 +4555,16 @@
   "ext": "http://kxrj.site:55/lib/js/bilfun(自动).js"
 },
 {
+  "key":"Dm84",
+  "name":"🤣巴士动漫",
+  "type":3,
+  "api":"csp_Dm84",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
