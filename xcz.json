@@ -4555,29 +4555,6 @@
   "ext": "http://kxrj.site:55/lib/js/bilfun(自动).js"
 },
 {
-  "key":"Dm84",
-  "name":"🤣巴士动漫",
-  "type":3,
-  "api":"csp_Dm84",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",
-  "searchable":1,
-  "quickSearch":1,
-  "changeable":1
-},
-{
-  "key":"NyaFun动漫",
-  "name":"🤣妮呀动漫",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{
-	  "分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-	  "分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
-        }
-},
-{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
@@ -7056,6 +7033,29 @@
   "quickSearch": 0,
   "changeable": 0,
   "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩歌曲"
+},
+{
+  "key":"Dm84",
+  "name":"🤣巴士动漫",
+  "type":3,
+  "api":"csp_Dm84",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1
+},
+{
+  "key":"NyaFun动漫",
+  "name":"🤣妮呀动漫",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+	  "分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
+        }
 },
 {
   "key": "短剧",
