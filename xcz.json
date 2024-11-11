@@ -7059,18 +7059,6 @@
         }
 },
 {
-  "key": "合集",
-  "name": "💋哔哩合集",
-  "type": 3,
-  "api": "https://xn--dkw0c.v.nxog.top/m//js/drpy2.min.js",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",
-  "searchable":1,
-  "quickSearch": 0,
-  "filterable": 1,
-  "order_num":142,
-  "ext":"https://xn--dkw0c.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--dkw0c.v.nxog.top/m//Bilibili/合集.json"
-}, 
-{
   "key": "短剧",
   "name": "🌈上头短剧",
   "type": 3,
