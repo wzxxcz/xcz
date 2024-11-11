@@ -1971,17 +1971,17 @@
   "ext": "http://kxrj.site:55/lib/js/魔方影视.js"
 },	  
 {
-  "key": "白嫖者",
+  "key":"白嫖者",
   "name": "🍊白嫖者联盟",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": {
-        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-        "副标题": "class=\"pic-text text-right\"&&</span>",
-        "简介": "⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"
-      }
-},	  	  
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{
+	  "分类url":"https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+	  "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
+	  "副标题":"class=\"pic-texttext-right\"&&</span>",
+	  "简介":"️欧歌特别提醒您⚠️小橙子特别提醒您，请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p>"
+        }
+},
 {
   "key": "凯奇追剧",
   "name": "🍊凯奇追剧",
