@@ -1754,15 +1754,6 @@
   "ext": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/xs/小熊弹幕.js"
 },
 {
-  "key":"魔都资源",
-  "name":"🤣魔都动漫",
-  "type":1,
-  "api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},	  
-{
   "key": "🌟客星",
   "name": "🙀客星蓝光",
   "type": 3,
@@ -7123,6 +7114,15 @@
 	  "分类":"新番日漫$1#国产动漫$2#欧美动漫$3#动漫电影$4"
         }
 },
+{
+  "key":"魔都资源",
+  "name":"🤣魔都动漫",
+  "type":1,
+  "api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},	  
 {
   "key": "短剧",
   "name": "🌈上头短剧",
