@@ -599,7 +599,7 @@
   "name":"❤搜索弹幕",
   "type":3,
   "api":"csp_PanSearch",
-  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",
+  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",	
   "searchable":1,
   "filterable":0,
   "changeable":1,
@@ -607,7 +607,7 @@
 	  "token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
 	  "danmu":true
         }
-},
+},	  
 {
   "key": "fxz影酷4k",
   "name": "🍊影酷影视",
