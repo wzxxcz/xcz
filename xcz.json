@@ -5,7 +5,7 @@
   "lives": [{
 	        "name": "live",
                 "type":0,
- 	        "url": "https://gitdl.cn/https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/merged_output.txt",
+ 	        "url": "https://ghproxy.net/https://raw.githubusercontent.com/wzxxcz/wzx/refs/heads/main/merged_output.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
