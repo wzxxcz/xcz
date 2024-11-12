@@ -983,23 +983,6 @@
   "changeable": 1
 },
 {
-  "key":"动漫大全",
-  "name":"🤣大全动漫",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",	
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{
-	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
-	  "线路数组":"<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>",
-	  "线路标题":"</i>&nbsp;&&</a>+集",
-	  "分类url":"https://dingdingdm.com/list/{cateId}-{catePg}.html",
-	  "分类":"动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"
-        }
-},
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -7074,6 +7057,23 @@
   "ext":{
 	  "分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
 	  "分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
+        }
+},
+{
+  "key":"动漫大全",
+  "name":"🤣大全动漫",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;657532cb4981ce32603e945774c1ac81",	
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
+	  "线路数组":"<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>",
+	  "线路标题":"</i>&nbsp;&&</a>+集",
+	  "分类url":"https://dingdingdm.com/list/{cateId}-{catePg}.html",
+	  "分类":"动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"
         }
 },
 {
