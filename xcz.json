@@ -355,21 +355,21 @@
         }
 },
 {
-  "key":"立播弹幕",
+  "key": "立播弹幕",
   "name":"❤立播弹幕",
-  "type":3,
-  "api":"csp_Libvio",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
-  "searchable":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":{
-	  "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-	  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
-	  "danmu":true
+  "type": 3,
+  "api": "csp_Libvio",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://libvio.link"
         }
-},
+},	  
 {
   "key": "夸克趣盘搜弹幕",
   "name": "🤓趣盘搜索弹幕",
