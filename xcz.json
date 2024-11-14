@@ -446,9 +446,11 @@
   "ext":{
 	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
 	  "cookie":"http://127.0.0.1:9978/file/TV/.quark",
-	  "uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site":"https://tv.yydsys.top","danmu":true
-        }
-},	  
+	  "uc_cookie":"http://127.0.0.1:9978/file/TV/.uc",
+	  "site":"https://tv.yydsys.top",
+	  "danmu":true
+       }
+},
 {
   "key":"夸克玩弹幕5",
   "name":"❤玩妹弹幕",
