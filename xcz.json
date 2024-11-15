@@ -76,6 +76,21 @@
   "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
 },
 {
+  "key": "alllive",
+  "name": "📽️一直播LIVE",
+  "type": 3,
+  "api": "csp_Alllive",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
+  "playerType": 2,
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0,
+  "ext": {
+           "danmu": true
+         },
+  "timeout": 10
+},
+{
   "key": "玩偶智能",
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
