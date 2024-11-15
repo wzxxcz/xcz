@@ -342,7 +342,7 @@
   "name":"❤玩弟弹幕",
   "type":3,
   "api":"csp_Wobg",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;75449a0ec9b31989d05faef11df7c118",	
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;75449a0ec9b31989d05faef11df7c118",
   "quickSearch":1,
   "changeable":1,
   "filterable":1,
@@ -350,8 +350,7 @@
 	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
 	  "cookie":"http://127.0.0.1:9978/file/TV/.quark",
 	  "uc_cookie":"http://127.0.0.1:9978/file/TV/.uc",
-	  "site":"https://mihdr.top",
-	  "danmu":true
+	  "site":"https://mihdr.top","danmu":true
         }
 },
 {
