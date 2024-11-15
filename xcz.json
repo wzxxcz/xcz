@@ -984,6 +984,38 @@
   "changeable": 1
 },
 {
+      "key": "Bili",
+      "name": "🅱哔哔合集弹幕",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/bilibili.json"
+      }
+},
+{
+      "key": "Biliych",
+      "name": "🅱哔哔演唱会弹幕",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/biliych.json"
+      }
+},	  	  
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -6974,36 +7006,6 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=央视经典"
-},
-{
-  "key": "Bili",
-  "name": "🆙哔哩合集蓝光",
-  "type": 3,
-  "api": "csp_Bili",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-  "style": {
-              "type": "rect",
-              "ratio": 1.597
-           },
-  "searchable": 1,
-  "quickSearch": 0,
-  "changeable": 0,
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
-},
-{
-  "key": "Biliych",
-  "name": "🆙哔哩歌曲蓝光",
-  "type": 3,
-  "api": "csp_Bili",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-  "style": {
-              "type": "rect",
-              "ratio": 1.597
-           },
-  "searchable": 1,
-  "quickSearch": 0,
-  "changeable": 0,
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩歌曲"
 },
 {
   "key":"Dm84",
