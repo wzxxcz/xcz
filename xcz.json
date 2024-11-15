@@ -1255,15 +1255,14 @@
   "ext": "./lib/蛋蛋影视.json"
 },
 {
-  "key": "低端",
+  "key":"低端影视",
   "name": "⏮️低端外剧",
-  "type": 3,
-  "api": "csp_Ddrk",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",	
-  "playerType": "2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
+  "type":3,
+  "api":"csp_Ddys",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;75449a0ec9b31989d05faef11df7c118",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
 },
 {
   "key":"影盒",
