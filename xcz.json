@@ -593,6 +593,20 @@
 	  "token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
 	  "danmu":true
         }
+},
+{
+  "key":"搜索弹幕",
+  "name":"❤搜索弹幕",
+  "type":3,
+  "api":"csp_PanSearch",
+  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;75449a0ec9b31989d05faef11df7c118",	
+  "searchable":1,
+  "filterable":0,
+  "changeable":1,
+  "ext":{
+	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
+	  "danmu":true
+        }
 },	  
 {
   "key": "fxz影酷4k",
