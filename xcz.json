@@ -56,6 +56,15 @@
   "ext": "https://xn--dkw0c.v.nxog.top/m//json/live.php?ou=公众号欧歌APP"
 },
 {
+  "key": "csp_Kugou",
+  "name": "🐶酷狗音乐",
+  "type": 3,
+  "api": "csp_Kugou",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
+  "searchable": 1,
+  "changeable": 0
+},
+{
   "key": "hipy_js_KTV歌厅[听]",
   "name": "🎤KTV歌厅",
   "type": 3,
