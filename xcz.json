@@ -1881,12 +1881,15 @@
   "ext": "http://kxrj.site:55/lib/js/爱优影视[自动].js"
 },
 {
-  "key": "drpy_js_看了么",
-  "name": "🍊看了么",
+  "key": "看了么_js",
+  "name": "👨‍🍳‍看了么",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js",
-  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/看了么.js"
 },
 {
   "key": "csp_XBPQ_fxzcjy",
