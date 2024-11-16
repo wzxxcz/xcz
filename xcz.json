@@ -1399,20 +1399,16 @@
   "ext":"./lib/sc1080.json"
 },
 {
-  "key": "星辰影院",
-  "name":"💡星辰影视",
+  "key": "星辰[优]_js",
+  "name": "👨‍🍳‍星辰[优](drpy_t3)",
   "type": 3,
-  "api": "csp_XBPQ",
+  "api": "http://ttkx.cc:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": {
-        "影片类型": "小橙子制作",
-        "播放标题": ">&&<[不包含:1080P]",
-        "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
-      }
-},	  
+  "order_num": 0,
+  "ext": "http://ttkx.cc:55/lib/js/星辰[优].js"
+},
 {
   "key":"兄弟影视",
   "name":"💡兄弟影视",
@@ -2913,12 +2909,12 @@
   "key": "热播之家_js",
   "name": "👨‍🍳‍热播之家",
   "type": 3,
-  "api": "http://kxrj.site:55/天天开心/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://kxrj.site:55/天天开心/lib/js/热播之家.js"
+  "ext": "http://kxrj.site:55/js/热播之家.js"
 },
 {
   "key":"人人影视",
@@ -3912,12 +3908,12 @@
   "key": "网飞啦[自动]_js",
   "name": "👨‍🍳‍网飞啦影视",
   "type": 3,
-  "api": "http://kxrj.site:55/天天开心/lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "http://kxrj.site:55/天天开心/lib/js/网飞啦[自动].js"
+  "ext": "http://kxrj.site:55/lib/js/网飞啦[自动].js"
 },
 {
   "key" : "drpy_js_奇珍异兽",
