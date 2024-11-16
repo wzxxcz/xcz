@@ -1004,16 +1004,6 @@
   "changeable": 1
 },
 {
-  "key": "茶狐杯",
-  "name": "🍵茶狐杯",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/json/茶狐杯.json"
-},
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -2505,6 +2495,16 @@
   "filterable": 1,
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/茶杯狐.js"
+},
+{
+  "key": "茶狐杯",
+  "name": "🍵茶狐杯",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://kxrj.site:55/lib/json/茶狐杯.json"
 },
 {
   "key":"8号影院",
