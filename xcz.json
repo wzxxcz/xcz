@@ -2914,7 +2914,6 @@
   "name": "👨‍🍳‍热播之家",
   "type": 3,
   "api": "http://kxrj.site:55/天天开心/lib/drpy2.min.js",
-  "jar": "http://kxrj.site:55/天天开心/lib/ttkx.jar/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
