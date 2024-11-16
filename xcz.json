@@ -1885,6 +1885,14 @@
   "ext": "http://kxrj.site:55/lib/js/爱优影视[自动].js"
 },
 {
+  "key": "drpy_js_看了么",
+  "name": "🍊看了么",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js",
+  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+},
+{
   "key": "csp_XBPQ_fxzcjy",
   "name": "🍃柴姬影视",
   "type": 3,
@@ -5717,14 +5725,6 @@
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js",
-  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-},
-{
-  "key": "drpy_js_看了么",
-  "name": "🍊看了么",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js",
   "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 },
 {
