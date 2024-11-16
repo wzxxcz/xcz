@@ -3909,14 +3909,15 @@
   "分类":"短剧$24#电视剧$21#电影$20#动漫$23#综艺$22"}
 },
 {
-  "key": "wangfei",
-  "name": "🍊分享网飞",
+  "key": "网飞啦[自动]_js",
+  "name": "👨‍🍳‍网飞啦影视",
   "type": 3,
-  "api": "csp_XBPQ",
-  "ext": {"线路数组":"<div class=\"module-tab-item&&</div>[排序:][排序:HN线路>SO线路>KK线路]",
-  "线路标题":"<span>&&</small>[替换:</span><small>>>✮更新]",
-  "分类url": "https://www.wangfei.live/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-  "分类": "电影$dy#剧集$juji#国产$guochanju#港剧$xianggangju#动漫$dongman"}
+  "api": "http://kxrj.site:55/天天开心/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/天天开心/lib/js/网飞啦[自动].js"
 },
 {
   "key" : "drpy_js_奇珍异兽",
