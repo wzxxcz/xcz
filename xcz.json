@@ -1104,6 +1104,13 @@
   "ext": "http://kxrj.site:55/lib/js/金牌影视.js"
 },
 {
+  "key": "闪雷影视",
+  "name": "🚀闪雷影视",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "ext": "http://kxrj.site:55/lib/js/闪雷影视.js"
+},
+{
   "key": "糯米弹幕",
   "name": "🍓糯米秒播",
   "type": 3,
