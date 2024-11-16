@@ -2910,14 +2910,15 @@
   "ext": "./lib/影视工场.json"
 },
 {
-  "key": "csp_热播",
-  "name": "🍊热播之家",
+  "key": "热播之家_js",
+  "name": "👨‍🍳‍热播之家",
   "type": 3,
-  "api": "csp_XBPQ",
+  "api": "http://kxrj.site:55/天天开心/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/热播之家.json"
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/天天开心/lib/js/热播之家.js"
 },
 {
   "key":"人人影视",
