@@ -1021,6 +1021,18 @@
   "changeable": 1
 },
 {
+  "key": "影探",
+  "name": "🍊影探影视",
+  "type": 3,
+  "api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/qihaoyyds/js/raw/master/影探.js"
+},
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
