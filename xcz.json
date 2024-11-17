@@ -210,11 +210,11 @@
         }
 },	  
 {
-  "key": "夸克至臻弹幕",
+  "key": "至臻网盘",
   "name": "🏆️夸克至臻4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/柒豪.zip",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -224,7 +224,7 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "site": "https://mihdr.top",
            "danmu": true
-      }
+         }
 },
 {
   "key": "夸克奥秘弹幕",
