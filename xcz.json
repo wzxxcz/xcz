@@ -1122,18 +1122,15 @@
   "ext": "http://kxrj.site:55/lib/js/闪雷影视.js"
 },
 {
-  "key": "糯米弹幕",
+  "key": "糯米",
   "name": "🍓糯米秒播",
   "type": 3,
-  "api": "csp_Nmys",
-  "jar": "http://xn--v6q485m.xn--esstbv41m2ra.icu/jar/smdyxs.txt",	
+  "api": "csp_Nmyswv",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "danmu": true
-         }
-},	  
+  "changeable": 1
+},
 {
   "key": "比特",
   "name": "🍄比特秒播",
