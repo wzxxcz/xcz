@@ -1021,17 +1021,6 @@
   "changeable": 1
 },
 {
-  "key": "妖狐影视[自动]_js",
-  "name": "👨‍🍳‍妖狐影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/妖狐影视[自动].js"
-},	  
-{
   "key": "影探",
   "name": "🍊影探影视",
   "type": 3,
@@ -4699,6 +4688,17 @@
   "changeable": 1,
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
+{
+  "key": "妖狐影视[自动]_js",
+  "name": "👨‍🍳‍妖狐影视",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/妖狐影视[自动].js"
+},	  	  
 {
       "key": "暴风",
       "name": "🌪️暴风影音",
