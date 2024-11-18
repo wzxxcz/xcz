@@ -1024,12 +1024,12 @@
   "key": "西瓜影院_js",
   "name": "🍉‍西瓜影院",
   "type": 3,
-  "api": "./lib/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "./lib/js/西瓜影院.js"
+  "ext": "http://kxrj.site:55/lib/js/西瓜影院.js"
 },	  
 {
   "key": "影探",
