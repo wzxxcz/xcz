@@ -1021,17 +1021,6 @@
   "changeable": 1
 },
 {
-  "key": "宝片视频_js",
-  "name": "👨‍🍳‍宝片视频",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/宝片视频.js"
-},	  
-{
   "key": "影探",
   "name": "🍊影探影视",
   "type": 3,
@@ -1951,6 +1940,17 @@
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/看了么.js"
 },
+{
+  "key": "宝片视频_js",
+  "name": "👨‍🍳‍宝片视频",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/宝片视频.js"
+},	  	  
 {
   "key": "csp_XBPQ_fxzcjy",
   "name": "🍃柴姬影视",
