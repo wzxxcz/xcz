@@ -1021,17 +1021,6 @@
   "changeable": 1
 },
 {
-  "key": "西瓜影院_js",
-  "name": "🍉‍西瓜影院",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/西瓜影院.js"
-},	  
-{
   "key": "影探",
   "name": "🍊影探影视",
   "type": 3,
@@ -4655,6 +4644,17 @@
   "filterable": 1,
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/刺猬影视.js"
+},
+{
+  "key": "西瓜影院_js",
+  "name": "🍉‍西瓜影院",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/西瓜影院.js"
 },	  	  
 {
   "key": "小柚",
