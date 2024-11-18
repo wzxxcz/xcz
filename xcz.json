@@ -1021,17 +1021,6 @@
   "changeable": 1
 },
 {
-  "key": "刺猬影视_js",
-  "name": "👨‍🍳‍刺猬影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/刺猬影视.js"
-},	  
-{
   "key": "影探",
   "name": "🍊影探影视",
   "type": 3,
@@ -4642,6 +4631,17 @@
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/bilfun(自动).js"
 },
+{
+  "key": "刺猬影视_js",
+  "name": "👨‍🍳‍刺猬影视",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/刺猬影视.js"
+},	  	  
 {
   "key": "小柚",
   "name": "❤小柚App",
