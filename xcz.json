@@ -1021,6 +1021,17 @@
   "changeable": 1
 },
 {
+  "key": "思古影视[V2]_js",
+  "name": "👨‍🍳‍思古影视",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/思古影视[V2].js"
+},
+{
   "key": "影探",
   "name": "🍊影探影视",
   "type": 3,
@@ -3653,16 +3664,6 @@
   "ext": "https://www.netfly.tv/api.php/app/"
 },
 {
-  "key": "思古电影",
-  "name": "⚡思古APP",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://siguyy.cn/api.php/app/"
-},	  
-{
       "key": "优质资源",
       "name": "🌀优质采集",
       "type": 0,
@@ -5624,13 +5625,6 @@
         "影视解说",
         "国产动漫"
       ]
-},
-{
-  "key":"drpy_js_思古影视",
-  "name":"📽️思古影视",
-  "type":3,
-  "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-  "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/思古影视.js"
 },
 {
   "key": "麻衣呀呼",
