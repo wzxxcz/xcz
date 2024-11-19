@@ -691,16 +691,16 @@
   "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
 },
 {
-  "key":"瓜子",
+  "key": "瓜子",
   "name": "❤️嗑嗑瓜子超清纯净",
-  "type":3,
-  "searchable":1,
-  "quickSearch":1,
-  "changeable":1,
-  "playerType":"1",
-  "api":"http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "ext":"http://kxrj.site:55/lib/瓜子.js"
-},
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "playerType": "1",
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "ext": "http://kxrj.site:55/lib/js/瓜子.js"
+},	  
 {
   "key":"Alist",
   "name":"🍊小雅网盘",
