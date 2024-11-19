@@ -5649,23 +5649,6 @@
   "ext": "./lib/mayiyahu.json"
 },
 {
-  "key": "优酷",
-  "name": "🍊优酷(官)",
-  "type": 3,
-  "api": "./lib/drpy2.min.js",
-  "ext": "./lib/youku.js"
-},
-{
-  "key": "meowtv_yksp",
-  "name": "🍊优酷(官)",
-  "type": 3,
-  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cdn.teyonds.com/js/优酷视频.js"
-},
-{
   "key": "爱奇异",
   "name": "🍊爱奇艺(官)",
   "type": 3,
