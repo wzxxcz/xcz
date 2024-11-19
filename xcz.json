@@ -1447,6 +1447,16 @@
   "ext": "http://kxrj.site:55/lib/js/星辰[优].js"
 },
 {
+  "key": "csp_星辰",
+  "name": "🍊星辰影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/xcys.json"
+},	  
+{
   "key":"兄弟影视",
   "name":"💡兄弟影视",
   "type":3,
