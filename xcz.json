@@ -5807,14 +5807,6 @@
   "ext": "./lib/奈飞中文.json"
 },	  
 {
-  "key": "sx",
-  "name": "🤡师兄驾到",
-  "type": 3,
-  "playerType": 1,
-  "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-  "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
-},
-{
   "key":"csp_AppMr",
   "name":"👻明明影视",
   "type":3,
