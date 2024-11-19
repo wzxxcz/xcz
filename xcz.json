@@ -4690,6 +4690,17 @@
   "ext": "http://kxrj.site:55/lib/js/思古影视[V2].js"
 },
 {
+  "key": "hipy_js_多多追剧[优]",
+  "name": "🍊多多追剧",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/多多追剧[优].js"
+},
+{
   "key": "小柚",
   "name": "❤小柚App",
   "type": 3,
