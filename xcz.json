@@ -5674,7 +5674,7 @@
 },
 {
   "key": "优酷",
-  "name": "🍊优酷(官备)",
+  "name": "🍊优酷(官)",
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
@@ -5696,14 +5696,14 @@
 },
 {
   "key": "搜狗",
-  "name": "🍊搜狗(官备)",
+  "name": "🍊搜狗(官)",
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
 },
 {
   "key": "爱奇异",
-  "name": "🍊爱奇艺(官备)",
+  "name": "🍊爱奇艺(官)",
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
