@@ -1792,6 +1792,17 @@
   "ext": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/xs/小熊弹幕.js"
 },
 {
+  "key": "蜥蜴影视[优]_js",
+  "name": "👨‍🍳‍蜥蜴影视",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/蜥蜴影视[优].js"
+},	  	  	  
+{
   "key": "🌟客星",
   "name": "🙀客星蓝光",
   "type": 3,
@@ -4666,17 +4677,6 @@
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/西瓜影院.js"
 },
-{
-  "key": "蜥蜴影视[优]_js",
-  "name": "👨‍🍳‍蜥蜴影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/蜥蜴影视[优].js"
-},	  	  
 {
   "key": "小柚",
   "name": "❤小柚App",
