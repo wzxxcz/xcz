@@ -1076,7 +1076,18 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
-},	  
+},
+{
+  "key": "速播",
+  "name": "⏮️速播多线",
+  "type": 3,
+  "api": "csp_AppSx",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731590156338/fan.txt;md5;d271c32f94a78064aa1506b8dd732015",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
+},	  	  
 {
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
@@ -1548,17 +1559,6 @@
   "playerType": 2,
   "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
 },
-{
-  "key": "速播",
-  "name": "⏮️速播多线",
-  "type": 3,
-  "api": "csp_AppSx",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731590156338/fan.txt;md5;d271c32f94a78064aa1506b8dd732015",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
-},	  
 {
   "key": "欢视",
   "name": "👓欢视多线",
