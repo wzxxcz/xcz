@@ -1324,16 +1324,6 @@
   "ext":"./lib/xinshijue.json"
 },	  
 {
-  "key": "csp_蛋蛋",
-  "name": "🥚蛋蛋影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/蛋蛋影视.json"
-},
-{
   "key":"低端影视",
   "name": "⏮️低端外剧",
   "type":3,
