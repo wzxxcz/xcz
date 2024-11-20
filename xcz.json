@@ -306,20 +306,20 @@
   "timeout": 25
 },
 {
-  "key":"易搜弹幕",
-  "name": "🚛易搜弹幕",
-  "type":3,
-  "api":"csp_YiSo",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",	
-  "searchable":1,
-  "filterable":0,
-  "changeable":1,
-  "ext":{
-	  "token":"http://127.0.0.1:9978/file/TVBox/tok.txt",
-	  "danmu":true,
-	  "cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
-       }
-},	  
+  "key": "易搜弹幕",
+  "name": "😹易搜弹幕搜索",
+  "type": 3,
+  "api": "csp_YiSo",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "danmu": true,
+           "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
+         }
+},
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
   "name": "🍊玩偶表哥",
