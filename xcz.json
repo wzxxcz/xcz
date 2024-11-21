@@ -1051,6 +1051,15 @@
   "ext": "https://gitee.com/qihaoyyds/js/raw/master/影探.js"
 },
 {
+  "key": "csp_Wwys",
+  "name": "🐶汪汪1080P",
+  "type": 3,
+  "playerType": 1,
+  "changeable": 0,
+  "api": "csp_Wwys",
+  "ext": "https://www.wwgz.cn/"
+},
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
