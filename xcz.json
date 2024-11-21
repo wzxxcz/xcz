@@ -7232,16 +7232,6 @@
   "changeable": 1
 },	  	  
 {
-  "key": "短剧",
-  "name": "🌈上头短剧",
-  "type": 3,
-  "api": "csp_Djtt",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
   "key":"无忧短剧",
   "name": "🌈无忧短剧热推",
   "type":3,
