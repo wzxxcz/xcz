@@ -1401,15 +1401,14 @@
   "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/碟调影视.js"
 },
 {
-  "key": "凡人影视",
-  "name": "🤡凡人蓝光弹幕",
+  "key": "繁荣",
+  "name": "🥝凡人1080P",
   "type": 3,
-  "api": "csp_AppFr",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},	  
+  "api": "csp_Frong",
+  "playerType": 2,
+  "ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+},
 {
   "key":"junjun",
   "name":"💡君君影视",
