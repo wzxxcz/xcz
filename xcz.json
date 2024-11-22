@@ -1039,6 +1039,18 @@
   "changeable": 1
 },
 {
+  "key": "xiongmao2",
+  "name": "🐼猫咪1080P",
+  "type": 3,
+  "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/xiongmao.js"
+},	  
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
