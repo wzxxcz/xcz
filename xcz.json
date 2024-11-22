@@ -193,11 +193,11 @@
   "timeout": 25
 },
 {
-  "key": "木偶哥哥",
+  "key": "夸克木偶弹幕",
   "name": "🍁木偶资源4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/柒豪.txt",	
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -205,9 +205,9 @@
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "http://mogg.top",
+           "site": "https://wop.nxog.eu.org",
            "danmu": true
-         }
+        }
 },	  
 {
   "key": "至臻网盘",
