@@ -1432,6 +1432,14 @@
   "ext": "./lib/骚火影视.json"
 },
 {
+  "key": "huohuo",
+  "name": "💥火火1080P",
+  "type": 3,
+  "changeable": 0,
+  "api": "csp_SaoHuo",
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/HeChengChaXiu.jar"	
+},	  
+{
   "key":"圣城影视",
   "name":"💡圣城影视",
   "type":3,
