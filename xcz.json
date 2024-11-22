@@ -5674,12 +5674,18 @@
   "ext": "./lib/mayiyahu.json"
 },
 {
-  "key": "hipy_js_fxztx1",
+  "key": "hipy_js_腾云驾雾[官]",
   "name": "🍊腾讯(官)",
   "type": 3,
-  "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-  "ext": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/分享TX2.js"
-},
+  "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
+},	  
 {
   "key":"360",
   "name":"🍊360(官)",
@@ -5705,14 +5711,6 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
 },
 {
-  "key": "hipy_js_fxztx",
-  "name": "🍊腾讯(官备)",
-  "type": 3,
-  "ua": "okhttp/3.15",
-  "api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
-  "ext": "https://www.gitlink.org.cn/api/YGFXZ/TVBOX/raw/JS/分享TX1.js?ref=master"
-},
-{
   "key": "芒果",
   "name": "🥭芒果(官备)",
   "type": 3,
@@ -5725,13 +5723,6 @@
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
-},
-{
-  "key": "爱奇异",
-  "name": "🍊爱奇艺(官)",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
 },
 {
   "key": "49zy",
