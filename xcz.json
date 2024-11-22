@@ -205,10 +205,10 @@
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://wop.nxog.eu.org",
+           "site": "http://mogg.小胡.top",
            "danmu": true
-        }
-},	  
+         }
+},
 {
   "key": "夸克至臻弹幕",
   "name": "🏆️夸克至臻4K弹幕",
@@ -710,7 +710,7 @@
 },
 {
   "key": "摸鱼瓜子",
-  "name": "❤️嗑嗑瓜子超清纯净",
+  "name": "❤️瓜子蓝光纯净",
   "type": 3,
   "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
   "filterable": 1,
