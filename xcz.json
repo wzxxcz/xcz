@@ -1039,50 +1039,6 @@
   "changeable": 1
 },
 {
-  "key": "🌟客星",
-  "name": "🌟客星1080P",
-  "type": 3,
-  "api": "csp_Xdai",
-  "playerType": 2,
-  "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
-},	  
-{
-  "key": "csp_饭团",
-  "name": "🍙饭团影视",
-  "type": 3,
-  "searchable": 1,
-  "changeable": 1,
-  "api": "csp_FanTuan",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",		
-  "playerType": 2,
-  "filterable": 1,
-  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-  "ext": "https://fantuan.vip/"
-},	  
-{
-  "key": "影探",
-  "name": "🍊影探影视",
-  "type": 3,
-  "api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/qihaoyyds/js/raw/master/影探.js"
-},
-{
-  "key": "csp_Wwys",
-  "name": "🐶汪汪1080P",
-  "type": 3,
-  "playerType": 1,
-  "changeable": 0,
-  "api": "csp_Wwys",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",	
-  "ext": "https://www.wwgz.cn/"
-},
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -1834,6 +1790,50 @@
   "filterable":1,
   "ext":"https://www.kmeiju.com"
 },
+{
+  "key": "🌟客星",
+  "name": "🌟客星1080P",
+  "type": 3,
+  "api": "csp_Xdai",
+  "playerType": 2,
+  "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+},	  
+{
+  "key": "csp_饭团",
+  "name": "🍙饭团影视",
+  "type": 3,
+  "searchable": 1,
+  "changeable": 1,
+  "api": "csp_FanTuan",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",		
+  "playerType": 2,
+  "filterable": 1,
+  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+  "ext": "https://fantuan.vip/"
+},	  
+{
+  "key": "影探",
+  "name": "🍊影探影视",
+  "type": 3,
+  "api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/qihaoyyds/js/raw/master/影探.js"
+},
+{
+  "key": "csp_Wwys",
+  "name": "🐶汪汪1080P",
+  "type": 3,
+  "playerType": 1,
+  "changeable": 0,
+  "api": "csp_Wwys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",	
+  "ext": "https://www.wwgz.cn/"
+},	  
 {
   "key": "小熊弹幕",
   "name": "🐻小熊影视",
