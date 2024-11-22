@@ -709,16 +709,15 @@
   "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
 },
 {
-  "key": "瓜子",
+  "key": "摸鱼瓜子",
   "name": "❤️嗑嗑瓜子超清纯净",
   "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "playerType": "1",
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "ext": "http://kxrj.site:55/lib/js/瓜子.js"
-},	  
+  "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+},
 {
   "key":"Alist",
   "name":"🍊小雅网盘",
