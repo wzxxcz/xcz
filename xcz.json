@@ -5249,16 +5249,6 @@
   "ext":"./lib/hezi.json"
 },
 {
-  "key":"臭蛋蛋",
-  "name":"🍊臭蛋2K",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/cdd.json"
-},
-{
   "key":"drpy_yh",
   "name":"🍊爱奇艺",
   "type":3,"playerType":2,
