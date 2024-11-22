@@ -1039,6 +1039,18 @@
   "changeable": 1
 },
 {
+  "key": "csp_饭团",
+  "name": "🍙饭团影视",
+  "type": 3,
+  "searchable": 1,
+  "changeable": 1,
+  "api": "csp_FanTuan",
+  "playerType": 2,
+  "filterable": 1,
+  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+  "ext": "https://fantuan.vip/"
+},	  
+{
   "key": "影探",
   "name": "🍊影探影视",
   "type": 3,
