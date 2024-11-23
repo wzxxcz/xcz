@@ -2003,6 +2003,19 @@
   "ext": "http://kxrj.site:55/lib/js/宝片视频.js"
 },
 {
+      "key": "宝片影视",
+      "name": "🧿宝片蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
+      }
+},
+{
   "key": "csp_XBPQ_fxzcjy",
   "name": "🍃柴姬影视",
   "type": 3,
@@ -3467,19 +3480,6 @@
       "ext": {
         "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
         "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
-      }
-},
-{
-      "key": "宝片影视",
-      "name": "🧿宝片蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
       }
 },
 {
