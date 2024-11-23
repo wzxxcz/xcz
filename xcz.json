@@ -5239,13 +5239,6 @@
   "ext":"./lib/hezi.json"
 },
 {
-  "key":"drpy_yh",
-  "name":"🍊爱奇艺",
-  "type":3,"playerType":2,
-  "api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js",
-  "ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E4%BC%98%E9%85%B7.js"
-},
-{
   "key": "drpy_js_凌云影视",
   "name": "🍊凌云影视",
   "type": 3,
@@ -5652,6 +5645,13 @@
   "ext": "./lib/mayiyahu.json"
 },
 {
+  "key":"drpy_yh",
+  "name":"🍊爱奇艺(官)",
+  "type":3,"playerType":2,
+  "api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js",
+  "ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E4%BC%98%E9%85%B7.js"
+},	  
+{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🍊腾讯(官)",
   "type": 3,
@@ -5663,23 +5663,6 @@
   "order_num": 0,
   "changeable": 0,
   "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
-},	  
-{
-  "key":"360",
-  "name":"🍊360(官)",
-  "type":3,
-  "api":"csp_SP33",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1
-},
-{
-  "key": "drpy_js_360影视",
-  "name": "🍊360(官备)",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
 },
 {
   "key": "优酷",
@@ -5701,6 +5684,23 @@
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
+},
+{
+  "key":"360",
+  "name":"🍊360(官)",
+  "type":3,
+  "api":"csp_SP33",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1
+},
+{
+  "key": "drpy_js_360影视",
+  "name": "🍊360(官备)",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
 },
 {
   "key": "49zy",
