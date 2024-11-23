@@ -1276,6 +1276,17 @@
   "filterable":1
 },
 {
+  "key": "热播之家_js",
+  "name": "👨‍🍳‍热播之家",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/热播之家.js"
+},
+{
   "key": "可可",
   "name": "👻可可多线",
   "type": 3,
@@ -3044,17 +3055,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/影视工场.json"
-},
-{
-  "key": "热播之家_js",
-  "name": "👨‍🍳‍热播之家",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/热播之家.js"
 },
 {
   "key":"人人影视",
