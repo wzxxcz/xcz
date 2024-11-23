@@ -1351,15 +1351,16 @@
   "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
 },
 {
-  "key": "T4-heimuer",
+  "key": "hipy_js_黑木耳资源[资]",
   "name": "🥑木耳资源",
-  "type": 4,
-  "api": "https://tang.hz.cz/power/hme?token=647c28ca",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "changeable": 0
-},	  
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/黑木耳资源[资].js"
+},
 {
   "key": "碟调影视",
   "name": "🏰碟调蓝光在线",
