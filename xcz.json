@@ -5463,25 +5463,12 @@
 },
 {
   "key":"祥祥资源",
-  "name":"🫕祥子采集",
+  "name":"🍊祥子采集",
   "type":1,
   "api":"http://141.147.146.105/api.php/provide/vod/",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},
-{
-	"key": "yaya",
-	"name": "️✴️是屁屁呀",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": {
-				"分类url": "https://www.pipiya.cc/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html;;lr",
-				"分类": "电影$20#连续剧$26#美剧$21#日韩$28#动漫$25"
-			}
 },
 {
   "key": "花花",
