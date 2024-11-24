@@ -633,6 +633,22 @@
          }
 },
 {
+  "key": "米搜",
+  "name": "🌖米搜搜索",
+  "type": 3,
+  "api": "csp_Qkpanso",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
+  "searchable": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "ext": {
+           "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+           "danmu": true,
+           "site": "https://www.misou.fun"
+         },
+  "timeout": 15
+},
+{
   "key":"搜索弹幕",
   "name":"❤搜索弹幕",
   "type":3,
