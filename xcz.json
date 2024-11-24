@@ -884,6 +884,7 @@
       "name": "🧭360采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod?",
+      "jar":"http://kxrj.site:55/lib/ttkx.jar",
       "searchable": 1,
       "changeable": 1,
       "categories": [
