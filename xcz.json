@@ -1807,6 +1807,7 @@
   "name": "🍊影探影视",
   "type": 3,
   "api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/xcz.zip",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
