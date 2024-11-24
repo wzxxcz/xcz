@@ -1803,16 +1803,15 @@
   "ext": "https://fantuan.vip/"
 },	  
 {
-  "key": "影探",
-  "name": "🍊影探影视",
+  "key": "影探4K",
+  "name": "👨‍🍳‍影探4K",
   "type": 3,
-  "api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js",
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/qihaoyyds/js/raw/master/影探.js"
+  "ext": "http://kxrj.site:55/lib/js/影探4K.js"
 },
 {
   "key": "csp_Wwys",
