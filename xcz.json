@@ -5037,14 +5037,14 @@
   "ext": "http://122.228.84.103:5822/api.php/app/"
 },
 {
-  "key":"csp_红狐狸影视",
+  "key": "csp_红狐狸影视",
   "name": "🦊红狐狸影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "ext":{
-	  "分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
-	  "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
-        }
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+           "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+           "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+         }
 },
 {
   "key":"csp_xBPQ_疯狗",
