@@ -1073,17 +1073,6 @@
   "changeable": 1
 },
 {
-  "key": "爱动漫_js",
-  "name": "🤣爱动漫",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "ext": "http://kxrj.site:55/lib/js/爱动漫.js",
-  "timeout": 15
-},	  
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -7155,6 +7144,17 @@
   "quickSearch":1,
   "filterable":1
 },
+{
+  "key": "爱动漫_js",
+  "name": "🤣爱动漫",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "ext": "http://kxrj.site:55/lib/js/爱动漫.js",
+  "timeout": 15
+},	  	  
 {
   "key": "Ysj",
   "name": "🎀异界动漫",
