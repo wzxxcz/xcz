@@ -1073,6 +1073,17 @@
   "changeable": 1
 },
 {
+  "key": "努努影院_js",
+  "name": "👨‍🍳‍努努影院(drpy_t3)",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/努努影院.js"
+},	  
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
