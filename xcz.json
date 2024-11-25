@@ -1073,17 +1073,6 @@
   "changeable": 1
 },
 {
-  "key": "努努影院_js",
-  "name": "👨‍🍳‍努努影院(drpy_t3)",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/努努影院.js"
-},	  
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -4677,6 +4666,17 @@
   "changeable": 1,
   "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
 },
+{
+  "key": "努努影院_js",
+  "name": "👨‍🍳‍努努影院",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/努努影院.js"
+},	  	  
 {
   "key": "xiongmao2",
   "name": "🐼猫咪1080P",
