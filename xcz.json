@@ -1276,16 +1276,6 @@
   "ext": "http://kxrj.site:55/lib/js/畅梦.js"
 },
 {
-  "key": "js_changmeng",
-  "name": "☕️畅梦影视",
-  "type": 3,
-  "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/畅梦影视[优].js"
-},	  
-{
   "key": "萌米",
   "name": "👀萌米多线",
   "type": 3,
