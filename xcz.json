@@ -1084,18 +1084,6 @@
   "ext": "./lib/白嫖.json"
 },	  
 {
-      "key": "baipiaoys",
-      "name": "😋┃白嫖┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/白嫖.json"
-    },
-	  
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
