@@ -1073,6 +1073,16 @@
   "changeable": 1
 },
 {
+  "key": "js_电影先生",
+  "name": "🕵‍♂️电影先生",
+  "type": 3,
+  "api": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/电影先生.js"
+},	  	  
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -3217,16 +3227,6 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
       }
 },
-{
-  "key": "js_电影先生",
-  "name": "🕵‍♂️电影先生",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/电影先生.js"
-},	  
 {
   "key":"西屋影视",
   "name": "💚西屋影视",
