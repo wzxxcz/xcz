@@ -125,6 +125,24 @@
          }
 },
 {
+      "key": "玩偶备用弹幕",
+      "name": "🌎玩偶备用4K弹幕",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://wogg.xxooo.cf",
+        "danmu": true
+      }
+    },
+
+{
   "key": "玩偶弹幕",
   "name": "🍹可欣玩偶",
   "type": 3,
