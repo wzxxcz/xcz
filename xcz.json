@@ -986,6 +986,15 @@
   "ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js"
 },
 {
+  "key": "荐片",
+  "name": "🍭荐片磁力",
+  "api": "csp_Jianpian",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732592361715/1127xm.jar;md5;14c4ca7ce934c460b2864cb781c1d3ea",	
+  "type": 3,
+  "playerType": "1",
+  "ext": "http://api2.rinhome.com"
+},	  
+{
   "key":"荐片",
   "name":"💡荐片影视",
   "type":3,
