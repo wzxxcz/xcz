@@ -413,10 +413,10 @@
 },
 {
   "key": "立播弹幕",
-  "name":"❤立播弹幕",
+  "name": "🌟立播蓝光弹幕",
   "type": 3,
   "api": "csp_Libvio",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
   "searchable": 1,
   "filterable": 1,
   "changeable": 1,
@@ -425,7 +425,7 @@
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "site": "https://libvio.link"
-        }
+         }
 },	  
 {
   "key": "夸克趣盘搜弹幕",
