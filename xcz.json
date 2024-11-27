@@ -1107,6 +1107,15 @@
   "ext": "http://kxrj.site:55/lib/js/熊猫TV.js"
 },
 {
+  "key": "熊猫",
+  "name": "🐼熊猫1080P",
+  "type": 3,
+  "api": "csp_Xdai",
+  "playerType": 2,
+  "ext": "caHR0cDovLzE1NC4yMjEuMTcuMTI3OjgxODh8YWU3MTU4ODgyN2EzODAzNnxhZTcxNTg4ODI3YTM4MDM2",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+},	  
+{
   "key": "木星",
   "name": "🌞木星多线",
   "type": 3,
