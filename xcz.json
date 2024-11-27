@@ -1838,6 +1838,14 @@
   "playerType": 2,
   "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732107398295/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+},
+{
+  "key": "zhaixing",
+  "name": "✨摘星1080P",
+  "type": 3,
+  "api": "csp_AppZX",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732592361715/1127xm.jar;md5;14c4ca7ce934c460b2864cb781c1d3ea",	
+  "playerType": 2
 },	  
 {
   "key": "csp_饭团",
@@ -1902,18 +1910,6 @@
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/蜥蜴影视[优].js"
 },	  	  	  
-{
-  "key": "摘星极速",
-  "name": "⭐️摘星影视",
-  "type": 3,
-  "api": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/smdy.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "http://www.mpanso.com/小米/FREE.js"
-},
 {
   "key": "嘀哩嘀哩_js",
   "name": "👨‍🍳‍嘀哩嘀哩",
