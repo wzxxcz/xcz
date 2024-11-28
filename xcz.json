@@ -1679,14 +1679,14 @@
   "name": "💡360影视",
   "type": 3,
   "api": "csp_Sp360",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
   "searchable": 1,
   "filterable": 1,
   "changeable": 1,
   "ext": {
            "danmu": true
          }
-},
+},	  
 {
   "key":"六六六",
   "name":"💡六六影视",
