@@ -259,6 +259,24 @@
            "site": "https://mihdr.top",
            "danmu": true
          }
+},
+{
+  "key": "csp_Netfixtv",
+  "name": "🏆️至臻4K",
+  "type": 3,
+  "api": "csp_Duopan",
+  "filterable": 1,
+  "ext": {
+           "site_urls": [
+           "https://mihdr.top",
+           "https://xiaomiai.site"
+        ],
+        "url_key": "Duopan",
+        "threadinfo": {
+        "chunksize": 250,
+        "threads": 10
+        }
+      }
 },	  
 {
   "key": "夸克奥秘弹幕",
