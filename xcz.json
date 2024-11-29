@@ -261,6 +261,25 @@
          }
 },
 {
+  "key": "csp_Netfixtv",
+  "name": "🏆️至臻4K4K",
+  "type": 3,
+  "api": "csp_Duopan",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f",	
+  "filterable": 1,
+  "ext": {
+          "site_urls": [
+          "https://mihdr.top",
+          "https://xiaomiai.site"
+        ],
+        "url_key": "Duopan",
+        "threadinfo": {
+        "chunksize": 250,
+        "threads": 10
+        }
+      }
+},	  
+{
   "key": "夸克奥秘弹幕",
   "name": "🐼奥秘资源4K弹幕",
   "type": 3,
