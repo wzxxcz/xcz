@@ -7265,7 +7265,17 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},	  	  
+},
+{
+  "key": "Anime1",
+  "name": "🐾日本动漫",
+  "type": 3,
+  "api": "csp_Anime1",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732870410650/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
 {
   "key":"无忧短剧",
   "name": "🌈无忧短剧热推",
