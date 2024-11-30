@@ -7413,7 +7413,6 @@
 {"key": "演唱会","name": "🅰️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/演唱会.json"}, 
 {"key": "戏曲","name": "🅰️戏曲合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/戏曲合集.json"},
 {"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/合集.json"}, 
-{"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/球类合集.json"}, 
 {"key": "UP主","name": "🎮UP主","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/UP主.json"},
 {"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/歌曲MV.json"},    
 {"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/美食.json"},    
@@ -7469,8 +7468,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-},
-  {"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--xn6-mf3g9f.v.nxog.top/m/Bilibili/球类合集.json"}
+}
+  
 ],
   "parses": [
     {
