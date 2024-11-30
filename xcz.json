@@ -7419,6 +7419,18 @@
 {"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/美食.json"},    
 {"key": "球星","name": "⚽️球星合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/球星合集.json"}, 
 {
+  "key": "926看球",
+  "name": "⚽926看球",
+  "type": 3,
+  "api": "csp_kanqiu926",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732870410650/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+  "searchable": 0,
+  "changeable": 0,
+  "style": {
+             "type": "list"
+           }
+},
+{
       "key": "310js",
       "name": "⚽310看球",
       "type": 3,
