@@ -7456,6 +7456,20 @@
              "type": "list"
            }
 },
+{
+  "key": "Jrsjs",
+  "name": "⚽ Jrs球迷",
+  "type": 3,
+  "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732870410650/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+  "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+  "style": {
+             "type": "list"
+           },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+},
   {"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://xn--xn6-mf3g9f.v.nxog.top/m/Bilibili/球类合集.json"}
 ],
   "parses": [
