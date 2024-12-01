@@ -7470,7 +7470,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-} 
+},
+{"key":"豆瓣4","name":"📢智能AI已过滤广告","type":3,"api":"csp_Douban","searchable":0}
 ],
   "parses": [
     {
