@@ -1109,16 +1109,6 @@
   "changeable": 1
 },
 {
-  "key":"饺子影视",
-  "name":"💡饺子影视",
-  "type":3,
-  "api":"csp_Jiaozi",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",		
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},	  
-{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
@@ -1911,6 +1901,16 @@
   "filterable":1,
   "ext":"https://www.kmeiju.com"
 },
+{
+  "key":"饺子影视",
+  "name":"💡饺子影视",
+  "type":3,
+  "api":"csp_Jiaozi",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",		
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},	  	  
 {
   "key": "🌟客星",
   "name": "🌟客星1080P",
