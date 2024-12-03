@@ -76,6 +76,20 @@
   "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
 },
 {
+  "key": "酷奇",
+  "name": "🎤酷奇MV",
+  "type": 3,
+  "api": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "ext": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
+  "style": {
+            "type": "rect",
+            "ratio": 1.597
+           },
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
+},	  
+{
   "key": "alllive",
   "name": "📽️一直播LIVE",
   "type": 3,
