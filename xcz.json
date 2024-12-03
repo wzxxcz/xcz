@@ -306,7 +306,21 @@
            "site": "http://www.muoupan.top",
            "danmu": true
       }
-},	  
+},
+{
+  "key": "抠搜",
+  "name": "🐲柑橘4K",
+  "type": 3,
+  "api": "csp_KkSs",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx2.zip",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
+         }
+},
 {
   "key": "夸克至臻弹幕",
   "name": "🏆️夸克至臻4K弹幕",
