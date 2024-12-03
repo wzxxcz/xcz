@@ -450,17 +450,6 @@
   "jar":"http://mywlkj.ddns.net:5212/f/N7xfy/0407.jar;md5;19c0da7be88e4145b40af06c10beb8c6"
 },
 {
-  "key": "土豆阿里",
-  "name": "🍊土豆阿里",
-  "type": 3,
-  "api": "csp_XYQHikerAL",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/土豆阿里.json",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar"
-},
-{
   "key":"玩弹幕1",
   "name":"❤玩哥弹幕",
   "type":3,
@@ -682,14 +671,21 @@
 },
 {
   "key": "土豆",
-  "name": "🥔土豆臻享4K",
+  "name": "🥔土豆4K",
   "type": 3,
-  "api": "csp_Wextudou",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/dongchen0615.jar",
-  "searchable": 1,
+  "api": "csp_Wobg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",	
   "quickSearch": 1,
-  "filterable": 1
-},
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://dcyun.cc",
+           "danmu": true
+         }
+},	  
 {
   "key":"阿里合集",
   "name": "🦋阿里合集",
