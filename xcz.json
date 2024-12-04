@@ -752,7 +752,7 @@
   "name": "🍊六趣4K",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",			
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",		
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -761,9 +761,9 @@
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-          "site": "https://wp.0v.fit",
+           "site": "https://wp.0v.fit",
            "danmu": true
-      }
+        }
 },	  
 {
   "key": "PanSso",
