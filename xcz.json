@@ -160,7 +160,7 @@
   "name": "🐲小橙子夸克",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/xcz.zip",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",		
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -172,7 +172,7 @@
            "site": "https://woog.nxog.eu.org",
            "danmu": true
          }
-},
+},	  
 {
   "key": "夸克云星弹幕",
   "name": "☁️云星资源4K弹幕",
