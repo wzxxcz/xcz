@@ -231,22 +231,6 @@
 },	  
 {
   "key": "米搜",
-  "name": "🌖米搜搜索",
-  "type": 3,
-  "api": "csp_Qkpanso",
-  "jar":"http://kxrj.site:55/lib/ttkx.jar",	
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 0,
-  "ext": {
-           "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
-           "danmu": true,
-           "site": "https://www.misou.fun"
-         },
-  "timeout": 15
-},
-{
-  "key": "米搜",
   "name": "🌾米搜4K4K",
   "type": 3,
   "api": "csp_MiSou",
@@ -732,21 +716,6 @@
          },
   "timeout": 15
 },	  
-{
-  "key":"米搜弹幕",
-  "name": "🍚小米弹幕搜索",
-  "type":3,
-  "api":"csp_Qkpanso",
-  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;75449a0ec9b31989d05faef11df7c118",	
-  "searchable":1,
-  "filterable":1,
-  "changeable":0,
-  "ext":{
-	  "cookie":"http://127.0.0.1:9978/file/TV/.quark",
-	  "site":"https://www.misou.fun",
-	  "danmu":true
-        }
-},
 {
   "key": "小米",
   "name": "🍚小米4K",
