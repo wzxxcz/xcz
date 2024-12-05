@@ -90,6 +90,22 @@
   "changeable": 0
 },
 {
+      "key": "MTV",
+      "name": "🎧明星MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"
+      }
+},	  
+{
   "key": "alllive",
   "name": "📽️一直播直播",
   "type": 3,
