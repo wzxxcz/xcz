@@ -344,19 +344,19 @@
          }
 },	  
 {
-  "key": "csp_Qkpanso",
-  "name": "🐚夸克搜索弹幕",
+  "key": "米搜",
+  "name": "🐚米搜4K",
   "type": 3,
   "api": "csp_Qkpanso",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/xcz.zip",		
   "searchable": 1,
   "filterable": 1,
   "changeable": 0,
   "ext": {
-           "cookie": "file://TV/quark_cookie.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "site": "https://www.misou.fun",
            "danmu": true
-        },
-  "timeout": 15
+        }
 },	  
 {
   "key": "蜡笔小新",
@@ -637,20 +637,6 @@
 	  "site":"https://4k.4u4.cn","danmu":true
         }
 },	  
-{
-  "key": "夸克盘搜弹幕",
-  "name": "🐟夸搜弹幕盘搜",
-  "type": 3,
-  "api": "csp_Qkpanso",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "danmu": true
-         }
-},
 {
   "key": "夸搜",
   "name": "😻夸搜夸父",
