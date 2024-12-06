@@ -7346,14 +7346,14 @@
            }
 },	  
 {
-  "key": "js_星芽短剧",
-  "name": "🍊星芽短剧",
+  "key": "星芽短剧",
+  "name": "🌟星芽短剧",
   "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "api": "csp_AppXY",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
   "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/星芽短剧.js"
+  "quickSearch": 0,
+  "filterable": 0
 },
 {
   "key": "csp_XYQHiker_爱你短剧",
