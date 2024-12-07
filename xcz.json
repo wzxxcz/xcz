@@ -7230,38 +7230,6 @@
   "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=央视经典"
 },
 {
-  "key": "Bili",
-  "name": "🆙哔哩合集弹幕",
-  "type": 3,
-  "api": "csp_Bili",
-  "style": {
-            "type": "rect",
-            "ratio": 1.597
-           },
-  "searchable": 1,
-  "quickSearch": 0,
-  "changeable": 0,
-  "ext": {
-           "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
-         }
-},
-{
-  "key": "Biliych",
-  "name": "🆙哔哩歌曲弹幕",
-  "type": 3,
-  "api": "csp_Bili",
-  "style": {
-             "type": "rect",
-             "ratio": 1.597
-           },
-  "searchable": 1,
-  "quickSearch": 0,
-  "changeable": 0,
-  "ext": {
-           "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=mtv"
-         }
-},
-{
   "key": "Dm84",
   "name": "🚌巴士动漫",
   "type": 3,
