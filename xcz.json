@@ -343,6 +343,57 @@
       }
 },
 {
+  "key": "多多",
+  "name": "🍥多多弹幕4K弹幕",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx2024124.zip",	
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "site": "https://tv.yydsys.cc",
+           "danmu": true
+         },
+  "timeout": 25
+},
+{
+  "key": "土豆",
+  "name": "🥔土豆4K",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",	
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://dcyun.cc",
+           "danmu": true
+         }
+},
+{
+  "key": "小米",
+  "name": "🍚小米4K",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/xcz.zip",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "http://www.mucpan.cc",
+           "danmu": true
+         }
+},
+{
   "key": "UCsousou",
   "name": "🌈优汐搜搜4K纯净",
   "type": 3,
@@ -370,6 +421,25 @@
            "from": "4k|auto"
          }
 },
+{
+  "key": "阿里合集",
+  "name": "🦋阿里合集",
+  "type": 3,
+  "api": "csp_AliShare",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953851056/okjpg.txt;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",	
+  "searchable": 1,
+  "changeable": 0,
+  "filterable": 0,
+  "indexs": 0,
+  "ext": {
+           "token": "file://TV/ali_token.txt",
+           "share": "file://TV/阿里集合.json"
+         },
+  "style": {
+            "type": "list"
+           },
+  "timeout": 30
+},	  
 {
   "key": "夸克奥秘弹幕",
   "name": "🐼奥秘资源4K弹幕",
@@ -416,23 +486,6 @@
            "token": "file://TV/ali_token.txt"
          },
   "timeout": 15
-},	  
-{
-  "key": "多多",
-  "name": "🍥多多弹幕4K弹幕",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx2024124.zip",	
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "site": "https://tv.yydsys.cc",
-           "danmu": true
-         },
-  "timeout": 25
 },	  
 {
   "key": "易搜",
@@ -668,42 +721,6 @@
         }
 },	  
 {
-  "key": "土豆",
-  "name": "🥔土豆4K",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",	
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://dcyun.cc",
-           "danmu": true
-         }
-},	  
-{
-  "key": "阿里合集",
-  "name": "🦋阿里合集",
-  "type": 3,
-  "api": "csp_AliShare",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953851056/okjpg.txt;md5;3203f3d93bbe1e8d2e5ec53d00e9c8d6",	
-  "searchable": 1,
-  "changeable": 0,
-  "filterable": 0,
-  "indexs": 0,
-  "ext": {
-           "token": "file://TV/ali_token.txt",
-           "share": "file://TV/阿里集合.json"
-         },
-  "style": {
-            "type": "list"
-           },
-  "timeout": 30
-},	  
-{
   "key": "盘Se",
   "name": "🙀盘Se搜索",
   "type": 3,
@@ -717,23 +734,6 @@
          },
   "timeout": 15
 },	  
-{
-  "key": "小米",
-  "name": "🍚小米4K",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/xcz.zip",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "http://www.mucpan.cc",
-           "danmu": true
-         }
-},
 {
   "key":"搜索弹幕",
   "name":"❤搜索弹幕",
