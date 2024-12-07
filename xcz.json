@@ -186,20 +186,6 @@
          }
 },
 {
-  "key": "UCsousou",
-  "name": "🌈优汐搜搜4K纯净",
-  "type": 3,
-  "api": "csp_UuSs",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733418407637/fan.txt;md5;a9116fd283f503f4627f65b22b2ec430",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "TVBox/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},
-{
   "key": "夸克云星弹幕",
   "name": "☁️云星资源4K弹幕",
   "type": 3,
@@ -355,6 +341,34 @@
           "threads": 10
         }
       }
+},
+{
+  "key": "UCsousou",
+  "name": "🌈优汐搜搜4K纯净",
+  "type": 3,
+  "api": "csp_UuSs",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733418407637/fan.txt;md5;a9116fd283f503f4627f65b22b2ec430",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+           "Cloud-drive": "TVBox/Cloud-drive.txt",
+           "from": "4k|auto"
+         }
+},
+{
+  "key": "PanSso",
+  "name": "🐌盘他盘他三盘搜索",
+  "type": 3,
+  "api": "csp_PanSso",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733418407637/fan.txt;md5;a9116fd283f503f4627f65b22b2ec430",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": {
+           "Cloud-drive": "TVBox/Cloud-drive.txt",
+           "from": "4k|auto"
+         }
 },
 {
   "key": "夸克奥秘弹幕",
