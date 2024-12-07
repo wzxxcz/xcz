@@ -7541,17 +7541,17 @@
 },	  
 {
   "key": "Jrsjs",
-  "name": "⚽ Jrs球迷",
+  "name": "⚽Jrs球迷",
   "type": 3,
-  "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732870410650/fan.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
-  "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+  "api": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt;md5;f115051a7d789c2baebb9309c14bddd2",
+  "ext": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
   "style": {
              "type": "list"
            },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
 }
 ],
   "parses": [
