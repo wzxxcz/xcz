@@ -1575,6 +1575,16 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
+  "key": "韩小圈",
+  "name": "🍥韩圈蓝光纯净",
+  "type": 3,
+  "api": "csp_HanXiaoQuan",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "蜂2鸟",
   "name": "🕊️蜂鸟影视",
   "type": 3,
