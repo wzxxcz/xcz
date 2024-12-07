@@ -7514,18 +7514,17 @@
            }
 },
 {
-      "key": "310js",
-      "name": "⚽310看球",
-      "type": 3,
-      "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js",
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885145/310.txt",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "timeout": 10
+  "key": "310js",
+  "name": "⚽310看球",
+  "type": 3,
+  "api": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "ext": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
+  "style": {
+             "type": "list"
+           },
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
 },
 {
   "key": "88看球",
