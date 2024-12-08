@@ -592,20 +592,18 @@
         }
 },	  
 {
-  "key":"立播弹幕",
+  "key": "Lib",
   "name": "🌟立播蓝光弹幕",
-  "type":3,
-  "api":"csp_Libvio",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
-  "searchable":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":{
-	  "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-	  "cookie":"http://127.0.0.1:9978/file/TV/.quark",
-	  "uc_cookie":"http://127.0.0.1:9978/file/TV/.uc",
-	  "danmu":true
-        }
+  "type": 3,
+  "api": "csp_Libvio",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt;md5;f115051a7d789c2baebb9309c14bddd2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": {
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
+         }
 },
 {
   "key": "夸克趣盘搜弹幕",
