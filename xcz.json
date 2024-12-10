@@ -892,14 +892,15 @@
   "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
 },
 {
-  "key":"洽洽影视",
+  "key": "瓜子",
   "name": "❤️瓜子蓝光纯净",
-  "type":3,
-  "api":"csp_AppGZ",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;9c0d512909991ae7fa0c3baf7f17c6ce",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "playerType": "1",
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "ext": "http://kxrj.site:55/lib/js/瓜子.js"
 },
 {
   "key":"Alist",
