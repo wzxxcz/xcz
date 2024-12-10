@@ -1222,18 +1222,6 @@
   "changeable": 1
 },
 {
-  "key": "guoguo",
-  "name": "🌞果果解析",
-  "type": 3,
-  "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
-},
-{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
