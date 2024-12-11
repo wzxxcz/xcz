@@ -146,7 +146,7 @@
 		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
-		"filterPlay": "",
+		"filterPlay": "酷云APP下载:ky1080.top",
 		"firstPlay": "",
 		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/kuyun.js",
 		"flagable": 0,
@@ -195,20 +195,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
-	},{
-		"key": "czzyzl",
-		"name": "🏭厂长┃直链",
-		"type": 5,
-		"searchable": 0,
-		"filterClass": "",
-		"firstClass": "国产剧,番剧",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/czzy.js",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": "",
-		"selectedPlayer": "1"
 	},{
 		"key": "qiyou",
 		"name": "🌞奇优┃直链",
@@ -325,19 +311,6 @@
 		"filterPlay": "",
 		"firstPlay": "",
 		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/soup/qnmp4_soup.json",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
-		"key": "555dy",
-		"name": "5️⃣555电影┃嗅探",
-		"type": 6,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/soup/555dy_soup.json",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
