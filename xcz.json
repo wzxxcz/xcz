@@ -90,23 +90,6 @@
   "changeable": 0
 },
 {
-  "key": "MTV",
-  "name": "🎧明星MV",
-  "type": 3,
-  "api": "csp_Bili",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733932725378/fan.txt;md5;f98827d83bb8ca104b0b1ead61a98c5b",
-  "style": {
-             "type": "rect",
-             "ratio": 1.597
-           },
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0,
-  "ext": {
-             "json": "https://ghp.ci/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"
-         }
-},
-{
   "key": "alllive",
   "name": "📽️一直播直播",
   "type": 3,
