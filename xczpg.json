@@ -123,7 +123,7 @@
 		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/js/6yueting.js",
 		"flagable": 0,
 		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ".mp3?ts=,.m4a",
+		"keepPlayFileKeywords": "",
 		"selectedPlayer": "2"
 	},{
 		"key": "jcyjcy",
