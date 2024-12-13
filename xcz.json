@@ -1217,6 +1217,18 @@
   "changeable": 1
 },
 {
+      "key": "网飞啦[自动]_js",
+      "name": "👨‍🍳‍网飞啦",
+      "type": 3,
+      "api": "http://kxrj.site:55/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "http://kxrj.site:55/lib/js/网飞啦[自动].js"
+    },
+
+{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
