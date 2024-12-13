@@ -7766,6 +7766,11 @@
       "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}
     },
     {
+      "name": "-m3u8TV1-",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
       "name":"-wzx解析-",
       "type":0,
       "url":"https://t1.qlplayer.cyou/player/?url=",
@@ -7983,6 +7988,11 @@
       "type":0,
       "url":"https://bd.jx.cn/?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
+    },
+    {
+      "name": "-冰豆1-",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
     },
     {
       "name": "-听乐-",
