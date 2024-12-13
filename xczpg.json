@@ -306,6 +306,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "czzy",
+		"name": "🏭厂长┃嗅探",
+		"type": 3,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "国产剧",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/xbiu/czzy_xbiu.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "1"
+	},{
 		"key": "damifan",
 		"name": "🍿大米星球┃嗅探",
 		"type": 6,
@@ -463,19 +477,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
-		"key": "58dongman",
-		"name": "5️⃣58动漫┃嗅探",
-		"type": 6,
-		"searchable": 1,
-		"filterClass": "",
-		"firstClass": "",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://ghp.ci/raw.githubusercontent.com/tt9912/tBox/refs/heads/main/soup/58dongman_soup.json",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
-	},{
 		"key": "dmand5",
 		"name": "🏝动漫岛┃嗅探",
 		"type": 6,
@@ -528,19 +529,6 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
-	},{
-		"key": "82mao",
-		"name": "🐉天龙┃资源",
-		"type": 1,
-		"searchable": 1,
-		"filterClass": "VIP影片,公告,动漫频道,海外动漫,国产动漫,日韩动漫,欧美动漫,港台动漫,综艺小品,微电影,电视剧场,电影频道,内地综艺,港台综艺,日韩综艺,欧美综艺",
-		"firstClass": "国产剧,香港剧",
-		"filterPlay": "",
-		"firstPlay": "",
-		"ext": "https://www.82mao.com/api.php/provide/vod/",
-		"flagable": 0,
-		"filterPlayFileKeywords": "",
-		"keepPlayFileKeywords": ""
 	},{
 		"key": "xiaomaomi",
 		"name": "😺小猫咪┃资源",
