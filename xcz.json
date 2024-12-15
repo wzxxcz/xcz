@@ -5857,9 +5857,9 @@
 },	  
 {
   "key": "hipy_js_腾云驾雾[官]",
-  "name": "🍊腾讯(官)",
+  "name": "🐧腾讯(官)",
   "type": 3,
-  "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+  "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
