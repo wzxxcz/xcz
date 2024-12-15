@@ -2050,17 +2050,14 @@
   "ext":"./lib/HDmoli.json"
 },
 {
-  "key": "农民弹幕",
-  "name":"👨‍🌾农民弹幕",
+  "key": "csp_Wwys",
+  "name": "👨农民1080P",
   "type": 3,
-  "api": "csp_Nmys",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731501158246/spo.jar;md5;DCC4DF2D0197DCBB108CBA12050D827C",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "danmu": true
-         }
+  "playerType": 2,
+  "changeable": 0,
+  "api": "csp_Wwys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",	
+  "ext": "https://www.wwgz.cn/"
 },
 {
   "key":"铁剧影视",
