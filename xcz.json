@@ -842,17 +842,17 @@
 },
 {
   "key": "csp_zhufan",
-  "name": "🚗追饭1080P",
+  "name": "🍚追饭1080P",
   "searchable": 1,
   "quickSearch": 1,
   "type": 3,
   "api": "csp_MiTo",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733755231778/xmwd.jar;md5;3ef54a7eb1e4488a7f10e12c41b08ea0",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
   "ext": {
-           "url": "http://xiafan.zhuiju666.com",
+           "url": "http://103.88.35.251:8989",
            "dataKey": "aassddwwxxllsx1x",
            "playKey": "bbssqdbbssll25sx",
-           "version": "1.1.0"
+           "version": "2.1.0"
          }
 },
 {
