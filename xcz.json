@@ -1219,16 +1219,6 @@
   "changeable": 1
 },
 {
-      "key": "小宝zj",
-      "name": "⭐小橙子秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
-        "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
-      }
-},	  
-{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
@@ -5855,6 +5845,16 @@
   "filterable": 1,
   "ext": "./lib/mayiyahu.json"
 },
+{
+  "key": "小宝zj",
+  "name": "⭐小橙子秒播",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+           "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+           "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+         }
+},	  	  
 {
   "key":"drpy_yh",
   "name":"🍊爱奇艺(官)",
