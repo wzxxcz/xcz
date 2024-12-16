@@ -1219,6 +1219,21 @@
   "changeable": 1
 },
 {
+  "key": "csp_大海",
+  "name": "⭐大海秒播",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://10759.kstore.vip/xcxl/huawei",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html",
+           "分类": "电影&电视剧&动漫&综艺",
+           "分类值": "1&2&3&4"
+         }
+},
+{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
