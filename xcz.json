@@ -856,21 +856,6 @@
          }
 },
 {
-      "key": "csp_zhufan",
-      "name": "⭐追番秒播",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "csp_MiTo",
-      "jar": "https://10759.kstore.vip/xcxl/DEMO.jar",
-      "ext": {
-        "url": "http://xiafan.zhuiju666.com",
-        "dataKey": "aassddwwxxllsx1x",
-        "playKey": "bbssqdbbssll25sx",
-        "version": "1.1.0"
-      }
-    },	  
-{
   "key": "fxz影酷4k",
   "name": "🍊影酷影视",
   "type": 3,
