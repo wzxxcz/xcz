@@ -1219,19 +1219,6 @@
   "changeable": 1
 },
 {
-      "key": "星辰",
-      "name": "⭐道长布蕾",
-      "type": 3,
-      "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "http://47.99.102.252/drpy_js/bulei.js"
-    },
-
-{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
@@ -2161,7 +2148,19 @@
   "api": "csp_Wwys",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23",	
   "ext": "https://www.wwgz.cn/"
-},	  
+},
+{
+  "key": "星辰",
+  "name": "⭐道长布蕾",
+  "type": 3,
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "http://47.99.102.252/drpy_js/bulei.js"
+},
 {
   "key": "小熊弹幕",
   "name": "🐻小熊影视",
