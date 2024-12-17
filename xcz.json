@@ -7513,7 +7513,7 @@
 },	  
 {
   "key": "斗鱼js",
-  "name": "🐟斗鱼┃直播",
+  "name": "🐟斗鱼直播",
   "type": 3,
   "api": "https://ghproxy.cn/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
   "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
