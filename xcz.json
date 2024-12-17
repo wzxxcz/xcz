@@ -1135,21 +1135,6 @@
   "changeable": 1
 },
 {
-  "key": "csp_Bili",
-  "name": "🍊哔哩哔哩",
-  "type": 3,
-  "api": "csp_Bili",
-  "playerType": 2,
-  "ext": {
-           "json": "https://drive.almondcloud.cn/f/odVjUB/bili.json",
-           "cookie": ""
-         },
-  "style": {
-             "type": "rect",
-             "ratio": 1.333
-           }
-},
-{
   "key": "醉挽清风",
   "name": "🌀醉挽清风4K弹幕",
   "type": 3,
