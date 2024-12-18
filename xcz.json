@@ -7555,8 +7555,9 @@
   "key": "310js",
   "name": "⚽ 310看球",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
+  "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734477866371/fan.txt;md5;c76ccccc921e555436828a86ed604fc1",		
+  "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/310直播.js",
   "style": {
              "type": "list"
            },
