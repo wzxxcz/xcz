@@ -31,7 +31,7 @@
 		"key": "kuwosong",
 		"name": "🎵酷我┃音乐",
 		"type": 5,
-		"searchable": 0,
+		"searchable": 1,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
@@ -42,10 +42,10 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "2"
 	},{
-		"key": "kuwosong",
+		"key": "kuwosong2",
 		"name": "🎵酷我┃推荐播放器",
 		"type": 5,
-		"searchable": 1,
+		"searchable": 0,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
