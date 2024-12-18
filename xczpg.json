@@ -31,7 +31,7 @@
 		"key": "kuwosong",
 		"name": "🎵酷我┃音乐",
 		"type": 5,
-		"searchable": 1,
+		"searchable": 0,
 		"filterClass": "",
 		"firstClass": "",
 		"filterPlay": "",
@@ -41,6 +41,20 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "2"
+	},{
+		"key": "kuwosong",
+		"name": "🎵酷我┃推荐播放器",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.net/https://raw.githubusercontent.com/tt9912/tBox/refs/heads/main/newjs/kuwosong.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
 	},{
 		"key": "mogg",
 		"name": "🤹‍♂️木偶┃UC盘",
