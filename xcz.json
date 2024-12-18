@@ -1723,21 +1723,16 @@
   "ext": "./lib/xcys.json"
 },	  
 {
-  "key":"兄弟",
+  "key":"兄弟影视",
   "name":"💡兄弟影视",
   "type":3,
-  "api":"csp_XBPQ",
-  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",		
+  "api":"csp_AppGetApp",
+  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
-  "ext":{
-	  "嗅探词":".m3u8?#sns-creator-preview.xhscdn.com#.m3u8#47.96.255.149#v3-cold-src.toutiaovod.com#38.61.5.6:11301#tvcms.aikanhd.vip#.mp4",
-	  "过滤词":"/dmku.brovod.top/#xdad.m3u8","影片年代":"<divclass=\"module-info-tag\">&&</div>","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放",
-	  "线路数组":"data-dropdown-value=&&</div>","线路标题":"<span>&&</span>","分类url":"https://www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-	  "分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6"
-        }
-},	  
+  "ext":"KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+sENTEbHAsgpQRtycD7pjvPePZ1AgNT8ZuBCcf4lIM858OSMK4u76tpjIfqzVA=="
+},
 {
   "key": "csp_XYQH_mf影院",
   "name": "💡明妃影视",
