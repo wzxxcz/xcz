@@ -337,7 +337,7 @@
   "name": "🏆️至臻4K4K",
   "type": 3,
   "api": "csp_Duopan",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733384755672/bietoule.jar;md5;5f2fc61f8de0065e2878d0c16f15a56c",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",	
   "changeable": 0,
   "filterable": 1,
   "ext": {
@@ -353,7 +353,7 @@
           "threads": 10
         }
       }
-},
+},	  
 {
   "key": "多多",
   "name": "🍥多多弹幕4K弹幕",
@@ -748,6 +748,14 @@
            "danmu": true
         }
 },
+{
+  "key": "小怡",
+  "name": "🔍怡搜4K4K",
+  "type": 3,
+  "api": "csp_XiaoYi",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",	
+  "changeable": 0
+},	  
 {
   "key": "csp_电影",
   "name": "🎬电影1080P",
@@ -2007,6 +2015,16 @@
   "quickSearch":1,
   "filterable":1
 },
+{
+  "key": "csp_Wwys",
+  "name": "👨农民1080P",
+  "type": 3,
+  "playerType": 2,
+  "changeable": 0,
+  "api": "csp_Wwys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",	
+  "ext": "https://www.wwgz.cn/"
+},	  
 {
   "key":"铁剧影视",
   "name":"💡铁剧影视",
