@@ -349,6 +349,19 @@
 		"filterPlayFileKeywords": "",
 		"keepPlayFileKeywords": ""
 	},{
+		"key": "6huo",
+		"name": "⌚预告片┃嗅探",
+		"type": 6,
+		"searchable": 0,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.net/https://raw.githubusercontent.com/tt9912/tBox/refs/heads/main/soup/6huo_soup.json",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},{
 		"key": "zxzja",
 		"name": "🌎在线之家┃嗅探",
 		"type": 6,
