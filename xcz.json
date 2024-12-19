@@ -7894,6 +7894,11 @@
       }
     },
     {
+      "name": "小橙子4k解析",
+      "type": 1,
+      "url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url="
+    },  
+    {
        "name":"XM蓝光",
        "url":"http://121.62.61.51:6888/api/?key=wyn1txZX5RKA2kVFUX&url=",
        "flag":["NBY"],"header":{"User-Agent":"Dalvik/2.1.0"},
