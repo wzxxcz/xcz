@@ -483,7 +483,22 @@
            "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
          },
   "timeout": 15
-},	  
+},
+{
+  "key":"易搜弹幕",
+  "name":"❤易搜弹幕",
+  "type":3,
+  "api":"csp_YiSo",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",	
+  "searchable":1,
+  "filterable":0,
+  "changeable":1,
+  "ext":{
+	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
+	  "danmu":true,
+	  "cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
+        }
+},
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
   "name": "🍊玩偶表哥",
