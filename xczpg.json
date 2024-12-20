@@ -140,6 +140,20 @@
 		"keepPlayFileKeywords": "",
 		"selectedPlayer": "0"
 	},{
+		"key": "bilimv",
+		"name": "🎙MV┃哔哩",
+		"type": 5,
+		"searchable": 1,
+		"filterClass": "",
+		"firstClass": "",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://ghproxy.net/https://raw.githubusercontent.com/tt9912/tBox/refs/heads/main/newjs/bili.js",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": "",
+		"selectedPlayer": "0"
+	},{
 		"key": "jcyjcy",
 		"name": "🍰囧次元┃直链",
 		"type": 5,
