@@ -1171,7 +1171,7 @@
   "name": "🔥小橙子收集",
   "type": 3,
   "api": "csp_Jpys",
-  "jar": "http://154.12.37.204:8089/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ospider3.jar",	
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
