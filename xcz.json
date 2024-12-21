@@ -1167,6 +1167,20 @@
   "changeable": 1
 },
 {
+  "key": "Lib",
+  "name": "🌟立播秒播",
+  "type": 3,
+  "api": "csp_Libvio",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": {
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
+         }
+},
+{
   "key": "原创",
   "name": "☀原创不卡",
   "type": 3,
