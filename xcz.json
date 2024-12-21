@@ -1167,16 +1167,6 @@
   "changeable": 1
 },
 {
-  "key": "csp_Jpys",
-  "name": "🔥小橙子收集",
-  "type": 3,
-  "api": "csp_Jpys",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ospider3.jar",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
-},
-{
   "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
@@ -1235,6 +1225,16 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
+},
+{
+  "key": "csp_Jpys",
+  "name": "🔥小橙子收集",
+  "type": 3,
+  "api": "csp_Jpys",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ospider3.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
 },
 {
   "key":"移动云盘",
