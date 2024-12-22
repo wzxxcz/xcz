@@ -2189,6 +2189,7 @@
   "name": "⭐布蕾影视",
   "type": 3,
   "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ospider3.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
