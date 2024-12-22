@@ -5520,16 +5520,6 @@
   "ext": "https://yk.shaozeyy.com/api.php/app/"
 },
 {
-  "key":"csp_xBPQ_九八",
-  "name": "🏖九八影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/98影视.json"
-},
-{
   "key": "csp_影業",
   "name": "🍷酒吧影视",
   "type": 3,
