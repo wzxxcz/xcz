@@ -5930,11 +5930,10 @@
   "ext": "./lib/mayiyahu.json"
 },
 {
-  "key": "csp_大海",
+  "key": "csp_河马",
   "name": "⭐大海秒播",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://10759.kstore.vip/xcxl/huawei",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
