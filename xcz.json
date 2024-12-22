@@ -1217,14 +1217,14 @@
          }
 },	  
 {
-  "key":"小苹果1",
+  "key": "小苹果",
   "name":"💡苹果影视",
-  "type":3,
-  "api":"csp_Xpg",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;75449a0ec9b31989d05faef11df7c118",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
+  "type": 3,
+  "api": "csp_Xpg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ospider3.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },
 {
   "key": "csp_Jpys",
