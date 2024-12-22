@@ -3081,16 +3081,20 @@
   "ext": "./lib/JMAN3.json"
 },	  
 {
-  "key": "人人影视_js",
+  "key": "人人影视",
   "name": "👨‍🍳‍人人影视",
   "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/人人影视.js"
-},	  
+  "ext": {
+           "影片类型": "🔥小橙子影视🔥【🔥欢迎您！🔥】",
+           "简介": "小橙子提醒您,请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+           "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+           "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+         }
+},
 {
   "key": "天堂蓝光",
   "name": "🧿天堂蓝光",
@@ -3475,21 +3479,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/影视工场.json"
-},
-{
-  "key": "人人影视",
-  "name": "人人┃影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "影片类型": "🔥小橙子影视🔥【🔥欢迎您！🔥】",
-           "简介": "小橙子提醒您,请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
-           "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-           "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
-         }
 },
 {
   "key": "YQ",
