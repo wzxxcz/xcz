@@ -1315,6 +1315,13 @@
   "分类":"短剧$21#电视剧$2#电影$1#动漫$4#综艺$3"}
 },
 {
+  "key": "ky1080",
+  "name": "🌤️酷云影视",
+  "type": 3,
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ospider3.jar",
+  "api": "http://47.99.102.252/js/openkuyun.js"
+},
+{
   "key": "煤球",
   "name": "🍓煤球多线",
   "type": 3,
