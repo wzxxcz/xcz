@@ -2526,17 +2526,6 @@
         }
 },
 {
-  "key": "baipiaoys",
-  "name": "😋白嫖影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "changeable": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/白嫖.json"
-},
-{
   "key": "白嫖者联盟2",
   "name": "️😋白嫖影视",
   "type": 3,
