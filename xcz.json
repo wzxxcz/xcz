@@ -2185,10 +2185,10 @@
   "ext": "https://www.wwgz.cn/"
 },
 {
-  "key": "星辰",
-  "name": "⭐道长布蕾",
+  "key": "布蕾",
+  "name": "⭐布蕾影视",
   "type": 3,
-  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
