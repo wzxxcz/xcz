@@ -1167,6 +1167,21 @@
   "changeable": 1
 },
 {
+  "key": "人人影视",
+  "name": "🎬小橙子567",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "影片类型": "🔥小橙子影视🔥",
+           "简介": "小橙子提醒您,请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
+           "分类url": "https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+           "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+         }
+},
+{
   "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
@@ -3421,21 +3436,6 @@
   "filterable": 1,
   "ext": "./lib/影视工场.json"
 },
-{
-  "key":"人人影视",
-  "name": "🎬小橙子567",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{
-	  "影片类型":"小橙子影视",
-	  "简介":"小橙子提醒您，请勿相信影片中的广告，以免上当受骗。+<divclass=\"stui-pannel_bd\"&&</div>",
-	  "分类url":"https://www.567dyy.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-	  "分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
-       }
-},	  
 {
   "key": "YQ",
   "name": "🍊雨雨蓝光",
