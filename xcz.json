@@ -1167,6 +1167,18 @@
   "changeable": 1
 },
 {
+  "key": "xbpq_高清剧场",
+  "name": "🍊高清影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+            "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
+            "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
+            "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+            "过滤词": "/hls/#php"
+         }
+},
+{
   "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
