@@ -5955,12 +5955,15 @@
          }
 },
 {
-  "key":"drpy_yh",
+  "key": "lltv_QYDH",
   "name":"🍊爱奇艺(官)",
-  "type":3,"playerType":2,
-  "api":"https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js",
-  "ext":"https://jihulab.com/ymz1231/js/-/raw/main/%E4%BC%98%E9%85%B7.js"
-},	  
+  "type": 3,
+  "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
+},
 {
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
