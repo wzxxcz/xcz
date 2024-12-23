@@ -1167,17 +1167,6 @@
   "changeable": 1
 },
 {
-  "key": "皮皮虾",
-  "name": "🦞皮皮吃虾",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/moyu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://38.55.250.149:1314/api.php/app/"
-},
-{
   "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
@@ -2992,6 +2981,19 @@
   "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 },
+{
+  "key":"皮皮影视",
+  "name": "🦐皮皮蓝光",
+  "type":3,
+  "api":"csp_XBPQ",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "分类url":"https://pptv09.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+	  "分类":"电影$1#剧集$2#综艺$3#动漫$4#短剧$5"
+        }
+},	  
 {
       "key": "飞刀",
       "name": "🗡️飞刀蓝光",
