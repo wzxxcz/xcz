@@ -89,7 +89,18 @@
   "searchable": 0,
   "quickSearch": 0,
   "changeable": 0
-},	  
+},
+{
+  "key": "DJ呦呦音乐网",
+  "name": "🎧DJ呦呦音乐",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://kxrj.site:55/lib/json/DJyyyyw.json"
+},
 {
   "key": "alllive",
   "name": "📽️一直播直播",
