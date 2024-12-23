@@ -1182,6 +1182,7 @@
   "name": "🍊多多追剧",
   "type": 3,
   "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
