@@ -2084,23 +2084,13 @@
   "ext":"./lib/HDmoli.json"
 },
 {
-  "key":"农民影视",
-  "name":"💡农民影视",
-  "type":3,
-  "api":"csp_Nmys",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;9c0d512909991ae7fa0c3baf7f17c6ce",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
-{
   "key": "csp_Wwys",
   "name": "👨农民1080P",
   "type": 3,
   "playerType": 2,
   "changeable": 0,
   "api": "csp_Wwys",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",
   "ext": "https://www.wwgz.cn/"
 },
 {
