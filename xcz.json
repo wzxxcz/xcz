@@ -432,22 +432,23 @@
   "style":{"type":"list"}
 },
 {
-  "key": "夸克奥秘弹幕",
+  "key": "奥秘网盘",
   "name": "🐼奥秘资源4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-  "quickSearch": 1,
-  "changeable": 1,
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
+  "searchable": 1,
   "filterable": 1,
+  "changeable": 1,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://wog.nxog.eu.org",
+           "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+           "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt",
+           "site": "https://vip.omii.top/",
            "danmu": true
-         }
-},	  
+        },
+  "timeout": 25
+},
 {
   "key": "蜡笔网盘",
   "name": "👠蜡笔在线",
