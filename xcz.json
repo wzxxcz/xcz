@@ -2948,14 +2948,15 @@
   "changeable": 1
 },
 {
-  "key":"采集之王",
+  "key": "hipy_js_采集之王",
   "name":"🐲采王采集",
-  "type":3,
-  "api":"https://xn--dkw0c.v.nxog.top/m//js/drpy2.min.js",
-  "searchable":1,
-  "quickSearch":1,
-  "order_num":142,
-  "ext":"https://xn--dkw0c.v.nxog.top/m//js/采集之王.js?type=url&params=https://xn--dkw0c.v.nxog.top/m//json/采集静态.json"
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/采集之王[合].js?type=url&params=../lib/采集静态.json$1"
 },
 {
   "key": "csp_不卡",
