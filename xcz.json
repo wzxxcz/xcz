@@ -113,6 +113,21 @@
   "changeable": 0
 },
 {
+      "key": "UC",
+      "name": "🌈优汐搜搜",
+      "type": 3,
+      "api": "csp_UuSs",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+
+{
   "key": "玩偶",
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
