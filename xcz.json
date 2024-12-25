@@ -1832,14 +1832,14 @@
   "api": "csp_SaoHuo"
 },	  
 {
-  "key":"骚火影视1",
+  "key": "csp_XYQBiu_骚火VIP",
   "name":"💡骚火影视",
-  "type":3,
-  "api":"csp_SaoHuo",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;9c0d512909991ae7fa0c3baf7f17c6ce",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://kxrj.site:55/lib/json/shyyVIP.json"
 },
 {
   "key":"圣城影视",
