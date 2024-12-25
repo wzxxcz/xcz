@@ -734,15 +734,16 @@
   "name": "🙀盘Se搜索",
   "type": 3,
   "api": "csp_PanSearch",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730424610558/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
   "searchable": 1,
   "filterable": 0,
   "changeable": 0,
   "ext": {
-           "token": "file://TV/ali_token.txt"
+           "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+           "danmu": true
          },
   "timeout": 15
-},	  
+},
 {
   "key":"搜索弹幕",
   "name":"❤搜索弹幕",
