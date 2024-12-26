@@ -1254,6 +1254,7 @@
   "name": "☀️睛天影视",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
