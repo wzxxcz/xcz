@@ -1250,6 +1250,16 @@
   "changeable": 1
 },
 {
+  "key": "csp_xBPQ睛天影视",
+  "name": "☀️睛天影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://kxrj.site:55/lib/json/睛天影视.json"
+},
+{
   "key": "hipy_js_多多追剧[优]",
   "name": "🍊多多追剧",
   "type": 3,
