@@ -1252,6 +1252,17 @@
   "changeable": 1
 },
 {
+  "key": "果果4K解析_js",
+  "name": "🌞果果4K",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/果果4K.js"
+},
+{
   "key": "csp_xBPQ睛天影视",
   "name": "☀️睛天影视",
   "type": 3,
