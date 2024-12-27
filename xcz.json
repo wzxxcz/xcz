@@ -1252,6 +1252,16 @@
   "changeable": 1
 },
 {
+  "key":"洽洽影视",
+  "name":"💡洽洽影视",
+  "type":3,
+  "api":"csp_AppGZ",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",	
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "果果4K解析_js",
   "name": "🌞果果4K",
   "type": 3,
