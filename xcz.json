@@ -1542,6 +1542,17 @@
          }
 },
 {
+  "key":"文才弹幕",
+  "name":"💘文才弹幕",
+  "type":3,
+  "api":"csp_Jpys",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
+{
   "key": "csp_JPYY",
   "name": "💮文采1080P",
   "type": 3,
