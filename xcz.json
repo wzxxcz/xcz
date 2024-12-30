@@ -1300,17 +1300,6 @@
   "changeable": 1
 },
 {
-  "key": "HG影视",
-  "name": "🍊HG影视",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;cd818f87826be6a0871c7f45383865e3",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-},
-{
   "key":"洽洽影视",
   "name":"💡洽洽影视",
   "type":3,
@@ -6183,6 +6172,17 @@
            "分类": "电影&电视剧&动漫&综艺",
            "分类值": "1&2&3&4"
          }
+},
+{
+  "key": "HG影视",
+  "name": "🍊HG影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;cd818f87826be6a0871c7f45383865e3",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://cs.hgyx.vip/api2/api.php/app/"
 },
 {
   "key": "lltv_QYDH",
