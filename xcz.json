@@ -323,7 +323,7 @@
   "name": "🧸玩偶4K4K",
   "type": 3,
   "api": "csp_Wogg",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",	
   "changeable": 0,
   "filterable": 1,
   "ext": {
@@ -338,7 +338,7 @@
           "threads": 12
         }
       }
-},
+},	  
 {
   "key": "团长弹幕",
   "name": "🏳️夸克团长4K弹幕",
@@ -2288,9 +2288,9 @@
   "playerType": 2,
   "changeable": 0,
   "api": "csp_Wwys",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",	
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43",
   "ext": "https://www.wwgz.cn/"
-},	  
+},
 {
   "key":"铁剧影视",
   "name":"💡铁剧影视",
