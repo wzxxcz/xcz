@@ -2072,16 +2072,13 @@
   "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
 },
 {
-  "key":"追剧影视",
+  "key": "追剧迷",
   "name":"💡追剧影视",
-  "type":3,
-  "api":"csp_AppZJ",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"http://z.kzjtv.com/"
-},
+  "type": 3,
+  "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+  "jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;efe435b615f67db156b65cb15157f680",	
+  "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/ZJM.js"
+},	  
 {
   "key":"明日影视",
   "name":"💡明日影视",
