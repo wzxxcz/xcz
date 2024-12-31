@@ -159,11 +159,11 @@
   "changeable": 0
 },
 {
-  "key": "玩偶",
+  "key": "玩偶弹幕",
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
   "api": "csp_Wogg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx2024124.zip",	
+  "jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;efe435b615f67db156b65cb15157f680",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -173,7 +173,7 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "wogg": true,
            "danmu": true
-         }
+      }
 },	  
 {
   "key": "玩偶备用弹幕",
