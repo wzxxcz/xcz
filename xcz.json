@@ -3142,12 +3142,17 @@
   "changeable": 1
 },
 {
-  "key": "采集之王",
+  "key": "hipy_js_采集之王",
   "name":"🐲采王采集",
   "type": 3,
-  "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-  "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/four-d/raw/master/movie/json/CJJT.json$1$1"
-},	  
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "jar":"http://kxrj.site:55/lib/ttkx.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/采集之王[合].js?type=url&params=../lib/采集静态.json$1"
+},
 {
   "key": "csp_不卡",
   "name": "🌴不卡影视",
