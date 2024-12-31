@@ -1300,6 +1300,13 @@
   "changeable": 1
 },
 {
+  "key": "永乐影视",
+  "name": "🍊永乐影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/YLYS.json"
+},	  
+{
   "key":"洽洽影视",
   "name":"💡洽洽影视",
   "type":3,
