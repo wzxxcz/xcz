@@ -1300,6 +1300,14 @@
   "changeable": 1
 },
 {
+      "key": "剧圈圈",
+      "name": "剧圈圈｜影视",
+      "type": 3,
+      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/JQQ.js"
+    },
+	  
+{
   "key":"洽洽影视",
   "name":"💡洽洽影视",
   "type":3,
@@ -3106,16 +3114,6 @@
   "api": "https://video.adminqt.cn/api.php/provide/vod/",
   "searchable": 1,
   "quickSearch": 1
-},
-{
-  "key":"剧圈圈",
-  "name":"🍊剧圈圈",
-  "type":3,
-  "api":"csp_XBPQ",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"./lib/剧圈圈.json"
 },
 {
   "key":"光棍影视",
