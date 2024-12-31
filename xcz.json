@@ -1300,14 +1300,6 @@
   "changeable": 1
 },
 {
-      "key": "剧圈圈",
-      "name": "剧圈圈｜影视",
-      "type": 3,
-      "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/JQQ.js"
-    },
-	  
-{
   "key":"洽洽影视",
   "name":"💡洽洽影视",
   "type":3,
@@ -3115,6 +3107,13 @@
   "searchable": 1,
   "quickSearch": 1
 },
+{
+  "key": "剧圈圈",
+  "name": "🍊剧圈圈",
+  "type": 3,
+  "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+  "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/JQQ.js"
+},	  	  
 {
   "key":"光棍影视",
   "name":"🍊光棍秒播",
