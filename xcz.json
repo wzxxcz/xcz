@@ -1300,14 +1300,6 @@
   "changeable": 1
 },
 {
-  "key": "短剧网",
-  "name": "🍇剧网短剧热推",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=短剧网"
-},
-{
   "key": "皮皮虾",
   "name": "🦐皮皮蓝光",
   "type": 3,
@@ -7839,6 +7831,14 @@
            "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan",
            "播放数组": "<div class=\"sort-item\"&&</div>"
          }
+},
+{
+  "key": "短剧网",
+  "name": "🍇剧网短剧热推",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=短剧网"
 },
 {
   "key": "有声小说js",
