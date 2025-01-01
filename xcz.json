@@ -1300,13 +1300,27 @@
   "changeable": 1
 },
 {
-  "key": "灼华",
-  "name": "🧨灼华蓝光无广",
+  "key": "小苹果弹幕",
+  "name": "🍎苹果蓝光弹幕",
   "type": 3,
-  "api": "csp_Xdai",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-  "playerType": 1,
-  "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
+  "api": "csp_Xpg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "danmu": true
+         }
+},	  
+{
+  "key": "小苹果",
+  "name":"💡苹果影视",
+  "type": 3,
+  "api": "csp_Xpg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ospider3.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
 },
 {
   "key": "皮皮虾",
@@ -1318,6 +1332,15 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://38.55.250.149:1314/api.php/app/"
+},
+{
+  "key": "灼华",
+  "name": "🧨灼华蓝光无广",
+  "type": 3,
+  "api": "csp_Xdai",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "playerType": 1,
+  "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
 },
 {
   "key":"洽洽影视",
@@ -1400,29 +1423,6 @@
   "order_num": 0,
   "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
 },	  
-{
-  "key": "小苹果弹幕",
-  "name": "🍎苹果蓝光弹幕",
-  "type": 3,
-  "api": "csp_Xpg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "danmu": true
-         }
-},	  
-{
-  "key": "小苹果",
-  "name":"💡苹果影视",
-  "type": 3,
-  "api": "csp_Xpg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ospider3.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
 {
   "key": "csp_Jpys",
   "name": "🔥小橙子收集",
