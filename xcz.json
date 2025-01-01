@@ -1362,6 +1362,20 @@
   "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
 },
 {
+  "key": "浪酷弹幕",
+  "name": "😎浪酷蓝光纯净",
+  "type": 3,
+  "api": "csp_TianTian",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "danmu": true,
+           "site": "aHR0cDovL3YubGt1eXMuY24="
+         }
+},
+{
   "key":"洽洽影视",
   "name":"💡洽洽影视",
   "type":3,
