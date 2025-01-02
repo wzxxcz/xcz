@@ -1668,6 +1668,18 @@
   "ext": ""
 },
 {
+  "key": "csp_JPYY",
+  "name": "🚗文采1080P",
+  "type": 3,
+  "searchable": 1,
+  "changeable": 1,
+  "api": "csp_Jpyy",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735790120624/250102.jar;md5;f7533a3772753bf6cc4e444b8c9371b2",	
+  "playerType": 2,
+  "filterable": 1,
+  "ext": ""
+},	  
+{
   "key":"南瓜",
   "name":"💡南瓜影视",
   "type":3,
@@ -8356,7 +8368,7 @@
           "User-Agent": "okhttp/4.9.1"
         }
       }
-    },
+    },  
     {
       "name": "反弹",
       "type": 1,
