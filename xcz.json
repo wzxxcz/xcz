@@ -429,18 +429,18 @@
   "name": "🍥多多弹幕4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx2024124.zip",	
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "site": "https://tv.yydsys.cc",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://tv.yydsys.top",
            "danmu": true
-         },
-  "timeout": 25
-},
+         }
+},	  	  
 {
   "key": "土豆",
   "name": "🥔土豆4K",
