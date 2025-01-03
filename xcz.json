@@ -916,6 +916,24 @@
          }
 },
 {
+  "key": "夸克闪电弹幕",
+  "name": "⚡️闪电4K弹幕",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "http://1.95.79.193",
+           "danmu": true
+         }
+},
+{
   "key": "csp_电影",
   "name": "🎬电影1080P",
   "type": 3,
