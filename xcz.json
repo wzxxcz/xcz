@@ -1311,6 +1311,13 @@
   "changeable": 1
 },
 {
+  "key": "csp_qiyou",
+  "name": "🎮骑友1080P",
+  "type": 3,
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6",	
+  "api": "csp_Qiyou"
+},	  
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
