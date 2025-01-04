@@ -892,11 +892,11 @@
         }
 },
 {
-  "key": "六趣",
-  "name": "🍊六趣4K",
+  "key": "夸克六趣弹幕",
+  "name": "🐲六趣4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",		
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -907,7 +907,7 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "site": "https://wp.0v.fit",
            "danmu": true
-        }
+         }
 },
 {
   "key": "小怡",
