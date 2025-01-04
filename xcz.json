@@ -2680,7 +2680,16 @@
   "type": 3,
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6",	
   "api": "csp_Qiyou"
-},	  	  
+},
+{
+  "key": "蝴蝶",
+  "name": "🦋蝴蝶App",
+  "type": 3,
+  "api": "csp_Hudie",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "playerType": 2,
+  "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+},
 {
   "key": "小熊弹幕",
   "name": "🐻小熊影视",
