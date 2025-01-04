@@ -1452,6 +1452,14 @@
   "changeable": 1
 },
 {
+  "key": "吉吉短剧",
+  "name": "🍊吉吉影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "ext": "./lib/吉吉短剧.json"
+},
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -5327,17 +5335,6 @@
   "ext": {
            "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
            "分类url": "https://17k.video/index.php/vod/type/id/{cateId}.html"
-         }
-},
-{
-  "key": "吉吉短剧",
-  "name": "🍊吉吉影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/xyqxbpq.jar",
-  "ext": {
-           "分类": "短剧$1#电视剧$5",
-           "分类url": "https://www.jjduanju.com/sort/{cateId}.html"
          }
 },
 {
