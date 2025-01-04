@@ -1040,6 +1040,23 @@
       }
 },
 {
+  "key": "夸克虎斑弹幕",
+  "name": "🐅虎斑4K弹幕",
+  "type": 3,
+  "api": "csp_Wobg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://wp.huban.xyz",
+           "danmu": true
+        }
+},
+{
   "key": "csp_电影",
   "name": "🎬电影1080P",
   "type": 3,
