@@ -1452,14 +1452,6 @@
   "changeable": 1
 },
 {
-  "key": "面包影视",
-  "name": "🍞面包影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
-  "ext": "./lib/面包影视.json"
-},
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -2686,6 +2678,14 @@
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
   "playerType": 2,
   "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+},
+{
+  "key": "面包影视",
+  "name": "🍞面包影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "ext": "./lib/面包影视.json"
 },
 {
   "key": "小熊弹幕",
