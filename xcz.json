@@ -1865,6 +1865,18 @@
          }
 },
 {
+  "key": "南瓜",
+  "name": "🎃南瓜App",
+  "type": 3,
+  "api": "csp_NanGua",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "playerType": 2,
+  "filterable": 1,
+  "ext": ""
+},
+{
   "key": "csp_南瓜",
   "name": "🎃南瓜1080P",
   "type": 3,
