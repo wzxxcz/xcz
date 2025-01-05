@@ -2442,13 +2442,12 @@
   "name": "⛅️天天蓝光弹幕",
   "type": 3,
   "api": "csp_TianTian",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext": {
-           "danmu": true,
-           "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+           "danmu": true
          }
 },
 {
