@@ -581,22 +581,21 @@
   "timeout": 25
 },
 {
-  "key": "蜡笔网盘",
+  "key": "夸克蜡笔弹幕",
   "name": "👠蜡笔在线",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "http://kxrj.site:55/lib/ttkx.jar",	
-  "searchable": 1,
-  "filterable": 1,
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "quickSearch": 1,
   "changeable": 1,
+  "filterable": 1,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-           "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt",
-           "site": "http://labipan.com/",
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "http://feimaoai.site",
            "danmu": true
-         },
-  "timeout": 25
+         }
 },
 {
   "key": "纸条",
