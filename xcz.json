@@ -357,7 +357,7 @@
   "name": "🐲小橙子玩偶网盘",
   "type": 3,
   "api": "csp_Wogg",
-  "jar":"http://kxrj.site:55/lib/ttkx.jar",	
+  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",	
   "searchable": 1,
   "filterable": 1,
   "changeable": 1,
