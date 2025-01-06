@@ -2999,29 +2999,6 @@
   "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#短剧$duanshipin"}
 },
 {
-  "key": "TVB云播_js",
-  "name":"🍡TVB蓝光在线",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/TVB云播.js"
-},
-{
-  "key": "hipy_js_TVB云播",
-  "name":"🍡TVB云播",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/TVB云播.js"
-},
-{
   "key": "csp_Tvyb",
   "name": "☁️云播1080P",
   "type": 3,
@@ -3299,14 +3276,6 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/白嫖电影网.json"
-},
-{
-  "key": "初恋资源",
-  "name": "🧡初恋官源",
-  "type": 1,
-  "api": "https://video.adminqt.cn/api.php/provide/vod/",
-  "searchable": 1,
-  "quickSearch": 1
 },
 {
   "key": "剧圈圈",
@@ -3922,18 +3891,7 @@
   "searchable": 1,
   "quickSearch": 0,
   "changeable": 0
-},
-{
-  "key": "js_毒蛇",
-  "name": "🐍毒蛇影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/毒蛇电影[优].js"
-},			  
+},  
 {
   "key": "蚂蚁资源",
   "name": "🏅橙子蚂蚁",
@@ -7963,50 +7921,6 @@
           }
 },
 {
-  "key": "js_星芽短剧",
-  "name": "🌟星芽短剧",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/js/星芽短剧.js"
-},
-{
-  "key": "csp_XYQHiker_爱你短剧",
-  "name": "🍊爱你短剧",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/爱你短剧.json"
-},
-{
-  "key": "csp_XYQHiker_河马短剧",
-  "name": "🦛河马短剧",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/json/河马短剧.json"
-},
-{
-  "key": "js_蓝莓短剧",
-  "name": "🍊蓝莓短剧",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/蓝莓短剧.js"
-},
-{
   "key": "你好帅",
   "name": "🍊好帅短剧",
   "type": 3,
@@ -8165,37 +8079,6 @@
   "style": {
              "type": "list"
            }
-},
-{
-  "key": "hipy_js_360吧[球]",
-  "name": "⚽360吧球",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "playerType": "1",
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/360吧[球].js"
-},
-{
-  "key": "jrsjs",
-  "name": "⚽Jrs球迷",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.txt?file=drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "ext": "http://kxrj.site:55/lib/js/jrs.txt",
-  "style": {
-             "type": "list"
-           },
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0,
-  "timeout": 10,
-  "header": {
-              "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-            }
 }
 ],
   "parses": [
