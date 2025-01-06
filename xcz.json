@@ -2093,7 +2093,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/json/shyyVIP.json"
+  "ext": "./lib/shyyVIP.json"
 },
 {
   "key":"圣城影视",
