@@ -1508,17 +1508,15 @@
   "name": "🌟立播秒播",
   "type": 3,
   "api": "csp_Libvio",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736064855351/fan.txt;md5;ff90f08636149d5ad8dfa91af77b8955",	
   "searchable": 1,
-  "filterable": 1,
+  "quickSearch": 1,
   "changeable": 1,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://libvio.link"
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
          }
-},
+},	  
 {
   "key": "原创",
   "name": "☀原创不卡",
