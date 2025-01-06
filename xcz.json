@@ -192,17 +192,6 @@
   "changeable": 0
 },
 {
-  "key": "hipy_js_KTV歌厅[听]",
-  "name": "🎤KTV歌厅",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
-},
-{
   "key": "酷奇",
   "name": "🎤酷奇MV",
   "type": 3,
