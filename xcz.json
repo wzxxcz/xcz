@@ -154,7 +154,7 @@
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
-  "api": "https://gitee.com/wzbdyr/hqds/raw/master/lib/drpy_libs/drpy2.min.js",
+  "api": "https://gitee.com/wzbdyr/hqds/raw/master/lib/drpy_libs/lf_live10_min-output.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
