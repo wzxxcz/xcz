@@ -1207,29 +1207,6 @@
   "jar": "https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
 },
 {
-  "key": "hipy_js_4k剧院",
-  "name": "🏅小橙子4k",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 6,
-  "ext": "http://kxrj.site:55/lib/js/4k剧院.js"
-},
-{
-  "key": "4K-AV_js",
-  "name": "🏅小橙子4k专线",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/4K-AV.js"
-},	  
-{
   "key": "4K_XYQHiker",
   "name":"🍊线线4K",
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",	
@@ -1538,29 +1515,6 @@
   "ext": "http://kxrj.site:55/lib/js/果果4K.js"
 },
 {
-  "key": "csp_xBPQ睛天影视",
-  "name": "☀️睛天影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://kxrj.site:55/lib/json/睛天影视.json"
-},
-{
-  "key": "hipy_js_多多追剧[优]",
-  "name": "🍊多多追剧",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/多多追剧[优].js"
-},
-{
   "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
@@ -1716,14 +1670,6 @@
   "changeable": 1
 },
 {
-  "key": "金牌影视",
-  "name":"🍊金牌影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
-  "ext": "http://kxrj.site:55/lib/js/金牌影视.js"
-},
-{
   "key": "闪雷影视",
   "name": "🚀闪雷影视",
   "type": 3,
@@ -1873,14 +1819,6 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",	
   "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9"
 },	  
-{
-  "key": "畅梦",
-  "name":"☕️畅谈梦想",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",	
-  "ext": "http://kxrj.site:55/lib/js/畅梦.js"
-},
 {
   "key": "萌米",
   "name": "👀萌米多线",
