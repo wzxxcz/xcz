@@ -8538,6 +8538,21 @@
       }
     },
     {
+      "name": "至白解析",
+      "type": 1,
+      "url": "https://dl.love0997.top/zbjx.php?url="
+    },
+    {
+      "name": "流光解析",
+      "type": 1,
+      "url": "https://dl.love0997.top/liuguang.php?v="
+    },
+    {
+      "name": "麒麟解析",
+      "type": 1,
+      "url": "https://dl.love0997.top/qilin.php?v="
+    },
+    {
        "name":"XM蓝光",
        "url":"http://121.62.61.51:6888/api/?key=wyn1txZX5RKA2kVFUX&url=",
        "flag":["NBY"],"header":{"User-Agent":"Dalvik/2.1.0"},
