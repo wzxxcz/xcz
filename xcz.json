@@ -7571,6 +7571,16 @@
           }
 },
 {
+  "key":"星芽短剧",
+  "name": "🌟星芽短剧",
+  "type":3,
+  "api":"csp_AppXY",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0
+},
+{
   "key": "你好帅",
   "name": "🍊好帅短剧",
   "type": 3,
