@@ -2393,6 +2393,17 @@
   "ext": "https://www.wwgz.cn/"
 },
 {
+  "key": "csp_Wwys",
+  "name": "👨农民1080P",
+  "type": 3,
+  "playerType": 2,
+  "searchable": 1,
+  "changeable": 0,
+  "api": "csp_Wwys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736146321637/ts0106.jar;md5;0e4c32257d0d98c00c8552b4d3365f51",	
+  "ext": "https://www.wwgz.cn/"
+},	  
+{
   "key": "布蕾",
   "name": "⭐布蕾影视",
   "type": 3,
