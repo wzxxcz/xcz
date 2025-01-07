@@ -1103,17 +1103,6 @@
   "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
 },
 {
-  "key": "瓜子",
-  "name": "❤️瓜子蓝光纯净",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "playerType": "1",
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "ext": "http://kxrj.site:55/lib/js/瓜子.js"
-},
-{
   "key":"酷吧",
   "name":"💘酷吧磁力",
   "type":3,
@@ -1493,17 +1482,6 @@
   "filterable":1
 },
 {
-  "key": "果果4K解析_js",
-  "name": "🌞果果4K",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/果果4K.js"
-},
-{
   "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
@@ -1559,17 +1537,6 @@
   "searchable":1,
   "changeable":1
 },	  
-{
-  "key": "熊猫TV_js",
-  "name": "🐼‍熊猫TV",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/熊猫TV.js"
-},
 {
   "key": "熊猫",
   "name": "🐼熊猫1080P",
@@ -1655,13 +1622,6 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},
-{
-  "key": "闪雷影视",
-  "name": "🚀闪雷影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "ext": "http://kxrj.site:55/lib/js/闪雷影视.js"
 },
 {
   "key": "糯米",
@@ -1841,17 +1801,6 @@
   "filterable":1
 },
 {
-  "key": "热播之家_js",
-  "name": "👨‍🍳‍热播之家",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/热播之家.js"
-},
-{
   "key":"热播弹幕",
   "name": "🐠热播弹幕",
   "type":3,
@@ -1874,17 +1823,6 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
-},
-{
-  "key": "可可影视[优]_js",
-  "name": "👨‍🍳‍可可影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/可可影视[优].js"
 },
 {
   "key": "shiju影视",
@@ -1968,17 +1906,6 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
-},
-{
-  "key": "hipy_js_黑木耳资源[资]",
-  "name": "🥑木耳资源",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/黑木耳资源[资].js"
 },
 {
   "key": "碟调影视",
@@ -2093,17 +2020,6 @@
   "ext":"./lib/sc1080.json"
 },
 {
-  "key": "星辰[优]_js",
-  "name": "👨‍🍳‍星辰影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/星辰[优].js"
-},
-{
   "key": "csp_星辰",
   "name": "🍊星辰影院",
   "type": 3,
@@ -2152,17 +2068,6 @@
 	  "副标题":"vod_remarks\":\"&&\"","链接":"http://124.222.116.5/mb/api.php/provide/vod/?ac=detail&ids=+od_id\":&&,",
 	  "影片类型":"vod_class\"*\"&&\"","影片年代":"vod_year\"*\"&&\"","影片地区":"vod_area\"*\"&&\"","导演":"vod_director\"*\"&&\"","主演":"vod_actor\"*\"&&\"",
 	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+vod_remarks\"*\"&&\"+vod_content\"*\"&&\"","线路二次截取":"","线路数组":"\"vod_play_from\":&&,","线路标题":"\"&&\"","播放二次截取":"","播放数组":"vod_play_url\"&&\"vod_[替换:\\#>>\",:\"]","播放列表":":&&,","播放标题":"\"&&$","跳转解析":"默认$http://pan.qiaoji8.com/tvbox/neibu.php?url=","播放链接":"解析+$&&\"","跳转播放链接":"url\"*\"&&\""}
-},
-{
-  "key": "臭蛋蛋_js",
-  "name": "👨‍🍳‍臭蛋蛋影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/臭蛋蛋.js"
 },
 {
   "key":"视频库",
@@ -2307,17 +2212,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "http://43.248.100.147:9891/api.php/app/"
-},
-{
-  "key": "歪片星球[资]_js",
-  "name":"🍛大米星球",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/歪片星球[资].js"
 },
 {
   "key": "厂长",
@@ -2487,17 +2381,6 @@
   "ext": "https://fantuan.vip/"
 },	  
 {
-  "key": "影探4K",
-  "name": "👨‍🍳‍影探4K",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/影探4K.js"
-},
-{
   "key": "csp_Wwys",
   "name": "🐶汪汪1080P",
   "type": 3,
@@ -2654,29 +2537,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/电影先生.js"
-},	  	  
-{
-  "key": "蜥蜴影视[优]_js",
-  "name": "👨‍🍳‍蜥蜴影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/蜥蜴影视[优].js"
-},	  	  	  
-{
-  "key": "嘀哩嘀哩_js",
-  "name": "👨‍🍳‍嘀哩嘀哩",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/嘀哩嘀哩.js"
-},
+},	  	    
 {
       "key": "阿里",
       "name": "🌼小橙子阿里",
@@ -2725,28 +2586,6 @@
   "changeable": 0,
   "ext": "http://xn--v6q485m.xn--esstbv41m2ra.icu/js/wj/smdySD.js"
 },
-{
-  "key": "三集电影[自动]_js",
-  "name": "👨‍🍳‍三集电影",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/三集电影[自动].js"
-},
-{
-  "key": "旋风视频_js",
-  "name": "👨‍🍳‍旋风视频",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/旋风视频.js"
-},	  	  
 {
   "key":"85K",
   "name":"🧿巴乌影视",
@@ -2807,50 +2646,6 @@
         "主演": "演员:</div>&&</div>",
         "简介": "detail-desc\">&&</p>"
       }
-},
-{
-  "key": "111tv[自动]_js",
-  "name": "👨‍🍳‍111tv",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/111tv[自动].js"
-},
-{
-  "key": "爱优影视[自动]_js",
-  "name": "👨‍🍳‍爱优影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/爱优影视[自动].js"
-},
-{
-  "key": "看了么_js",
-  "name": "👨‍🍳‍看了么",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/看了么.js"
-},
-{
-  "key": "宝片视频_js",
-  "name": "👨‍🍳‍宝片视频",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/宝片视频.js"
 },
 {
       "key": "宝片影视",
@@ -2936,17 +2731,6 @@
   "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=",
   "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
-{
-  "key": "魔方影视_js",
-  "name": "👨‍🍳‍魔方影视",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/魔方影视.js"
-},	  
 {
   "key": "白嫖者",
   "name": "🍊白嫖者联盟",
@@ -3036,17 +2820,6 @@
   "ext":{
 	  "分类url":"https://www.modiandy.com/area/{area}/by/{by}/class/{class}/{cateId}/page/{catePg}/year/{year}",
 	  "分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#微电影$weidianying"}
-},	  
-{
-  "key": "老王电影[自动]_js",
-  "name": "👨‍🍳‍老王电影",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/老王电影[自动].js"
 },	  
 {
   "key": "hipy_js_fxzpt",
@@ -3373,17 +3146,6 @@
         "奇幻片",
         "韩国动漫"
       ]
-},
-{
-  "key": "茶杯狐_js",
-  "name": "🍵茶杯影院",
-  "type": 3,
-  "api": "http://kxrj.site:55/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://kxrj.site:55/lib/js/茶杯狐.js"
 },
 {
   "key": "茶狐杯",
