@@ -1392,7 +1392,17 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "https://auete.com/"
-},	  	  
+},
+{
+  "key": "摸鱼瓜子",
+  "name": "❤️瓜子蓝光纯净",
+  "type": 3,
+  "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
+},
 {
   "key": "csp_LiteApple",
   "name": "🍎小苹果影视",
