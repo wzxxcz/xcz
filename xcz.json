@@ -7573,6 +7573,17 @@
          }
 },
 {
+  "key": "爱我短剧",
+  "name": "🍍爱我短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=爱我"
+},	  
+{
   "key": "短剧网",
   "name": "🍇剧网短剧热推",
   "type": 3,
