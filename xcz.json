@@ -850,20 +850,19 @@
         }
 },	  
 {
-  "key": "盘Se",
+  "key": "搜索弹幕",
   "name": "🙀盘Se搜索",
   "type": 3,
   "api": "csp_PanSearch",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
   "searchable": 1,
   "filterable": 0,
-  "changeable": 0,
+  "changeable": 1,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "danmu": true
-         },
-  "timeout": 15
-},
+         }
+},	  
 {
   "key":"搜索弹幕",
   "name":"❤搜索弹幕",
