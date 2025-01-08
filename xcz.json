@@ -1467,6 +1467,15 @@
   "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
 },
 {
+  "key": "糖果",
+  "name": "🍭糖果蓝光无广",
+  "type": 3,
+  "api": "csp_Shark",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "playerType": 1,
+  "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+},	  
+{
   "key": "浪酷弹幕",
   "name": "😎浪酷蓝光纯净",
   "type": 3,
