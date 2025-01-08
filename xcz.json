@@ -2548,14 +2548,6 @@
   "ext": "./lib/面包影视.json"
 },
 {
-  "key": "流光影视",
-  "name": "🍊流光影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
-  "ext": "./lib/流光影视.json"
-},
-{
   "key": "巨人弹幕",
   "name": "🍊巨人弹幕",
   "type": 3,
