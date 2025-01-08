@@ -7588,6 +7588,14 @@
   "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=短剧网"
 },
 {
+  "key": "吉吉短剧",
+  "name": "🐒吉吉短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=吉吉"
+},
+{
   "key": "有声小说js",
   "name": "🎧有声小说",
   "type": 3,
