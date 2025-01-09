@@ -2365,6 +2365,17 @@
   "ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
 },
 {
+  "key":"奇优影视",
+  "name":"💡奇优影视",
+  "type":3,
+  "api":"csp_Qiyou",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"http://www.dyxz2.com/"
+},
+{
   "key": "🌟客星",
   "name": "🌟客星1080P",
   "type": 3,
@@ -3297,23 +3308,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "./lib/达达龟影视.json"
-},
-{
-  "key": "drpy_js_奇优影院",
-  "name": "🍊奇优影视",
-  "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
-},
-{
-  "key": "csp_xBPQ_奇优",
-  "name": "🍊奇优影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/奇优影院.json"
 },
 {
             "key": "qimaoys",
