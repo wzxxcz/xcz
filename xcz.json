@@ -2359,15 +2359,15 @@
   "filterable":1
 },
 {
-  "key": "饺子影视",
+  "key":"饺子影视",
   "name":"💡饺子影视",
-  "type": 3,
-  "api": "csp_Jiaozi",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
+  "type":3,
+  "api":"csp_Jiaozi",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",	
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},	  
 {
   "key":"优质",
   "name":"💡优质影视",
