@@ -663,7 +663,7 @@
   "name":"❤玩弟弹幕",
   "type":3,
   "api":"csp_Wobg",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;03de898e3f99d08349bec421ebc8f506",	
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
   "quickSearch":1,
   "changeable":1,
   "filterable":1,
@@ -671,10 +671,9 @@
 	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
 	  "cookie":"http://127.0.0.1:9978/file/TV/.quark",
 	  "uc_cookie":"http://127.0.0.1:9978/file/TV/.uc",
-	  "site":"https://mihdr.top",
-	  "danmu":true
+	  "site":"https://mihdr.top","danmu":true
         }
-},	  
+},
 {
   "key": "立播弹幕版",
   "name": "🌟立播蓝光弹幕",
