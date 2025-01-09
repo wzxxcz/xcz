@@ -7791,8 +7791,7 @@
       "type":"1",
       "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
       "ext":{
-	      "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}
-            }
+	      "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
     },
     {
       "name":"-关注小橙子-",
@@ -7834,7 +7833,7 @@
       "type":0,
       "url":"https://www.8090g.cn/?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}
-    },
+    }, 
     {
       "name":"-kx1解析-",
       "type": 0,
@@ -8323,7 +8322,7 @@
       "type":0,
       "url":"https://bd.jx.cn/?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-    },
+    },  
     {
       "name": "-冰豆1-",
       "type": 0,
