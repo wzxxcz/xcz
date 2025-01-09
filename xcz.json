@@ -2367,6 +2367,15 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
+},
+{
+  "key":"优质",
+  "name":"💡优质影视",
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",	
+  "playerType":1,
+  "ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
 },	  
 {
   "key": "🌟客星",
@@ -2540,15 +2549,6 @@
   "type": 3,
   "api": "https://gitlab.com/xmbjm/fy/-/raw/main/JS/drpy2.min.js",
   "ext": "https://gitlab.com/xmbjm/fy/-/raw/main/JS/巨人弹幕.js"
-},
-{
-  "key": "优质",
-  "name": "🍊优质App",
-  "type": 3,
-  "api": "csp_Xdai",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
-  "playerType": 1,
-  "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
 },
 {
   "key": "小熊弹幕",
