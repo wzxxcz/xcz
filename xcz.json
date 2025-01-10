@@ -5992,9 +5992,9 @@
   "name": "🍨雪糕影视",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;cd818f87826be6a0871c7f45383865e3",	
-  "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/XGYS.json"
-},
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "ext": "https://gitee.com/wzbdyr/fy/raw/main/XBPQ/雪糕影视.json"
+},	  
 {
   "key": "lltv_QYDH",
   "name":"🍊爱奇艺(官)",
@@ -6029,7 +6029,7 @@
   "name": "🥭芒果(官)",
   "type": 3,
   "api": "https://gitee.com/wzbdyr/fy/raw/main/JS/drpy2.min.js",
-  "ext": "https://gitee.com/wzbdyr/fy/blob/main/JS/芒果视频.js"
+  "ext": "https://gitee.com/wzbdyr/fy/raw/main/JS/芒果视频.js"
 },	  
 {
   "key": "搜狗",
