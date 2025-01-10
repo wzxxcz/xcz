@@ -2380,7 +2380,7 @@
   "name": "💡永夜影视",
   "type": 3,
   "api": "csp_Muou",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",	
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
   "playerType": 2,
   "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
 },	  
