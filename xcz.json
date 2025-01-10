@@ -6025,12 +6025,12 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
 },
 {
-  "key": "芒果",
-  "name": "🥭芒果(官备)",
+  "key": "芒果视频",
+  "name": "🥭芒果(官)",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
-},
+  "api": "https://gitee.com/wzbdyr/fy/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/fy/blob/main/JS/芒果视频.js"
+},	  
 {
   "key": "搜狗",
   "name": "🍊搜狗(官)",
