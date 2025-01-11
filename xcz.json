@@ -2147,6 +2147,13 @@
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/追剧迷.js"
 },
 {
+  "key": "追剧弹幕",
+  "name": "💡追剧弹幕",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/追剧弹幕.js"
+},
+{
   "key":"明日影视",
   "name":"💡明日影视",
   "type":3,
