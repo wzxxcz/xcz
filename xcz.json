@@ -2140,10 +2140,10 @@
   "key": "追剧迷",
   "name":"💡追剧影视",
   "type": 3,
-  "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
-  "jar": "https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;efe435b615f67db156b65cb15157f680",	
-  "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/ZJM.js"
-},	  
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/追剧迷.js"
+},
 {
   "key":"明日影视",
   "name":"💡明日影视",
