@@ -1184,15 +1184,15 @@
   "filterable":1
 },
 {
-  "key": "csp_XYQHikerdyx",
-  "name": "🍊影港磁力",
+  "key": "电影港",
+  "name": "🍊电影港磁力",
   "type": 3,
   "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/影港磁力.json",
-  "jar": "https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XYQHiker/电影港.json"
 },
 {
   "key": "4K_XYQHiker",
