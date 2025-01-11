@@ -881,7 +881,7 @@
   "name": "🐲六趣4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
