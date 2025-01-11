@@ -1015,7 +1015,7 @@
   "name": "🐲白嫖4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -1023,9 +1023,9 @@
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://smdyo.top",
+           "site": "http://失眠的夜.top",
            "danmu": true
-      }
+         }
 },
 {
   "key": "夸克虎斑弹幕",
