@@ -1401,14 +1401,6 @@
   "changeable": 1
 },
 {
-  "key": "看了么",
-  "name": "🍊看了么影视",
-  "type": 3,
-  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/看了么.js"
-},
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -6202,10 +6194,10 @@
 },
 {
   "key": "看了么",
-  "name": "🍊看了影视",
+  "name": "🍊看了么影视",
   "type": 3,
-  "api": "http://tv.nxog.top/m/js/nxog.js",
-  "ext": "https://raw.gitcode.com/wykj/ys/raw/main/js/15.js"
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/看了么.js"
 },
 {
   "key": "drpy_js_我爱跟剧",
