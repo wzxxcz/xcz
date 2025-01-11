@@ -1405,6 +1405,7 @@
   "name": "🍊看了么影视",
   "type": 3,
   "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/看了么.js"
 },
 {
