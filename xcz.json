@@ -6007,11 +6007,11 @@
   "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
 },
 {
-  "key": "优酷",
+  "key": "优酷弹幕",
   "name": "🍊优酷(官)",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/优酷弹幕.js"
 },
 {
   "key": "芒果视频",
