@@ -1793,7 +1793,14 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-},	  
+},
+{
+  "key": "梦米弹幕",
+  "name": "👀梦米弹幕",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/梦米弹幕.js"
+},
 {
   "key": "热播",
   "name": "📺热播多线",
