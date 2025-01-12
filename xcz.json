@@ -3976,17 +3976,6 @@
   "name": "🧿海纳蓝光",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/海纳影视.json"
-},
-{
-  "key": "海纳影视",
-  "name": "🧿海纳蓝光",
-  "type": 3,
-  "api": "csp_XBPQ",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
