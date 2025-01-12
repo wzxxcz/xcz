@@ -7536,6 +7536,7 @@
   "name": "🍇剧网短剧",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/短剧网.json"
 },
 {
