@@ -2999,7 +2999,16 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},	  
+},
+{
+  "key": "快看影视",
+  "name": "👀快看影视",
+  "type": 3,
+  "api": "csp_Kuaikan",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
 {
       "key": "华为",
       "name": "🌼华为影视",
