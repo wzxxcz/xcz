@@ -7536,8 +7536,7 @@
   "name": "🍇剧网短剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=短剧网"
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/短剧网.json"
 },
 {
   "key": "吉吉短剧",
