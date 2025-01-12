@@ -5004,14 +5004,6 @@
          }
 },
 {
-  "key": "吉吉短剧",
-  "name": "🍊吉吉影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "ext": "./lib/吉吉短剧.json"
-},
-{
   "key": "魅影影视",
   "name":"🤷魅美影视",
   "type": 3,
