@@ -2596,8 +2596,8 @@
   "key": "巨人弹幕",
   "name": "🍊巨人弹幕",
   "type": 3,
-  "api": "https://gitlab.com/xmbjm/fy/-/raw/main/JS/drpy2.min.js",
-  "ext": "https://gitlab.com/xmbjm/fy/-/raw/main/JS/巨人弹幕.js"
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/巨人弹幕.js"
 },
 {
   "key": "小熊弹幕",
