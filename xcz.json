@@ -3983,6 +3983,16 @@
   "ext": "./lib/海纳影视.json"
 },
 {
+  "key": "海纳影视",
+  "name": "🧿海纳蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/海纳影视.json"
+},
+{
   "key": "千神影视",
   "name": "🧿千神蓝光",
   "type": 3,
