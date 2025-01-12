@@ -2293,6 +2293,20 @@
          }
 },
 {
+  "key": "热播弹幕",
+  "name": "🍊热播弹幕",
+  "type": 3,
+  "api": "csp_TianTian",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "danmu": true,
+           "site": "aHR0cDovL3YucmJvdHYuY24="
+         }
+},
+{
   "key":"天天弹幕",
   "name":"💘天天弹幕",
   "type":3,
