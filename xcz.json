@@ -7526,12 +7526,11 @@
   "name": "🍍爱我短剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=爱我"
-},	  
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/爱我短剧.json"
+},
 {
   "key": "短剧网",
   "name": "🍇剧网短剧",
@@ -7545,8 +7544,7 @@
   "name": "🐒吉吉短剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=吉吉"
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/吉吉短剧.json"
 },
 {
   "key": "有声小说js",
