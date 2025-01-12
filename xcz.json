@@ -7540,6 +7540,17 @@
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/短剧网.json"
 },
 {
+  "key": "短剧屋",
+  "name": "🍇剧屋短剧",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XYQHiker/短剧屋.json"
+},
+{
   "key": "吉吉短剧",
   "name": "🐒吉吉短剧",
   "type": 3,
