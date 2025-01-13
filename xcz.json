@@ -1448,17 +1448,6 @@
   "filterable": 1
 },
 {
-  "key": "皮皮虾",
-  "name": "🦐皮皮蓝光",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://38.55.250.149:1314/api.php/app/"
-},
-{
   "key": "雨滴",
   "name": "🌿雨滴蓝光无广",
   "type": 3,
@@ -7746,17 +7735,6 @@
       "type":2,
       "url":"Parallel"
     },
-    {
-      "name": "皮皮虾",
-      "type": "1",
-      "url": "http://45.207.215.101:5423/index.php?url=",
-      "ext": {
-        "flag": [
-          "PPXLG",
-          "皮皮虾4K"
-        ]
-      }
-    },    
     {
       "name":"小橙子解析",
       "type":"1",
