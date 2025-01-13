@@ -1876,6 +1876,7 @@
   "name": "🔥新视觉影视",
   "type": 3,
   "api": "https://gitee.com/wzbdyr/omg/raw/main/PY/新视觉.py",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "searchable": 1,
   "changeable": 1,
   "quickSearch": 1,
