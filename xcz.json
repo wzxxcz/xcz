@@ -1195,6 +1195,17 @@
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/XYQHiker/电影港.json"
 },
 {
+  "key": "BT天堂",
+  "name": "🍊BT天堂磁力",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XYQHiker/BT天堂.json"
+},	  
+{
   "key": "4K_XYQHiker",
   "name":"🍊线线4K",
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",	
