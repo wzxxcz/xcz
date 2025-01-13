@@ -810,7 +810,7 @@
   "name":"❤夸搜弹幕",
   "type": 3,
   "api": "csp_Qkso",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar",
   "searchable": 1,
   "filterable": 1,
   "changeable": 0,
