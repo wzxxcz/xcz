@@ -1502,10 +1502,9 @@
 {
   "key": "流光影视",
   "name": "🌟流光千里4K纯净",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
   "type": 3,
   "api": "csp_XBPQ",
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=流光"
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/流光影视.json"
 },	  
 {
   "key": "洽洽影视",
