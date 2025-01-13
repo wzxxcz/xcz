@@ -2291,15 +2291,15 @@
   "filterable":1
 },    	  
 {
-  "key":"天天",
+  "key": "天天影视",
   "name":"💡天天影视",
-  "type":3,
-  "api":"csp_AppTT",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
+  "type": 3,
+  "api": "csp_AppTT",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},	  
 {
   "key": "天天弹幕",
   "name": "⛅️天天蓝光弹幕",
