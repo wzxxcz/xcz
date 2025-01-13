@@ -1404,6 +1404,17 @@
   "changeable": 1
 },
 {
+  "key": "奇趣影视",
+  "name": "🍊奇趣影视",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XYQHiker/奇趣影视.json"
+},	  
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -3448,17 +3459,6 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"./lib/nfzw.json"
-},
-{
-  "key": "奇趣影视",
-  "name": "🍊奇趣影视",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/qqys.json"
 },
 {
     "key":"csp_XBPQ_kan",
