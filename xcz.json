@@ -3147,9 +3147,9 @@
   "key": "采集之王",
   "name":"🐲采王采集",
   "type": 3,
-  "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
+  "api": "https://gitee.com/wzbdyr/fy/raw/main/JS/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar",
+  "ext": "https://gitee.com/wzbdyr/fy/raw/main/JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
 },
 {
   "key": "csp_不卡",
