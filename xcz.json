@@ -1493,8 +1493,8 @@
   "name": "🌟流光千里4K纯净",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/流光影视.json"
+  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar",
+  "ext": "https://gitee.com/wzbdyr/fy/raw/main/XBPQ/流光影视.json"
 },	  
 {
   "key": "洽洽影视",
