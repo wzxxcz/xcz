@@ -1204,7 +1204,14 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/XYQHiker/BT天堂.json"
-},	  
+},
+{
+  "key": "磁力熊",
+  "name": "🐻‍❄️熊磁力",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/fy/raw/main/JS/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/fy/raw/main/JS/磁力熊.js"
+},
 {
   "key": "4K_XYQHiker",
   "name":"🍊线线4K",
@@ -6287,15 +6294,6 @@
   "ext": "./lib/明帝影视.json"
 },
 {
-  "key": "磁力熊",
-  "name": "🐻‍❄️熊磁力",
-  "type": 3,
-  "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-  "searchable": 1,
-  "changeable": 0,
-  "ext": "https://drpy.cainisi.cf/js/磁力熊[磁].js"
-},
-{
   "key": "ynys",
   "name": "🦢鸭奈影视",
   "type": 3,
@@ -6357,13 +6355,6 @@
   "type": 3,
   "api": "csp_XBPQ",
   "ext": "./lib/huanyu.json"
-},
-{
-  "key":"drpy_js_磁力熊[磁]",
-  "name":"🐻吃力熊熊",
-  "type":3,
-  "api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
-  "ext":"https://notabug.org/ygfxz/6/raw/main/js/js/磁力熊[磁].js"
 },
 {
   "key": "csp_SP2345",
