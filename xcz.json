@@ -1925,15 +1925,14 @@
   "ext": "http://www.6qu.top/api.php/app/"
 },
 {
-  "key": "白白",
-  "name": "🐭白白秒播",
+  "key": "csp_SuBaiBai",
+  "name": "☁️白白1080P",
   "type": 3,
-  "api": "csp_Sbaibai",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736586938795/fan.txt;md5;0e3d57414d7927d36066d0e69914f477",	
-  "playerType": 2,
   "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1
+  "api": "csp_SuBaiBai",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735790120624/250102.jar;md5;f7533a3772753bf6cc4e444b8c9371b2",	
+  "playerType": 2,
+  "ext": "https://www.subaibaiys.com/"
 },	  
 {
   "key":"星星影视",
