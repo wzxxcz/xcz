@@ -1801,16 +1801,16 @@
   "ext":"./lib/xinshijue.json"
 },
 {
-  "key": "csp_视觉",
+  "key": "新视觉影视",
   "name": "🔭新视觉影视",
   "type": 3,
+  "api": "https://gitee.com/wzbdyr/omg/raw/main/PY/新视觉.py",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "searchable": 1,
   "changeable": 1,
   "quickSearch": 1,
-  "api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736752647017/0113-4.jar;md5;6bd68323863c83157d6bf539faccacd4",	
-  "playerType": 2,
-  "filterable": 1
+  "filterable": 1,
+  "playerType": 2
 },	  
 {
   "key": "csp_XSX",
