@@ -176,11 +176,11 @@
   "key": "直播转点播",
   "name": "📺电视直播",
   "type": 3,
-  "api": "https://xn--dkw0c.v.nxog.top/m//js/live.js",
+  "api": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.js",
   "searchable": 0,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://xn--dkw0c.v.nxog.top/m//json/live.php?ou=公众号欧歌APP"
+  "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.json"
 },
 {
   "key": "csp_Kugou",
