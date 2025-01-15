@@ -7657,7 +7657,7 @@
       "type":"1",
       "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-    },  
+    },
     {
       "name":"-关注小橙子-",
       "type":1,
@@ -7677,6 +7677,18 @@
       "name":"WZBXCZ",
       "type":1,
       "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=8&url="
+    },
+    {
+      "name":"小橙子线路1",
+      "type":0,
+      "url":"https://bfq.cfwlgzs.cn/player?url=",
+      "ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}
+    },
+    {
+      "name":"小橙子线路2",
+      "type":0,
+      "url":"http://www.ckplayer.vip/jiexi/?url=",
+      "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
     },
     {
       "name":"WZXWKX",
@@ -7726,7 +7738,7 @@
       "type":0,
       "url":"https://jx.yparse.com/index.php?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-    },
+    },  
     {
       "name": "-云析1-",
       "type": 0,
