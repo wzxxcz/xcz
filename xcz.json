@@ -658,7 +658,7 @@
   "name":"❤玩哥弹幕",
   "type":3,
   "api":"csp_Wobg",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -667,7 +667,8 @@
 	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
 	  "cookie":"http://127.0.0.1:9978/file/TV/.quark",
 	  "uc_cookie":"http://127.0.0.1:9978/file/TV/.uc",
-	  "site":"http://woog.nxog.asia","danmu": true
+	  "site":"http://woog.nxog.asia",
+	  "danmu": true
         }
 },
 {
