@@ -1813,17 +1813,17 @@
   "ext":"./lib/xinshijue.json"
 },
 {
-  "key": "新视觉影视",
+  "key":"新视觉影视",
   "name": "🔭新视觉影视",
-  "type": 3,
-  "api": "https://gitee.com/wzbdyr/omg/raw/main/PY/新视觉.py",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "searchable": 1,
-  "changeable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "playerType": 2
-},	  
+  "type":3,
+  "api":"https://xn--dkw0c.v.nxog.top/m//json/sj.py",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819",
+  "searchable":1,
+  "changeable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "playerType":2
+},
 {
   "key": "csp_XSX",
   "name": "👀视讯1080P",
