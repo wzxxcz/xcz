@@ -585,7 +585,7 @@
   "name": "👠蜡笔在线",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
