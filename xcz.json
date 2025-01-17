@@ -585,7 +585,7 @@
   "name": "👠蜡笔在线",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/tvboxtv/raw/main/spider.jar",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider20250103.jar",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -595,7 +595,7 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "site": "http://feimaoai.site",
            "danmu": true
-      }
+         }
 },
 {
   "key": "纸条",
