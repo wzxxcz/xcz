@@ -438,11 +438,11 @@
   "timeout": 25
 },
 {
-  "key": "木偶",
+  "key": "夸克木偶弹幕",
   "name": "🍁木偶资源4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",		
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -452,8 +452,8 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "site": "http://www.muoupan.top",
            "danmu": true
-        }
-},	  
+         }
+},
 {
   "key": "夸克至臻弹幕",
   "name": "🏆️夸克至臻4K弹幕",
