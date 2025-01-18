@@ -990,10 +990,12 @@
   "key": "csp_电影",
   "name": "🎬电影1080P",
   "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
   "api": "csp_MiTuApp",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43",	
-  "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0="
-},	  
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
+  "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw=="
+},
 {
   "key": "csp_zhufan",
   "name": "🍚追饭1080P",
