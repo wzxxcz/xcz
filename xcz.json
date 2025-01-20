@@ -1386,6 +1386,18 @@
            }
 },
 {
+  "key": "皮皮虾",
+  "name": "😛皮皮吃虾4K纯净",
+  "playerType": 1,
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://www.ppxys.vip/api.php/app/"
+},
+{
   "key": "csp_LiteApple",
   "name": "🍎小苹果影视",
   "type": 3,
