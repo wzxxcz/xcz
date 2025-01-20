@@ -1158,6 +1158,17 @@
   "ext": "https://gitee.com/wzbdyr/fy/raw/main/JS/磁力熊.js"
 },
 {
+  "key": "80S",
+  "name": "80S磁力",
+  "type": 3,
+  "api": "csp_BLSGod",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "4K_XYQHiker",
   "name":"🍊线线4K",
   "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",	
