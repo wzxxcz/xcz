@@ -2394,6 +2394,15 @@
   "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
   "playerType": 2,
   "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
+},
+{
+  "key": "剧评",
+  "name": "💡剧评纯净",
+  "type": 3,
+  "api": "csp_Jpys",
+  "jar": "https://gitee.com/wzbdyr/vip/raw/main/BH250111.jar",	
+  "playerType": 1,
+  "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
 },	  
 {
   "key": "🌟客星",
