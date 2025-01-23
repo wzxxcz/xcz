@@ -1408,15 +1408,6 @@
   "changeable": 1
 },
 {
-  "key": "柠檬",
-  "name": "🍋柠檬秒播",
-  "type": 3,
-  "api": "csp_Nmvod",
-  "jar": "https://gitee.com/wzbdyr/vip/raw/main/BH250111.jar",	
-  "playerType": 2,
-  "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
-},	  
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -2412,7 +2403,16 @@
   "jar": "https://gitee.com/wzbdyr/vip/raw/main/BH250111.jar",	
   "playerType": 1,
   "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
-},	  
+},
+{
+  "key": "柠檬",
+  "name": "🍋柠檬秒播",
+  "type": 3,
+  "api": "csp_Nmvod",
+  "jar": "https://gitee.com/wzbdyr/vip/raw/main/BH250111.jar",	
+  "playerType": 2,
+  "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+},	  	  
 {
   "key": "🌟客星",
   "name": "🌟客星1080P",
