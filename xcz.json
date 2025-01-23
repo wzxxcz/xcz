@@ -1408,6 +1408,17 @@
   "changeable": 1
 },
 {
+  "key": "海豚影视",
+  "name": "🦈海豚影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/vip/raw/main/bhtw.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/haitun.json"
+},	  
+{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
