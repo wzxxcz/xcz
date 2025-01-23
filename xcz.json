@@ -7582,6 +7582,17 @@
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/爱我短剧.json"
 },
 {
+  "key": "河马短剧",
+  "name": "🦛河马短剧",
+  "type": 3,
+  "api": "csp_AppHMDJ",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+},
+{
   "key": "短剧网",
   "name": "🍇剧网短剧",
   "type": 3,
