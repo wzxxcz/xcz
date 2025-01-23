@@ -1406,6 +1406,15 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
+},
+{
+  "key": "柠檬",
+  "name": "🍋柠檬秒播",
+  "type": 3,
+  "api": "csp_Nmvod",
+  "jar": "https://gitee.com/wzbdyr/vip/raw/main/BH250111.jar",	
+  "playerType": 2,
+  "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
 },	  
 {
   "key": "小苹果弹幕",
@@ -4171,16 +4180,6 @@
   "ext": "http://www.bczhuiju.com/api.php/v1.vod"
 },
 {
-  "key": "柠檬影院",
-  "name": "⚡柠檬APP",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://mf.songshu.cyou/api.php/app/"
-},
-{
   "key": "555影院",
   "name": "⚡555APP",
   "type": 3,
@@ -4547,12 +4546,6 @@
   "name": "💎努努采集",
   "type": 1,
   "api": "https://www.nuuub.com/api.php/provide/vod/"
-},
-{
-  "key": "柠檬资源",
-  "name": "🍋柠檬采集",
-  "type": 1,
-  "api": "https://www.nmnm.cc/api.php/provide/vod/"
 },
 {
   "key": "Bilfun",
