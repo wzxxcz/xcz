@@ -988,15 +988,6 @@
       }
 },
 {
-  "key": "图图",
-  "name": "🍊图图蓝光",
-  "type": 3,
-  "api": "csp_APPTT",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-  "playerType": 1,
-  "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
-},
-{
   "key": "csp_电影",
   "name": "🎬电影1080P",
   "type": 3,
@@ -1393,6 +1384,15 @@
              "type": "rect",
              "ratio": 1.333
            }
+},
+{
+  "key": "图图",
+  "name": "🍊图图蓝光",
+  "type": 3,
+  "api": "csp_APPTT",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "playerType": 1,
+  "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
 },
 {
   "key": "皮皮虾",
