@@ -1408,17 +1408,6 @@
   "changeable": 1
 },
 {
-  "key": "狐狸影视",
-  "name": "🦊狐狸影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/vip/raw/main/bhtw.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./lib/huli.json"
-},	  
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
@@ -5418,6 +5407,17 @@
            "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
          }
 },
+{
+  "key": "狐狸影视",
+  "name": "🦊狐狸影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/vip/raw/main/bhtw.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/huli.json"
+},	  	  
 {
   "key":"csp_xBPQ_疯狗",
   "name": "🐕疯狗影视",
