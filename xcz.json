@@ -7542,6 +7542,27 @@
   "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
 },
 {
+  "key": "哆啦新番社",
+  "name": "🍡哆啦动漫",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "style": {
+             "type": "list"
+           },
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
+},
+{
+  "key": "去看吧",
+  "name": "🍡看吧动漫",
+  "type": 3,
+  "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
+  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
+},
+{
   "key": "Ysj",
   "name": "🎀异界动漫",
   "type": 3,
@@ -7628,27 +7649,6 @@
   "type": 3,
   "api": "csp_XBPQ",
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/XBPQ/吉吉短剧.json"
-},
-{
-  "key": "哆啦新番社",
-  "name": "🍡哆啦动漫",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "style": {
-             "type": "list"
-           },
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
-},
-{
-  "key": "去看吧",
-  "name": "🍡看吧动漫",
-  "type": 3,
-  "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
-  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
 },
 {
   "key": "有声小说js",
@@ -7822,7 +7822,7 @@
   "searchable": 0,
   "quickSearch": 0,
   "changeable": 0
-}	  
+}
 ],
   "parses": [
     {
