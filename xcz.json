@@ -1408,6 +1408,17 @@
   "changeable": 1
 },
 {
+  "key": "螃蟹影视",
+  "name": "🦀螃蟹影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/wzbdyr/vip/raw/main/bhtw.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./lib/pangxie.json"
+},	  
+{
   "key": "海豚影视",
   "name": "🦈海豚影视",
   "type": 3,
