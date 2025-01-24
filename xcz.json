@@ -312,6 +312,24 @@
       }
 },
 {
+  "key": "csp_woog2",
+  "name": "🐲小橙子夸快4K",
+  "type": 3,
+  "api": "csp_woog",
+  "changeable": 0,
+  "searchable": 1,
+  "filterable": 1,
+  "jar": "https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=公众号欧歌app;md5;468e5883e1e500c3003b24ee8b6d0dcd",
+  "ext": {
+          "site_urls": [
+          "https://woog.nxog.eu.org",
+          "https://woog.xn--dkw0c.news",
+          "http://woog.nxog.asia",
+          "https://1.woog.xn--dkw.xn--6qq986b3xl"
+        ]
+      }
+},
+{
   "key": "夸克欧歌弹幕",
   "name": "🐲小橙子夸克",
   "type": 3,
