@@ -253,22 +253,6 @@
          }
 },
 {
-  "key": "玩偶",
-  "name": "🌎玩偶智能4K弹幕",
-  "type": 3,
-  "api": "csp_WoGG",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "TVBox/Cloud-drive.txt",
-           "from": "4k|auto",
-           "siteUrl": "https://www.wogg.net/",
-           "danMu": "弹"
-         }
-},
-{
   "key": "玩偶备用弹幕",
   "name":"🐲小橙子玩偶",
   "type": 3,
