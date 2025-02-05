@@ -7776,8 +7776,8 @@
   "key": "虎牙直播js",
   "name": "🐯虎牙直播",
   "type": 3,
-  "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-  "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+  "api": "https://gh-proxy.com/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
+  "ext": "https://gh-proxy.com/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
   "style": {
              "type": "rect",
              "ratio": 1.755
