@@ -1451,13 +1451,6 @@
   "changeable": 1
 },
 {
-    "key":"csp_Lggys樱花","name":"🌸樱花┃4k影视","type":3,"api":"csp_Lggys",
-    "jar": "https://gitee.com/hu-congrong/lxbsc/raw/main/lib/Yoursmile.jar",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },	  
-{
   "key": "小苹果弹幕",
   "name": "🍎苹果蓝光弹幕",
   "type": 3,
