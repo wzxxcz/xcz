@@ -1502,6 +1502,16 @@
   "filterable": 1
 },
 {
+  "key": "樱花影视",
+  "name": "🌸樱花如雪",
+  "type": 3,
+  "api": "csp_Lggys",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "csp_AppDrama3",
   "name": "👀眼镜1080P",
   "type": 3,
