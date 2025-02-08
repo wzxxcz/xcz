@@ -2225,6 +2225,18 @@
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/追剧弹幕.js"
 },
 {
+  "key": "追剧",
+  "name": "📺追剧1080P",
+  "type": 3,
+  "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
+},	  
+{
   "key":"明日影视",
   "name":"💡明日影视",
   "type":3,
