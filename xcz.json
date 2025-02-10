@@ -479,7 +479,7 @@
 },
 {
   "key": "csp_UC",
-  "name": "💌MIUC4K4K",
+  "name": "💌MIUC4K弹幕",
   "type": 3,
   "searchable": 1,
   "changeable": 0,
@@ -488,9 +488,8 @@
   "filterable": 1,
   "ext": {
            "site_urls": [
-           "http://www.mucpan.cc",
-           "http://milvdou.fun",
-           "http://mucpan.cc"
+           "http://54271.fun/",
+           "http://milvdou.fun"
         ],
         "url_key": "uc",
         "token": "",
