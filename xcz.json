@@ -1046,11 +1046,11 @@
          }
 },
 {
-  "key": "夸克虎斑弹幕",
+  "key": "虎斑",
   "name": "🐅虎斑4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "jar": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/%E6%9F%92%E8%B1%AA.jar",	
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -1058,10 +1058,10 @@
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "http://45.207.212.215:12121",
+           "site": "http://103.45.162.207:20720",
            "danmu": true
       }
-},
+},	  
 {
   "key": "csp_电影",
   "name": "🎬电影1080P",
