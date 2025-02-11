@@ -627,21 +627,22 @@
          }
 },	  
 {
-  "key": "夸克多多弹幕",
+  "key": "多多",
   "name": "🍥多多弹幕4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+  "jar": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/%E6%9F%92%E8%B1%AA.jar",	
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
            "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
            "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "site": "https://tv.yydsys.top",
+           "site": "https://tv.yydsys.cc",
            "danmu": true
-         }
-},
+         },
+  "timeout": 25
+},	  
 {
   "key": "土豆",
   "name": "🥔土豆4K",
