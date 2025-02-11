@@ -49,7 +49,7 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-	        "name": "小橙子港澳综合",
+	        "name": "小橙子港澳综合(需梯子)",
                 "type":0,
  	        "url": "http://wx.thego.cn/gangtai.txt",
                 "ua": "okhttp/3.15",
