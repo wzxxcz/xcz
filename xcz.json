@@ -1959,16 +1959,14 @@
   "ext": "https://www.hkybqufgh.com"
 },
 {
-  "key":"南瓜",
+  "key":"南瓜影视",
   "name":"💡南瓜影视",
   "type":3,
   "api":"csp_NanGua",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ad0f59a64f038dfbfa281bf2c00446fc",
   "searchable":1,
   "quickSearch":1,
-  "playerType":2,
-  "filterable":1,
-  "ext":""
+  "filterable":1
 },
 {
   "key": "南瓜影视",
