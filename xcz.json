@@ -67,7 +67,7 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-	        "name": "小橙子IPV611",
+	        "name": "小橙子电视11",
                 "type":0,
  	        "url": "http://wx.thego.cn/df.txt",
                 "ua": "okhttp/3.15",
@@ -76,9 +76,18 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-	        "name": "小橙子IPV6111",
+	        "name": "小橙子电视111",
                 "type":0,
  	        "url": "http://wx.thego.cn/cctv.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
+	        "name": "小橙子电视1111",
+                "type":0,
+ 	        "url": "http://wx.thego.cn/cw.m3u",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
