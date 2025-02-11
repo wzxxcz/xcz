@@ -610,28 +610,21 @@
          }
 },
 {
-  "key": "csp_Netfixtv",
+  "key": "至臻",
   "name": "🏆️至臻4K4K",
   "type": 3,
-  "api": "csp_Duopan",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",	
-  "changeable": 0,
-  "searchable": 1,
+  "api": "csp_Wobg",
+  "jar": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/%E6%9F%92%E8%B1%AA.jar",	
+  "quickSearch": 1,
+  "changeable": 1,
   "filterable": 1,
   "ext": {
-           "site_urls": [
-           "https://mihdr.top",
-           "http://www.miqk.cc",
-           "http://www.xhww.net",
-           "http://xhww.net",
-           "https://xiaomiai.site"
-        ],
-        "url_key": "Duopan",
-        "threadinfo": {
-          "chunksize": 450,
-          "threads": 12
-        }
-      }
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://mihdr.top",
+           "danmu": true
+         }
 },	  
 {
   "key": "夸克多多弹幕",
