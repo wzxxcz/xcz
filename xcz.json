@@ -1959,14 +1959,16 @@
   "ext": "https://www.hkybqufgh.com"
 },
 {
-  "key":"南瓜影视",
+  "key":"南瓜",
   "name":"💡南瓜影视",
   "type":3,
   "api":"csp_NanGua",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ad0f59a64f038dfbfa281bf2c00446fc",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",
   "searchable":1,
   "quickSearch":1,
-  "filterable":1
+  "playerType":2,
+  "filterable":1,
+  "ext":""
 },
 {
   "key": "南瓜影视",
@@ -2974,16 +2976,16 @@
            "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"
          }
 },	  
-{
-  "key":"大师兄",
+{ 
+  "key": "大师兄",
   "name": "🤡大师兄影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ad0f59a64f038dfbfa281bf2c00446fc",
-  "ext":{
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >",
 	  "分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 	  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"
-        }
+         }
 },
 {
   "key": "T4-黑狐",
