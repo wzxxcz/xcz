@@ -1827,21 +1827,19 @@
   "filterable": 1
 },
 {
-  "key": "立播影视",
+  "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
   "api": "csp_Libvio",
-  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739417065683/f0213a.txt;md5;793d41d0573885b6f21c8cef69624881",	
   "searchable": 1,
-  "filterable": 1,
+  "quickSearch": 1,
   "changeable": 1,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://www.libvio.cc"
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
          }
-},
+},	  
 {
   "key": "原创",
   "name": "☀原创不卡",
