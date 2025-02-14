@@ -8057,18 +8057,18 @@
            }
 },
 {
-  "key": "Jrsjs",
-  "name": "⚽Jrs球迷",
-  "type": 3,
-  "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-  "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
-  "style": {
-            "type": "list"
-           },
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0
-}
+      "key": "Jrsjs",
+      "name": "⚽Jrs球迷",
+      "type": 3,
+      "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+}	  
 ],
   "parses": [
     {
