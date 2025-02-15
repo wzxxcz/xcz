@@ -1643,11 +1643,12 @@
   "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
 },
 {
-  "key": "csp_LiteApple",
-  "name": "🍎小苹果影视",
+  "key": "低端",
+  "name": "⏮️低端外剧",
   "type": 3,
-  "api": "csp_LiteApple",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739417065683/f0213a.txt;md5;793d41d0573885b6f21c8cef69624881",
+  "api": "csp_Ddrk",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739519691417/f0214.txt;md5;0d0e3817ef4fd3f0526b3d52f60da991",
+  "playerType": "2",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
