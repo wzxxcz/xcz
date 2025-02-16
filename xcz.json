@@ -1685,6 +1685,15 @@
   "filterable": 1
 },
 {
+  "key": "世纪",
+  "name": "📅世纪蓝光纯净",
+  "type": 3,
+  "api": "csp_Drama",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+  "playerType": 2,
+  "ext": "saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA=="
+},
+{
   "key": "樱花影视",
   "name": "🌸樱花如雪",
   "type": 3,
