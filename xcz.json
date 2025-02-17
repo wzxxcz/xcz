@@ -1719,6 +1719,18 @@
   "ext": "saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA=="
 },
 {
+  "key": "吃饱",
+  "name": "🪴吃饱1080P",
+  "type": 3,
+  "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
+},	  
+{
   "key": "樱花影视",
   "name": "🌸樱花如雪",
   "type": 3,
