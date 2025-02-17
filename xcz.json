@@ -5748,17 +5748,6 @@
   "ext": "./lib/348影视.json"
 },
 {
-  "key": "苹果", 
-  "name": "🍎苹果影院", 
-  "type": 3, 
-  "api": "csp_XBPQ",
-  "playerType":2,
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1, 
-  "ext": "./lib/苹果影院.json"
-}, 
-{
       "key": "量子资源",
       "name": "🍊量子资源",
       "type": 1,
