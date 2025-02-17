@@ -7943,6 +7943,13 @@
   "quickSearch": 0,
   "filterable": 0,
   "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+},
+{
+  "key": "csp_AppXY",
+  "name": "🐸上头短剧",
+  "type": 3,
+  "api": "csp_AppXY",	
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598"
 },	  
 {
   "key": "短剧网",
@@ -8490,35 +8497,6 @@
        "flag":["BBA"],"header":{"User-Agent":"Dalvik/2.1.0"},
        "type":"1"
     },
-    {
-      "name": "1080解析",
-      "type": 1,
-      "url": "",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },  
     {
       "name": "小橙子4k解析",
       "type": 1,
