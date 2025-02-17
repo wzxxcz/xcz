@@ -1678,12 +1678,6 @@
   "filterable": 1
 },
 {
-  "key": "fxz小猫咪",
-  "name": "🐈猫咪影视",
-  "type": 1,
-  "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"
-},	  
-{
   "key": "世纪",
   "name": "📅世纪蓝光纯净",
   "type": 3,
