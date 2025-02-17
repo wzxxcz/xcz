@@ -8129,17 +8129,17 @@
            }
 },
 {
-  "key": "看球",
+  "key": "88看球",
   "name": "⚽看球直播",
   "type": 3,
-  "api": "csp_Kanqiu",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739519691417/f0214.txt;md5;0d0e3817ef4fd3f0526b3d52f60da991",
+  "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
   "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "order_num": 0,
   "changeable": 0,
-  "style": {
-            "type": "list"
-           }
-},
+  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/kanqiu.js"
+},	  
 {
       "key": "Jrsjs",
       "name": "⚽Jrs球迷",
