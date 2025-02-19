@@ -317,6 +317,7 @@
   "name": "🍊配置中心",
   "type": 3,
   "api": "csp_Config",
+  "jar":"https://git.acwing.com/xcz/xcz/-/raw/master/lib/qh.jar",	
   "searchable": 0,
   "changeable": 0,
   "indexs": 0,
