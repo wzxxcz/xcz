@@ -475,10 +475,13 @@
   "jar": "https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=公众号欧歌app;md5;468e5883e1e500c3003b24ee8b6d0dcd",
   "ext": {
           "site_urls": [
-          "https://ogkk.nxog.eu.org"
+          "https://woog.nxog.eu.org",
+          "https://woog.xn--dkw0c.news",
+          "http://woog.nxog.asia",
+          "https://1.woog.xn--dkw.xn--6qq986b3xl"
         ]
       }
-},	  
+},
 {
   "key": "欧歌",
   "name": "🐲小橙子夸克",
