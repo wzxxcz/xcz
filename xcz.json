@@ -483,11 +483,11 @@
       }
 },
 {
-  "key": "夸克欧歌弹幕",
+  "key": "欧歌",
   "name": "🐲小橙子夸克",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",		
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
