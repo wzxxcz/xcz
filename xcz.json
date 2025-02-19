@@ -313,20 +313,6 @@
   "filterable": 0
 },
 {
-  "key": "配置中心",
-  "name": "🍊配置中心",
-  "type": 3,
-  "api": "csp_Config",
-  "jar": "http://38.165.20.168/jar/柒豪.jar;md5;15acbdd70956e806c5925b6ca9308eca",	
-  "searchable": 0,
-  "changeable": 0,
-  "indexs": 0,
-  "style": {
-             "type": "rect",
-             "ratio": 1.618
-           }
-},	  
-{
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
@@ -1246,7 +1232,7 @@
   "name": "🐅虎斑4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "http://38.165.20.168/jar/柒豪.jar;md5;15acbdd70956e806c5925b6ca9308eca",	
+  "jar": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/qh.jar",	
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
