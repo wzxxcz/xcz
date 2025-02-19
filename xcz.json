@@ -610,18 +610,28 @@
   "timeout": 30
 },
 {
-  "key": "UC",
+  "key": "csp_UC",
   "name": "💌MIUC4K弹幕",
   "type": 3,
-  "api": "csp_UuSs",
   "searchable": 1,
-  "quickSearch": 1,
   "changeable": 0,
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "api": "csp_Duopan",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0",	
+  "filterable": 1,
   "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
+           "site_urls": [
+           "http://54271.fun/",
+           "http://milvdou.fun"
+        ],
+        "url_key": "uc",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 12
+        }
+      }
 },	  
 {
   "key": "米搜",
