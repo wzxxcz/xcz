@@ -749,7 +749,7 @@
   "name": "🍥多多弹幕4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://git.acwing.com/xcz/xcz/-/raw/master/lib/%E6%9F%92%E8%B1%AA.jar",	
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
