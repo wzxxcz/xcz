@@ -483,19 +483,22 @@
       }
 },
 {
-  "key": "csp_woog",
+  "key": "欧歌",
   "name": "🐲小橙子夸克",
   "type": 3,
-  "api": "csp_woog",
-  "changeable": 0,
+  "api": "csp_Wobg",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
   "searchable": 1,
+  "quickSearch": 1,
   "filterable": 1,
-  "jar": "https://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=公众号欧歌app;md5;f374d8b60394b71f57e7b0fb1f1f21ca",
+  "changeable": 1,
   "ext": {
-           "site_urls": [
-           "https://woog.nxog.eu.org"
-        ]
-      }
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://woog.nxog.eu.org",
+           "danmu": true
+         }
 },	  
 {
   "key": "csp_woog",
