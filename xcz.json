@@ -1685,6 +1685,15 @@
   "filterable": 1
 },
 {
+  "key": "小米电影",
+  "name": "🎫小米电影",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "csp_MovieApp"
+},	  
+{
   "key": "csp_Lkdy",
   "name": "💐来看1080P",
   "type": 3,
