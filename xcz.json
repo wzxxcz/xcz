@@ -1683,16 +1683,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
-},
-{
-  "key": "小米电影",
-  "name": "🎫小米电影",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "api": "csp_MovieApp"
-},	  
+}, 
 {
   "key": "csp_Lkdy",
   "name": "💐来看1080P",
@@ -2942,7 +2933,16 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/电影先生.js"
-},	  	    
+},
+{
+  "key": "小米电影",
+  "name": "🎫小米电影",
+  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "api": "csp_MovieApp"
+},	 	  
 {
       "key": "阿里",
       "name": "🌼小橙子阿里",
