@@ -363,15 +363,6 @@
   "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.json"
 },
 {
-  "key": "IKTV",
-  "name": "🎤KTV歌厅",
-  "type": 3,
-  "api": "csp_WexIktv",
-  "searchable": 1,
-  "changeable": 0,
-  "jar": "https://gitee.com/wzbdyr/fy/raw/main/wex.jar"
-},
-{
   "key": "酷奇",
   "name": "🎤酷奇MV",
   "type": 3,
