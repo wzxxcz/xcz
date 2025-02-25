@@ -2507,15 +2507,11 @@
 },
 {
   "key": "追剧",
-  "name": "📺追剧1080P",
+  "name": "🏈追剧1080P",
   "type": 3,
-  "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
+  "api": "csp_AppRJ",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8",	
+  "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
 },	  
 {
   "key":"明日影视",
