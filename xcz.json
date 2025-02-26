@@ -384,14 +384,6 @@
   "quickSearch": 0,
   "filterable": 0
 },
- {
-      "key": "config",
-      "name": "⚙云盘┃配置中心 UC扫两次码",
-      "type": 3,
-      "api": "csp_Config",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740553585257/0226.jar;md5;cdc1485ea07ff1acfd9cd630fa11fc36", 
-      "searchable": 0
-    },	  
 {
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
