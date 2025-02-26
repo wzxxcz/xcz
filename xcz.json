@@ -385,14 +385,6 @@
   "filterable": 0
 },
 {
-  "key": "config",
-  "name": "⚙云盘配置中心",
-  "type": 3,
-  "api": "csp_Config",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8",	
-  "searchable": 0
-},	  
-{
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
