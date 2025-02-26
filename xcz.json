@@ -385,6 +385,13 @@
   "filterable": 0
 },
 {
+  "key": "config",
+  "name": "⚙云盘配置中心",
+  "type": 3,
+  "api": "csp_Config",
+  "searchable": 0
+},	  
+{
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
