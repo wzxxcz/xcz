@@ -2,135 +2,52 @@
  "urls":[
   {
    "name": "小橙子影视🍊小橙子仓库",
-   "url": "https://raw.gitcode.com/wzbdyr1980/wzx/raw/master/xcz.json"
+   "url": "https://xcz.funly.us/xcz.json"
   }, 
   {
-   "name": "小橙子影视[备1]🍊小橙子仓库",
-   "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/master/xcz.json"
+   "name": "小橙子影视备🍊小橙子仓库",
+   "url": "https://xcz.iptv365.org/xcz.json"
   }, 
-  {
-   "name": "小橙子影视[备2]🍊小橙子仓库",
-   "url": "https://git.acwing.com/xcz/wzx/-/raw/master/xcz.json"
-  },
+
   {
    "name": "饭太硬🍊小橙子仓库",
-   "url": "http://www.饭太硬.com/tv/"
+   "url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/1.php?ou=https://www.饭太硬.com/tv/"
+  }, 
+  {
+   "name": "王二小放牛娃🍊小橙子仓库",
+   "url": "http://tvbox.王二小放牛娃.top"
+  },
+  {
+   "name": "小米🍊小橙子仓库",
+   "url": "https://mpanso.me/DEMO.json"
   },
   {
    "name": "肥猫🍊小橙子仓库",
    "url": "http://肥猫.com"
   },
   {
-   "name": "OK线路🍊小橙子仓库",
-   "url": "http://ok321.top/ok"
+   "name": "欧歌🍊小橙子仓库",
+   "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌"
+  },
+  {
+   "name": "摸鱼儿🍊小橙子仓库",
+   "url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/11.php?ou=http://我不是.摸鱼儿.com"
+  },
+  {
+   "name": "柒豪🍊小橙子仓库",
+   "url": "http://38.165.20.168/柒豪4K.json"
   },
   {
    "name": "盒子迷🍊小橙子仓库",
-   "url": "https://盒子迷.top/禁止贩卖"
+   "url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/3.php?ou=https://盒子迷.top/禁止贩卖"
   },
   {
-   "name": "D佬线路🍊小橙子仓库",
-   "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json"
+   "name": "荷城茶秀🍊小橙子仓库",
+   "url": "http://11.yy.xn--dkw.xn--6qq986b3xl/1/18.php?ou=https://py.nxog.eu.org/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json"
   },
   {
-   "name": "PG线路🍊小橙子仓库",
-   "url": "https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json"
-  },
-  {
-   "name": "小米线路🍊小橙子仓库",
-   "url": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json"
-  },
-  {
-   "name": "放牛线路🍊小橙子仓库",
-   "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz"
-  },
-  {
-   "name": "小马线路🍊小橙子仓库",
-   "url": "https://szyyds.cn/tv/x.json"
-  },
-  {
-   "name": "天天开心🍊小橙子仓库",
-   "url": "http://ttkx.live:55/天天开心"
-  },
-  {
-   "name": "摸鱼线路🍊小橙子仓库",
-   "url": "http://我不是.摸鱼儿.top"
-  },
-  {
-   "name": "老刘备线路🍊小橙子仓库",
-   "url": "https://raw.liucn.cc/box/m.json"
-  },
-  {
-   "name": "天微影视🍊小橙子仓库",
-   "url": "https://gitee.com/tvkj/tw/raw/main/svip.json"
-  },
-  {
-   "name": "香雅情🍊小橙子仓库",
-   "url": "https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-  },
-  {
-   "name": "俊佬线路🍊小橙子仓库",
-   "url": "http://home.jundie.top:81/top98.json"
-  },
-  {
-   "name": "月光线路🍊小橙子仓库",
-   "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/max.json"
-  },
-  {
-   "name": "巧技线路🍊小橙子仓库",
-   "url": "http://cdn.qiaoji8.com/tvbox.json"
-  },
-  {
-   "name": "小白线路🍊小橙子仓库",
-   "url": "http://bp.tvbox.cam/"
-  },
-  {
-   "name": "道长线路🍊小橙子仓库",
-   "url": "https://pastebin.com/raw/5NHaxyGR"
-  },
-  {
-   "name": "吾爱线路🍊小橙子仓库",
-   "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
-  },
-  {
-   "name": "南风线路🍊小橙子仓库",
-   "url": "https://gh.con.sh/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-  },
-  {
-   "name": "东辰线路1🍊小橙子仓库",
-   "url": "https://gitee.com/dongchenliu/liu/raw/master/hb.json"
-  },
-  {
-   "name": "东辰线路2🍊小橙子仓库",
-   "url": "https://gitee.com/dongchenliu/liu/raw/master/hd.json"
-  },
-  {
-   "name": "东辰线路3🍊小橙子仓库",
-   "url": "https://gitee.com/dongchenliu/liu/raw/master/hc.json"
-  },
-  {
-   "name": "cally线路🍊小橙子仓库",
-   "url": "https://vip.123pan.cn/1823165373/cally/cally.json"
-  },
-  {
-   "name": "meowtv线路🍊小橙子仓库",
-   "url": "http://meowtv.top/tv"
-  },
-  {
-   "name": "玉玉线路🍊小橙子仓库",
-   "url": "https://fmbox.cc"
-  },
-  {
-   "name": "番茄线路🍊小橙子仓库",
-   "url": "https://mi.xxooo.shop"
-  },
-  {
-   "name": "好趣网🍊小橙子仓库",
-   "url": "https://gitee.com/zhan-zhaobb/MVP/raw/master/Svip.json"
-  },
-  {
-   "name": "轩轩影视🍊小橙子仓库",
-   "url": "https://gitee.com/wxbtt/xuanxuan/raw/master/4k.json"
+   "name": "幼小初高🍊小橙子仓库",
+   "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌"
   }]}
    
    
