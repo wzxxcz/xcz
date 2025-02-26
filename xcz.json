@@ -579,20 +579,6 @@
   "ext": {
            "Cloud-drive": "tvfan/Cloud-drive.txt",
            "from": "4k|auto",
-           "pturl": "http://tv.91muou.icu/|http://54271.fun/"
-         }
-},
-{
-  "key": "UC",
-  "name": "🌈优汐搜搜",
-  "type": 3,
-  "api": "csp_UuSsGuard",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto",
            "site": "http://tv.91muou.icu/|http://54271.fun/"
          }
 },	  
