@@ -94,9 +94,9 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-                "name": "小橙子IPV6备",
+                "name": "小橙子APTV",
                 "type": 0,
-                "url": "https://xcz.iptv365.org/IPV61.txt",
+                "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
