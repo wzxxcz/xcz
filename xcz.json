@@ -585,49 +585,6 @@
       }
 },
 {
-  "key": "UC",
-  "name": "🌈优汐搜搜",
-  "type": 3,
-  "api": "csp_UuSsGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740619018676/02027.jar;md5;767a935f19a813147f0edb3c93f72ff7",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto",
-           "pturl": "http://mo.muouso.fun/|http://149.88.87.72:5666/|http://54271.fun/"
-         }
-},	  
-{
-  "key": "YpanSo",
-  "name": "🐟盘她三盘",
-  "type": 3,
-  "api": "csp_YpanSo",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},	  
-{
-  "key": "抠搜",
-  "name": "🍄抠抠搜搜",
-  "type": 3,
-  "api": "csp_KkSs",
-  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740249213752/f0223.txt;md5;9a4e27dc8671d07587f5cb752ea80fd3",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},	  
-{
   "key": "肥猫",
   "name": "🐈肥猫4K",
   "type": 3,
