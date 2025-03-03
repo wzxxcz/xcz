@@ -8163,7 +8163,18 @@
 {"key": "MV","name": "🌈歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/歌曲MV.json"},    
 {"key": "美食","name": "🌈美食","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/美食.json"},    
 {"key": "合集","name": "💋哔哩合集","type": 3,"api": "https://xn--dkw0c.v.nxog.top/m//js/drpy2.min.js","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--dkw0c.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--dkw0c.v.nxog.top/m//Bilibili/合集.json"}, 
-{"key": "球类","name": "⚽️球类合集","type": 3,"api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/js/我的哔哩.js?type=url&params=https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/Bilibili/球类合集.json"},
+{
+  "key": "球类",
+  "name": "⚽️球类合集",
+  "type": 3,
+  "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/js/drpy2.min.js",
+  "jar":"https://alicliimg.clewm.net/342/790/68790342/174011140593766556c1b45aa6b5c432ec5feec6fdeb81740111402.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54",
+  "searchable":0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "order_num":142,
+  "ext":"https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/js/我的哔哩.js?type=url&params=https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/Bilibili/球类合集.json"
+},
 {"key": "球星","name": "⚽️球星合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/球星合集.json"}, 
 {
   "key": "虎牙直播js",
