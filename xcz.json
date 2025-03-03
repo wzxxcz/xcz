@@ -972,20 +972,16 @@
          }
 },	  
 {
-  "key": "易搜弹幕",
+  "key":"易搜弹幕",
   "name": "😹易搜弹幕搜索",
-  "type": 3,
-  "api": "csp_YiSo",
-  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar",
-  "searchable": 1,
-  "filterable": 0,
-  "changeable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "danmu": true,
-           "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
-         }
-},
+  "type":3,
+  "api":"csp_YiSo",
+  "jar": "https://alicliimg.clewm.net/342/790/68790342/174011140593766556c1b45aa6b5c432ec5feec6fdeb81740111402.jpg;md5;11c25fa40e0b5e7797c51e92ed8d2a54",	
+  "searchable":1,
+  "filterable":0,
+  "changeable":1,
+  "ext":{"token":"http://127.0.0.1:9978/file/TVbox/token.txt","danmu":true,"cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"}
+},	  
 {
   "key": "csp_XYQHikerAL_玩偶表哥",
   "name": "🍊玩偶表哥",
