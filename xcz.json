@@ -85,6 +85,33 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
+                "name": "小橙子香港频道",
+                "type": 0,
+                "url": "https://epg.pw/test_channels_hong_kong.m3u",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
+                "name": "小橙子台湾频道",
+                "type": 0,
+                "url": "https://epg.pw/test_channels_taiwan.m3u",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
+                "name": "小橙子新加坡频道",
+                "type": 0,
+                "url": "https://epg.pw/test_channels_singapore.m3u",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
                 "name": "Gather电视直播",
                 "type": 0,
                 "url": "https://tv.iill.top/m3u/Gather",
