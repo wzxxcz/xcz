@@ -1117,20 +1117,14 @@
         }
 },	  
 {
-  "key":"夸克玩弹幕2",
+  "key":"玩偶3",
   "name":"❤玩姐弹幕",
   "type":3,
-  "api":"csp_Wobg",
-  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;e0cce108247c46ba217992af1627fe7b",	
-  "quickSearch":1,
-  "changeable":1,
-  "filterable":1,
-  "ext":{
-	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
-	  "cookie":"http://127.0.0.1:9978/file/TV/.quark",
-	  "uc_cookie":"http://127.0.0.1:9978/file/TV/.uc",
-	  "site":"https://tv.yydsys.top","danmu":true
-        }
+  "api":"csp_kongbai",
+  "searchable":1,
+  "changeable":0,
+  "jar":"https://alicliimg.clewm.net/342/790/68790342/174084546863895ce7ac32cdd3890fd73f7d925a4f3031740845466.jpg;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95",
+  "ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://tv.yydsys.top","filter":"https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/json/wogg.json"}
 },	  
 {
   "key":"夸克玩弹幕3",
