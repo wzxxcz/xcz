@@ -772,22 +772,17 @@
   "timeout": 25
 },
 {
-  "key": "夸克木偶弹幕",
+  "key": "木偶",
   "name": "🍁木偶资源4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
+  "jar": "https://xcz.funly.us/qh.jar",		
+  "searchable": 1,
+  "changeable": 0,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "http://www.91muou.icu",
-           "danmu": true
+           "siteUrl": "http://123.666291.xyz/"
          }
-},
+},	  
 {
   "key": "夸克至臻弹幕",
   "name": "🏆️夸克至臻4K弹幕",
