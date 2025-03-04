@@ -1743,6 +1743,7 @@
   "name": "🐧腾讯(官)",
   "type": 3,
   "api": "https://xcz.funly.us/drpy2.min.js",
+  "jar": "https://xcz.funly.us/qh.jar",		
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
