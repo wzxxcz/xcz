@@ -800,6 +800,7 @@
            "danmu": true
          }
 },
+	  
 {
   "key": "csp_Netfixtv",
   "name": "🏆️至臻4K4K",
@@ -1299,6 +1300,15 @@
   "name": "🍊天翼4K‍",
   "type": 3,
   "api": "csp_Wexleijing",
+  "jar": "https://xcz.funly.us/qh3.jar",
+  "searchable": 1,
+  "changeable": 1
+},
+{
+  "key": "雷鲸",
+  "name": "🍊雷鲸4K‍",
+  "type": 3,
+  "api": "csp_Wextyso",
   "jar": "https://xcz.funly.us/qh3.jar",
   "searchable": 1,
   "changeable": 1
