@@ -1739,6 +1739,18 @@
   "filterable": 1
 },
 {
+  "key": "腾讯",
+  "name": "🐧腾讯(官)",
+  "type": 3,
+  "api": "https://xcz.funly.us/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "https://xcz.funly.us/腾讯.js"
+},	  
+{
   "key": "神车",
   "name": "🚎神车秒播",
   "type": 3,
@@ -6454,18 +6466,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
-},
-{
-  "key": "hipy_js_腾云驾雾[官]",
-  "name": "🐧腾讯(官)",
-  "type": 3,
-  "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
 },
 {
   "key": "优酷弹幕",
