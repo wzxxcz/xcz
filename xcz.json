@@ -8299,6 +8299,35 @@
       "url":"Parallel"
     },
     {
+      "name": "小橙子4K",
+      "type": 1,
+      "url": "http://121.41.93.205/xiaye.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
       "name": "影视聚合",
       "type": 3,
       "url": "影视"
