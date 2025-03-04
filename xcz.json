@@ -1284,6 +1284,15 @@
            "site": "http://103.45.162.207:20720",
            "danmu": true
       }
+},
+{
+  "key": "移动",
+  "name": "🍊移动4K",
+  "type": 3,
+  "api": "csp_WexYDpanta",
+  "jar": "https://xcz.funly.us/qh.jar",	
+  "searchable": 1,
+  "changeable": 1
 },	  
 {
   "key": "电影",
