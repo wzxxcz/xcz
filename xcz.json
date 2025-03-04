@@ -1742,13 +1742,13 @@
   "key": "腾讯",
   "name": "🐧腾讯(官)",
   "type": 3,
-  "api": "http://38.165.20.168/js/drpy2.min.js",	
+  "api": "https://xcz.funly.us/drpy2.min.js",	
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
   "changeable": 0,
-  "ext": "http://38.165.20.168/js/腾讯.js"
+  "ext": "https://xcz.funly.us/腾讯.js"
 },	  
 {
   "key": "神车",
