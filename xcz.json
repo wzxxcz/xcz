@@ -1293,6 +1293,15 @@
   "jar": "https://xcz.funly.us/qh3.jar",	
   "searchable": 1,
   "changeable": 1
+},
+{
+  "key": "天翼",
+  "name": "🍊天翼4K‍",
+  "type": 3,
+  "api": "csp_Wexleijing",
+  "jar": "https://xcz.funly.us/qh3.jar",
+  "searchable": 1,
+  "changeable": 1
 },	  
 {
   "key": "电影",
