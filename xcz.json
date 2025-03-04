@@ -1242,7 +1242,7 @@
   "name": "⚡️闪电4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/raw/main/lib/qh.jar",
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/qh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
