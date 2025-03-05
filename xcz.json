@@ -994,21 +994,6 @@
   "timeout": 25
 },
 {
-  "key": "夸克趣盘搜弹幕",
-  "name": "🤓趣盘搜索弹幕",
-  "type": 3,
-  "api": "csp_QuPanSou",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "danmu": true
-         }
-},
-{
   "key":"夸克玩弹幕7",
   "name":"❤玩欧弹幕",
   "type":3,
@@ -1623,15 +1608,6 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737293598878/0119.jar;md5;bcbb8e59d3125612721142763fb8f8d7"
 },	  
 {
-  "key": "图图",
-  "name": "🛹图图1080P",
-  "type": 3,
-  "api": "csp_APPTT",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "playerType": 1,
-  "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
-},	  
-{
   "key": "皮皮虾",
   "name": "😛皮皮吃虾4K纯净",
   "playerType": 1,
@@ -1781,36 +1757,6 @@
   "ext": "sHR2rlsfjI4L3t4RXQMkn35bf/1LEoRwqTXcrC7IQ0LqkJ9uquhjeheQXMJ/1jcyl7dTdYTs2tmJx3JQfbM+sLOHa3gv0n6rwfqf5gycuzU7dkNLItKvRFx3Cc438fy/s56XVJJZXZczLxopwnsmcYwYi1Ry6merfTK6wL78+y09P00Emc+qYY6cbo9/0p3aoyI75hXhhWfgk2fsdhl/CJ63tm0h5nu8u2sR6MVAG9bXBLHLiasPCrBhIBKlseXE"
 },	  
 {
-  "key": "世纪",
-  "name": "📅世纪蓝光纯净",
-  "type": 3,
-  "api": "csp_Drama",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "playerType": 2,
-  "ext": "saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA=="
-},
-{
-  "key": "樱花影视",
-  "name": "🌸樱花如雪",
-  "type": 3,
-  "api": "csp_Lggys",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
-  "key": "柳月影视",
-  "name": "🌙柳月蓝光",
-  "type": 3,
-  "api": "csp_AppGetApp",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="
-},
-{
   "key": "csp_AppDrama3",
   "name": "👀眼镜1080P",
   "type": 3,
@@ -1872,15 +1818,6 @@
   "type": 3,
   "api": "csp_Shark",
   "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "playerType": 1,
-  "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-},
-{
-  "key": "风听影视",
-  "name": "🌀风听蓝光纯净",
-  "type": 3,
-  "api": "csp_Shark",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
   "playerType": 1,
   "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
 },
@@ -2087,19 +2024,6 @@
   "quickSearch": 1,
   "changeable": 1
 },	  
-{
-  "key": "文才弹幕",
-  "name": "💮文采蓝光弹幕",
-  "type": 3,
-  "api": "csp_Jpys",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "danmu": true
-         }
-},
 {
   "key": "wencai",
   "name": "🥭文采1080P",
@@ -2324,16 +2248,6 @@
   "quickSearch": 1,
   "changeable": 1,
   "ext": "https://www.zxzjhd.com/"
-},	  
-{
-  "key": "韩小圈",
-  "name": "🍥韩圈蓝光纯净",
-  "type": 3,
-  "api": "csp_HanXiaoQuan",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
 },	  
 {
   "key": "蜂2鸟",
@@ -2766,16 +2680,6 @@
   "ext":"./lib/HDmoli.json"
 },
 {
-  "key": "农民影视",
-  "name":"💡农民影视",
-  "type": 3,
-  "api": "csp_Nmys",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
   "key":"铁剧影视",
   "name":"💡铁剧影视",
   "type":3,
@@ -3050,16 +2954,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/iduoduo/orange/-/raw/main/drpy_js/电影先生.js"
-},
-{
-  "key": "小米电影",
-  "name": "🎫小米电影",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "type": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "api": "csp_MovieApp"
-},	 	  
+},  
 {
       "key": "阿里",
       "name": "🌼小橙子阿里",
