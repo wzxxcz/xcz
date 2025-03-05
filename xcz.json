@@ -776,35 +776,13 @@
   "name": "🍥多多弹幕4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
+  "jar": "https://xcz.funly.us/qh.jar",		
+  "searchable": 1,
+  "changeable": 0,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "site": "https://tv.yydsys.cc",
-           "danmu": true
-         },
-  "timeout": 25
-},	  
-{
-  "key": "土豆",
-  "name": "🥔土豆4K",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",	
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://dcyun.cc",
-           "danmu": true
+           "siteUrl": "https://woog.nxog.eu.org"
          }
-},
+},	  
 {
   "key": "小米",
   "name": "🍚小米4K",
