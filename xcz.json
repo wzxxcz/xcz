@@ -776,12 +776,17 @@
   "name": "🍥多多弹幕4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",		
-  "searchable": 1,
-  "changeable": 0,
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
   "ext": {
-           "siteUrl": "https://woog.nxog.eu.org"
-         }
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "site": "https://tv.yydsys.cc",
+           "danmu": true
+         },
+  "timeout": 25
 },	  
 {
   "key": "小米",
