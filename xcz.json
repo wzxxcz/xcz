@@ -1280,16 +1280,16 @@
   "filterable": 1
 },
 {
-  "key":"New6v",
+  "key": "6v",
   "name":"🎃New6V磁力",
-  "type":3,
-  "api":"csp_New6v",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://www.xb6v.com"
-},
+  "type": 3,
+  "api": "csp_New6v",
+  "jar": "https://xcz.funly.us/qh.jar",		
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.xb6v.com"
+},	  
 {
   "key": "迅雷吧",
   "name":"🎃迅吧磁力",
