@@ -701,30 +701,6 @@
   "timeout": 30
 },
 {
-  "key": "csp_UC",
-  "name": "💌MIUC4K弹幕",
-  "type": 3,
-  "searchable": 1,
-  "changeable": 0,
-  "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",		
-  "filterable": 1,
-  "ext": {
-           "site_urls": [
-           "http://54271.fun/",
-           "http://milvdou.fun"
-        ],
-        "url_key": "uc",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 450,
-          "threads": 12
-        }
-      }
-},	  
-{
   "key": "csp_MiSou",
   "name": "🌾米搜4K4K",
   "type": 3,
