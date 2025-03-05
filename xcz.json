@@ -738,16 +738,29 @@
          }
 },	  	  
 {
-  "key": "至臻",
+  "key": "csp_Netfixtv",
   "name": "🏆️至臻4K4K",
   "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",		
-  "searchable": 1,
-  "changeable": 0,
+  "api": "csp_Duopan",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598",	
+  "filterable": 1,
   "ext": {
-           "siteUrl": "https://mihdr.top"
-         }
+           "site_urls": [
+           "https://mihdr.top",
+           "http://www.miqk.cc",
+           "http://www.xhww.net",
+           "http://xhww.net",
+           "https://xiaomiai.site"
+        ],
+        "url_key": "Netfixtv",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 400,
+          "threads": 12
+        }
+      }
 },	  
 {
   "key": "多多",
@@ -1142,11 +1155,15 @@
   "name": "🍛下饭4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",	
-  "searchable": 1,
-  "changeable": 0,
+  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
   "ext": {
-           "siteUrl": "http://txfpan.top/"
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "site": "http://txfpan.top/",
+           "danmu": true
          }
 },	  
 {
