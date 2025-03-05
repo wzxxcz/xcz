@@ -767,16 +767,30 @@
   "timeout": 25
 },	  
 {
-  "key": "小米",
+  "key": "csp_UC",
   "name": "🍚小米4K",
   "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://xcz.funly.us/qh.jar",		
-  "searchable": 1,
-  "changeable": 0,
+  "api": "csp_Duopan",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598",	
+  "filterable": 1,
   "ext": {
-           "siteUrl": "http://milvdou.fun/"
-         }
+          "site_urls": [
+          "http://www.54271.fun/",
+          "https://www.milvdou.fun",
+          "http://www.54271.fun/",
+          "https://www.mucpan.cc/",
+          "https://mucpan.cc/",
+          "http://milvdou.fun"
+        ],
+        "url_key": "UC",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 400,
+          "threads": 12
+        }
+      }
 },	  
 {
   "key": "阿里合集",
