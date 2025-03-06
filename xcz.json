@@ -1124,21 +1124,15 @@
   "changeable": 0
 },
 {
-  "key": "夸克闪电弹幕",
+  "key": "闪电",
   "name": "⚡️闪电4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
+  "jar": "https://xcz.funly.us/qh.jar",
   "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
+  "changeable": 0,
   "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "http://1.95.79.193",
-           "danmu": true
+            "siteUrl": "http://1.95.79.193/"
          }
 },	  
 {
