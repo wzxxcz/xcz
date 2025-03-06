@@ -1664,11 +1664,16 @@
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/优酷弹幕.js"
 },
 {
-  "key": "芒果视频",
+  "key": "芒果",
   "name": "🥭芒果(官)",
   "type": 3,
-  "api": "https://gitee.com/wzbdyr/fy/raw/main/JS/drpy2.min.js",
-  "ext": "https://gitee.com/wzbdyr/fy/raw/main/JS/芒果视频.js"
+  "api": "http://38.165.20.168/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "changeable": 0,
+  "ext": "http://38.165.20.168/js/芒果.js"
 },	  
 {
   "key": "搜狗",
