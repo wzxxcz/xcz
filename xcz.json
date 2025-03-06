@@ -706,6 +706,34 @@
   "timeout": 30
 },
 {
+  "key": "UC",
+  "name": "💌MIUC4K弹幕",
+  "type": 3,
+  "api": "csp_UuSs",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "jar": "https://xcz.funly.us/qh2.jar",
+  "ext": {
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto"
+         }
+},
+{
+  "key": "抠搜",
+  "name": "🍄柑橘4K",
+  "type": 3,
+  "api": "csp_KkSs",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "jar": "https://xcz.funly.us/qh2.jar",
+  "ext": {
+          "Cloud-drive": "tvfan/Cloud-drive.txt",
+          "from": "4k|auto"
+         }
+},	  
+{
   "key": "米搜",
   "name": "🌾米搜4K4K",
   "type": 3,
@@ -764,23 +792,7 @@
   "name": "🍥多多弹幕4K弹幕",
   "type": 3,
   "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "site": "https://tv.yydsys.cc",
-           "danmu": true
-         },
-  "timeout": 25
-},
-{
-  "key": "多多",
-  "name": "多多 | 4K",
-  "type": 3,
-  "api": "csp_Wobg",
+  "jar": "https://xcz.funly.us/qh.jar",	
   "searchable": 1,
   "changeable": 0,
   "ext": {
