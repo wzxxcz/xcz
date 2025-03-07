@@ -8009,7 +8009,18 @@
   "filterable": 1,
   "order_num":142,
   "ext":"https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/js/我的哔哩.js?type=url&params=https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/Bilibili/球类合集.json"
-},	   
+},
+{
+  "key": "球星",
+  "name": "⚽️球星合集",
+  "type": 3,
+  "api": "https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/js/drpy2.min.js",
+  "searchable":0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "order_num":142,
+  "ext":"https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/js/我的哔哩.js?type=url&params=https://jsdelivr.pai233.top/gh/ouhaibo1980/tvbox@master/Bilibili/球星合集.json"
+},  	  
 {
   "key": "虎牙直播js",
   "name": "🐯虎牙直播",
