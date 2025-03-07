@@ -8122,22 +8122,11 @@
       }
     },
     {
-      "name": "小橙子皮皮虾",
-      "type": "1",
-      "url": "http://jiexi.52ppx.top/lxjson.php?url=",
-      "ext": {
-        "flag": [
-          "PPXLG",
-          "皮皮虾4K"
-        ]
-      }
-    },
-    {
       "name":"小橙子解析",
       "type":"1",
       "url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-    },  
+    },
     {
       "name":"-关注小橙子-",
       "type":1,
@@ -8163,12 +8152,39 @@
       "type":0,
       "url":"https://bfq.cfwlgzs.cn/player?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}
-    },  
+    },
     {
       "name":"小橙子线路2",
       "type":0,
       "url":"http://www.ckplayer.vip/jiexi/?url=",
       "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
+    },
+    {
+      "name": "-云析-",
+      "type":0,
+      "url":"https://jx.yparse.com/index.php?url=",
+      "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
+    },
+    {
+      "name": "-m3u8TV-",
+      "type":0,
+      "url":"https://jx.m3u8.tv/jiexi/?url=",
+      "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}
+    }, 
+    {
+      "name":"-关注小橙子1-",
+      "type":0,
+      "url":"https://cdn.zyc888.top/?url="
+    },
+    {
+      "name":"蚂蚁天下",
+      "type":0,
+      "url":"https://jx.yangtu.top?url="
+    },
+    {
+      "name": "-红狐-",
+      "type": 0,
+      "url": "https://player.mrgaocloud.com/player/?url="
     },
     {
       "name":"WZXWKX",
@@ -8214,12 +8230,6 @@
       }
     },
     {
-      "name": "-云析-",
-      "type":0,
-      "url":"https://jx.yparse.com/index.php?url=",
-      "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}
-    },
-    {
       "name": "-云析1-",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url="
@@ -8241,22 +8251,6 @@
           "referer": "https://jiejie.uk/"
         }
       }
-    },
-    {
-      "name":"-关注小橙子1-",
-      "type":0,
-      "url":"https://cdn.zyc888.top/?url="
-    },
-    {
-      "name":"蚂蚁天下",
-      "type":0,
-      "url":"https://jx.yangtu.top?url="
-    },
-    {
-      "name": "-m3u8TV-",
-      "type":0,
-      "url":"https://jx.m3u8.tv/jiexi/?url=",
-      "ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://jiejie.uk/"}}
     },
     {
       "name": "-m3u8TV1-",
@@ -8602,11 +8596,6 @@
       "name": "-听乐-",
       "type": 0,
       "url": "https://jx.dj6u.com/?url="
-    },
-    {
-      "name": "-红狐-",
-      "type": 0,
-      "url": "https://player.mrgaocloud.com/player/?url="
     },
     {
       "name": "🍊小橙子主解a",
@@ -12093,7 +12082,7 @@
     }
   ],
 
-  "hosts": [
+"hosts": [
         "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
@@ -12101,7 +12090,7 @@
         "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
     ],
 
-  "flags":
+"flags":
 	["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 "rules":[
  {"name":"暴风","hosts":["bfzy","bfbfvip","bfengbf"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts"]},
@@ -12163,6 +12152,7 @@
 		{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 		{"category":4,"name":"mediacodec-hevc","value":"1"},
 		{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+
 
 
   "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
