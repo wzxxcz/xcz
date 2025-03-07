@@ -467,17 +467,6 @@
   "jar":"https://alicliimg.clewm.net/342/790/68790342/174084546863895ce7ac32cdd3890fd73f7d925a4f3031740845466.jpg;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95"
 },	  
 {
-  "key":"配置中心",
-  "name":"🍊配置中心",
-  "type":3,
-  "api":"csp_Config",
-  "searchable":0,
-  "changeable":0,
-  "indexs":0,
-  "style":{"type":"rect","ratio":1.597},
-  "jar":"https://alicliimg.clewm.net/342/790/68790342/174084546863895ce7ac32cdd3890fd73f7d925a4f3031740845466.jpg;md5;cfa2ce70bab7bf2eb1f3de8bf428ee95"	
-},	  
-{
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
   "type": 3,
