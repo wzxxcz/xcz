@@ -2851,14 +2851,14 @@
   "ext":"http://www.dyxz2.com/"
 },
 {
-  "key": "永夜",
-  "name": "💡永夜影视",
-  "type": 3,
-  "api": "csp_Muou",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",	
-  "playerType": 2,
-  "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
-},
+  "key":"永夜",
+  "name":"💡永夜影视",
+  "type":3,
+  "api":"csp_QJMuou",
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;e3a80bafd685dc782bf2a19d1a1cf22a",	
+  "playerType":2,
+  "ext":"caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
+},	  
 {
   "key": "剧评",
   "name": "💡剧评纯净",
