@@ -7789,7 +7789,7 @@
   "name": "🍼曼波动漫",
   "type": 3,
   "api": "csp_AppGetApp",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+  "jar": "https://xcz.funly.us/PizazzGY.php",
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 0,
@@ -7800,14 +7800,14 @@
   "name": "🍡哆啦动漫",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+  "jar": "https://xcz.funly.us/PizazzGY.php",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "style": {
              "type": "list"
            },
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
+  "ext": "https://xcz.funly.us/moyu.php?file=哆啦"
 },	  
 {
   "key": "去看吧",
@@ -7872,7 +7872,7 @@
   "name": "🦛河马短剧",
   "type": 3,
   "api": "csp_AppHMDJ",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+  "jar": "https://xcz.funly.us/PizazzGY.php",
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 0,
@@ -7890,8 +7890,8 @@
   "name": "🍇剧网短剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=短剧网"
+  "jar": "https://xcz.funly.us/PizazzGY.php",
+  "ext": "https://xcz.funly.us/moyu.php?file=短剧网"
 },	  
 {
   "key": "短剧屋",
