@@ -7861,25 +7861,6 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739703191057/0126.jar;md5;f3110f8ad96233627b3e6870cfdbd598"
 },	  
 {
-  "key": "短剧网",
-  "name": "🍇剧网短剧",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/PizazzGY.php",
-  "ext": "https://xcz.funly.us/moyu.php?file=短剧网"
-},	  
-{
-  "key": "短剧屋",
-  "name": "🍇剧屋短剧",
-  "type": 3,
-  "api": "csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gitee.com/wzbdyr/omg/raw/main/XYQHiker/短剧屋.json"
-},
-{
   "key": "吉吉短剧",
   "name": "🐒吉吉短剧",
   "type": 3,
