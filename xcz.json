@@ -1732,17 +1732,6 @@
   "filterable": 1
 },
 {
-  "key": "csp_appys_影盒",
-  "name": "🍊影探4K",
-  "type": 3,
-  "api": "csp_AppYsV2",
-  "jar": "https://xcz.funly.us/wdksy.jar",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "http://cms-vip.lyyytv.cn/api.php/app/"
-},	  
-{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
   "type": 3,
