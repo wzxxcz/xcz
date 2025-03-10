@@ -2785,18 +2785,13 @@
   "filterable": 1
 },	  
 {
-  "key": "天天弹幕",
-  "name": "⛅️天天蓝光弹幕",
+  "key": "天天",
+  "name": "🔥天天1080P",
   "type": 3,
-  "api": "csp_TianTian",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "danmu": true
-         }
-},
+  "api": "csp_AppRJGuard",
+  "jar": "https://700sjro44343.vicp.fun/vip/jar/xiaomi.php",	
+  "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+},	  
 {
   "key":"天天弹幕",
   "name":"💘天天弹幕",
