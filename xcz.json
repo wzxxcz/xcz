@@ -538,13 +538,16 @@
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
   "api": "csp_Wogg",
-  "jar": "https://xcz.funly.us/qh.jar",	
+  "jar": "https://xcz.funly.us/qh.jar",		
   "searchable": 1,
-  "changeable": 0,
+  "quickSearch": 1,
+  "filterable": 1,
   "ext": {
-           "commonConfig": "./lib/peizhi.json",
-           "filter": "./lib/wogg.json",
-           "siteUrl": "http://wogg.xxooo.cf/"
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "wogg": true,
+           "danmu": true
          }
 },	  
 {
