@@ -743,10 +743,11 @@
   "name": "🍄柑橘4K",
   "type": 3,
   "api": "csp_KkSs",
+  "jar": "https://xcz.funly.us/qh2.jar",	
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0,
-  "jar": "https://xcz.funly.us/qh2.jar",
+  "jar": "./jar/柒豪2.jar;md5;c4745a1b57105d124cf1b429eba5d4bf",
   "ext": {
            "Cloud-drive": "tvfan/Cloud-drive.txt",
            "from": "4k|auto"
