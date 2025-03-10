@@ -460,7 +460,21 @@
             "type": "rect",
             "ratio": 1.618
            }
-},	  
+},
+{
+  "key": "影视配置",
+  "name": "🍊其他配置",
+  "type": 3,
+  "api": "csp_Wexconfig",
+  "searchable": 0,
+  "changeable": 0,
+  "indexs": 0,
+  "style": {
+            "type": "rect",
+            "ratio": 1.597
+           },
+  "jar": "https://xcz.funly.us/qh3.jar"
+},
 {
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
