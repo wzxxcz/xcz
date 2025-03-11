@@ -439,13 +439,11 @@
     
   "sites":[
 {
-  "key": "豆豆",
+  "key": "豆瓣",
   "name": "🍊小橙子影视欢迎您！",
   "type": 3,
-  "api": "csp_DouDou",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0
+  "api": "csp_Douban",
+  "searchable": 0
 },
 {
   "key": "配置中心",
