@@ -1964,12 +1964,11 @@
          }
 },
 {
-  "key": "流光影视",
+  "key": "csp_Lgyy",
   "name": "⏳️️流光1080P",
   "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar",
-  "ext": "https://gitee.com/wzbdyr/fy/raw/main/XBPQ/流光影视.json"
+  "api": "csp_LgyyGuard",
+  "jar": "https://gitee.com/wzbdyr/fy/raw/main/spider.jar"	
 },	  
 {
   "key": "洽洽影视",
