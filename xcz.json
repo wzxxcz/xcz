@@ -231,7 +231,7 @@
 	     {
 	        "name": "小橙子柒豪",
                 "type":0,
- 	        "url": "http://38.165.20.168//js/直播.m3u",
+ 	        "url": "http://38.165.20.168/js/直播.m3u",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -727,7 +727,7 @@
   "name": "🍊百家4K",
   "type": 3,
   "api": "csp_百家",
-  "jar": "https://xcz.funly.us/qh.jar",	
+  "jar": "https://xcz.funly.us/qh.jar",		
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
