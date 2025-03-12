@@ -1,5 +1,5 @@
 {
-  "spider": "./wzx.jar",
+  "spider": "./xcz.jar",
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "logo": "http://php.540734621.xyz/logo/logo.php",
   "lives": [
@@ -34,6 +34,15 @@
 	        "name": "小橙子体育频道",
                 "type":0,
  	        "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=455811267029816",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
+	        "name": "小橙子伟来体育",
+                "type":0,
+ 	        "url": "https://gitee.com/jin-xueling/lingl/raw/master/hu.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -442,8 +451,10 @@
   "key": "豆豆",
   "name": "🍊小橙子影视欢迎您！",
   "type": 3,
-  "api": "csp_Douban",
-  "searchable": 0
+  "api": "csp_DouDou",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0
 },
 {
   "key": "配置中心",
