@@ -795,19 +795,14 @@
          }
 },
 {
-  "key": "米搜",
+  "key": "csp_MiSou",
   "name": "🌾米搜4K4K",
   "type": 3,
-  "api": "csp_MIPanSo",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "jar": "https://xcz.funly.us/qh2.jar",
-  "ext": {
-           "Cloud-drive": "TVBox/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},	  
+  "changeable": "0",
+  "api": "csp_MiSouGuard",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",
+  "ext": ""
+},
 {
   "key": "UC",
   "name": "💌MIUC4K弹幕",
