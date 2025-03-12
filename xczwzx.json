@@ -899,18 +899,8 @@
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
 },
 {
-  "key":"360",
-  "name":"🍊360(官)",
-  "type":3,
-  "api":"csp_SP33",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1
-},
-{
   "key": "drpy_js_360影视",
-  "name": "🍊360(官备)",
+  "name":"🍊360(官)",
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
