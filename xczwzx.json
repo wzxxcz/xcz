@@ -612,16 +612,6 @@
          }
 },
 {
-  "key": "csp_Wogg",
-  "name": "🧸玩偶4K弹幕",
-  "type": 3,
-  "api": "csp_WoggGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",		
-  "changeable": "0",
-  "filterable": 1,
-  "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etYDN7y7HMBVx1lySKZMORlcuy1+QT6/78n70h0VE/aynmB7qR812bPh9IctEX1Ps5UNq6pz9lHJJ1Xswkl1pdKUNhW2GeDuw/9oMUymKtN9kmIud7WEkjTn+4UP1eQ+h81m46INuB1oOPvQeSETQWcmVhbczAnXcEmK7u4bVxZ5oKKZWjoc6mDscqXOk5nbOUX52zFPanQSC/17o2QbbQLaJxb1pZElZk98+QyUvepv9LCexfurB9htmgG0UGHMk6d3o8iOPb0WWKJ40YYZVPVpXfosqsA/sBZbsfJssj3T6FFu6ZdXWbQWpP1Z8oaOAApeC/OKWsDirH7A5bOpjz4o="
-},	  
-{
   "key": "趣盘",
   "name": "🤓趣盘搜索弹幕",
   "type": 3,
