@@ -563,6 +563,22 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "danmu": true
          }
+},
+{
+  "key": "欧歌uc",
+  "name": "🐲小橙子u汐弹幕",
+  "type": 3,
+  "api": "csp_oguc",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;d2ac87f70882f8f18f01dc9d8b616bde",
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "danmu": true
+         }
 },	  
 {
   "key": "欧歌夸快",
