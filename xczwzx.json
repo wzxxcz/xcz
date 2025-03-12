@@ -776,7 +776,24 @@
            "Cloud-drive": "tvfan/Cloud-drive.txt",
            "from": "4k|auto"
          }
-},	  	  
+},
+{
+  "key": "六趣",
+  "name": "🐲六趣4K弹幕",
+  "type": 3,
+  "api": "csp_六趣",
+  "jar": "https://xcz.funly.us/qh.jar",		
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "danmu": true
+         }
+},	  
 {
   "key": "移动",
   "name": "🍊移动4K",
