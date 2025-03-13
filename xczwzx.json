@@ -1411,25 +1411,6 @@
         }
 },
 {
-  "key": "csp_mgtva",
-  "name": "🎃木瓜影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/sx.jar",
-  "ext":{
-	  "请求头": "User-Agent$MOBILE_UA",
-          "编码": "UTF-8",
-          "分类url": "http://www.muguatv1.com/s/{cateId}{if(catePg>1)}/page/{catePg}{endif}.html",
-          "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
-          // 筛选参数定义
-          "筛选": "地区$area#类型$class",
-          "线路数组": "hl-tabs-btnhl-slide-swiper&&</a >",
-          "线路标题": "nbsp;&&</a >",
-          "线路标题": "🍊小橙子🍊祝您观影愉快🍊",
-          "简介": "🍊小橙子提醒您广告勿信,谨防诈骗🍊"
-       }
-},
-{
   "key": "西瓜在线影院",
   "name": "🍉西瓜影院",
   "type": 3,
