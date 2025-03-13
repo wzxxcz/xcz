@@ -930,6 +930,25 @@
   "timeout": 10
 },
 {
+  "key": "csp_mgtva",
+  "name": "🎃木瓜影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/sx.jar",
+  "ext":{
+	  "请求头": "User-Agent$MOBILE_UA",
+          "编码": "UTF-8",
+          "分类url": "http://www.muguatv1.com/s/{cateId}{if(catePg>1)}/page/{catePg}{endif}.html",
+          "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
+          // 筛选参数定义
+          "筛选": "地区$area#类型$class",
+          "线路数组": "hl-tabs-btnhl-slide-swiper&&</a >",
+          "线路标题": "nbsp;&&</a >",
+          "线路标题": "🍁龙少爷🍁祝您观影愉快🍁",
+          "简介": "🍊小橙子提醒您广告勿信,谨防诈骗🍊"
+       }
+},	  
+{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
   "type": 3,
@@ -983,6 +1002,20 @@
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+},
+{
+  "key": "天空影院",
+  "name": "🍊天空影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xyqxbpq.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$19#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16",
+                "分类url": "https://www.30sky.cc/vodtype/{cateId}-{catePg}.html",
+                "简介": "🍊小橙子提醒您广告勿信,谨防诈骗🍊"
+        }
 },	  
 {
   "key": "Dm84",
