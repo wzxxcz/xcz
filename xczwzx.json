@@ -623,23 +623,6 @@
          }
 },
 {
-  "key": "玩偶备用弹幕",
-  "name":"🐲小橙子玩偶",
-  "type": 3,
-  "api": "csp_Wogg",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "site": "https://wogg.xxooo.cf",
-           "danmu": true
-      }
-},	  
-{
   "key": "闪电",
   "name": "⚡️闪电4K弹幕",
   "type": 3,
