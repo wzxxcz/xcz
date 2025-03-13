@@ -930,15 +930,6 @@
   "timeout": 10
 },
 {
-  "key":"360影视",
-  "name": "🧭360采集",
-  "type":1,
-  "api":"https://360zy.com/api.php/provide/vod",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},	  
-{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
   "type": 3,
