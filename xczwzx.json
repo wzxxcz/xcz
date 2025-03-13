@@ -781,7 +781,7 @@
   "name": "🍚小米4K",
   "type": 3,
   "api": "csp_小米",
-  "jar": "https://xcz.funly.us/qh.jar",	
+  "jar": "https://xcz.funly.us/qh.jar",		
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -791,7 +791,7 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "danmu": true
          }
-},
+},	  
 {
   "key": "米搜",
   "name": "🌾米搜4K4K",
