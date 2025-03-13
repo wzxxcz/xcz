@@ -640,24 +640,6 @@
       }
 },
 {
-  "key": "玩偶哥哥",
-  "name": "🐲小橙子玩偶网盘",
-  "type": 3,
-  "api": "csp_Wogg",
-  "jar":"https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx20250105.jar",	
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-           "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt",
-           "wogg": true,
-           "danmu": true
-         },
-  "timeout": 30
-},	  
-{
   "key": "闪电",
   "name": "⚡️闪电4K弹幕",
   "type": 3,
