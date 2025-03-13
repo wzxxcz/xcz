@@ -638,6 +638,23 @@
            "site": "https://wogg.xxooo.cf",
            "danmu": true
       }
+},
+{
+  "key": "玩偶弹幕",
+  "name": "🍹可欣玩偶",
+  "type": 3,
+  "api": "csp_Wogg",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "wogg": true,
+           "danmu": true
+         }
 },	  
 {
   "key": "闪电",
