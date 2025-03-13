@@ -839,24 +839,6 @@
          }
 },
 {
-  "key":"玩弹幕1",
-  "name":"❤玩哥弹幕",
-  "type":3,
-  "api":"csp_Wobg",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ff701d2842bedbe68068c623dee59819",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":{
-	  "token":"http://127.0.0.1:9978/file/TV/token.txt",
-	  "cookie":"http://127.0.0.1:9978/file/TV/.quark",
-	  "uc_cookie":"http://127.0.0.1:9978/file/TV/.uc",
-	  "site":"http://woog.nxog.asia",
-	  "danmu": true
-        }
-},	  
-{
   "key": "移动",
   "name": "🍊移动4K",
   "type": 3,
