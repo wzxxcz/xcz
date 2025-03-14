@@ -1423,6 +1423,22 @@
             "分类url": "https://www.a6club.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
             "简介": "🍊小橙子提醒您广告勿信,谨防诈骗🍊"
         }
+},
+{
+  "key": "csp_光棍影视",
+  "name": "🍊光棍影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "filterable": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "jar": "https://xcz.funly.us/xyqxbpq.jar",
+  "ext":{
+	  "请求头": "User-Agent$MOBILE_UA",
+         "编码": "UTF-8",
+         "分类url": "https://www.ggdy.net/class/{cateId}{if(catePg>1)}-{catePg}{endif}.html#https://www.ggdy.net/list/1-{cateId}-{type}{if(page>1)}-{page}{endif}.html#https://www.ggdy.net/list/1-{cateId}-{type}-{area}{if(page>1)}-{page}{endif}.html#https://www.ggdy.net/list/1-{cateId}-{type}-{area}-{year}{if(page>1)}-{page}{endif}.html",
+         "分类":"电影$1#连续剧$2#综艺$3#动漫$4"
+        }
 },	  
 {
   "key": "Dm84",
@@ -1930,6 +1946,16 @@
       "type": 0,
       "url": "https://player.mrgaocloud.com/player/?url="
     },
+    {
+      "name": "小橙子yemu",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    }, 
     {
       "name": "小橙子jx",
       "type": 0,
