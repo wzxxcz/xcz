@@ -820,20 +820,6 @@
         }
 },	  
 {
-  "key": "UC",
-  "name": "💌MIUC4K弹幕",
-  "type": 3,
-  "api": "csp_UuSs",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "jar": "https://xcz.funly.us/qh2.jar",
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},
-{
   "key": "抠搜",
   "name": "🍄柑橘4K",
   "type": 3,
@@ -905,10 +891,10 @@
   "name": "🍊雷鲸4K‍",
   "type": 3,
   "api": "csp_Wextyso",
-  "jar": "https://xcz.funly.us/qh3.jar",
+  "jar": "https://xcz.funly.us/qh2.jar",
   "searchable": 1,
   "changeable": 1
-},
+},	  
 {
   "key": "Lib",
   "name": "🌟立播秒播",
