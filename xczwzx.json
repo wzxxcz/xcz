@@ -1335,7 +1335,15 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",	
   "type": 3,
   "playerType": 2
-},	  	  	  
+},
+{
+  "key": "莉莉",
+  "name": "🌰莉莉1080P",
+  "type": 3,
+  "api": "csp_AppGetGuard",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741939517828/0314.jar;md5;3cd52899a2d7be9a2699ad88ba7e05f5",
+  "ext": "sHR2rlsfjI4L3t4RXQMknxJtF/Rs4D/70oW+gRg0xr7N1Upd/rmFB/tNPdwo9VnqtAIgc1bl0R9DD+8OUlBjzccXhVUEcX/QykwwCHTT6hl7uWNpVj5iyLdLaA/HmFqJ4g/jRau3vEd9oPkIdRFl3cXzbdxCjuhvAneD9Z+FEmhkhZJCaxIF0ljdvMaJk+azmYylRspoKik3x5xQtNXvCfiqPjYONdZGw1tP+t693VKZHplfqYsZtg6H8exNiPr1"
+},
 {
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
