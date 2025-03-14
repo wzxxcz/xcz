@@ -60,7 +60,7 @@
 	     {
 	        "name": "小橙子肥羊",
                 "type":0,
- 	        "url": "http://47.120.41.246:8899/zb.txt",
+ 	        "url": "http://nas.suntao.online:35455/tv.m3u",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
