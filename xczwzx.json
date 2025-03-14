@@ -456,18 +456,18 @@
 },
 {
   "key": "配置中心",
-  "name":"🍊配置中心",
+  "name": "🍊配置中心",
   "type": 3,
   "api": "csp_Config",
-  "jar":"https://xcz.funly.us/qh.jar",
+  "jar":"https://xcz.funly.us/qh.jar",	
   "searchable": 0,
   "changeable": 0,
   "indexs": 0,
   "style": {
-             "type": "rect",
-             "ratio": 1.618
+            "type": "rect",
+            "ratio": 1.618
            }
-},
+},	  
 {
   "key": "影视配置",
   "name": "🍊其他配置",
@@ -477,11 +477,11 @@
   "changeable": 0,
   "indexs": 0,
   "style": {
-            "type": "rect",
-            "ratio": 1.597
+             "type": "rect",
+             "ratio": 1.597
            },
-  "jar": "https://xcz.funly.us/qh3.jar"
-},
+  "jar": "https://xcz.funly.us/qh2.jar"
+},	  
 {
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
