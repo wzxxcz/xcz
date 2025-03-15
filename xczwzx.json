@@ -488,7 +488,7 @@
              "type": "rect",
              "ratio": 1.597
            },
-  "jar": "https://xcz.funly.us/wzx2.jar"
+  "jar": "./wzx2.jar"
 },	  
 {
   "key": "hipy_js_好趣网",
