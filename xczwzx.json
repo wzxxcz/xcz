@@ -840,63 +840,6 @@
            }
 },
 {
-  "key": "YiSo",
-  "name": "😹易搜阿狸",
-  "type": 3,
-  "api": "csp_YiSoGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943963161/f0314.txt;md5;8ad692765d808a238dce3ed344c24116",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},
-{
-  "key": "夸搜",
-  "name": "😻夸搜夸父",
-  "type": 3,
-  "api": "csp_PanSearchGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943963161/f0314.txt;md5;8ad692765d808a238dce3ed344c24116",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "pan": "quark",
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},
-{
-  "key": "UC",
-  "name": "🌈优汐搜搜",
-  "type": 3,
-  "api": "csp_UuSsGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943963161/f0314.txt;md5;8ad692765d808a238dce3ed344c24116",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},
-{
-  "key": "抠搜",
-  "name": "🍄抠抠搜搜",
-  "type": 3,
-  "api": "csp_KkSsGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741943963161/f0314.txt;md5;8ad692765d808a238dce3ed344c24116",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "tvfan/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},
-{
   "key": "移动",
   "name": "🍊移动4K",
   "type": 3,
