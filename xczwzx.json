@@ -51,7 +51,7 @@
 	     {
 	        "name": "小橙子体育1",
                 "type":0,
- 	        "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+ 	        "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
