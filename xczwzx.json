@@ -746,7 +746,7 @@
   "key": "木偶",
   "name": "🍁木偶资源4K弹幕",
   "type": 3,
-  "api": "csp_木偶",	
+  "api": "csp_木偶",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -756,7 +756,7 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "danmu": true
          }
-},
+},	  
 {
   "key": "多多",
   "name": "🍥多多弹幕4K弹幕",
