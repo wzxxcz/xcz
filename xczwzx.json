@@ -1598,6 +1598,26 @@
       }
 },
 {
+       "key":"🍉蓝光4k网",
+       "name":"🍉蓝光4k网",
+       "type": 3,
+       "api": "csp_XBPQ",
+       "jar": "https://xcz.funly.us/xyqxbpq.jar",
+       "ext":{ 
+       "请求头": "User-Agent$MOBILE_UA",
+       "编码": "UTF-8",
+       "主页": "https://www.xxlouti.com/",
+       "分类url": "https://www.xxlouti.com/type/{cateId}-{catePg}.html",
+       "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#",
+    // 筛选参数定义
+       "筛选": "类型$class",
+       "线路数组": "hl-tabs-btnhl-slide-swiper&&</a >",
+       "线路标题": "nbsp;&&</a >",
+       "线路标题": "🍊小橙子🍊祝您观影愉快🍊",
+       "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+      }
+},	  
+{
   "key": "Dm84",
   "name": "🚌巴士动漫",
   "type": 3,
