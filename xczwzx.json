@@ -1363,6 +1363,25 @@
   "ext": "sHR2rlsfjI4L3t4RXQMknxJtF/Rs4D/70oW+gRg0xr7N1Upd/rmFB/tNPdwo9VnqtAIgc1bl0R9DD+8OUlBjzccXhVUEcX/QykwwCHTT6hl7uWNpVj5iyLdLaA/HmFqJ4g/jRau3vEd9oPkIdRFl3cXzbdxCjuhvAneD9Z+FEmhkhZJCaxIF0ljdvMaJk+azmYylRspoKik3x5xQtNXvCfiqPjYONdZGw1tP+t693VKZHplfqYsZtg6H8exNiPr1"
 },
 {
+  "key":"csp_Kuaikan",
+  "name": "👀快看影院",
+  "type":3,
+  "api":"csp_Kuaikan",
+  "ua": "okhttp/3.15",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key": "快看影视",
+  "name": "👀快看影视",
+  "type": 3,
+  "api": "csp_Kuaikan",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},	  
+{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
   "type": 3,
