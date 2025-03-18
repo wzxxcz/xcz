@@ -754,16 +754,16 @@
   "key": "蜡笔",
   "name": "👠蜡笔在线",
   "type": 3,
-  "api": "csp_蜡笔",	
+  "api": "csp_蜡笔",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
   "ext": {
-          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-          "danmu": true
-        }
-},
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "danmu": true
+         }
+},	  
 {
   "key": "搜索",
   "name":"❤搜索弹幕",
