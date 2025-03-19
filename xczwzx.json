@@ -1840,19 +1840,6 @@
   "changeable": 0
 },
 {
-  "key": "csp_LaoBaiBook",
-  "name": "📚听书BOOK",
-  "type": 3,
-  "api": "csp_LaoBaiBook",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959",
-  "playerType": 2,
-  "searchable": 1,
-  "style": {
-             "type": "rect",
-             "ratio": 1.333
-           }
-},
-{
   "key": "Aid",
   "name": "🚑急救教学",
   "type": 3,
