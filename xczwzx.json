@@ -1840,6 +1840,14 @@
   "changeable": 0
 },
 {
+  "key": "听书",
+  "name": "📚听书BOOK",
+  "type": 3,
+  "api": "csp_TingBookGuard",
+  "searchable": 1,
+  "ext": "http://www.6yueting.com"
+},	  
+{
   "key": "Aid",
   "name": "🚑急救教学",
   "type": 3,
