@@ -832,6 +832,21 @@
          }
 },
 {
+  "key": "大玩",
+  "name": "🍊大玩4K",
+  "type": 3,
+  "api": "csp_大玩",
+  "quickSearch": 1,
+  "changeable": 1,
+  "filterable": 1,
+  "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "danmu": true
+         }
+},
+{
   "key": "至臻",
   "name": "🏆️至臻4K4K",
   "type": 3,
