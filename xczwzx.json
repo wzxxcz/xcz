@@ -1667,6 +1667,20 @@
       }
 },
 {
+  "key": "三米",
+  "name": "🍊三米影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xyqxbpq.jar",
+  "ext": {
+           "请求头": "User-Agent$MOBILE_UA",
+           "编码": "UTF-8",
+           "分类": "电影$movie#电视剧$drama#综艺$tvshow#动漫$comic#",
+           "分类url": "http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html",
+           "简介": "🍊小橙子🍊广告勿信，谨防诈骗🍊"
+         }
+},    
+{
   "key": "Dm84",
   "name": "🚌巴士动漫",
   "type": 3,
