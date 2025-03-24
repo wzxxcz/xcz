@@ -31,7 +31,7 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-	        "name": "AKTV备",
+	        "name": "综合订阅",
                 "type":0,
  	        "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=455811267024605",
                 "ua": "okhttp/3.15",
