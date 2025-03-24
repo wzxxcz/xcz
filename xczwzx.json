@@ -1667,17 +1667,17 @@
       }
 },
 {
-  "key": "奇奇影视",
-  "name": "🍊奇奇影视",
+  "key": "大师兄影视",
+  "name": "🍊大师兄影视",
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "https://xcz.funly.us/xyqxbpq.jar",
   "ext": {
-          "请求头": "User-Agent$MOBILE_UA",
-          "编码": "UTF-8",
-          "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#",
-          "分类url": "https://vip.qiqivoip.com/list/{cateId}_____{class}_{catePg}.html",
-          "简介": "🍊小橙子🍊广告勿信，谨防诈骗🍊"
+           "请求头": "User-Agent$MOBILE_UA",
+           "编码": "UTF-8",
+           "分类url": "https://www.ruiding3bu.com/ruvodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+           "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#豆瓣电影Top250$42",
+           "简介": "🍊小橙子🍊广告勿信，谨防诈骗🍊"
          }
 },
 {
