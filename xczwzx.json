@@ -67,7 +67,7 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-	        "name": "小橙子体育频道备3",
+	        "name": "体育订阅",
                 "type":0,
  	        "url": " https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=455811267024605",
                 "ua": "okhttp/3.15",
