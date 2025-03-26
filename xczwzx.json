@@ -841,7 +841,7 @@
   "key": "至臻",
   "name": "🏆️至臻4K4K",
   "type": 3,
-  "api": "csp_至臻",		
+  "api": "csp_至臻",
   "quickSearch": 1,
   "changeable": 1,
   "filterable": 1,
@@ -851,7 +851,7 @@
            "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
            "danmu": true
          }
-},	  
+},
 {
   "key": "小米",
   "name": "🍚小米4K",
