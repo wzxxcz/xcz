@@ -1954,7 +1954,7 @@
   "ext": "./lib/戏曲.json"
 },
 {"key": "学堂","name": "🅰️学堂教育","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/学堂教育.json"},
-{"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/少儿合集.json"},
+{"key": "少儿","name": "🅰️少儿合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/少儿合集.json"},
 {"key": "小学课堂","name": "🅰️小学课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/小学课堂.json"},
 {"key": "初中课堂","name": "🅰️初中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/初中课堂.json"},
 {"key": "高中课堂","name": "🅰️高中课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://tv.nxog.top/m/Bilibili/高中课堂.json"},
