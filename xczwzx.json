@@ -899,6 +899,16 @@
            }
 },
 {
+  "key": "csp_Wogg",
+  "name": "🧸玩偶4K弹幕",
+  "type": 3,
+  "api": "csp_WoggGuard",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99",
+  "changeable": "0",
+  "filterable": 1,
+  "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKG7Vsl4t5dOKwL7zEwqKeKC+hOwoqQ0Ccjk/w0d7AxNitxqpuXuwUKEFEp0Y2iAV9kOnPhy0tVHA/iAWPBbW+3qpX+mjT4olDqSTCNwM4jlKSEh7T+9Kzd/c6ODYsOOElZCPkbPU2wMODtMy2eLwzObRLWezUVwTsB+yqoAwknHj2ZHwVNpoDaMDXzelDwflfqX4z8lGYdMdy2cpdl4mf5PVsDuHct1NjAG09cwhzYaB+5iavBavMH1msIipo7esn9YDgsgvxPsIO4LoZpHHW4="
+},
+{
   "key": "云盘",
   "name": "🍊云盘4K",
   "type": 3,
