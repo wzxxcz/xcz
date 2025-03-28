@@ -1603,6 +1603,7 @@
   "name":"🧿狐狸影视",
   "type":3,
   "api":"csp_XBPQ",
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;20b60f2d9fd4d52bb23d2548e72ce0f5",
   "ext":{
 	  "分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
 	  "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
