@@ -2005,6 +2005,17 @@
   "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"
 },
 {
+  "key": "合集",
+  "name": "💋哔哩合集",
+  "type": 3,
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js",
+  "searchable":1,
+  "quickSearch": 0,
+  "filterable": 1,
+  "order_num":142,
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"
+}, 
+{
   "key": "虎牙直播js",
   "name": "🐯虎牙直播",
   "type": 3,
