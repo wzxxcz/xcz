@@ -1599,6 +1599,16 @@
         }
 },
 {
+  "key":"大师兄",
+  "name":"🧿大师影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext":{
+	  "分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"
+        }
+},
+{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
   "type": 3,
