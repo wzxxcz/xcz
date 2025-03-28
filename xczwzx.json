@@ -1453,7 +1453,16 @@
   "api": "csp_AppGetGuard",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335",	
   "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYglPoC8UNLIX0B4DnEefWcAydxKYH8rxXY/n5Z1HeXH9exVQ6o+uIi6FAmTcCFBKVEhbMLsvvqM3GIa16E8qYderB0nB+AiqMMXAUC0sfjCrt7OHidpXhNZqkTjmVqiwvC3NjlI8h65kp6Qu58FpriLCfdQOs2uyQq6VaJAApvA2cYX2V5fMu4UtLCjorwdlJc"
-},	  
+},
+{
+  "key":"雨滴",
+  "name":"💡雨滴影视",
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;20b60f2d9fd4d52bb23d2548e72ce0f5",
+  "playerType":1,
+  "ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+},
 {
   "key": "优秀",
   "name": "🎮优秀1080P",
