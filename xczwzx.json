@@ -708,6 +708,22 @@
       }
 },
 {
+  "key":"csp_uc",
+  "name":"🐲小橙子uc弹幕",
+  "type":3,
+  "changeable":"0",
+  "api":"csp_DuopanGuard",
+  "filterable":1,
+  "jar":"https://alicliimg.clewm.net/342/790/68790342/1743094395833663d56efa2f626b2b357f881ac26d1021743094392.jpg;md5;6411fd495912c546a91ea10c03a76e99",
+  "ext":{
+	  "site_urls":["https://wooguc.nxog.eu.org","https://oguc.xn--dkw.xn--6qq986b3xl"],
+	  "url_key":"uc","token":"",	
+	  "ucCookie":"",	
+	  "quarkCookie":"",
+	  "threadinfo":{"chunksize":400,"threads":12	}
+       }
+},
+{
   "key": "闪电",
   "name": "⚡️闪电4K弹幕",
   "type": 3,
