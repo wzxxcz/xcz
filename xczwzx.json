@@ -1926,17 +1926,6 @@
          }
 },
 {
-  "key":"大师兄",
-  "name":"🧿大师影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "ext":{
-	  "分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-	  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"
-        }
-},
-{
   "key": "光棍影院",
   "name": "🍊光棍影院",
   "type": 3,
