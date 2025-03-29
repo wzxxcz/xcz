@@ -725,20 +725,17 @@
       }
 },
 {
-  "key":"csp_uc",
+  "key":"csp_UC",
   "name":"🐲小橙子uc弹幕",
   "type":3,
   "changeable":"0",
   "api":"csp_DuopanGuard",
   "filterable":1,
-  "jar": "https://xcz.funly.us/wzxop.php",
+  "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;f6411fd495912c546a91ea10c03a76e99",
   "ext":{
 	  "site_urls":["https://wooguc.nxog.eu.org","https://oguc.xn--dkw.xn--6qq986b3xl"],
-	  "url_key":"uc","token":"",	
-	  "ucCookie":"",	
-	  "quarkCookie":"",
-	  "threadinfo":{"chunksize":400,"threads":12	}
-       }
+	  "url_key":"UC"
+        }
 },
 {
   "key":"夸克多多弹幕",
