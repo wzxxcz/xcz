@@ -1693,6 +1693,16 @@
   "playerType":2
 },
 {
+  "key":"快看",
+  "name":"💡快看影视",
+  "type":3,
+  "api":"csp_Kuaikan",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
   "type": 3,
