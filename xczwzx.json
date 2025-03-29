@@ -1087,6 +1087,16 @@
   "ext": "https://www.xb6v.com"
 },
 {
+  "key":"电影",
+  "name":"🎃Mp4磁力",
+  "type":3,
+  "api":"csp_Mp4Mov",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "zxzj",
   "name": "🍊在线秒播",
   "type": 3,
