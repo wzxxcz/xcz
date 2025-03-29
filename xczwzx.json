@@ -1511,11 +1511,14 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335"	
 },	  
 {
-  "key": "csp_Lkdy",
+  "key":"来看影视",
   "name": "💐来看1080P",
-  "type": 3,
-  "api": "csp_LkdyGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99"
+  "type":3,
+  "api":"csp_Lkdy",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
 },
 {
   "key": "csp_Xlys",
