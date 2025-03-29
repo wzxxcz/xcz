@@ -1671,6 +1671,18 @@
   "playerType":2
 },
 {
+  "key":"嗨皮影视",
+  "name":"💡嗨皮影视",
+  "type":3,
+  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/PY/嗨皮影视.py",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "changeable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "playerType":2
+},
+{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
   "type": 3,
