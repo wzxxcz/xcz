@@ -1106,14 +1106,15 @@
   "ext": "https://www.zxzjhd.com/"
 },
 {
-  "key":"低端",
+  "key": "低端",
   "name": "⏮️低端外剧",
-  "type":3,
-  "api":"csp_Ddys",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
+  "type": 3,
+  "api": "csp_DdrkGuard",
+  "jar": "https://xcz.funly.us/wzxf.txt",
+  "playerType": "2",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
 },
 {
   "key":"韩小圈",
