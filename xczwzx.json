@@ -2183,15 +2183,13 @@
   "key": "Aid",
   "name": "🚑急救教学",
   "type": 3,
-  "api": "csp_FirstAid",
-  "jar": "https://xcz.funly.us/wzxf.txt",
+  "api": "csp_FirstAidGuard",
+  "jar": "https://xcz.funly.us/wzxm.jar",
   "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0,
   "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
+             "type": "rect",
+             "ratio": 3.8
+           }
 },
 {
   "key": "相声小品",
