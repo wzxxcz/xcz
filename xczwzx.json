@@ -1960,7 +1960,7 @@
   "key": "Dm84",
   "name": "🚌巴士动漫",
   "type": 3,
-  "api": "csp_Dm84",
+  "api": "csp_Dm84Guard",
   "jar": "https://xcz.funly.us/wzxf.jar",
   "searchable": 1,
   "quickSearch": 1,
