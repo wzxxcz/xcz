@@ -769,30 +769,21 @@
   "key": "虎斑",
   "name": "🐅虎斑4K弹幕",
   "type": 3,
-  "api": "csp_虎斑",	
+  "api": "csp_PanWebShare",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
   "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "danmu": true
-         }
+  "ext": "http://38.165.20.168/json/虎斑.json?"
 },
 {
   "key": "蜡笔",
   "name": "👠蜡笔在线",
   "type": 3,
-  "api": "csp_蜡笔",
+  "api": "csp_PanWebShare",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
   "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "danmu": true
-         }
+  "ext": "http://38.165.20.168/json/蜡笔.json?"
 },
 {
   "key":"搜索弹幕",
@@ -829,50 +820,25 @@
   "key": "多多",
   "name": "🍥多多弹幕4K弹幕",
   "type": 3,
-  "api": "csp_多多",
+  "api": "csp_PanWebShare",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
   "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "danmu": true
-         },
-  "timeout": 25
+  "ext": "http://38.165.20.168/json/多多.json?"
 },
 {
   "key": "百家",
   "name": "🍊百家4K",
   "type": 3,
-  "api": "csp_百家",
+  "api": "csp_PanWebShare",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
   "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "danmu": true
-         }
+  "ext": "http://38.165.20.168/json/百家.json?"
 },
 {
   "key": "大玩",
   "name": "🍊大玩4K",
-  "type": 3,
-  "api": "csp_大玩",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "danmu": true
-         }
-},
-{
-  "key": "大玩",
-  "name": "大玩｜4K",
   "type": 3,
   "api": "csp_PanWebShare",
   "searchable": 1,
@@ -1010,6 +976,20 @@
   "jar": "https://xcz.funly.us/wzx2.jar",
   "searchable": 1,
   "changeable": 1
+},
+{
+  "key": "聚搜",
+  "name": "🍊聚搜4K",
+  "type": 3,
+  "api": "csp_PanWebSearch",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "style": {
+             "type": "list",
+             "ratio": 1.433
+           },
+  "ext": "http://38.165.20.168/json/聚搜.json"
 },
 {
   "key": "雷鲸",
