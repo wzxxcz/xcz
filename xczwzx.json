@@ -969,22 +969,6 @@
   "ext": "http://38.165.20.168/js/云盘.js"
 },
 {
-  "key": "移动",
-  "name": "🍊移动4K",
-  "type": 3,
-  "api": "csp_WexYDpanta",
-  "searchable": 1,
-  "changeable": 1
-},
-{
-  "key": "天翼",
-  "name": "🍊天翼4K‍",
-  "type": 3,
-  "api": "csp_Wexleijing",
-  "searchable": 1,
-  "changeable": 1
-},
-{
   "key": "聚搜",
   "name": "🍊聚搜4K",
   "type": 3,
