@@ -993,7 +993,7 @@
 },
 {
   "key": "雷鲸",
-  "name": "雷鲸｜4K",
+  "name": "🍊雷鲸4K",
   "type": 3,
   "api": "csp_PanWebShareCloudLJ",
   "searchable": 1,
@@ -1001,8 +1001,8 @@
   "filterable": 1,
   "changeable": 1,
   "style": {
-              "type": "rect",
-              "ratio": 1.433
+             "type": "rect",
+             "ratio": 1.433
            },
   "ext": "https://xcz.funly.us/雷鲸.json?"
 },
@@ -1016,8 +1016,8 @@
   "filterable": 1,
   "changeable": 1,
   "style": {
-              "type": "rect",
-              "ratio": 1.433
+             "type": "rect",
+             "ratio": 1.433
            },
   "ext": "https://xcz.funly.us/海绵.json?"
 },
@@ -1031,8 +1031,8 @@
   "filterable": 1,
   "changeable": 1,
   "style": {
-              "type": "rect",
-              "ratio": 1.433
+             "type": "rect",
+             "ratio": 1.433
            },
   "ext": "https://xcz.funly.us/pan1.json?"
 },
