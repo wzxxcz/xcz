@@ -753,7 +753,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://xcz.funly.us/闪电.json?"
+  "ext": "http://38.165.20.168/json/闪电.json?"
 },
 {
   "key": "下饭",
@@ -773,7 +773,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://xcz.funly.us/虎斑.json?"
+  "ext": "http://38.165.20.168/json/虎斑.json?"
 },
 {
   "key": "蜡笔",
@@ -783,7 +783,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://xcz.funly.us/蜡笔.json?"
+  "ext": "http://38.165.20.168/json/蜡笔.json?"
 },
 {
   "key":"搜索弹幕",
@@ -824,7 +824,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://xcz.funly.us/多多.json?"
+  "ext": "http://38.165.20.168/json/多多.json?"
 },
 {
   "key": "百家",
@@ -834,7 +834,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://xcz.funly.us/百家.json?"
+  "ext": "http://38.165.20.168/json/百家.json?"
 },
 {
   "key": "大玩",
@@ -844,7 +844,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://xcz.funly.us/大玩.json?"
+  "ext": "http://38.165.20.168/json/大玩.json?"
 },
 {
   "key":"夸克至臻弹幕",
@@ -871,7 +871,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://xcz.funly.us/小米.json?"
+  "ext": "http://38.165.20.168/json/小米.json?"
 },
 {
   "key": "米搜",
@@ -964,7 +964,6 @@
   "name": "🍊移动4K",
   "type": 3,
   "api": "csp_WexYDpanta",
-  "jar": "https://xcz.funly.us/wzx2.jar",
   "searchable": 1,
   "changeable": 1
 },
@@ -973,7 +972,6 @@
   "name": "🍊天翼4K‍",
   "type": 3,
   "api": "csp_Wexleijing",
-  "jar": "https://xcz.funly.us/wzx2.jar",
   "searchable": 1,
   "changeable": 1
 },
@@ -989,7 +987,7 @@
              "type": "list",
              "ratio": 1.433
            },
-  "ext": "https://xcz.funly.us/聚搜.json"
+  "ext": "http://38.165.20.168/json/聚搜.json"
 },
 {
   "key": "雷鲸",
@@ -1004,7 +1002,7 @@
              "type": "rect",
              "ratio": 1.433
            },
-  "ext": "https://xcz.funly.us/雷鲸.json?"
+  "ext": "http://38.165.20.168/json/雷鲸.json?"
 },
 {
   "key": "海绵",
@@ -1019,7 +1017,7 @@
              "type": "rect",
              "ratio": 1.433
            },
-  "ext": "https://xcz.funly.us/海绵.json?"
+  "ext": "http://38.165.20.168/json/海绵.json?"
 },
 {
   "key": "Pan1",
@@ -1034,7 +1032,7 @@
              "type": "rect",
              "ratio": 1.433
            },
-  "ext": "https://xcz.funly.us/pan1.json?"
+  "ext": "http://38.165.20.168/json/pan1.json?"
 },
 {
   "key": "Lib",
