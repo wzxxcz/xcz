@@ -873,14 +873,29 @@
         }
 },
 {
-  "key": "小米",
+  "key": "csp_UC",
   "name": "🍚小米4K",
   "type": 3,
-  "api": "csp_PanWebShare",
-  "searchable": 1,
-  "quickSearch": 1,
+  "changeable": "0",
+  "api": "csp_DuopanGuard",
+  "jar": "https://xcz.funly.us/wzxm.jar",
   "filterable": 1,
-  "ext": "http://38.165.20.168/json/小米.json?"
+  "ext": {
+          "site_urls": [
+          "https://www.54271.fun/",
+          "https://54271.fun/",
+          "https://www.mucpan.cc/",
+          "https://mucpan.cc/"
+        ],
+        "url_key": "UC",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 400,
+          "threads": 12
+        }
+      }
 },
 {
   "key": "米搜",
