@@ -756,22 +756,20 @@
   "name": "⚡️闪电4K弹幕",
   "type": 3,
   "api": "csp_PanWebShare",
-  "jar": "https://xcz.funly.us/wzx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/闪电.json"
+  "ext": "./lib/闪电.json?"
 },
 {
   "key": "下饭",
   "name": "🍛下饭4K弹幕",
   "type": 3,
   "api": "csp_PanWebShare",
-  "jar": "https://xcz.funly.us/wzx.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./lib/下饭.json"
+  "ext": "./lib/下饭.json?"
 },
 {
   "key": "虎斑",
