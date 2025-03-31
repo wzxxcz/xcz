@@ -898,20 +898,14 @@
       }
 },
 {
-  "key": "米搜",
+  "key": "csp_MiSou",
   "name": "🌾米搜4K4K",
   "type": 3,
-  "api": "csp_MiPanSo",	
-  "searchable": 1,
-  "filterable": 1,
-  "changeable": 0,
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "danmu": true
-        }
-},	  
+  "changeable": "0",
+  "api": "csp_MiSouGuard",
+  "jar": "https://xcz.funly.us/wzxm.jar",
+  "ext": ""
+},
 {
   "key": "六趣",
   "name": "🐲六趣4K弹幕",
