@@ -755,15 +755,11 @@
   "key": "闪电",
   "name": "⚡️闪电4K弹幕",
   "type": 3,
-  "api": "csp_闪电",	
+  "api": "csp_PanWebShare",
+  "searchable": 1,
   "quickSearch": 1,
-  "changeable": 1,
   "filterable": 1,
-  "ext": {
-          "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-          "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-          "danmu": true
-         }
+  "ext": "./lib/闪电.json?"
 },
 {
   "key": "下饭",
