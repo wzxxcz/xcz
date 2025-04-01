@@ -1951,7 +1951,7 @@
   "name":"🤣大全动漫",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "jar": "https://xcz.funly.us/wzxo.php",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -1959,9 +1959,10 @@
 	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
 	  "线路数组":"<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>",
 	  "线路标题":"</i>&nbsp;&&</a>+集",
-	  "分类url":"https://dingdingdm.com/list/{cateId}-{catePg}.html","分类":"动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"
+	  "分类url":"https://dingdingdm.com/list/{cateId}-{catePg}.html",
+	  "分类":"动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"
         }
-},
+},	  
 {
   "key":"萝卜动漫",
   "name":"🤣萝卜动漫",
@@ -1980,7 +1981,8 @@
   "key":"58动漫网",
   "name":"🤣之家动漫",
   "type":3,
-  "api":"csp_XBPQ",	
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/wzxo.php",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
