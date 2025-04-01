@@ -627,6 +627,18 @@
         }
 },
 {
+  "key":"欧哥",
+  "name": "🐲小橙子4K弹幕备",
+  "type":3,
+  "api":"csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"
+},
+{
   "key":"夸克蜡笔弹幕",
   "name":"🐲可欣4K弹幕",
   "type":3,
