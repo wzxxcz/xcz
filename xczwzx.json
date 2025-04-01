@@ -1429,6 +1429,16 @@
   "ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
 },
 {
+  "key":"爱看机器人",
+  "name":"💡爱看影视",
+  "type":3,
+  "api":"csp_IkanBot",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key": "悠悠",
   "name": "🏆悠悠1080P",
   "type": 3,
