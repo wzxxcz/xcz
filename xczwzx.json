@@ -1407,6 +1407,16 @@
   "jar": "https://xcz.funly.us/wzxm.jar"	
 },
 {
+  "key":"瓜子影视",
+  "name":"💡瓜子影视",
+  "type":3,
+  "api":"csp_Gz360",
+  "jar": "https://xcz.funly.us/wzxo.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
   "key":"格格影视",
   "name":"💡格格影视",
   "type":3,
