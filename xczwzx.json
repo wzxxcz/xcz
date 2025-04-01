@@ -1986,7 +1986,7 @@
   "filterable":1,
   "ext":{
 	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
-          "搜索url":"https://dbwyt.com/search.php?searchword={wd}",
+	  "搜索url":"https://dbwyt.com/search.php?searchword={wd}",
 	  "分类url":"https://dbwyt.com/wuba/{cateId}-{catePg}.html",
 	  "分类":"国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"
         }
