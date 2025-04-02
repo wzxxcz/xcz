@@ -998,8 +998,8 @@
   "quickSearch": 1,
   "filterable": 1,
   "style": {
-             "type": "list",
-             "ratio": 1.433
+              "type": "list",
+              "ratio": 1.433
            },
   "ext": "http://38.165.20.168/json/聚搜.json"
 },
