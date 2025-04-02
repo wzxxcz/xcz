@@ -635,7 +635,7 @@
   "quickSearch":1,
   "filterable":1,
   "changeable":1,
-  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/og.json?"
 },
 {
   "key":"欧uc",
@@ -706,7 +706,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://38.165.20.168/json/欧歌.json?"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/欧歌.json?"
 },
 {
   "key": "玩偶备用弹幕",
@@ -793,7 +793,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://38.165.20.168/json/虎斑.json?"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/虎斑.json?"
 },
 {
   "key": "蜡笔",
@@ -844,7 +844,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://38.165.20.168/json/多多.json?"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/多多.json?"
 },
 {
   "key": "百家",
@@ -1012,7 +1012,7 @@
               "type": "list",
               "ratio": 1.433
            },
-  "ext": "http://38.165.20.168/json/聚搜.json"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/聚搜.json"
 },
 {
   "key": "雷鲸",
@@ -1057,7 +1057,7 @@
              "type": "rect",
              "ratio": 1.433
            },
-  "ext": "http://38.165.20.168/json/pan1.json?"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/pan1.json?"
 },
 {
   "key": "Lib",
