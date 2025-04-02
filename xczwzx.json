@@ -1551,15 +1551,15 @@
 },
 {
   "key":"金牌影视",
-  "name": "🥇金牌1080P",
+  "name":"💡金牌影视",
   "type":3,
   "api":"csp_WebJP",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "jar": "https://xcz.funly.us/wzxo.php",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
   "ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKbwqPDp8Ohw6LDm8OkYcKTwp/CncKgwp/CmsKgw67CnMKgV2rCmcKaw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKgwp/CmsKgw57CmMKTwqLCqcOpw6fDhcOew7NaalBXw7DDqMOzw6LCsGlmV8Kt"
-},
+},	  
 {
   "key": "csp_Wwys",
   "name": "👨农民1080P",
