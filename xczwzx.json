@@ -773,7 +773,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "http://38.165.20.168/json/闪电.json?"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/闪电.json?"
 },
 {
   "key": "下饭",
