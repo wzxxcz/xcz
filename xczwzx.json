@@ -626,8 +626,17 @@
 	  "threadinfo":{"chunksize":400,"threads":12	}
         }
 },
-{"key":"欧哥","name":"❤欧歌｜4K弹幕","type":3,"api":"csp_PanWebShare","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"},
-
+{
+  "key":"欧哥",
+  "name":"🐲小橙子4K弹幕备",
+  "type":3,
+  "api":"csp_PanWebShare",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"
+},
 {
   "key":"欧uc",
   "name":"🐲小橙子uc4K弹幕",
