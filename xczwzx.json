@@ -1233,15 +1233,15 @@
   "changeable": 1
 },
 {
-  "key":"糯米弹幕",
-  "name":"💘糯米弹幕",
+  "key":"糯米影视",
+  "name":"💡糯米影视",
   "type":3,
-  "api":"csp_Nmys",
+  "api":"csp_WebNM",
   "jar": "https://xcz.funly.us/wzxo.php",
   "searchable":1,
   "quickSearch":1,
-  "filterable":1,
-  "ext":{"danmu":true}
+  "filterable":0,
+  "ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsOvw7LDo2lmZlfDtg=="
 },
 {
   "key": "比特",
