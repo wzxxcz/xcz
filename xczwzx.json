@@ -1221,24 +1221,6 @@
   "changeable": 1
 },
 {
-  "key":"糯米影视",
-  "name":"💡糯米影视",
-  "type":3,
-  "api":"csp_Wwys",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "ext":"https://www.wwgz.cn"
-},
-{
-  "key":"热播影视",
-  "name":"💡热播影视",
-  "type":3,
-  "api":"csp_AppRJ",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0
-},
-{
   "key": "比特",
   "name": "🍄比特秒播",
   "type": 3,
