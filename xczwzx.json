@@ -1759,7 +1759,7 @@
   "name":"💡热播影视",
   "type":3,
   "api":"csp_AppRJ",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;0860b473ff2bd18dd295d9226466ea95",
   "searchable":1,
   "quickSearch":1,
   "filterable":0
@@ -1769,7 +1769,7 @@
   "name":"💡天天影视",
   "type":3,
   "api":"csp_AppRJ",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;0860b473ff2bd18dd295d9226466ea95",
   "searchable":1,
   "quickSearch":1,
   "filterable":0,
@@ -1780,14 +1780,14 @@
   "name":"💡云播影视",
   "type":3,
   "api":"csp_Tvyb",
-  "jar": "https://xcz.funly.us/wzxo.php"
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;0860b473ff2bd18dd295d9226466ea95"
 },
 {
   "key":"奇优影视",
   "name":"💡奇优影视",
   "type":3,
   "api":"csp_Qiyou",
-  "jar": "https://xcz.funly.us/wzxo.php"
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;0860b473ff2bd18dd295d9226466ea95"
 },
 {
   "key": "hipy_js_腾云驾雾[官]",
