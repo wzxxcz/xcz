@@ -1776,6 +1776,13 @@
   "ext":"http://tt.ysdqjs.cn"
 },
 {
+  "key":"云播影视",
+  "name":"💡云播影视",
+  "type":3,
+  "api":"csp_Tvyb",
+  "jar": "https://xcz.funly.us/wzxo.php"
+},
+{
   "key":"奇优影视",
   "name":"💡奇优影视",
   "type":3,
