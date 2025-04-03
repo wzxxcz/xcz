@@ -1776,6 +1776,13 @@
   "ext":"http://tt.ysdqjs.cn"
 },
 {
+  "key":"奇优影视",
+  "name":"💡奇优影视",
+  "type":3,
+  "api":"csp_Qiyou",
+  "jar": "https://xcz.funly.us/wzxo.php"
+},
+{
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
   "type": 3,
