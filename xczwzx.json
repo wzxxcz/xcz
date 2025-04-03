@@ -1136,16 +1136,6 @@
   "ext":{"danmu":true}
 },
 {
-  "key":"苹果影视",
-  "name":"💡苹果影视",
-  "type":3,
-  "api":"csp_LiteApple",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -1784,13 +1774,6 @@
   "quickSearch":1,
   "filterable":0,
   "ext":"http://tt.ysdqjs.cn"
-},
-{
-  "key":"奇优影视",
-  "name":"💡奇优影视",
-  "type":3,
-  "api":"csp_Qiyou",
-  "jar": "https://xcz.funly.us/wzxo.php"
 },
 {
   "key": "hipy_js_腾云驾雾[官]",
