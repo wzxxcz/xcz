@@ -1193,11 +1193,11 @@
   "changeable": 1
 },
 {
-  "key":"移动云盘",
+  "key":"移动",
   "name":"💡移动影视",
   "type":3,
   "api":"csp_YDjisu",
-  "jar": "https://xcz.funly.us/wzxo.php",	
+  "jar": "https://xcz.funly.us/wzxo.php",
   "searchable":1,
   "changeable":1
 },
