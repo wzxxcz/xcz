@@ -1221,14 +1221,6 @@
   "changeable": 1
 },
 {
-  "key":"糯米影视",
-  "name":"💡糯米影视",
-  "type":3,
-  "api":"csp_Wwys",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "ext":"https://www.wwgz.cn"
-},
-{
   "key":"热播影视",
   "name":"💡热播影视",
   "type":3,
