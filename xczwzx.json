@@ -1221,6 +1221,17 @@
   "changeable": 1
 },
 {
+  "key":"糯米影视",
+  "name":"💡糯米影视",
+  "type":3,
+  "api":"csp_WebNM",
+  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;2e64d49034de3c6d508bd333ef1ee1ac",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKawqpewpPDp8KawqbCmcKhwqfCmcKgV8KzwpPCocOU5Ye/6YSb5o+V5ZCTXOWHpeS+iuWRscKz5b+r6Ke56LW05ruA56yJw5bCmsKmwpnCocKXwpXCk8Kiw7LDo8Ouw4TDn8KsV2pQwqDDqsOvw7LDo2lmZlfDtg=="
+},
+{
   "key": "比特",
   "name": "🍄比特秒播",
   "type": 3,
