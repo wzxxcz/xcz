@@ -985,18 +985,15 @@
   "ext": "http://38.165.20.168/js/云盘.js"
 },
 {
-  "key": "聚搜",
+  "key":"聚搜",
   "name": "🍊聚搜4K",
-  "type": 3,
-  "api": "csp_PanWebSearch",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "style": {
-             "type": "list",
-             "ratio": 1.433
-           },
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/聚搜.json"
+  "type":3,
+  "api":"csp_PanWebSearch",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "style":{"type":"list","ratio":1.433},
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/aliyunpansearch.json"
 },
 {
   "key": "雷鲸",
