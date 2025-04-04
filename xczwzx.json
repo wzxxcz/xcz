@@ -1349,18 +1349,15 @@
   "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KdacOcw57CrMKxw6DCqmbCnmPDpsKow6XCsMKywpRhYMKUwqfDl8Ozw7LDtGVewpPCn8Omwq3Cr8KvwrJsX8KRwqDDosKhw6rDocOqVVxSecOnw5zDrsOQw6nCpcKUUmrCm8KVwqbCm8OuwpzCoFJqwpvDjuWHv+mFoeaQn+WQllzlhpzkvYflkbDCreW/q+iov+i2vua7g+esicKNUsKlwpXCu8Oew61+wpXCqVLCs8KVw57DssOzwq3CpMKmwpHDqcOcw5vDqcOqwqzCqcKUwqPCm8KfwpzCusOfwqZ5wqZSwrPClcOew7LDs8KtwqTCpsKRw6nDnMObw6nDqsKswqnClMKjwpvDsA=="
 },
 {
-  "key": "浪酷弹幕",
+  "key":"浪酷影视",
   "name": "😎浪酷蓝光",
-  "type": 3,
-  "api": "csp_TianTian",
-  "jar": "https://gitee.com/wzbdyr/omg/raw/main/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": {
-           "danmu": true,
-           "site": "aHR0cDovL3YubGt1eXMuY24="
-         }
+  "type":3,
+  "api":"csp_AppRJ",
+  "jar": "https://xcz.funly.us/wzxo20250404.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0,
+  "ext":"sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
 },
 {
   "key": "风听影视",
