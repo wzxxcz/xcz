@@ -883,6 +883,17 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/小米.json?"
 },
 {
+  "key":"小米",
+  "name":"❤小米4K弹幕",
+  "type":3,
+  "api":"csp_PanWebShare",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/xm.json?"
+},
+{
   "key": "csp_MiSou",
   "name": "🌾米搜4K4K",
   "type": 3,
