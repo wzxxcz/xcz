@@ -1545,7 +1545,17 @@
   "type": 3,
   "api": "csp_JpysGuard",
   "jar": "https://xcz.funly.us/wzxm.jar"	
-},	  
+},
+{
+  "key":"尘落影视",
+  "name":"💡尘落影视",
+  "type":3,
+  "api":"csp_Wetv",
+  "jar": "https://xcz.funly.us/wzxo20250404.php",
+  "searchable":1,
+  "quickSearch":1,
+  "ext":"https://v.wetv.wang"
+},
 {
   "key": "csp_Wwys",
   "name": "👨农民1080P",
