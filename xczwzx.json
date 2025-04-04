@@ -873,29 +873,14 @@
   "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/zz.json?"
 },
 {
-  "key": "csp_UC",
+  "key": "小米",
   "name": "🍚小米4K",
   "type": 3,
-  "changeable": "0",
-  "api": "csp_DuopanGuard",
-  "jar": "https://xcz.funly.us/wzxm.jar",
+  "api": "csp_PanWebShare",
+  "searchable": 1,
+  "quickSearch": 1,
   "filterable": 1,
-  "ext": {
-          "site_urls": [
-          "https://www.54271.fun/",
-          "https://54271.fun/",
-          "https://www.mucpan.cc/",
-          "https://mucpan.cc/"
-        ],
-        "url_key": "UC",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 400,
-          "threads": 12
-        }
-      }
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/小米.json?"
 },
 {
   "key": "csp_MiSou",
