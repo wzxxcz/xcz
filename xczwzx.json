@@ -559,7 +559,7 @@
   "type": 3,
   "api": "https://raw.gitmirror.com/wzxxcz/EXT/refs/heads/main/drpy2.min.js",
   "jar": "https://xcz.funly.us/wzxf.txt",
-  "ext": "https://raw.gitmirror.com/wzxxcz/EXT/refs/heads/main/酷奇MV.js",
+  "ext": "https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/酷奇MV.js",
   "style": {
              "type": "rect",
              "ratio": 1.597
@@ -582,7 +582,7 @@
   "quickSearch": 0,
   "changeable": 0,
   "ext": {
-           "json": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/MTV.json"
+           "json": "https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/MTV.json"
          }
 },	  
 {
