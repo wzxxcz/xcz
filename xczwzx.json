@@ -756,9 +756,8 @@
 },
 {
   "key":"csp_woog2",
-  "name":"🐲小橙子夸快4K",
-  "type":3,
-  "api":"csp_woog",
+  "name":"🐲夸快4K非会员",
+  "type":3,"api":"csp_woog",
   "changeable":0,
   "searchable":1,
   "filterable":1,
