@@ -2412,18 +2412,19 @@
            }
 },
 {
-      "key": "Jrsjs",
-      "name": "⚽Jrs球迷",
-      "type": 3,
-      "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/jrk.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-}	  
+  "key": "Jrsjs",
+  "name": "⚽ Jrs球迷",
+  "type": 3,
+  "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wzxxcz/fty/refs/heads/main/drpy2.min.js",
+  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wzxxcz/fty/refs/heads/main/jrk.js",
+  "style": {
+             "type": "list"
+           },
+  "timeout": 10,
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
+}
 ],
   "parses": [
     {
