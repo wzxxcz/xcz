@@ -2249,8 +2249,8 @@
   "key": "有声小说js",
   "name": "🎧有声小说",
   "type": 3,
-  "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/fty/refs/heads/main/drpy2.min.js",
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/fty/refs/heads/main/有声小说吧.js",
   "style": {
               "type": "rect",
               "ratio": 1
