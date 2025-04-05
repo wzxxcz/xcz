@@ -2439,7 +2439,7 @@
 },
 {
       "key": "阿里云盘",
-      "name": "我的阿里",
+      "name": "🍊我的阿里",
       "type": 3,
       "api": "csp_PanAli",
       "searchable": 0,
@@ -2450,6 +2450,56 @@
         "ratio": 1.433
       },
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/阿里.json"
+},
+{
+  "key": "夸克云盘",
+  "name": "🍊我的夸克",
+  "type": 3,
+  "api": "csp_PanQuark",
+  "searchable": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "style": {
+             "type": "list",
+             "ratio": 1.433
+           },
+  "ext": "http://38.165.20.168/json/夸克.json"
+},
+{
+  "key": "UC",
+  "name": "🍊我的UC",
+  "type": 3,
+  "api": "csp_PanUc",
+  "searchable": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "style": {
+             "type": "list",
+             "ratio": 1.433
+           },
+  "ext": "http://38.165.20.168/json/UC.json"
+},
+{
+  "key": "百度云盘",
+  "name": "🍊我的百度",
+  "type": 3,
+  "api": "csp_PanBaiDu",
+  "searchable": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "style": {
+             "type": "list",
+             "ratio": 1.433
+           }
+},
+{
+  "key": "push_agent",
+  "name": "🍊手机电视推送",
+  "type": 3,
+  "api": "csp_Push",
+  "searchable": 0,
+  "filterable": 0,
+  "changeable": 0
 }
 ],
   "parses": [
