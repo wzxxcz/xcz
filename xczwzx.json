@@ -2071,6 +2071,7 @@
   "type": 3,
   "api": "csp_Dm84Guard",
   "jar": "https://xcz.funly.us/wzxf.txt",
+  "timeout": 10,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
