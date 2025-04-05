@@ -1108,18 +1108,6 @@
   "filterable":1
 },
 {
-  "key": "溢彩",
-  "name": "💡流光秒播",
-  "type": 3,
-  "api": "csp_AppSxGuard",
-  "jar": "https://xcz.funly.us/wzxf20250404.txt",
-  "timeout": 10,
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f19e82TUvZMviAElDfhsS/jcju7U0fe1MnN1h63CTaYIPjmEw9C0qVsgBO8um85+eGlSkG/r2q6m0DA=="
-},
-{
   "key": "苹果",
   "name": "🍎苹果不卡",
   "type": 3,
