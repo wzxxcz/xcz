@@ -2281,16 +2281,6 @@
            }
 },
 {
-  "key": "相声小品",
-  "name": "🏮相声小品",
-  "type": 3,
-  "api": "csp_Bili",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 1,
-  "ext": "./lib/相声小品.json"
-},
-{
   "key": "戏 曲",
   "name": "🏮国粹戏曲",
   "type": 3,
