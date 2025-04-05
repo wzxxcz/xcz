@@ -2365,12 +2365,13 @@
   "key": "斗鱼js",
   "name": "🐟斗鱼直播",
   "type": 3,
-  "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-  "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+  "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wzxxcz/fty/refs/heads/main/drpy2.min.js",
+  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wzxxcz/fty/refs/heads/main/斗鱼直播.js",
   "style": {
              "type": "rect",
              "ratio": 1.755
            },
+  "timeout": 10,
   "playerType": "2",
   "searchable": 0,
   "quickSearch": 0,
