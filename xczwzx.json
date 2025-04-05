@@ -2436,6 +2436,20 @@
   "searchable": 0,
   "quickSearch": 0,
   "changeable": 0
+},
+{
+      "key": "阿里云盘",
+      "name": "我的阿里",
+      "type": 3,
+      "api": "csp_PanAli",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/阿里.json"
 }
 ],
   "parses": [
