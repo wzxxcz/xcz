@@ -1597,19 +1597,12 @@
   "filterable":1
 },
 {
-  "key": "csp_Xlys",
-  "name": "🍤哔嘀1080P",
-  "api": "csp_XlysGuard",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",	
-  "type": 3,
-  "playerType": 2
-},
-{
   "key": "莉莉",
   "name": "🌰莉莉1080P",
   "type": 3,
+  "quickSearch": 1,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm.jar",
+  "jar": "https://xcz.funly.us/wzxm20250402.jar",
   "ext": "KsP46vke46cPylpEP8h9kV3zmT6SjdmDzDvTmcpyr8LRfEa9Qx8QS89hxtKQa8cCgFJoMQoWv9b+B8vt0ygfPT/mNGPiZRmiGAyVxAku2+j3eSSpgYb08qs+AMCDe9flsqxxEuN/Dvv0S1Ha/hoZDUoOCF1b38iWz39HWLhDvAC36LjucDxUHrsiJKGzbDtJJ3/9anuoxW5q6dcsMnS49Q=="
 },
 {
