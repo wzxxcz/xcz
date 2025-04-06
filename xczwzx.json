@@ -1537,10 +1537,10 @@
   "key": "电影",
   "name": "🎬电影1080P",
   "type": 3,
-  "quickSearch": 0,
+  "quickSearch": 1,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm.jar",
-  "ext": "KsP46vke46cPylpEP8h9kZQJOZt+JFV0mLhSq1biyJHvVsOks76ATO6+1K5bMVwKoqUvbaJnqQw0qiRAw0clHVzc5nwgXHppf37s+mKJzTalSdw77exZP67VWFx0pLwky0XcMUIQ9YFHmMIHR3XI1BmEqAemBbCm8ULBqAe9laKmHMoGZOUdnIvPcBk2POPi2ti4ZJNrHQhuVqgbibt7ygEMGLwhIJnmyaaUWErenDs="
+  "jar": "https://xcz.funly.us/wzxm20250402.jar"
+  "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgUMrJ+kztENaDom6MWpmmvbZdw38U+pT14qEwywuRW7eny/HInm+UXxpCyI8e5D7Y4kc2n0QBkeQ2Tk5Y0atLMuupC2ZGF68+oMVeX0Px9e9ODSiSspzQH/Rg1Sz5CHp0GKozVTjPIZHhO159i7A1HwZ+kk77Eh0E7AnBTt6qVBX5G+murD+CKjMLYo6MMmsE"
 },
 {
   "key":"金牌影视",
