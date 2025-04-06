@@ -2246,9 +2246,10 @@
   "key": "csp_AppXY",
   "name": "🐸上头短剧",
   "type": 3,
-  "api": "csp_AppXY",	
-  "jar": "https://xcz.funly.us/wzxm.jar"
-},	  
+  "quickSearch": 1,
+  "api": "csp_AppXYGuard",
+  "jar": "https://xcz.funly.us/wzxm20250402.jar"
+},
 {
   "key": "有声小说js",
   "name": "🎧有声小说",
