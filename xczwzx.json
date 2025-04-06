@@ -1133,6 +1133,14 @@
   "ext":{"danmu":true}
 },
 {
+  "key": "csp_LiteApple",
+  "name": "🍎苹果1080P",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_LiteAppleGuard",
+  "jar": "https://xcz.funly.us/wzxm20250402.jar"
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
