@@ -978,20 +978,6 @@
   "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/ex.json?"
 },
 {
-  "key": "抠搜",
-  "name": "🍄抠抠搜搜",
-  "type": 3,
-  "api": "csp_KkSsGuard",
-  "jar": "https://xcz.funly.us/moyuer.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": {
-           "Cloud-drive": "TVBox/Cloud-drive.txt",
-           "from": "4k|auto"
-         }
-},
-{
   "key": "云盘",
   "name": "🍊云盘4K",
   "type": 3,
