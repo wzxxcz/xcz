@@ -1435,7 +1435,7 @@
   "name":"💡格格影视",
   "type":3,
   "api":"csp_AppGetApp",
-  "spider": "https://xcz.funly.us/moyuer.php",
+  "jar": "https://xcz.funly.us/wzxo.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":0,
