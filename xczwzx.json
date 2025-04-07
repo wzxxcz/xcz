@@ -1374,6 +1374,14 @@
   "ext":"sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
 },
 {
+  "key":"菲儿影视",
+  "name":"💘菲菲弹幕",
+  "type":3,
+  "api":"csp_AppFerr",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",	
+  "ext":"sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
+},	  
+{
   "key": "风听影视",
   "name": "🌀风听蓝光",
   "type": 3,
@@ -1562,7 +1570,7 @@
   "name": "🥇金牌1080P",
   "type":3,
   "api":"csp_Jpys",
-  "jar": "https://xcz.funly.us/wzxo20250404.php"
+  "jar": "https://xcz.funly.us/wzxo20250406.php"
 },
 {
   "key":"尘落影视",
@@ -1750,7 +1758,7 @@
   "name":"💡糯米影视",
   "type":3,
   "api":"csp_Wwys",
-  "jar": "https://xcz.funly.us/wzxo20250404.php",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",
   "ext":"https://www.wwgz.cn"
 },
 {
@@ -1802,7 +1810,7 @@
   "name":"💡一起影视",
   "type":3,
   "api":"csp_AppFree4K",
-  "jar": "https://xcz.funly.us/wzxo20250404.php",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":0,
@@ -1813,15 +1821,15 @@
   "name":"💡云播影视",
   "type":3,
   "api":"csp_Tvyb",
-  "jar": "https://xcz.funly.us/wzxo20250404.php"
+  "jar": "https://xcz.funly.us/wzxo20250406.php"
 },
 {
   "key":"奇优影视",
   "name":"💡奇优影视",
   "type":3,
   "api":"csp_Qiyou",
-  "jar": "https://xcz.funly.us/wzxo20250404.php"
-},
+  "jar": "https://xcz.funly.us/wzxo20250406.php"	
+},	  
 {
   "key": "hipy_js_腾云驾雾[官]",
   "name": "🐧腾讯(官)",
