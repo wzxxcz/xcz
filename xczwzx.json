@@ -2080,6 +2080,16 @@
          }
 },
 {
+  "key": "1905",
+  "name": "🍭1905蓝光",
+  "type": 3,
+  "api": "csp_Web1905",
+  "spider": "https://xcz.funly.us/moyuer.php",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0
+},	  
+{
   "key": "Dm84",
   "name": "🚌巴士动漫",
   "type": 3,
