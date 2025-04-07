@@ -2203,6 +2203,15 @@
   "ext": "https://www.mutefun.tv"
 },
 {
+  "key":"咕咕动漫",
+  "name":"🤣咕咕动漫",
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",	
+  "playerType":1,
+  "ext":"jaHR0cHM6Ly93d3cuZ3VndTMuY29tfG5LZlo4S1g2SlROV1J6VER8bktmWjhLWDZKVE5XUnpURHw0MDE="
+},	  
+{
   "key": "️曼波动漫",
   "name": "🍼曼波动漫",
   "type": 3,
