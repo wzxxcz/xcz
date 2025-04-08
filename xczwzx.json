@@ -1627,11 +1627,11 @@
   "name":"💡尘落影视",
   "type":3,
   "api":"csp_Wetv",
-  "jar": "https://xcz.funly.us/wzxo20250404.php",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",	
   "searchable":1,
   "quickSearch":1,
   "ext":"https://v.wetv.wang"
-},
+},	  
 {
   "key": "csp_Wwys",
   "name": "👨农民1080P",
