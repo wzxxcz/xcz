@@ -1591,14 +1591,14 @@
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"	
 },
 {
-  "key": "光速",
-  "name": "🌟光速1080P",
-  "type": 3,
-  "quickSearch": 1,
-  "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm20250402.jar",
-  "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
-},
+  "key":"光速",
+  "name":"💡光速影视",
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "playerType":1,
+  "ext":"jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
+},	  
 {
   "key": "csp_麻花",
   "name": "🍡麻花1080P",
