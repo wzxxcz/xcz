@@ -721,12 +721,13 @@
   "key": "央视大全",
   "name": "📺央视大全",
   "type": 3,
-  "api": "https://4708.kstore.space/drpy_libs/drpy2.min.js",
+  "api": "https://xcz.funly.us/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/spider.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "https://4708.kstore.space/JS/央视大全.js"
+  "ext": "https://xcz.funly.us/JS/央视大全.js"
 },
 {
   "key": "alllive",
