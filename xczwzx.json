@@ -713,9 +713,9 @@
   "key": "蜻蜓FM",
   "name": "🦟蜻蜓FM",
   "type": 3,
-  "api": "https://4708.kstore.space/JS/drpy2.min.js",
-  "jar": "https://4708.kstore.space/spider.jar",
-  "ext": "https://4708.kstore.space/JS/蜻蜓FM.js"
+  "api": "https://xcz.funly.us/JS/drpy2.min.js",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": "https://xcz.funly.us/JS/蜻蜓FM.js"
 },
 {
   "key": "央视大全",
