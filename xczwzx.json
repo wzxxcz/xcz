@@ -719,9 +719,10 @@
 },
 {
   "key": "央视大全",
-  "name": "央视大全",
+  "name": "📺央视大全",
   "type": 3,
   "api": "https://xcz.funly.us/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/spider.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
