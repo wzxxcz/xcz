@@ -710,6 +710,14 @@
          }
 },
 {
+      "key": "蜻蜓FM",
+      "name": "蜻蜓｜FM",
+      "type": 3,
+      "api": "https://4708.kstore.space/svip/JS/drpy2.min.js",
+      "ext": "https://4708.kstore.space/svip/JS/蜻蜓FM.js"
+    },
+
+{
   "key": "alllive",
   "name": "📽️一直播直播",
   "type": 3,
