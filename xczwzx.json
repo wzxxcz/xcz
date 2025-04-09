@@ -721,6 +721,16 @@
    "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/蜻蜓FM.js"
 },
 {
+  "key": "js_a8音乐",
+  "name": "🍊国内FM",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/广播迷FM[听].js"
+},
+{
   "key": "alllive",
   "name": "📽️一直播直播",
   "type": 3,
