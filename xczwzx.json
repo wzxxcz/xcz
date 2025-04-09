@@ -2397,6 +2397,7 @@
   "name": "🍊开尔短剧",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
