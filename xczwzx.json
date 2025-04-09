@@ -710,12 +710,15 @@
          }
 },
 {
-  "key": "蜻蜓FM",
-  "name": "🦟蜻蜓FM",
-  "type": 3,
-  "api": "https://xcz.funly.us/JS/drpy2.min.js",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": "https://xcz.funly.us/JS/蜻蜓FM.js"
+   "key": "hipy_js_蜻蜓FM",
+   "name": "🦟蜻蜓FM",
+   "type": 3,
+   "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 0,
+   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/蜻蜓FM.js"
 },
 {
   "key": "alllive",
