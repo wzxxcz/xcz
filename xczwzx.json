@@ -714,6 +714,7 @@
   "name": "🦟蜻蜓FM",
   "type": 3,
   "api": "https://xcz.funly.us/svip/JS/drpy2.min.js",
+  "jar": "https://xcz.funly.us/spider.jar",
   "ext": "https://xcz.funly.us/svip/JS/蜻蜓FM.js"
 },
 {
