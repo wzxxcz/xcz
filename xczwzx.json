@@ -2210,7 +2210,15 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-},	  
+},
+{
+  "key": "短剧网",
+  "name": "🍊短剧网",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": "./XBPQ/短剧网.json"
+},
 {
   "key": "Dm84",
   "name": "🚌巴士动漫",
