@@ -635,6 +635,22 @@
   "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.json"
 },
 {
+  "key": "csp_Kugou",
+  "name": "🎤酷狗音乐",
+  "type": 3,
+  "api": "csp_Kugou",
+  "jar": "https://xcz.funly.us/Yoursmile.jar",
+  "playerType": 2,
+  "ext": {
+            "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+},	  
+{
   "key": "酷奇",
   "name": "🎤酷奇MV",
   "type": 3,
