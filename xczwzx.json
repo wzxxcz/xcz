@@ -713,9 +713,9 @@
   "key": "蜻蜓FM",
   "name": "🦟蜻蜓FM",
   "type": 3,
-  "api": "https://xcz.funly.us/JS/drpy2.min.js",
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/JS/drpy2.min.js",
   "jar": "https://xcz.funly.us/spider.jar",
-  "ext": "https://xcz.funly.us/JS/蜻蜓FM.js"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/JS/蜻蜓FM.js"
 },
 {
   "key": "央视大全",
