@@ -708,7 +708,14 @@
   "ext": {
            "json": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/MTV.json"
          }
-},	  
+},
+{
+  "key": "蜻蜓FM",
+  "name": "🦟蜻蜓FM",
+  "type": 3,
+  "api": "https://xcz.funly.us/JS/drpy2.min.js",
+  "ext": "https://xcz.funly.us/JS/蜻蜓FM.js"
+},
 {
   "key": "alllive",
   "name": "📽️一直播直播",
