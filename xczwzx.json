@@ -2393,6 +2393,16 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key": "开尔短剧",
+  "name": "🍊开尔短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://xcz.funly.us/json/开尔短剧.json"
+},	  
+{
   "key": "有声小说js",
   "name": "🎧有声小说",
   "type": 3,
