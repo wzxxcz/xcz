@@ -2401,7 +2401,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://xcz.funly.us/json/开尔短剧.json"
+  "ext": "./lib/开尔短剧.json"
 },	  
 {
   "key": "有声小说js",
