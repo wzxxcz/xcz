@@ -2217,7 +2217,7 @@
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "https://xcz.funly.us/spider.jar",
-  "ext": "./XBPQ/短剧网.json"
+  "ext": "https://xcz.funly.us/XBPQ/短剧网.json"
 },
 {
   "key": "Dm84",
