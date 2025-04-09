@@ -2212,14 +2212,6 @@
   "ext": "https://cs.hgyx.vip/api2/api.php/app/"
 },
 {
-  "key": "短剧网",
-  "name": "🍊短剧网",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": "https://xcz.funly.us/XBPQ/短剧网.json"
-},
-{
   "key": "Dm84",
   "name": "🚌巴士动漫",
   "type": 3,
@@ -2417,6 +2409,44 @@
   "quickSearch": 1,
   "api": "csp_AppXYGuard",
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
+},
+{
+  "key": "短剧网",
+  "name": "🍊短剧网",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": "https://xcz.funly.us/XBPQ/短剧网.json"
+},
+{
+  "key": "开尔短剧",
+  "name": "🍊开尔短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./XBPQ/开尔短剧.json"
+},
+{
+  "key": "吉吉短剧",
+  "name": "🍊吉吉短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": "./XBPQ/吉吉短剧.json"
+},
+{
+  "key": "短剧王",
+  "name": "🍊短剧王",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./XBPQ/短剧王.json"
 },
 {
   "key": "有声小说js",
