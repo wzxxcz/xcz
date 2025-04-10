@@ -1131,6 +1131,33 @@
   "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/ex.json?"
 },
 {
+  "key": "123",
+  "name": "🍊1234K",
+  "type": 3,
+  "api": "csp_PanWebShareCloud123",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "style": {
+            "type": "list",
+            "ratio": 1.433
+           },
+  "ext": "./json/123.json?"
+},
+{
+  "key": "盘库",
+  "name": "🍊盘库4K",
+  "type": 3,
+  "api": "csp_PanWebKuBa",
+  "searchable": 1,
+  "filterable": 0,
+  "changeable": 0,
+  "ext": {
+           "url": "https://panku8.com"
+         }
+},
+{
   "key": "云盘",
   "name": "🍊云盘4K",
   "type": 3,
