@@ -1432,6 +1432,7 @@
   "name": "🐼小熊猫", 
   "type":3,
   "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
   "ext": {
 	  "请求头":"手机",
 	  "简介":"小橙子为你介绍剧情介绍:+description\">&&</div>",
