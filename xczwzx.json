@@ -1427,8 +1427,21 @@
   "api": "csp_LiteAppleGuard",
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
-{ "key": "小熊猫", "name": "拾光☪小熊猫", "type":3,"api":"csp_XBPQ", "ext": {"请求头":"手机","简介":"林佬为你介绍剧情介绍:+description\">&&</div>","数组":"module-item\">&&module-item-text","图片":"data-src=\"&&\"","副标题":"video-class\">&&</span>","分类url":"https://jxhwsl.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$99#电视剧$79#电影$61#动漫$93#综艺$88"}},
-
+{ 
+  "key": "小熊猫",
+  "name": "🐼小熊猫", 
+  "type":3,
+  "api":"csp_XBPQ",
+  "ext": {
+	  "请求头":"手机",
+	  "简介":"小橙子为你介绍剧情介绍:+description\">&&</div>",
+	  "数组":"module-item\">&&module-item-text",
+	  "图片":"data-src=\"&&\"",
+	  "副标题":"video-class\">&&</span>",
+	  "分类url":"https://jxhwsl.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+	  "分类":"短剧$99#电视剧$79#电影$61#动漫$93#综艺$88"
+         }
+},
 {
   "key": "神车",
   "name": "🐻小熊秒播",
