@@ -1428,6 +1428,31 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key": "123影视",
+  "name": "🍊123影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": {
+                "数组": "col-xs-3\">&&</div></li>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "center\">&&<",
+                "链接": "href=\"&&\"",
+                "线路数组": "\\#playlist&&</li>",
+                "线路标题": ">&&</",
+                "播放数组": "list sort-list clearfix&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&</",
+                "简介": "data\" style=*>&&</span>",
+                "搜索url": "http://123kubo.net/search/page/{pg}/wd/{wd}.html",
+                "分类url": "http://123kubo.net/show/1/area/{area}/by/{by}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+                //http://123kubo.net/show/1/area/{area}/by/{by}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html
+                "分类": "电视剧$2#电影$1#综艺$3#动漫$4"
+        }
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
