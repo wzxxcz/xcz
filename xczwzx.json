@@ -1427,6 +1427,19 @@
   "api": "csp_LiteAppleGuard",
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
+{ 
+  "key": "人人影视", 
+  "name": "🍊人缘影视", 
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": {
+	  "请求头":"手机",
+	  "简介":"剧情介绍:+module-info-introduction-content\">&&</div>",
+	  "分类url":"https://svip1.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+	  "分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"
+         }
+},
 {
   "key": "神车",
   "name": "🐻小熊秒播",
