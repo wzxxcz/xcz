@@ -2597,6 +2597,16 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/短剧屋.json"
 },
 {
+  "key": "js_蓝莓短剧",
+  "name": "蓝莓短剧",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/蓝莓短剧.js"
+},
+{
   "key": "有声小说js",
   "name": "🎧有声小说",
   "type": 3,
