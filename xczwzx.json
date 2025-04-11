@@ -6,7 +6,7 @@
 	     {
 	        "name": "小橙子电视",
                 "type":0,
- 	        "url": "https://live.iptv365.org/live.txt",
+ 	        "url": "https://xcz.funly.us/live.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -79,6 +79,15 @@
 	        "name": "AKTV6",
                 "type":0,
  	        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cqshushu/tvjk/refs/heads/main/gt.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
+	        "name": "AKTV7",
+                "type":0,
+ 	        "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/gt.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -169,6 +178,15 @@
 	        "name": "小橙子秒播",
                 "type":0,
  	        "url": "http://47.120.41.246:8899/zb.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
+	        "name": "小橙子央卫港秒播",
+                "type":0,
+ 	        "url": "https://d.kstore.dev/download/13923/%E6%8E%A8%E6%B5%81-150+%281%29.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -728,11 +746,23 @@
   "name": "🎵DJ呦呦",
   "type": 3,
   "api": "csp_XYQHiker",
-  "jar": "https://xcz.funly.us/spider.jar",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/DJyyyyw.json"
+},
+{
+  "key": "hipy_js_种子音乐[听]",
+  "name": "🎵种子音乐",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/种子音乐[听].js"
 },
 {
   "key": "MTV",
@@ -2557,34 +2587,169 @@
   "ext": "https://xcz.funly.us/XBPQ/短剧网.json"
 },
 {
-  "key": "开尔短剧",
-  "name": "🍊开尔短剧",
+  "key": "偷乐短剧",
+  "name": "🍊偷乐短剧",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./XBPQ/开尔短剧.json"
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/偷乐短剧.json"
 },
 {
-  "key": "吉吉短剧",
-  "name": "🍊吉吉短剧",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": "./XBPQ/吉吉短剧.json"
+  "key":"xbpq_免费短剧",
+  "name":"🍊免费剧",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/免费短剧.json"
 },
 {
-  "key": "短剧王",
-  "name": "🍊短剧王",
+  "key": "微云影视",
+  "name": "🍊短剧屋",
   "type": 3,
   "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./XBPQ/短剧王.json"
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/短剧屋.json"
+},
+{
+  "key": "js_蓝莓短剧",
+  "name": "🍊蓝莓短剧",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/蓝莓短剧.js"
+},
+{
+  "key": "评书",
+  "name": "🍊评书随听",
+  "type": 3,
+  "searchable": 0,
+  "style": {
+		"type": "rect",
+		"ratio": 1.597
+	   },
+  "quickSearch": 0,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/评书.json"
+}, 
+{
+  "key": "hipy_js_一曲肝肠断",
+  "name": "🍊梨园春",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/一曲肝肠断.js"
+},
+{
+  "key": "hipy_js_中华听书网[听]",
+  "name": "🍊听书网",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/中华听书网[听].js"
+},
+{
+  "key": "博看听书",
+  "name": "🍊听书博看",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "changeable": 0,
+  "style": {
+            "type": "rect",
+            "ratio": 1
+           },
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/博看听书.js"
+},
+{
+  "key": "六月听书",
+  "name": "🍊听书六月",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "changeable": 0,
+  "style": {
+             "type": "rect",
+             "ratio": 1
+           },
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/六月听书.js"
+},
+{
+  "key": "hipy_js_爱上你听书网[听]",
+  "name": "🍊爱上听书",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/爱上你听书网[听].js"
+},
+{
+  "key": "hipy_js_贝乐虎[儿]",
+  "name": "🐅贝乐虎",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/贝乐虎[儿].js"
+},
+{
+  "key": "csp_XYQHiker_兔小贝",
+  "name": "🐇兔小贝",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/兔小贝.json"
+},
+{
+  "key": "csp_XYQHiker_兔小贝2",
+  "name": "🐇兔贝儿",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 0,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/兔小贝2.json"
+},
+{
+  "key": "csp_XYQHiker_播视童趣",
+  "name": "🍊童趣",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/播视童趣.json"
 },
 {
   "key": "有声小说js",
@@ -2872,7 +3037,7 @@
     {
       "name": "小橙子4K",
       "type": 1,
-      "url": "http://isp.wki8.com/jx.php?url=",
+      "url": "http://8.129.30.117:8117/diaoyu.php?url=",
       "ext": {
         "flag": [
           "qq",
