@@ -2127,6 +2127,7 @@
   "name": "🐧腾讯(官)",
   "type": 3,
   "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/spider.jar",
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/优酷.js"
 },
 {
