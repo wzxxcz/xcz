@@ -1427,22 +1427,6 @@
   "api": "csp_LiteAppleGuard",
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
-{ 
-  "key": "小熊猫",
-  "name": "🐼小熊猫", 
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": {
-	  "请求头":"手机",
-	  "简介":"小橙子为你介绍剧情介绍:+description\">&&</div>",
-	  "数组":"module-item\">&&module-item-text",
-	  "图片":"data-src=\"&&\"",
-	  "副标题":"video-class\">&&</span>",
-	  "分类url":"https://jxhwsl.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-	  "分类":"短剧$99#电视剧$79#电影$61#动漫$93#综艺$88"
-         }
-},
 {
   "key": "神车",
   "name": "🐻小熊秒播",
@@ -2458,6 +2442,22 @@
           "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
           "手动嗅探视频链接过滤词": ".html#=http"
         }
+},
+{ 
+  "key": "小熊猫",
+  "name": "🐼小熊猫", 
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": {
+	  "请求头":"手机",
+	  "简介":"小橙子为你介绍剧情介绍:+description\">&&</div>",
+	  "数组":"module-item\">&&module-item-text",
+	  "图片":"data-src=\"&&\"",
+	  "副标题":"video-class\">&&</span>",
+	  "分类url":"https://jxhwsl.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+	  "分类":"短剧$99#电视剧$79#电影$61#动漫$93#综艺$88"
+         }
 },
 {
   "key": "Dm84",
