@@ -2707,14 +2707,6 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/爱上你听书网[听].js"
 },
 {
-  "key": "播客",
-  "name": "🍊播客听歌",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/drpy2.min.js",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/播客.js"
-},
-{
   "key": "hipy_js_贝乐虎[儿]",
   "name": "🐅贝乐虎",
   "type": 3,
