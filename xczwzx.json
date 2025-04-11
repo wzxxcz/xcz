@@ -2608,6 +2608,20 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/蓝莓短剧.js"
 },
 {
+  "key": "评书",
+  "name": "🍊评书随听",
+  "type": 3,
+  "searchable": 0,
+  "style": {
+		"type": "rect",
+		"ratio": 1.597
+	   },
+  "quickSearch": 0,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/评书.json"
+}, 
+{
   "key": "有声小说js",
   "name": "🎧有声小说",
   "type": 3,
