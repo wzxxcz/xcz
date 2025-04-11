@@ -184,6 +184,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
+	        "name": "小橙子央卫港秒播",
+                "type":0,
+ 	        "url": "https://d.kstore.dev/download/13923/%E6%8E%A8%E6%B5%81-150+%281%29.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
 	        "name": "小橙子肥羊",
                 "type":0,
  	        "url": "http://nas.suntao.online:35455/tv.m3u",
