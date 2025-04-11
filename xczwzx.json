@@ -2669,6 +2669,89 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/中华听书网[听].js"
 },
 {
+  "key": "博看听书",
+  "name": "🍊听书博看",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "changeable": 0,
+  "style": {
+            "type": "rect",
+            "ratio": 1
+           },
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/博看听书.js"
+},
+{
+  "key": "六月听书",
+  "name": "🍊听书六月",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "changeable": 0,
+  "style": {
+             "type": "rect",
+             "ratio": 1
+           },
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/六月听书.js"
+},
+{
+  "key": "hipy_js_爱上你听书网[听]",
+  "name": "🍊爱上听书",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/爱上你听书网[听].js"
+},
+{
+  "key": "hipy_js_贝乐虎[儿]",
+  "name": "🐅贝乐虎",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/贝乐虎[儿].js"
+},
+{
+  "key": "csp_XYQHiker_兔小贝",
+  "name": "🐇兔小贝",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/兔小贝.json"
+},
+{
+  "key": "csp_XYQHiker_兔小贝2",
+  "name": "🐇兔贝儿",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 0,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/兔小贝2.json"
+},
+{
+  "key": "csp_XYQHiker_播视童趣",
+  "name": "🍊童趣",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/播视童趣.json"
+},
+{
   "key": "有声小说js",
   "name": "🎧有声小说",
   "type": 3,
