@@ -2579,6 +2579,7 @@
   "name":"🍊免费剧",
   "type":3,
   "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
