@@ -2622,6 +2622,18 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/评书.json"
 }, 
 {
+  "key": "hipy_js_一曲肝肠断",
+  "name": "🍊梨园春",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xmbjm.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/一曲肝肠断.js"
+},
+{
   "key": "有声小说js",
   "name": "🎧有声小说",
   "type": 3,
