@@ -1428,18 +1428,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "4K剧院",
-  "name": "🍊4K剧院",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/4K影院.js"
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2541,6 +2529,18 @@
                 //http://123kubo.net/show/1/area/{area}/by/{by}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html
                 "分类": "电视剧$2#电影$1#综艺$3#动漫$4"
         }
+},
+{
+  "key": "4K剧院",
+  "name": "🍊4K剧院",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/4K影院.js"
 },
 {
   "key": "Dm84",
