@@ -2563,7 +2563,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./XBPQ/开尔短剧.json"
+  "ext": "https://xcz.funly.us/XBPQ/开尔短剧.json"
 },
 {
   "key": "吉吉短剧",
@@ -2571,7 +2571,7 @@
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "https://xcz.funly.us/spider.jar",
-  "ext": "./XBPQ/吉吉短剧.json"
+  "ext": "https://xcz.funly.us/XBPQ/吉吉短剧.json"
 },
 {
   "key": "短剧王",
@@ -2582,7 +2582,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "./XBPQ/短剧王.json"
+  "ext": "https://xcz.funly.us/XBPQ/短剧王.json"
 },
 {
   "key": "偷乐短剧",
