@@ -1432,6 +1432,7 @@
             "name": "🍊极速采集",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/",
+	    "jar": "https://xcz.funly.us/spider.jar",
             "searchable": 1,
             "changeable": 1,
             "categories": [
