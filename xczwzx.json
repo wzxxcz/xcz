@@ -1428,16 +1428,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "魔抓采集资源",
-  "name": "🍊魔抓采集",
-  "type": 1,
-  "api": "https://mozhuazy.com/api.php/provide/vod/",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "playerType": 1,
-  "searchable": 1,
-  "changeable": 1
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2679,6 +2669,16 @@
                 "纪录片",
                 "动漫电影"
             ]
+},
+{
+  "key": "魔抓采集资源",
+  "name": "🍊魔抓采集",
+  "type": 1,
+  "api": "https://mozhuazy.com/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "playerType": 1,
+  "searchable": 1,
+  "changeable": 1
 },
 {
   "key": "Dm84",
