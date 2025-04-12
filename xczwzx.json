@@ -1453,6 +1453,15 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key": "豆瓣采集资源",
+  "name": "🍊豆瓣采集",
+  "type": 1,
+  "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+  "playerType": 1,
+  "searchable": 1,
+  "changeable": 1
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
