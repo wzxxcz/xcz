@@ -1357,6 +1357,21 @@
   "filterable":0
 },
 {
+  "key":"huarenoktv",
+  "name":"🍊华人直播️",
+  "type":1,
+  "api":"https://huaren.live/api.php/tvbox",
+  "jar": "https://github.com/wzxxcz/CatVodSpider/raw/7b76dc4523bd01cc1459c3de588de233f0aa2e6a/jar/custom_spider.jar",
+  "playUrl":"json:https://parse.okhuaren.com/?url=",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "header":{
+            "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Referer":"test"
+           }
+},
+{
   "key": "6v",
   "name":"🎃New6V磁力",
   "type": 3,
