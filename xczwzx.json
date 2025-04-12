@@ -1453,6 +1453,22 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key": "可米影视",
+  "name": "🍊可米影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": {
+             "数组": "默认--s6 m&&</a>||首页--<article&&</article>[不包含:实测副业项目]",
+             "标题": "title=\"&&\"",
+             "图片": "data-src=\"&&\"",
+             "副标题": "text\">&&<",
+             "链接": "href=\"&&\"",
+             "分类": "电影$2#电视剧$1#综艺$4#短剧$39",
+             "分类url": "https://kimivod.com/vod/show/id/{cateId}/page/{catePg}.html"
+         }
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
