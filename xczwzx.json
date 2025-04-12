@@ -1453,6 +1453,15 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key": "旺旺采集资源",
+  "name": "🍊短剧采集",
+  "type": 1,
+  "api": "https://api.wwzy.tv/api.php/provide/vod/",
+  "playerType": 1,
+  "searchable": 1,
+  "changeable": 1
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
