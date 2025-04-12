@@ -2603,6 +2603,17 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/美柏.json"
 },
 {
+  "key": "大米影视",
+  "name": "🍊大米影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/大米星球.json"
+},
+{
   "key": "极速采集",
   "name": "🍊极速采集",
   "type": 1,
