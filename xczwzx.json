@@ -1453,23 +1453,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "游子影视",
-  "name": "🍊游子影视",
-  "type": 3,
-  "searchable": 1,
-  "filterable": 1,
-  "quickSearch": 1,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": {
-           "请求头": "User-Agent$MOBILE_UA",
-           "编码": "UTF-8",
-           "分类url": "https://youzisp.tv/vodshow/{cateId}--------{catePg}---.html",
-           "分类": "电影$dianying#电视剧$dianshiju#纪录片$jilupian#动漫$dongman#综艺$zongyi",
-           "简介": "小橙子提醒您,水印广告勿信谨防诈骗。"
-         }
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2629,6 +2612,23 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/大米星球.json"
+},
+{
+  "key": "游子影视",
+  "name": "🍊游子影视",
+  "type": 3,
+  "searchable": 1,
+  "filterable": 1,
+  "quickSearch": 1,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": {
+           "请求头": "User-Agent$MOBILE_UA",
+           "编码": "UTF-8",
+           "分类url": "https://youzisp.tv/vodshow/{cateId}--------{catePg}---.html",
+           "分类": "电影$dianying#电视剧$dianshiju#纪录片$jilupian#动漫$dongman#综艺$zongyi",
+           "简介": "小橙子提醒您,水印广告勿信谨防诈骗。"
+         }
 },
 {
   "key": "极速采集",
