@@ -1345,7 +1345,17 @@
            "Cloud-drive": "tvfan/Cloud-drive.txt",
            "from": "4k|auto"
          }
-},	  
+},
+{
+  "key":"黑木影视",
+  "name":"黑木影视",
+  "type":1,
+  "api":"https://heimuer.ggff.net/api.php/tvbox",
+  "jar": "https://github.com/FongMi/CatVodSpider/raw/7b76dc4523bd01cc1459c3de588de233f0aa2e6a/jar/custom_spider.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":0
+},
 {
   "key": "6v",
   "name":"🎃New6V磁力",
