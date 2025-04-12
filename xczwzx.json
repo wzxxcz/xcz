@@ -1457,6 +1457,7 @@
   "name": "🍊豆瓣采集",
   "type": 1,
   "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+  "jar": "https://xcz.funly.us/spider.jar",
   "playerType": 1,
   "searchable": 1,
   "changeable": 1
