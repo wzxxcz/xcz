@@ -1453,33 +1453,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "csp_68",
-  "name": "🍊六八影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/68.json"
-},
-{
-  "key": "可米影视",
-  "name": "🍊可米影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": {
-             "数组": "默认--s6 m&&</a>||首页--<article&&</article>[不包含:实测副业项目]",
-             "标题": "title=\"&&\"",
-             "图片": "data-src=\"&&\"",
-             "副标题": "text\">&&<",
-             "链接": "href=\"&&\"",
-             "分类": "电影$2#电视剧$1#综艺$4#短剧$39",
-             "分类url": "https://kimivod.com/vod/show/id/{cateId}/page/{catePg}.html"
-         }
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2655,6 +2628,22 @@
            "分类url": "https://youzisp.tv/vodshow/{cateId}--------{catePg}---.html",
            "分类": "电影$dianying#电视剧$dianshiju#纪录片$jilupian#动漫$dongman#综艺$zongyi",
            "简介": "小橙子提醒您,水印广告勿信谨防诈骗。"
+         }
+},
+{
+  "key": "可米影视",
+  "name": "🍊可米影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": {
+             "数组": "默认--s6 m&&</a>||首页--<article&&</article>[不包含:实测副业项目]",
+             "标题": "title=\"&&\"",
+             "图片": "data-src=\"&&\"",
+             "副标题": "text\">&&<",
+             "链接": "href=\"&&\"",
+             "分类": "电影$2#电视剧$1#综艺$4#短剧$39",
+             "分类url": "https://kimivod.com/vod/show/id/{cateId}/page/{catePg}.html"
          }
 },
 {
