@@ -1453,20 +1453,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "星河影视",
-  "name": "🍊星河影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
-  "ext": {
-           "请求头": "User-Agent$MOBILE_UA",
-           "编码": "UTF-8",
-           "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#",
-           "分类url": "http://www.szthd.com/show/{cateId}-{class}-{by}------{catePg}---/",
-           "简介": "小橙子提醒您,广告勿信"
-         }
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2684,6 +2670,20 @@
             "分类url": "https://www.gzwanmei.com/class/{cateId}-{catePg}.html",
             "简介": "小橙子提醒您,广告勿信"
         }
+},
+{
+  "key": "星河影视",
+  "name": "🍊星河影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+  "ext": {
+           "请求头": "User-Agent$MOBILE_UA",
+           "编码": "UTF-8",
+           "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#",
+           "分类url": "http://www.szthd.com/show/{cateId}-{class}-{by}------{catePg}---/",
+           "简介": "小橙子提醒您,广告勿信"
+         }
 },
 {
   "key": "极速采集",
