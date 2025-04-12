@@ -1453,15 +1453,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "旺旺采集资源",
-  "name": "🍊短剧采集",
-  "type": 1,
-  "api": "https://api.wwzy.tv/api.php/provide/vod/",
-  "playerType": 1,
-  "searchable": 1,
-  "changeable": 1
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -3012,6 +3003,15 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/蓝莓短剧.js"
+},
+{
+  "key": "旺旺采集资源",
+  "name": "🍊短剧采集",
+  "type": 1,
+  "api": "https://api.wwzy.tv/api.php/provide/vod/",
+  "playerType": 1,
+  "searchable": 1,
+  "changeable": 1
 },
 {
   "key": "评书",
