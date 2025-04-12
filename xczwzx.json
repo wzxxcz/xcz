@@ -2148,14 +2148,15 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/腾讯弹幕.js"
 },
 {
-  "key": "lltv_QYDH",
+  "key": "奇艺弹幕",
   "name":"🍊爱奇艺(官)",
   "type": 3,
-  "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://yyrj.fun/bb/donghua/qiyi.js"
+  "order_num": 0,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/奇艺弹幕.js"
 },
 {
   "key": "优酷弹幕",
