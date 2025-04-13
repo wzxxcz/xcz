@@ -1462,17 +1462,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "大妹子影院",
-  "name": "🍊大妹影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/大妹子影院.json"
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2792,6 +2781,17 @@
 	  "分类":"电视剧&电影&综艺&动漫&动画片&短剧&香港电影",
 	  "分类值":"2&1&3&4&36&40&37"
         }
+},
+{
+  "key": "大妹子影院",
+  "name": "🍊大妹影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/大妹子影院.json"
 },
 {
   "key": "极速采集",
