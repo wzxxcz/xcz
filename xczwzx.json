@@ -1462,6 +1462,19 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key": "全网看",
+  "name": "🍊全网影院",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext":{
+	  "请求头":"手机",
+	  "简介":"剧情介绍：+stui-content_desc col-pd clearfix\">&&</div>",
+	  "分类url":"https://www.qkw1.com/qkwshow/{cateld}-{area}--{class}-----{catePg}---{year}.html",
+	  "分类":"短剧$duanju#电视剧$tv#电影$dy#动漫$dm#综艺$zy"
+       }
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
