@@ -1462,18 +1462,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "一帆影视",
-  "name": "🍊一帆影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": {
-	  "简介":"剧情介绍:+details-content-all\">&&</span>",
-	  "分类url": "https://aiyf.pages.dev/ayf_show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d0",
-	  "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-         }
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2753,6 +2741,18 @@
 	  "分类url":"https://www.qkw1.com/qkwshow/{cateld}-{area}--{class}-----{catePg}---{year}.html",
 	  "分类":"短剧$duanju#电视剧$tv#电影$dy#动漫$dm#综艺$zy"
        }
+},
+{
+  "key": "一帆影视",
+  "name": "🍊一帆影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": {
+	  "简介":"剧情介绍:+details-content-all\">&&</span>",
+	  "分类url": "https://aiyf.pages.dev/ayf_show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d0",
+	  "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+         }
 },
 {
   "key": "极速采集",
