@@ -1453,17 +1453,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "csp_68",
-  "name": "拾光☪六八影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/68.json"
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2709,6 +2698,17 @@
            "分类url": "https://www.jzey.org/search.php?page={catePg}&searchtype=5&order=commend&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
            "简介": "小橙子提醒您,广告勿信"
          }
+},
+{
+  "key": "csp_68",
+  "name": "🍊六八影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider20250410.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/68.json"
 },
 {
   "key": "极速采集",
