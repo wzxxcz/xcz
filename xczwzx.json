@@ -1462,20 +1462,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key":"喝茶 ",
-  "name":"🍊喝茶影视 ",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "ext":{
-	  "播放标题":"🍊小橙子+>&&</a>",
-	  "分类url":" https://www.shpdchysc.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-	  "分类":"电视剧&电影&综艺&动漫&动画片&短剧&香港电影",
-	  "分类值":"2&1&3&4&36&40&37"
-        }
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2781,6 +2767,20 @@
            "分类url": "https://www.jzey.org/search.php?page={catePg}&searchtype=5&order=commend&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
            "简介": "广告勿信"
          }
+},
+{
+  "key":"喝茶 ",
+  "name":"🍊喝茶影视 ",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "ext":{
+	  "播放标题":"🍊小橙子+>&&</a>",
+	  "分类url":" https://www.shpdchysc.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+	  "分类":"电视剧&电影&综艺&动漫&动画片&短剧&香港电影",
+	  "分类值":"2&1&3&4&36&40&37"
+        }
 },
 {
   "key": "极速采集",
