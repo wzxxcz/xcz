@@ -1462,16 +1462,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "首映网",
-  "name": "🍊首映网",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/py/首映网.py",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},    
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2729,6 +2719,16 @@
   "filterable": 1,
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/68.json"
 },
+{
+  "key": "首映网",
+  "name": "🍊首映网",
+  "type": 3,
+  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/py/首映网.py",
+  "jar": "https://xcz.funly.us/spider20250410.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},    
 {
   "key": "极速采集",
   "name": "🍊极速采集",
