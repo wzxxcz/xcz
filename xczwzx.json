@@ -1497,32 +1497,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key":"电影天堂",
-  "name":"🍊天堂影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{
-	  "请求头":"User-Agent$MOBILE_UA",
-	  "编码":"UTF-8",
-	  "主页url":"https://www.bjfmjj.com",
-	  "数组":"myui-vodbox-content&&</a>",
-	  "标题":"title\">&&<",
-	  "图片":"src=\"&&\"",
-	  "副标题":"text-overflow\">&&<",
-	  "链接":"href=\"&&\"",
-	  "影片年代":"/year/*.html\">&&</a>",
-	  "影片地区":"地区：&&</a",
-	  "影片类型":"text-overflow\">&&</div",
-	  "跳转播放链接":"var player_*\"url\":\"&&\"",
-	  "分类url":"https://www.bjfmjj.com/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-	  "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$19"
-       }
-},	  
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2898,6 +2872,32 @@
                 "类型": "大陆鬼片$6#日韩鬼片$7#林正英鬼片$8#港台鬼片$9#泰国鬼片$10#欧美鬼片$11||空||空||国产剧$12#美剧$13#韩剧$14#日剧$15#泰剧$16#港台剧$20#其他剧$22"
             }
 },
+{
+  "key":"电影天堂",
+  "name":"🍊天堂影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{
+	  "请求头":"User-Agent$MOBILE_UA",
+	  "编码":"UTF-8",
+	  "主页url":"https://www.bjfmjj.com",
+	  "数组":"myui-vodbox-content&&</a>",
+	  "标题":"title\">&&<",
+	  "图片":"src=\"&&\"",
+	  "副标题":"text-overflow\">&&<",
+	  "链接":"href=\"&&\"",
+	  "影片年代":"/year/*.html\">&&</a>",
+	  "影片地区":"地区：&&</a",
+	  "影片类型":"text-overflow\">&&</div",
+	  "跳转播放链接":"var player_*\"url\":\"&&\"",
+	  "分类url":"https://www.bjfmjj.com/show/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+	  "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$19"
+       }
+},	  
 {
   "key": "极速采集",
   "name": "🍊极速采集",
