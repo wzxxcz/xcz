@@ -1497,17 +1497,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "csp_鲨鱼影视",
-  "name": "🦈鲨鱼影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "./0930/鲨鱼影视.json"
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
