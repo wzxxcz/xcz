@@ -1497,6 +1497,17 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key":"csp_xBPQ_全能影院",
+  "name":"🍊全能影院",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/1024/全能影视.json"
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
