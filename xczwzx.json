@@ -2839,16 +2839,6 @@
   "filterable": 0
 },
 {
-  "key": "py_悠悠",
-  "name": "🍊悠悠影视",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/py/悠悠.py",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
-{
   "key": "极速采集",
   "name": "🍊极速采集",
   "type": 1,
