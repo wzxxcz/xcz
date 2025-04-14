@@ -1506,7 +1506,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/采集之王.js?type=url&params=../lib/采集静态.json"
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89lib/采集静态.json"
 },
 {
   "key": "神车",
@@ -1964,15 +1964,23 @@
   "api": "csp_FreeOkGuard",
   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335"	
 },	  
-{
-  "key":"来看影视",
+{ 
+  "key": "来看点播",
   "name": "💐来看1080P",
   "type":3,
-  "api":"csp_Lkdy",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "ext": {
+	  "简介" :"剧情介绍:+check selected\">&&</div>",
+	  "数组":"public-list-div public-list-bj\">&&</div></div>",
+	  "图片":"data-src=\"&&\"",
+	  "标题":"time-title hide ft4\" href=*>&&</a>",
+	  "副标题":"public-list-subtitle cor5 hide ft2\">&&",
+	  "线路数组":"<a class=\"swiper-slide&&</span>",
+	  "播放数组":"anthology-list-play&&</ul>",
+	  "分类url":"https://lkvod.me/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	  "分类":"电视剧$2#电影$1#动漫$4#综艺$3"
+        }
 },
 {
   "key": "莉莉",
