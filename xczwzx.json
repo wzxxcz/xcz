@@ -1497,17 +1497,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "明星影院",
-  "name": "🍊明星影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/明星影院.json"
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -2938,6 +2927,17 @@
   "quickSearch":1,
   "filterable":1,
   "ext":"https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/1024/蝌蚪影视.json"
+},
+{
+  "key": "明星影院",
+  "name": "🍊明星影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/明星影院.json"
 },
 {
   "key": "极速采集",
