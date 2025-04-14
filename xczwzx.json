@@ -1497,18 +1497,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "hipy_js_采集之王",
-  "name": "🍊采集之王",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89lib/采集静态.json"
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
