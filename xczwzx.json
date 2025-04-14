@@ -1497,6 +1497,17 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key":"csp_xBPQ_魅影影院",
+  "name":"🍊魅影影院",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"./1024/魅影视频.json"
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
