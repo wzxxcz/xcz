@@ -1515,17 +1515,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key":"94影院",
-  "name":"🍊九四影视",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://git.acwing.com/xcz/cc1/-/blob/master/%E6%8B%BE%E5%85%89/0831/94影院.json"
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
