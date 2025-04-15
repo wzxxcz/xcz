@@ -1515,6 +1515,17 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key": "八天电影",
+  "name": "🍊八天影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/八天电影.json"
+},	  
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
