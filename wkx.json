@@ -1515,19 +1515,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "特殊在线",
-  "name": "🍊高清在线",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": {
-           "简介": "小橙子剧情介绍: +stui-pannel_bd\">&&</div>",
-           "线路数组": "stui-pannel__head bottom-line active clearfix\">&&</div>",
-           "分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-           "分类": "特色$ts#惊喜$jx"
-         }
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
