@@ -1515,20 +1515,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "星陈影院",
-  "name": "🍊星陈影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/blob/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
-  "ext": {
-            "请求头": "User-Agent$MOBILE_UA",
-            "编码": "UTF-8",
-            "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$37#邵氏电影$38#电影解说$39",
-            "分类url": "https://www.cxszdi.com/vodtype/{cateId}-{catePg}.html",
-            "简介": "小橙子提醒您,广告勿信"
-         }
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
