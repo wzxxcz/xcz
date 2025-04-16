@@ -1542,15 +1542,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "人人",
-  "name": "🍊人人影视",
-  "type": 3,
-  "api": "csp_Xdai",
-  "jar": "https://xcz.funly.us/spider20250411.jar",
-  "playerType": 1,
-  "ext": "jaHR0cHM6Ly9zdmlwMS5mdW58bGFvZGllc2Rhd3Nzd2FzZHxsYW9kaWVzZGF3c3N3YXNkfDI5OGU1ZmUyOWM3NGIzNWFhYmI5ODM2ZWUyZjZmNDQ5ZnwxMDU="
-},	  
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -3161,6 +3152,15 @@
            "分类url": "https://www.qingtingyy.com/vodshow/{cateId}--------{catePg}---.html",
            "分类": "伦理$36"
          }
+},
+{
+  "key": "人人",
+  "name": "🍊人人影视",
+  "type": 3,
+  "api": "csp_Xdai",
+  "jar": "https://xcz.funly.us/spider20250411.jar",
+  "playerType": 1,
+  "ext": "jaHR0cHM6Ly9zdmlwMS5mdW58bGFvZGllc2Rhd3Nzd2FzZHxsYW9kaWVzZGF3c3N3YXNkfDI5OGU1ZmUyOWM3NGIzNWFhYmI5ODM2ZWUyZjZmNDQ5ZnwxMDU="
 },	  
 {
   "key": "极速采集",
