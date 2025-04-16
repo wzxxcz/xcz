@@ -2137,7 +2137,7 @@
   "name":"💡猎手影视",
   "type":3,
   "api":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/猎手影视.py",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "jar": "https://xcz.funly.us/spider20250411.jar",
   "searchable":1,
   "changeable":1,
   "quickSearch":1,
