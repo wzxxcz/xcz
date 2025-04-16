@@ -1542,14 +1542,6 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
-  "key": "永乐影视",
-  "name": "🍊永乐影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider20250411.jar",
-  "ext": "https://xcz.funly.us/XBPQ/永乐影视.json"
-},
-{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
@@ -3169,7 +3161,15 @@
   "jar": "https://xcz.funly.us/spider20250411.jar",
   "playerType": 1,
   "ext": "jaHR0cHM6Ly9zdmlwMS5mdW58bGFvZGllc2Rhd3Nzd2FzZHxsYW9kaWVzZGF3c3N3YXNkfDI5OGU1ZmUyOWM3NGIzNWFhYmI5ODM2ZWUyZjZmNDQ5ZnwxMDU="
-},	  
+},
+{
+  "key": "永乐影视",
+  "name": "🍊永乐影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider20250411.jar",
+  "ext": "https://xcz.funly.us/XBPQ/永乐影视.json"
+},
 {
   "key": "极速采集",
   "name": "🍊极速采集",
