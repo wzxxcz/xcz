@@ -1542,6 +1542,14 @@
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
 {
+  "key": "永乐影视",
+  "name": "🍊永乐影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/spider20250411.jar",
+  "ext": "https://xcz.funly.us/XBPQ/永乐影视.json"
+},
+{
   "key": "神车",
   "name": "🐻小熊秒播",
   "type": 3,
