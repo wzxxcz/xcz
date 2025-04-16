@@ -1976,11 +1976,12 @@
   "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgUMrJ+kztENaDom6MWpmmvbZdw38U+pT14qEwywuRW7eny/HInm+UXxpCyI8e5D7Y4kc2n0QBkeQ2Tk5Y0atLMuupC2ZGF68+oMVeX0Px9e9ODSiSspzQH/Rg1Sz5CHp0GKozVTjPIZHhO159i7A1HwZ+kk77Eh0E7AnBTt6qVBX5G+murD+CKjMLYo6MMmsE"
 },
 {
-  "key":"金牌影视",
+  "key": "csp_Jpys",
   "name": "🥇金牌1080P",
-  "type":3,
-  "api":"csp_Jpys",
-  "jar": "https://xcz.funly.us/wzxo20250406.php"
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_JpysGuard",
+  "jar": "https://xcz.funly.us/wzxm20250416.jar"
 },
 {
   "key":"尘落影视",
