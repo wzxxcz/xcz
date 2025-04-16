@@ -1491,16 +1491,6 @@
   "filterable": 1
 },
 {
-  "key": "电影天堂",
-  "name": "🍊电影天堂磁力",
-  "type": 3,
-  "api": "csp_DyGod",
-  "jar": "https://xcz.funly.us/spider20250411.jar",	
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},	  
-{
   "key": "zxzj",
   "name": "🍊在线秒播",
   "type": 3,
