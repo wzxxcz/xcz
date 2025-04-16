@@ -1479,7 +1479,17 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},	  
+},
+{
+  "key": "迅雷吧",
+  "name": "🍊迅雷吧磁力",
+  "type": 3,
+  "api": "csp_Xunlei8",
+  "jar": "https://xcz.funly.us/spider20250411.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},	  	  
 {
   "key": "zxzj",
   "name": "🍊在线秒播",
@@ -1541,16 +1551,6 @@
   "api": "csp_LiteAppleGuard",
   "jar": "https://xcz.funly.us/wzxm20250402.jar"
 },
-{
-  "key": "迅雷吧",
-  "name": "🍊迅雷吧磁力",
-  "type": 3,
-  "api": "csp_Xunlei8",
-  "jar": "https://xcz.funly.us/spider20250411.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},	  
 {
   "key": "神车",
   "name": "🐻小熊秒播",
