@@ -1215,15 +1215,30 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/大玩.json?"
 },
 {
-  "key":"至臻",
+  "key": "csp_Netfixtv",
   "name": "🏆️至臻4K4K",
-  "type":3,
-  "api":"csp_PanWebShare",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/zz.json?"
+  "type": 3,
+  "changeable": "0",
+  "quickSearch": 1,
+  "api": "csp_DuopanGuard",
+  "jar": "https://xcz.funly.us/wzxm20250416.jar",
+  "filterable": 1,
+  "ext": {
+          "site_urls": [
+          "https://mihdr.top",
+          "https://www.mihdr.top",
+          "http://www.miqk.cc",
+          "https://www.zhizhenpan.fun/"
+        ],
+        "url_key": "Netfixtv",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 400,
+          "threads": 12
+        }
+      }
 },
 {
   "key": "小米",
