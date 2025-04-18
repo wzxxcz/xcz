@@ -1648,7 +1648,8 @@
   "name": "🍄比特秒播",
   "type": 3,
   "api": "csp_BttwooGuard",
-  "jar": "https://xcz.funly.us/wzxf.txt",
+  "jar": "https://xcz.funly.us/wzxf20250415.txt",
+  "timeout": 10,
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 1
