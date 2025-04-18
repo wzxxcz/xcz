@@ -945,11 +945,18 @@
   "key": "玩偶",
   "name": "🐲小橙子智能4K弹幕",
   "type": 3,
-  "api": "csp_PanWebShare",
+  "api": "csp_WoGGGuard",
+  "jar": "https://xcz.funly.us/wzxf20250418.txt",
+  "timeout": 30,
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/玩偶.json?"
+  "changeable": 0,
+  "ext": {
+           "Cloud-drive": "tvfan/Cloud-drive.txt",
+           "from": "4k|auto",
+           "siteUrl": "https://www.wogg.com/",
+           "danMu": "弹"
+         }
 },
 {
   "key":"csp_Netfixtv",
