@@ -845,23 +845,6 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/种子音乐[听].js"
 },
 {
-  "key": "MTV",
-  "name": "🎧明星MV",
-  "type": 3,
-  "api": "csp_BiliGuard",
-  "jar": "https://xcz.funly.us/wzxf.txt",	
-  "style": {
-             "type": "rect",
-             "ratio": 1.597
-           },
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0,
-  "ext": {
-           "json": "https://gh-proxy.com/https://raw.gitmirror.com/wzxxcz/fty/refs/heads/main/MTV.json"
-         }
-},
-{
    "key": "hipy_js_蜻蜓FM",
    "name": "🦟蜻蜓FM",
    "type": 3,
