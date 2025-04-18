@@ -1412,6 +1412,22 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/pan1.json?"
 },
 {
+  "key": "趣盘",
+  "name": "🍊百度4K",
+  "type": 3,
+  "api": "csp_PanWebQu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "style": {
+             "type": "list",
+             "ratio": 1.433
+           },
+  "ext": {
+           "url": "https://www.qupanshe.com"
+         }
+},
+{
   "key": "Lib",
   "name": "🌟立播秒播",
   "type": 3,
