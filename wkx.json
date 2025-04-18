@@ -120,6 +120,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
+	        "name": "AKTVfe",
+                "type":0,
+ 	        "url": "https://fel.forxhr.top:2022/down.php/554d49b4beb024a1c32d7cf11906c3f5.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
 	        "name": "小橙子GAT",
                 "type":0,
  	        "url": "https://fel.forxhr.top:2022/down.php/2a295525d70cfc8430749aca104fc9aa.txt",
