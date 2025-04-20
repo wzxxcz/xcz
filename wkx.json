@@ -1858,6 +1858,18 @@
   "ext": "uqGL1bNENExT9fFAy5mE5qU="
 },
 {
+  "key": "奥特",
+  "name": "🏝奥特多线",
+  "type": 3,
+  "api": "csp_AueteGuard",
+  "jar": "https://xcz.funly.us/wzxf20250419.txt",
+  "timeout": 10,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "https://auete.com/"
+},
+{
   "key": "厂长",
   "name": "📔厂长不卡",
   "type": 3,
