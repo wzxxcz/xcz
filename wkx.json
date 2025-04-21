@@ -40,6 +40,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
+                "name": "小橙子台湾1",
+                "type": 0,
+                "url": "http://free.cnlive.club/litv.m3u",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
                 "name": "小云",
                 "url": "https://xcz.funly.us/tvbus/xiaoyun.m3u",
                 "core": {
@@ -959,39 +968,29 @@
          }
 },
 {
-  "key": "csp_woog",
+  "key":"csp_woog",
   "name": "🐲小橙子4K弹幕",
-  "type": 3,
-  "changeable": "0",
-  "api": "csp_DuopanGuard",
-  "filterable": 1,
-  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp",
-  "ext": {
-          "site_urls": [
-          "https://woog.nxog.eu.org",
-          "https://woog.xn--dkw.xn--6qq986b3xl"
-        ],
-        "url_key": "woog",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 300,
-          "threads": 12
+  "type":3,
+  "changeable":"0",
+  "api":"csp_DuopanGuard",
+  "filterable":1,
+  "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;fa597cba42d4c5c2a88f61bbfd1937eb",
+  "ext":{
+	  "site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],
+	  "url_key":"woog","threadinfo":{"chunksize":242,"threads":10}
         }
-      }
 },
 {
-  "key": "欧哥",
+  "key":"欧哥",
   "name":"🐲小橙子4K弹幕备",
-  "type": 3,
-  "api": "csp_PanWebShare",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp",
-  "ext": "https://gh-proxy.com/raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/og.json?"
+  "type":3,
+  "api":"csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/og.json?"
 },
 {
   "key":"欧uc",
@@ -1111,20 +1110,17 @@
         }
 },
 {
-  "key": "csp_woogkk",
+  "key":"csp_woogkk",
   "name":"🐲夸快非会员4k",
-  "type": 3,
-  "api": "csp_woog",
-  "changeable": 0,
-  "searchable": 1,
-  "filterable": 1,
-  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp",
-  "ext": {
-          "site_urls": [
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.xn--dkw.xn--6qq986b3xl"
-        ]
-      }
+  "type":3,
+  "changeable":"0",
+  "api":"csp_woog",
+  "filterable":1,
+  "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;468e5883e1e500c3003b24ee8b6d0dcd",
+  "ext":{
+	  "site_urls":["hhttps://ogkk.nxog.eu.org","https://ogkk.xn--dkw.xn--6qq986b3xl"],
+	  "url_key":"woogkk","threadinfo":{"chunksize":215,"threads":60}
+        }
 },
 {
   "key": "闪电",
@@ -1349,19 +1345,19 @@
   "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/ex.json?"
 },
 {
-  "key": "123",
+  "key":"Pan1",
   "name": "🍊1234K",
-  "type": 3,
-  "api": "csp_PanWebShareCloud123",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 1,
-  "style": {
-            "type": "list",
-            "ratio": 1.433
-           },
-  "ext": "./json/123.json?"
+  "type":3,
+  "api":"csp_PanWebShareCloud123",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "style":{
+	    "type":"list","ratio":1.433
+          },
+	    "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/pan1.json"
 },
 {
   "key": "盘库",
@@ -1664,7 +1660,7 @@
   "name":"💡苹果影视",
   "type":3,
   "api":"csp_LiteApple",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
@@ -1713,6 +1709,24 @@
   "ext": "http://api2.rinhome.com"
 },
 {
+  "key":"荐片",
+  "name":"💡荐片影视",
+  "api":"csp_Jianpian",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "type":3,
+  "playerType":1,
+  "ext":"http://api2.rinhome.com"
+},
+{
+  "key":"巧技",
+  "name":"💡巧巧影视",
+  "type":3,
+  "api":"csp_qiao2",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "playerType":2,
+  "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
+},
+{
   "key": "原创",
   "name": "☀原创不卡",
   "type": 3,
@@ -1729,16 +1743,16 @@
   "name":"💡移动影视",
   "type":3,
   "api":"csp_YDjisu",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "changeable":1
 },
 {
   "key":"蝴蝶",
-  "name":"💡蝴蝶影视",
+  "name":"🦋蝴蝶影视",
   "type":3,
   "api":"csp_Hudie",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "playerType":2,
   "ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
 },
@@ -1977,7 +1991,7 @@
   "name":"💡瓜子影视",
   "type":3,
   "api":"csp_Gz360",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
@@ -1991,15 +2005,22 @@
   "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
 },
 {
-  "key":"格格影视",
+  "key":"格格",
   "name":"💡格格影视",
   "type":3,
-  "api":"csp_AppGetApp",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0,
-  "ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDjMOcw67DnsOPwqXCnFdqwpnCmsOiw63DrsKjal9fwqrCpMKrwqfCq2tgXmHCssKrwqjCrcKqbWFhYcKpwqLDm8Opw6NhwqDCmMKgwqDCn8KawqDDg8KhwpnCpMKHw6jDpcOewqDCtFNXwpnCnsOiw6fDkMKqwqtsV1xQwqDDp8Ojw6nCoW1QV8KL5Ye+6YWb5pCf5ZGcwqblhp/kvYflkKdq5b+q6Ki56La+5ryJ562TwpBXXFDCoMK0w5/DrMOFwpjCqVdqwpnCmsObw6zDocKWwqjCmMKaw6TDp8OtwqrCrGdlZ2PCoMKfwprCoMK7wpjCo3nCpsKgwq3CmsKgw5vCpsKXwpPCqMOhw53DpcOtw61kYmRlwrDCpsKhwqXCmlrCmMKVwpHDncOYw6zDrMKhbVDCq1fDrsOmw5/Dq8KnwpTCl8KVwp7DrcKawrTCmcKhwoDCn8KqwpnDpcOfw5vCqMKvYWBQWMOQw5zDqMOdw6nCqsKjUH7DjcKTwqvCqcKoY2tQwofDosOhwrDCrcK1U8KoZmTCosKTwrvDqcOqwp/ClcKHwpXDm8K+w6PDrcKpaGNnXsKswqnCmsKhw4V7woR9fMKlwpPDpsOiw6XCmFB3wpXDnMOew6nCosKadsKYwqLCn8Omw5jCqcKqwqtlXmBewqnCocKqwpnDjcKUwpbCkcKiw6LCosKvwqzCsWFjZlfCpcKTwqHDmsOmwp/Cn8Knc8Orw6LDrcOsw4rCpcKfwqTCn8Ocw6LDpsOLw5/Cl8KZwqLClcOcw6fDrcKgwrRTwoTCosKlw57DsMKmwpnCoXXCkcKewpvDh8OUw7DCoMK0U1fnnKTmk53CoMKfwprCoMOewpjCk8KiwqnDqcOnw4XDnsOzWmpQV8Oww6jDs8OiwrBpZlfCrQ=="
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "playerType":2,
+  "ext":"jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTAvYXBpLnBocHxhc2djeGhqa3RzMTI0NTczfGFzZ2N4aGprdHMxMjQ1NzN8MTE5"
+},
+{
+  "key":"优质",
+  "name":"💡优质影视",
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "playerType":1,
+  "ext":"jaHR0cHM6Ly9sYnlzYXBpZHR5bWd4LjY4Lmd5OjE2Nzg5L2xieXNhcGlkdHltL2FwcC50eHR8YXBpYXBwbGJ5c2tleTE2OHxhcGlhcHBsYnlza2V5MTY4fDEwNw=="
 },
 {
   "key":"云端影视",
@@ -2027,8 +2048,8 @@
   "key":"爱看机器人",
   "name":"💡爱看影视",
   "type":3,
-  "api":"csp_IkanBot",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "api":"csp_Ikanbot",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
@@ -2082,10 +2103,10 @@
   "name":"💡光速影视",
   "type":3,
   "api":"csp_Xdai",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "playerType":1,
   "ext":"jaHR0cDovLzU5LjE1My4xNjcuMTM3Ojg4OTl8NGQ4M2I4N2M0YzVlYTExMXw0ZDgzYjg3YzRjNWVhMTExfDQ2Mg=="
-},	  
+},
 {
   "key": "csp_麻花",
   "name": "🍡麻花1080P",
@@ -2123,12 +2144,18 @@
   "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
 },
 {
-  "key": "csp_Jpys",
+  "key":"金牌影视PY",
   "name": "🥇金牌1080P",
-  "type": 3,
-  "quickSearch": 1,
-  "api": "csp_JpysGuard",
-  "jar": "https://xcz.funly.us/wzxm20250416.jar"
+  "type":3,
+  "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/plugin/html/金牌.py",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "playerType":2,
+  "ext":{
+	  "site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+        }
 },
 {
   "key": "人人",
@@ -2206,7 +2233,7 @@
   "name":"💡二三影视",
   "type":3,
   "api":"csp_Muou",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "playerType":2,
   "ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
 },
@@ -2239,7 +2266,7 @@
   "name": "🐰米兔1080P",
   "type":3,
   "api":"csp_Xdai",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "playerType":1,
   "ext":"jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
 },
@@ -2248,7 +2275,7 @@
   "name":"💡玉米影视",
   "type":3,
   "api":"csp_Xdai",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "playerType":1,
   "ext":"jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg=="
 },
@@ -2329,8 +2356,17 @@
   "name":"💡糯米影视",
   "type":3,
   "api":"csp_Wwys",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "ext":"https://www.wwgz.cn"
+},
+{
+  "key":"时常",
+  "name":"💡时常影视",
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "playerType":1,
+  "ext":"jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8YXNnY3hoamt0czEyNDU3M3xhc2djeGhqa3RzMTI0NTczfDEwMQ=="
 },
 {
   "key":"热播影视",
@@ -2750,15 +2786,12 @@
          }
 },
 {
-  "key": "雪糕影视",
+  "key":"雪糕影视",
   "name": "🍨雪糕影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/雪糕.json"
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/雪糕影视.json"
 },
 {
   "key": "hipy_js_巨人影院",
@@ -3322,12 +3355,12 @@
          }
 },
 {
-  "key": "永乐影视",
-  "name": "🍊永乐影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider20250411.jar",
-  "ext": "https://xcz.funly.us/XBPQ/永乐影视.json"
+  "key":"永乐影视",
+  "name":"🧿永乐影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/永乐影视.json"
 },
 {
   "key": "极速采集",
@@ -3606,17 +3639,17 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},	  
+},
 {
   "key":"稀饭动漫",
   "name":"🤣稀饭动漫",
   "type":3,
-  "api":"csp_AppGetApp",
-  "jar": "https://xcz.funly.us/wzxo.php",	
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "quickSearch":0,
   "filterable":0,
-  "ext":"w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw7HDoMKUwqDCoF3CqsKmwqrCrsKtbGBgZsKuwqHDncOow61hwpHCoF3DoMOow5vDp8Ohwq3CmMKfwqXCp8Ogw7PDqsOdwp/Cn8KlwpTCp8OWw6nDpsKpwprClcKkwpHDqcOjwqjDrcOywqdSXFLDgsOhw6PDrcORwqLCosKUUsKzwpXCnMKlwpzCp8KZwqBSwrPClcOV5Ye+6YWi5o+Y5ZCTXOWGnOS+kOWRqsK05b+q6KmA6LW35ruA56yJwo3Cm8KfwpzCusOfwqZ7wpXCqcKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8K7wpjCo3nCpsKbwq3CnMKqw7PCjWLCg8Kgw6fCrMOlw6vDqMKtwoZ7wp/CvMKVwqbCm8ONwpzCpMKVwoXDq8OfwpzCs8KcVcKt"
+  "ext":"jaHR0cHM6Ly94ZmFwcC0xMzA1MzkwMDY1LmNvcy5hcC1ndWFuZ3pob3UubXlxY2xvdWQuY29tL2dldGFwcC50eHR8MXlaMlNwbjlrcm56VktvQ3wxeVoyU3BuOWtybnpWS29DfDEwMA=="
 },
 {
   "key": "mutefun",
@@ -3634,21 +3667,21 @@
   "name":"🤣咕咕动漫",
   "type":3,
   "api":"csp_Xdai",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",	
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "playerType":1,
   "ext":"jaHR0cHM6Ly93d3cuZ3VndTMuY29tfG5LZlo4S1g2SlROV1J6VER8bktmWjhLWDZKVE5XUnpURHw0MDE="
-},	  
+},
 {
-  "key": "️曼波动漫",
+  "key":"曼波动漫",
   "name": "🍼曼波动漫",
-  "type": 3,
-  "api": "csp_AppGetApp",
-  "jar": "https://xcz.funly.us/PizazzGY.php",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvCnF9SwoPCmcOtw5jDj8Orw6ZValLCmMOtw6fDqsOswrRiX8KRwqDDqcKhw6nDpsOpwpnCpcKeYcKnw6fDqcOpwqnClMKgwplew6nDm8OqwpvCplXCpMKZwqDCm8KtwpzDlOWHv+mEm+aPleWQk1zlh6XkvorlkbHCs+W/q+inuei1tOa7gOesicOWwpXCpsKbwrvCmMKje8KVw7LClcK0wpvCsGnClMKTY8KpwqzDncObw5/CmMKTwpFkwq7Cp8KcwqXCnHTClcKjecOvwpXCtMKbwrBpwpTCk2PCqcKsw53Dm8OfwpjCk8KRZMKuwqfCnMO2"
-},	  
+  "type":3,
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "searchable":1,
+  "quickSearch":0,
+  "filterable":0,
+  "ext":"jaHR0cHM6Ly9hcHAub21vZnVuMS50b3AvYXBpLnBocHw2NmRjMzA5Y2JlZWNhNDU0fDY2ZGMzMDljYmVlY2E0NTR8MTAw"
+},
 {
   "key": "去看吧",
   "name": "🍡看吧动漫",
@@ -3683,7 +3716,7 @@
   "name": "🌟星芽短剧",
   "type":3,
   "api":"csp_AppXY",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "quickSearch":0,
   "filterable":0
