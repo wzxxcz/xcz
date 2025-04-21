@@ -1153,14 +1153,15 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/虎斑.json?"
 },
 {
-  "key": "蜡笔",
+  "key":"蜡笔",
   "name": "👠蜡笔在线",
-  "type": 3,
-  "api": "csp_PanWebShare",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/蜡笔.json?"
+  "type":3,
+  "api":"csp_PanWebShare",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "changeable":1,
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/lb.json?"
 },
 {
   "key":"搜索弹幕",
@@ -1938,7 +1939,15 @@
   "api":"csp_AppFerr",
   "jar": "https://xcz.funly.us/wzxo20250406.php",	
   "ext":"sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA=="
-},	  
+},
+{
+  "key":"海纳影视",
+  "name":"🧿海纳影视",
+  "type":3,
+  "api":"csp_XBPQ",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/海纳影视.json"
+},
 {
   "key": "风听影视",
   "name": "🌀风听蓝光",
@@ -2023,16 +2032,14 @@
   "ext":"jaHR0cHM6Ly9sYnlzYXBpZHR5bWd4LjY4Lmd5OjE2Nzg5L2xieXNhcGlkdHltL2FwcC50eHR8YXBpYXBwbGJ5c2tleTE2OHxhcGlhcHBsYnlza2V5MTY4fDEwNw=="
 },
 {
-  "key":"云端影视",
+  "key":"云端",
   "name":"💡云端影视",
   "type":3,
-  "api":"csp_AppGetApp",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":0,
-  "ext":"w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCocKbwqTCpMKgw6zCrcKpwqjDs8KXwqnCo8KUw7LDocObw6bDo8KWwpTCn8Kdw5rDnMOow6fDm8KgwpVeZsKxwqHDocOywrRkYGZnwrHCosOdwrLDp2XCmsKjYsKywqvDssKxwqzCm2ZfwpzCssOgwrLDm8OyZWPCmmLDqMKlw6rCssOrYsKUwqnCnsOaw6DDo8Ocw57CosKdwpHCmcOnw6HDm8Omw59hwqTCqMKkwqDCn8KawqDDjcKcwqTClcKFw6vDn8KhwrPCmlpXXFDCoMK8w6jDosOuworCn8KiwpTCoMKtwprCoMOjwqHCmcKkwobCqsKkwrPCoMKmU1fCpMKZw6nCmsK0wpnCocKO5Ya16YSY5o+V5ZGcwp/lh6bkvpDlkbFt5b6h6Ke26LW05ryJ562Mw5fCoMKmU1dxwpXDrMK+w5/DssKhbVBXwpvCssOiwq3DqcKswpZowpJnw6bCpsO0wqnDqWtXXFDCoMK0w5/DrMODwqlXalDCoMOewrPDqMKtwqNiwpNow5vCqsOnwqzDtGPCn2hXwqXCk8Khw53Dn8KWwqLCqcKgw63CvsOfw7LCoW1QV8Knw67DrMOjwq/CsGlXwq0="
-},	  
+  "api":"csp_Xdai",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "playerType":2,
+  "ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+},
 {
   "key":"洽洽影视",
   "name":"💡洽洽影视",
@@ -2224,7 +2231,7 @@
   "name":"💡雨滴影视",
   "type":3,
   "api":"csp_Xdai",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "playerType":1,
   "ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
 },
