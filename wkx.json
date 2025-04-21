@@ -1393,7 +1393,7 @@
   "quickSearch":1,
   "filterable":1,
   "style":{"type":"list","ratio":1.433},
-  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/aliyunpansearch.json"
+  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/aliyunpansearch.json"
 },
 {
   "key": "雷鲸",
@@ -2338,8 +2338,8 @@
   "key":"猎手影视",
   "name":"💡猎手影视",
   "type":3,
-  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/猎手影视.py",
-  "jar": "https://xcz.funly.us/wzxo.php",
+  "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/猎手影视.py",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "changeable":1,
   "quickSearch":1,
@@ -2350,14 +2350,26 @@
   "key":"火车影视",
   "name":"💡火车影视",
   "type":3,
-  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/火车影视.py",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/plugin/app/火车太顺APP.py",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "changeable":1,
   "quickSearch":1,
   "filterable":1,
   "playerType":2
-},	  
+},
+{
+  "key":"边缘",
+  "name":"🧡边缘影视",
+  "type":3,
+  "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/plugin/app/边缘影视APP.py",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "searchable":1,
+  "changeable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "playerType":2
+},
 {
   "key":"糯米影视",
   "name":"💡糯米影视",
