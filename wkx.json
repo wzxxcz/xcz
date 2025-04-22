@@ -1940,12 +1940,12 @@
   "name": "😎浪酷蓝光",
   "type":3,
   "api":"csp_AppRJ",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",	
   "searchable":1,
   "quickSearch":1,
   "filterable":0,
-  "ext":"sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
-},
+  "ext":{"url":"http://v.lkuys.cn"}
+},	  
 {
   "key":"菲儿影视",
   "name":"💘菲菲弹幕",
