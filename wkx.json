@@ -2440,11 +2440,11 @@
   "name":"💡快看影视",
   "type":3,
   "api":"csp_Kuaikan",
-  "jar": "https://xcz.funly.us/wzxo20250420.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},
+},	  
 {
   "key":"一起影视",
   "name":"💡一起影视",
