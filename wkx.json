@@ -2402,11 +2402,11 @@
   "name":"💡热播影视",
   "type":3,
   "api":"csp_AppRJ",
-  "jar": "https://xcz.funly.us/wzxo20250406.php",
+  "jar": "https://xcz.funly.us/wzxo20250420.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":0,
-  "ext":"sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+  "ext":{"url":"http://v.rbotv.cn"}
 },
 {
   "key":"天天影视",
