@@ -106,6 +106,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
 	    {
+	        "name": "小橙子wwb521",
+                "type":0,
+ 	        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	    {
 	        "name": "优质央卫视",
                 "type":0,
  	        "url": "https://xcz.funly.us/优质央卫视.txt",
@@ -438,15 +447,6 @@
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
-	     {
-	        "name": "小橙子wwb521",
-                "type":0,
- 	        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-                "ua": "okhttp/3.15",
-                "playerType": 1,
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-	     },
 	     {
 	        "name": "小橙子港澳1",
                 "type":0,
