@@ -3533,20 +3533,6 @@
   "changeable": 1
 },
 {
-  "key":"NyaFun动漫",
-  "name":"🤣妮呀动漫",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{
-	  "分类url":"https://nyafun.cc/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-	  "分类":"TV动画$20#国漫$24#日漫$23#美漫$25#剧场版$21"
-        }
-},
-{
   "key":"动漫大全",
   "name":"🤣大全动漫",
   "type":3,
