@@ -1646,16 +1646,6 @@
   "changeable": 1
 },
 {
-  "key":"韩小圈",
-  "name":"💡韩小影视",
-  "type":3,
-  "api":"csp_HanXiaoQuan",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1
-},
-{
   "key": "苹果",
   "name": "🍎苹果不卡",
   "type": 3,
