@@ -2160,19 +2160,13 @@
   "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
 },	  
 {
-  "key":"金牌影视PY",
+  "key": "csp_Jpys",
   "name": "🥇金牌1080P",
-  "type":3,
-  "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/plugin/html/金牌.py",
-  "jar": "https://xcz.funly.us/wzxo20250420.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "playerType":2,
-  "ext":{
-	  "site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-        }
-},
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_JpysGuard",
+  "jar": "https://xcz.funly.us/wzxm20250421.jar"	
+},	  
 {
   "key": "人人",
   "name": "⛄️人人1080P",
