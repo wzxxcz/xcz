@@ -115,6 +115,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	    {
+                "name": "小橙子v12",
+                "type": 0,
+                "url": "http://8.138.7.223/v12.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	    {
 	        "name": "优质央卫视",
                 "type":0,
  	        "url": "https://xcz.funly.us/优质央卫视.txt",
@@ -415,15 +424,6 @@
                 "name": "小橙子直播",
                 "type": 0,
                 "url": "https://gitee.com/jackie0158/tv1/raw/master/zy.txt",
-                "playerType": 1,
-                "ua": "okhttp/3",
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-             },
-	     {
-                "name": "小橙子v12",
-                "type": 0,
-                "url": "http://8.138.7.223/v12.txt",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
