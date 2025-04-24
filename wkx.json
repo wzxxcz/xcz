@@ -3220,6 +3220,20 @@
   "changeable": 1
 },
 {
+  "key": "哆啦新番社",
+  "name": "🤣哆啦新番社",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "style": {
+                "type": "list"
+           },
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/哆啦新番社.json"
+},
+{
   "key": "Anime1",
   "name": "🐾日本动漫",
   "type": 3,
