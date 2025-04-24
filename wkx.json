@@ -1787,17 +1787,6 @@
   "changeable": 1
 },
 {
-  "key": "溢彩",
-  "name": "💡溢彩秒播",
-  "type": 3,
-  "api": "csp_AppSxGuard",
-  "jar": "https://xcz.funly.us/wzxf.txt",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTplTombcqjS1xHcE9fpWUjrfFiL+kMh4cw4jGBLJBFjnM="
-},
-{
   "key": "兄弟",
   "name": "🍊水星多线",
   "type": 3,
