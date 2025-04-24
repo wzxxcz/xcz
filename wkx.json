@@ -1243,14 +1243,14 @@
         }
 },
 {
-  "key":"木偶",
+  "key": "木偶",
   "name": "🍁木偶资源4K弹幕",
-  "type":3,
-  "api":"csp_PanWebShare",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/mogg.json?"
+  "type": 3,
+  "api": "csp_PanWebShare",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/json/mogg.json"
 },
 {
   "key":"多多",
