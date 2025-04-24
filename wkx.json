@@ -2421,44 +2421,6 @@
       }
 },
 {
-      "key": "dcd",
-      "name": "🍊臭蛋蛋影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "作者": "小橙子",
-        "站名": "小橙子资源来源于网络侵权请联系删除",
-        "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
-        "编码": "UTF-8",
-        "图片代理": "0",
-        "主页url": "https://cddys1.me",
-        "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-        "数组": "<a&&</div></a>",
-        "链接": "href=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "副标题": "module-item-note\">&&<",
-        "线路数组": "data-dropdown&&</div>",
-        "线路标题": "🍊小橙子推荐+<span>&&</+【共+<small>&&<+集】",
-        "播放数组": "class=\"module-play-list-content&&</div>",
-        "播放标题": ">&&</a>",
-        "简介": "🍊小雅为您介绍剧情+剧情:&&\">",
-        "导演": "",
-        "主演": "",
-        "首页": "20",
-        "起始页": "1",
-        "直接播放": "0",
-        "嗅探词": ".mp4#.m3u8",
-        "分类url": "/vodshow/{cateId}--------{catePg}---{year}.html;;mrcd0",
-        "分类": "电影🍊&剧集🍊&综艺🍊&动漫🍊",
-        "分类值": "1&2&3&4"
-      }
-},
-{
   "key": "大师兄影视",
   "name": "🤡大师兄影视",
   "type": 3,
@@ -2598,29 +2560,6 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/巨人弹幕.js"
 },
 {
-  "key": "hipy_js_4k剧院",
-  "name": "🍊4k剧院",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/drpy2.min.js",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 6,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/4k剧院.js"
-},
-{
-  "key": "348影视",
-  "name": "🍊348影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/348.json"
-},
-{
   "key": "123影视",
   "name": "🍊123影视",
   "type": 3,
@@ -2646,18 +2585,6 @@
         }
 },
 {
-  "key": "4K剧院",
-  "name": "🍊4K剧院",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/4K影院.js"
-},
-{
   "key": "Vidhub视频",
   "name": "🍊视频库",
   "type": 3,
@@ -2667,19 +2594,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/Vidhub.json"
-},
-{ 
-  "key": "人人影视", 
-  "name": "🍊人缘影视", 
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": {
-	  "请求头":"手机",
-	  "简介":"剧情介绍:+module-info-introduction-content\">&&</div>",
-	  "分类url":"https://svip1.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-	  "分类":"短剧$24#电视剧$21#电影$20#动漫$22#综艺$23"
-         }
 },
 {
   "key": "美柏",
