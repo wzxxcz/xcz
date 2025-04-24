@@ -106,6 +106,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
 	    {
+	        "name": "小橙子高速",
+                "type":0,
+ 	        "url": "http://api.mytv666.top/lives/free.php?type=txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+	    {
 	        "name": "小橙子wwb521",
                 "type":0,
  	        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt",
