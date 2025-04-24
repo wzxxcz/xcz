@@ -1719,14 +1719,6 @@
   "jar": "https://xcz.funly.us/wzxm20250421.jar"
 },
 {
-  "key": "随客影视",
-  "name": "🍊随客影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/xczsvip.jar",
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/随客影视.json"
-},
-{
   "key": "贱贱",
   "name": "🐭荐片P2P",
   "type": 3,
@@ -3029,6 +3021,14 @@
   "api":"csp_XBPQ",
   "jar": "https://xcz.funly.us/wzxo20250420.php",
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/永乐影视.json"
+},
+{
+  "key": "随客影视",
+  "name": "🍊随客影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/随客影视.json"
 },
 {
   "key": "极速采集",
