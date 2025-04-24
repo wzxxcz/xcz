@@ -3669,6 +3669,18 @@
   "changeable": 0
 },
 {
+  "key": "看球PY",
+  "name": "⚽球球看球",
+  "type": 3,
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/py/球球.py",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "searchable": 1,
+  "changeable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2
+},		
+{
       "key": "阿里云盘",
       "name": "🍊我的阿里",
       "type": 3,
