@@ -1513,6 +1513,17 @@
          }
 },
 {
+  "key": "影探影视",
+  "name": "🍊影探影视",
+  "type": 3,
+  "api": "csp_AppYsV2",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://csjt.lyyytv.cn/api.php/app/"
+},
+{
   "key": "夸搜",
   "name": "😻夸搜夸父",
   "type": 3,
