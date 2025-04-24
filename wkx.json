@@ -2651,17 +2651,6 @@
          }
 },
 {
-  "key": "csp_Voflix",
-  "name": "🍊Voflix影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/voflix.json"
-},
-{
   "key": "星空影院",
   "name": "🍊星空影院",
   "type": 3,
@@ -2690,20 +2679,6 @@
          }
 },
 {
-  "key": "星极影院",
-  "name": "🍊星极影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
-  "ext": {
-           "请求头": "User-Agent$MOBILE_UA",
-           "编码": "UTF-8",
-           "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-           "分类url": "https://www.jzey.org/search.php?page={catePg}&searchtype=5&order=commend&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-           "简介": "小橙子提醒您,广告勿信"
-         }
-},
-{
   "key": "csp_68",
   "name": "🍊六八影视",
   "type": 3,
@@ -2725,45 +2700,6 @@
   "filterable": 0
 }, 
 {
-  "key": "全网看",
-  "name": "🍊全网影院",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext":{
-	  "请求头":"手机",
-	  "简介":"剧情介绍：+stui-content_desc col-pd clearfix\">&&</div>",
-	  "分类url":"https://www.qkw1.com/qkwshow/{cateld}-{area}--{class}-----{catePg}---{year}.html",
-	  "分类":"短剧$duanju#电视剧$tv#电影$dy#动漫$dm#综艺$zy"
-       }
-},
-{
-  "key": "一帆影视",
-  "name": "🍊一帆影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": {
-	  "简介":"剧情介绍:+details-content-all\">&&</span>",
-	  "分类url": "https://aiyf.pages.dev/ayf_show/{cateId}-{area}--{class}-----{catePg}---{year}.html;;d0",
-	  "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-         }
-},
-{
-  "key": "星性影院",
-  "name": "🍊星性影院",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/jar/xyqxbpq.jar",
-  "ext": {
-           "请求头": "User-Agent$MOBILE_UA",
-           "编码": "UTF-8",
-           "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-           "分类url": "https://www.jzey.org/search.php?page={catePg}&searchtype=5&order=commend&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
-           "简介": "广告勿信"
-         }
-},
-{
   "key":"喝茶 ",
   "name":"🍊喝茶影视 ",
   "type":3,
@@ -2776,27 +2712,6 @@
 	  "分类":"电视剧&电影&综艺&动漫&动画片&短剧&香港电影",
 	  "分类值":"2&1&3&4&36&40&37"
         }
-},
-{
-  "key": "大妹子影院",
-  "name": "🍊大妹影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/大妹子影院.json"
-},
-{
-  "key": "py_hitv",
-  "name": "🍊Hitv影视",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/py/py_hitv.py",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
 },
 {
   "key": "鬼片之家②",
@@ -2967,17 +2882,6 @@
   "ext":"https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0831/理理影院.json"
 },
 {
-  "key": "猫眼影视",
-  "name": "🐈猫眼影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/猫眼影视.json"
-},
-{
   "key":"csp_xBPQ_魅影影院",
   "name":"🍊魅影影院",
   "type":3,
@@ -3047,17 +2951,6 @@
            "编码": "UTF-8",
            "分类url": "https://m.wnszgcc.com/vsjiusw/{cateId}-{area}--{class}-----{catePg}---{year}.html",
            "分类": "电影$6#电视剧$2#综艺$3#动漫$4"
-         }
-},
-{
-  "key": "蜻蜓伦理",
-  "name": "🦟蜻蜓影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "ext": {
-           "分类url": "https://www.qingtingyy.com/vodshow/{cateId}--------{catePg}---.html",
-           "分类": "伦理$36"
          }
 },
 {
@@ -3171,16 +3064,6 @@
                 "纪录片",
                 "动漫电影"
             ]
-},
-{
-  "key": "魔抓采集资源",
-  "name": "🍊魔抓采集",
-  "type": 1,
-  "api": "https://mozhuazy.com/api.php/provide/vod/",
-  "jar": "https://xcz.funly.us/spider.jar",
-  "playerType": 1,
-  "searchable": 1,
-  "changeable": 1
 },
 {
   "key": "卧龙采集资源",
