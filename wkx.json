@@ -845,28 +845,6 @@
   "ext": "https://gitee.com/wzbdyr/xcz/raw/master/lib/live.json"
 },
 {
-  "key": "ss直播",
-  "name": "🍊小橙子SS直播",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/ss直播.js"
-},
-{
-  "key": "hipy_js_36直播[密]",
-  "name": "🍊小橙子36直播",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/36直播[密].js"
-},
-{
   "key": "csp_Kugou",
   "name": "🎤酷狗音乐",
   "type": 3,
@@ -933,16 +911,6 @@
    "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/蜻蜓FM.js"
 },
 {
-  "key": "js_a8音乐",
-  "name": "🦟国内FM",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/广播迷FM[听].js"
-},
-{
   "key": "央视大全",
   "name": "🍊央视大全",
   "type": 3,
@@ -974,17 +942,6 @@
   "filterable": 1,
   "order_num": 0,
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视新闻.js"
-},
-{
-  "key": "央视少儿",
-  "name": "🍊央视少儿",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/drpy_libs/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/js/央视少儿.js"
 },
 {
   "key": "央视综合",
