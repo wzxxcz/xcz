@@ -809,6 +809,21 @@
   "searchable": 0
 },
 {
+  "key": "预告",
+  "name": "🍊新片预告",
+  "type": 3,
+  "api": "csp_DouBan",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 0
+},
+{
+  "key": "本地",
+  "name": "🍊本地视频",
+  "type": 3,
+  "api": "csp_LocalFile",
+  "jar": "https://xcz.funly.us/xczsvip.jar"
+},	  	  
+{
   "key": "配置中心",
   "name": "🍊配置中心",
   "type": 3,
@@ -821,6 +836,20 @@
              "ratio": 1.618
            }
 },
+{
+  "key": "配置中心1",
+  "name": "🍊其他配置",
+  "type": 3,
+  "api": "csp_Config",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "searchable": 0,
+  "changeable": 0,
+  "indexs": 0,
+  "style": {
+                "type": "rect",
+                "ratio": 1.597
+           }
+},	  
 {
   "key": "hipy_js_好趣网",
   "name": "🍊小橙子电视",
@@ -3212,16 +3241,17 @@
   "filterable":0
 },
 {
-  "key":"河马短剧",
+  "key": "河马短剧",
   "name": "🦛河马短剧",
-  "type":3,
-  "api":"csp_AppHMDJ",
-  "jar": "https://xcz.funly.us/wzxo.php",	
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "ext":"KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
-},	  
+  "type": 3,
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/py/河马短剧.py",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "changeable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2
+},
 {
   "key": "csp_AppXY",
   "name": "🐸上头短剧",
