@@ -1719,14 +1719,6 @@
   "jar": "https://xcz.funly.us/wzxm20250421.jar"
 },
 {
-  "key": "可可影视",
-  "name": "🍊可可影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/xczsvip.jar",
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/可可影视.json"
-},	  
-{
   "key": "贱贱",
   "name": "🐭荐片P2P",
   "type": 3,
@@ -2431,6 +2423,14 @@
   "changeable":1,
   "ext":{"danmu":true}
 },
+{
+  "key": "可可影视",
+  "name": "🍊可可影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/可可影视.json"
+},	  
 {
   "key": "华为采集资源",
   "name": "🍊华为吧",
