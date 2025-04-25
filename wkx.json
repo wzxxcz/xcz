@@ -3185,7 +3185,98 @@
         "日韩动漫",
         "国产剧"
       ]
-},	  
+},
+{
+  "key": "魔抓采集资源",
+  "name": "🦅魔抓采集",
+  "type": 1,
+  "api": "https://mozhuazy.com/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "playerType": 1,
+  "searchable": 1,
+  "changeable": 1
+},
+{
+  "key": "量子资源",
+  "name": "🍊量子采集",
+  "type": 1,
+  "api": "https://cj.lziapi.com/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "changeable": 1,
+  "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+},
+{
+  "key": "最大采集",
+  "name": "🍊最大采集",
+  "type": 1,
+  "api": "https://zuida.xyz/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "quickSearch": 1,
+  "searchable": 1,
+  "changeable": 1,
+  "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧"
+      ]
+},
+{
+  "key": "天涯资源网",
+  "name": "🍊天涯采集",
+  "type": 1,
+  "api": "https://tyyszyapi.com/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "quickSearch": 1,
+  "searchable": 1,
+  "changeable": 1,
+  "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧"
+      ]
+},
+{
+  "key": "四个圈采集",
+  "name": "🍊四圈采集",
+  "type": 1,
+  "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "quickSearch": 1,
+  "searchable": 1,
+  "changeable": 1,
+  "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧"
+      ]
+},
 {
   "key": "Dm84",
   "name": "🚌巴士动漫",
