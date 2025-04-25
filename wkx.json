@@ -1719,6 +1719,21 @@
   "jar": "https://xcz.funly.us/wzxm20250421.jar"
 },
 {
+  "key": "天翼资源网",
+  "name": "🍊天翼采集",
+  "type": 1,
+  "api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "playUrl": "",
+  "searchable": 1,
+  "quickSearch": 1,
+  "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧"
+      ]
+},	  
+{
   "key": "贱贱",
   "name": "🐭荐片P2P",
   "type": 3,
