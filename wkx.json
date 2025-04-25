@@ -1604,6 +1604,17 @@
          }
 },
 {
+  "key": "团长",
+  "name": "🍊团长4K弹幕",
+  "type": 3,
+  "api": "csp_PanWebTz",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1
+},	  
+{
   "key": "影探影视",
   "name": "🍊影探影视",
   "type": 3,
