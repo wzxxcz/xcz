@@ -1613,7 +1613,22 @@
   "quickSearch": 1,
   "filterable": 1,
   "changeable": 1
-},	  
+},
+{
+  "key": "夸父",
+  "name": "🍊夸父4K",
+  "type": 3,
+  "api": "csp_PanWebShareCloudKF",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "style": {
+                "type": "list",
+                "ratio": 1.433
+           },
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/json/kf.json"
+},
 {
   "key": "影探影视",
   "name": "🍊影探影视",
