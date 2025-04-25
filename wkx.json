@@ -1816,6 +1816,15 @@
   "jar": "https://xcz.funly.us/wzxm20250421.jar"
 },
 {
+  "key": "电影1",
+  "name": "🎬电影影视",
+  "type": 3,
+  "api": "csp_Xdai",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "playerType": 1,
+  "ext": "jaHR0cHM6Ly9jOHcyb3Y3dTV3ZzJ6MW84cDIxYy5hbGl5dW5jcy5jbGljazoyNzg5OXxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
+},
+{
   "key": "贱贱",
   "name": "🐭荐片P2P",
   "type": 3,
