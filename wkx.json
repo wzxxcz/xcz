@@ -2440,7 +2440,15 @@
   "playerType": 1,
   "searchable": 1,
   "changeable": 1
-},	  	  
+},
+{
+  "key": "泥巴影视",
+  "name": "🍊泥巴影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/泥巴影视.json"
+},
 {
   "key": "天空影院",
   "name": "🍊天空影院",
@@ -3276,6 +3284,22 @@
         "日韩动漫",
         "国产剧"
       ]
+},
+{
+  "key": "白嫖采集",
+  "name": "🍊白嫖采集",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+           "分类": "电影&剧集&综艺&动漫&短剧",
+           "分类值": "1&2&3&4&58",
+           "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"
+         }
 },
 {
   "key": "Dm84",
