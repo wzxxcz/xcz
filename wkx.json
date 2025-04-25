@@ -1763,17 +1763,6 @@
   "ext":"http://api2.rinhome.com"
 },
 {
-  "key": "80S",
-  "name": "🍊80S磁力",
-  "type": 3,
-  "api": "csp_BLSGod",
-  "jar": "https://xcz.funly.us/xczsvip.jar",
-  "playerType": 1,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1
-},
-{
   "key":"巧技",
   "name":"💡巧巧影视",
   "type":3,
