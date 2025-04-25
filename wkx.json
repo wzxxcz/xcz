@@ -3437,6 +3437,21 @@
             ]
 },
 {
+  "key": "豪华采集",
+  "name": "🍊豪华采集",
+  "type": 1,
+  "api": "https://hhzyapi.com/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "quickSearch": 1,
+  "searchable": 1,
+  "changeable": 1,
+  "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧"
+      ]
+},
+{
   "key": "Dm84",
   "name": "🚌巴士动漫",
   "type": 3,
