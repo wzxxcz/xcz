@@ -1664,7 +1664,18 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1
-},	  	  
+},
+{
+  "key": "修罗影视",
+  "name": "🍊修罗磁力",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/修罗影视.json"
+},
 {
   "key": "zxzj",
   "name": "🍊在线秒播",
