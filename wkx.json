@@ -1675,7 +1675,18 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/修罗影视.json"
-},	  
+},
+{
+  "key": "80S",
+  "name": "🍊80S磁力",
+  "type": 3,
+  "api": "csp_BLSGod",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "playerType": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
 {
   "key": "zxzj",
   "name": "🍊在线秒播",
