@@ -1688,6 +1688,50 @@
   "filterable": 1
 },
 {
+  "key": "狐狸君",
+  "name": "🦊狐狸君磁力",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "changeable": 1,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/狐狸君.json"
+},
+{
+  "key": "电影港",
+  "name": "🍊电影港磁力",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XYQHiker/电影港.json"
+},
+{
+  "key": "电影天堂",
+  "name": "🍊电影天堂磁力",
+  "type": 3,
+  "api": "csp_DyGod",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
+  "key": "BT天堂",
+  "name": "🍊BT天堂磁力",
+  "type": 3,
+  "api": "csp_XYQHiker",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XYQHiker/BT天堂.json"
+},
+{
   "key": "zxzj",
   "name": "🍊在线秒播",
   "type": 3,
