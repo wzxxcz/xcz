@@ -1719,16 +1719,6 @@
   "jar": "https://xcz.funly.us/wzxm20250421.jar"
 },
 {
-  "key": "华为采集资源",
-  "name": "🍊华为吧",
-  "type": 1,
-  "api": "https://huawei8.live/api.php/provide/vod/",
-  "jar": "https://xcz.funly.us/xczsvip.jar",	
-  "playerType": 1,
-  "searchable": 1,
-  "changeable": 1
-},	  
-{
   "key": "贱贱",
   "name": "🐭荐片P2P",
   "type": 3,
@@ -2433,6 +2423,16 @@
   "changeable":1,
   "ext":{"danmu":true}
 },
+{
+  "key": "华为采集资源",
+  "name": "🍊华为吧",
+  "type": 1,
+  "api": "https://huawei8.live/api.php/provide/vod/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",	
+  "playerType": 1,
+  "searchable": 1,
+  "changeable": 1
+},	  	  
 {
   "key": "天空影院",
   "name": "🍊天空影院",
