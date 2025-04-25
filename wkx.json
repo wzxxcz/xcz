@@ -2225,14 +2225,14 @@
   "ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="
 },	  
 {
-  "key":"尘落影视",
+  "key": "尘落影视",
   "name":"💡尘落影视",
-  "type":3,
-  "api":"csp_Wetv",
-  "jar": "https://xcz.funly.us/wzxo20250420.php",
-  "searchable":1,
-  "quickSearch":1,
-  "ext":"https://v.wetv.wang"
+  "type": 3,
+  "api": "csp_Wetv",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "ext": "https://v.wetv.wang"
 },
 {
   "key": "csp_Wwys",
