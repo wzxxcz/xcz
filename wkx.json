@@ -2397,16 +2397,16 @@
   "playerType":2
 },
 {
-  "key":"边缘",
+  "key": "边缘影视",
   "name":"🧡边缘影视",
-  "type":3,
-  "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/plugin/app/边缘影视APP.py",
-  "jar": "https://xcz.funly.us/wzxo20250420.php",
-  "searchable":1,
-  "changeable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "playerType":2
+  "type": 3,
+  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/py/边缘影视.py",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 1,
+  "changeable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": 2
 },
 {
   "key":"糯米影视",
