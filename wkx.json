@@ -1448,16 +1448,15 @@
          }
 },
 {
-  "key": "云盘",
-  "name": "🍊云盘4K",
+  "key": "双子",
+  "name": "🍊子星4K",
   "type": 3,
   "api": "http://38.165.20.168/js/drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "changeable": 0,
-  "ext": "http://38.165.20.168/js/云盘.js"
+  "ext": "http://38.165.20.168/js/子星.js"
 },
 {
   "key":"聚搜",
