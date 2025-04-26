@@ -3252,31 +3252,14 @@
       ]
 },
 {
-  "key": "如意资源",
+  "key": "如意采集资源",
   "name": "🍊如意采集",
   "type": 1,
-  "api": "https://www.ryzy.tv/api.php/provide/vod/",
-  "jar": "https://xcz.funly.us/spider.jar",
+  "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "playerType": 1,
   "searchable": 1,
-  "changeable": 1,
-  "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "港澳剧",
-                "日剧",
-                "欧美剧",
-                "台湾剧",
-                "泰剧",
-                "韩剧",
-                "纪录片",
-                "动漫电影"
-            ]
+  "changeable": 1
 },
 {
   "key": "卧龙采集资源",
