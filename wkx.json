@@ -1338,7 +1338,7 @@
   "changeable": "0",
   "quickSearch": 1,
   "api": "csp_DuopanGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "filterable": 1,
   "ext": {
           "site_urls": [
@@ -1356,7 +1356,7 @@
           "threads": 16
         }
       }
-},	  
+},
 {
   "key": "小米",
   "name": "🍚小米4K",
@@ -1385,7 +1385,7 @@
   "quickSearch": 1,
   "changeable": "0",
   "api": "csp_MiSouGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar"
+  "jar": "https://xcz.funly.us/wzxm20250426.jar"
 },
 {
   "key": "六趣",
@@ -1426,7 +1426,7 @@
   "name": "🧸玩偶4K弹幕",
   "type": 3,
   "api": "csp_WoggGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "changeable": "0",
   "quickSearch": 1,
   "filterable": 1,
@@ -1448,15 +1448,30 @@
         }
 },
 {
-  "key":"二小",
-  "name":"❤二小4K弹幕",
-  "type":3,
-  "api":"csp_PanWebShare",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/ex.json?"
+  "key": "csp_Netfixtv2",
+  "name": "🐂二小4K弹幕",
+  "type": 3,
+  "changeable": "0",
+  "quickSearch": 1,
+  "api": "csp_DuopanGuard",
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
+  "filterable": 1,
+  "ext": {
+          "site_urls": [
+          "https://www.erixaopan.fun",
+          "http://erixaopan.fun/",
+          "https://erxiaofn.click/",
+          "https://www.xhww.net/"
+        ],
+        "url_key": "Netfixtv",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        }
+      }
 },
 {
   "key":"Pan1",
@@ -1860,7 +1875,7 @@
   "type": 3,
   "quickSearch": 1,
   "api": "csp_LiteAppleGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar"
+  "jar": "https://xcz.funly.us/wzxm20250426.jar"
 },
 {
   "key": "贱贱",
@@ -2123,8 +2138,8 @@
   "type": 3,
   "quickSearch": 1,
   "api": "csp_Gz360Guard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar"	
-},	  
+  "jar": "https://xcz.funly.us/wzxm20250426.jar"
+},
 {
   "key":"瓜子影视",
   "name":"💡瓜子影视",
@@ -2140,7 +2155,7 @@
   "name": "👟步步1080P",
   "type": 3,
   "api": "https://weixine.net/js/lib/drpy2.min.js",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ceshi.js"
 },
 {
@@ -2196,9 +2211,25 @@
   "name": "🏆悠悠1080P",
   "type": 3,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal"
-},	  
+},
+{
+  "key": "彼岸",
+  "name": "🏖比岸1080P",
+  "type": 3,
+  "api": "csp_AppGetGuard",
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
+  "ext": "sHR2rlsfjI4L3t4RXQMkn0ZmfVTKTXBPRcz0emJNw7ofdKrXcYSsYxd+Wx33O1guTCJnhWT9y6xEgCyBMIw94CLlNGtq6BJEkOVCq9ttOaO9qtIDqVoKWaP64OiREdtupLxA0J7QhaW/aVzqLTYtiBkkFECFOVZMtS4js16Zy5VuzNx7tiA9XJkfVM7fTrZdcY2aXPM6zXmgejmIvi3mUw=="
+},
+{
+  "key": "再看",
+  "name": "🔭再看1080P",
+  "type": 3,
+  "api": "csp_AppGetGuard",
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
+  "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38z7bvJQDA/gj8tVTCLdlHvgssqNDyUkkSbMM+DLFI84xCpUE24hJxHHQxh/6e5bg7jQ0uWTdELk4IH4xxKtfyyKWbccPYruj7hX+lPSpaWNjk1ibLuC4+KKQSKp68VHdSOka6yGYqgO2DLVooXxfsgtQ79Hg5Uc8KtD5/Oa6cAfcQ=="
+},
 {
   "key": "巧技",
   "name": "🚗巧记1080P",
@@ -2215,18 +2246,18 @@
   "type": 3,
   "quickSearch": 1,
   "api": "csp_AppRJGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
-},	  
+},
 {
   "key": "热热",
   "name": "🔥热热1080P",
   "type": 3,
   "quickSearch": 1,
   "api": "csp_AppRJGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
-},	  
+},
 {
   "key": "追剧",
   "name": "🏈追剧1080P",
@@ -2259,7 +2290,7 @@
   "type": 3,
   "quickSearch": 1,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgUMrJ+kztENaDom6MWpmmvbZdw38U+pT14qEwywuRW7eny/HInm+UXxpCyI8e5D7Y4kc2n0QBkeQ2Tk5Y0atLMuupC2ZGF68+oMVeX0Px9e9ODSiSspzQH/Rg1Sz5CHp0GKozVTjPIZHhO159i7A1HwZ+kk77Eh0E7AnBTt6qVBX5G+murD+CKjMLYo6MMmsE"
 },
 {
@@ -2276,25 +2307,25 @@
   "name": "🔎享趣1080P",
   "type": 3,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "sHR2rlsfjI4L3t4RXQMknzdNfEmX+jzXPZb/mKHyGEy2TNjdEVXKnEaZcfRUBxi7/nuHzmnprt8K+u6bJZhSGnE60tMgmxrHuYgcW7vPq9rk2vuaIUDPSHUm/i4T6w079JPylMWG75rjEhWmZO6BNHpX+SyayDRv9fun7Lu6t0sxMhXSR3ErwCmwbxtmx0SI"
-},	  
+},
 {
   "key": "csp_Jpys",
   "name": "🥇金牌1080P",
   "type": 3,
   "quickSearch": 1,
   "api": "csp_JpysGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar"	
-},	  
+  "jar": "https://xcz.funly.us/wzxm20250426.jar"
+},
 {
   "key": "人人",
   "name": "⛄️人人1080P",
   "type": 3,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="
-},	  
+},
 {
   "key": "尘落影视",
   "name":"💡尘落影视",
@@ -2311,26 +2342,26 @@
   "type": 3,
   "quickSearch": 1,
   "api": "csp_WwysGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "https://www.wwgz.cn"
-},	  
+},
 {
   "key": "csp_Lgyy",
   "name": "⏳️️流光1080P",
   "type": 3,
   "quickSearch": 1,
   "api": "csp_FreeOkGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar"	
-},	  
+  "jar": "https://xcz.funly.us/wzxm20250426.jar"
+},
 {
   "key": "光速1",
   "name": "🌟云端1080P",
   "type": 3,
   "quickSearch": 1,
   "api": "csp_AppGetGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE="
-},	  
+},
 { 
   "key": "来看点播",
   "name": "💐来看1080P",
@@ -3665,7 +3696,7 @@
   "type": 3,
   "quickSearch": 1,
   "api": "csp_AppXYGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar"	
+  "jar": "https://xcz.funly.us/wzxm20250426.jar"
 },
 {
   "key": "短剧网",
@@ -3869,7 +3900,7 @@
   "name": "📚听书BOOK",
   "type": 3,
   "api": "csp_TingBookGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "searchable": 1,
   "ext": "http://www.6yueting.com"
 },
@@ -3878,7 +3909,7 @@
   "name": "🚑急救教学",
   "type": 3,
   "api": "csp_FirstAidGuard",
-  "jar": "https://xcz.funly.us/wzxm20250421.jar",
+  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "searchable": 0,
   "style": {
              "type": "rect",
