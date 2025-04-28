@@ -875,11 +875,10 @@
 },
 {
   "key": "本地",
-  "name": "🍊本地视频",
+  "name": "🍊我的本地",
   "type": 3,
-  "api": "csp_LocalFile",
-  "jar": "https://xcz.funly.us/xczsvip.jar"
-},	  	  
+  "api": "csp_LocalFile"
+},
 {
   "key": "配置中心",
   "name": "🍊配置中心",
