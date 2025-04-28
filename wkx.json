@@ -1448,31 +1448,16 @@
         }
 },
 {
-  "key": "csp_Netfixtv2",
+  "key": "二小",
   "name": "🐂二小4K弹幕",
   "type": 3,
-  "changeable": "0",
+  "api": "csp_PanWebShare",
+  "searchable": 1,
   "quickSearch": 1,
-  "api": "csp_DuopanGuard",
-  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "filterable": 1,
-  "ext": {
-          "site_urls": [
-          "https://www.erixaopan.fun",
-          "http://erixaopan.fun/",
-          "https://erxiaofn.click/",
-          "https://www.xhww.net/"
-        ],
-        "url_key": "Netfixtv",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        }
-      }
-},
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/二小.json"
+},	  
 {
   "key":"Pan1",
   "name": "🍊1234K",
