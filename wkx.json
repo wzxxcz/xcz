@@ -2744,17 +2744,6 @@
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/lib/美柏.json"
 },
 {
-  "key": "大米影视",
-  "name": "🍊大米影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/大米星球.json"
-},
-{
   "key": "游子影视",
   "name": "🍊游子影视",
   "type": 3,
@@ -2815,27 +2804,6 @@
            "简介": "小橙子提醒您,广告勿信"
          }
 },
-{
-  "key": "csp_68",
-  "name": "🍊六八影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/68.json"
-},
-{
-  "key": "首映网",
-  "name": "🍊首映网",
-  "type": 3,
-  "api": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/py/首映网.py",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-}, 
 {
   "key":"喝茶 ",
   "name":"🍊喝茶影视 ",
@@ -3115,39 +3083,6 @@
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 0
-},
-{
-  "key": "极速采集",
-  "name": "🍊极速采集",
-  "type": 1,
-  "api": "https://jszyapi.com/api.php/provide/vod/",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "searchable": 1,
-  "changeable": 1,
-  "categories": [
-                "日剧",
-                "马泰剧",
-                "内地剧",
-                "欧美剧",
-                "香港剧",
-                "韩剧",
-                "台湾剧",
-                "恐怖片",
-                "动画片",
-                "剧情片",
-                "战争片",
-                "动作片",
-                "记录片",
-                "爱情片",
-                "喜剧片",
-                "科幻片",
-                "灾难片",
-                "悬疑片",
-                "犯罪片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫"
-            ]
 },
 {
       "key": "360zy",
@@ -3541,17 +3476,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0202/偷乐短剧.json"
-},
-{
-  "key":"xbpq_免费短剧",
-  "name":"🍊免费剧",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/spider20250410.jar",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0930/免费短剧.json"
 },
 {
   "key": "微云影视",
