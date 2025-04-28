@@ -1122,33 +1122,6 @@
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/og.json?"
 },
 {
-  "key":"欧uc",
-  "name":"🐲小橙子uc4K弹幕",
-  "type":3,
-  "api":"csp_PanWebShare",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/og2.json?"
-},	  
-{
-  "key": "欧歌uc",
-  "name": "🐲小橙子u汐弹幕",
-  "type": 3,
-  "api": "csp_oguc",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;d2ac87f70882f8f18f01dc9d8b616bde",
-  "ext": {
-           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-           "danmu": true
-         }
-},
-{
   "key": "欧歌夸快",
   "name": "🐲小橙子夸快弹幕",
   "type": 3,
@@ -1205,23 +1178,6 @@
         }
 },
 {
-  "key":"夸克多多弹幕",
-  "name":"🐲可欣uc弹幕",
-  "type":3,
-  "api":"csp_Wobg",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "quickSearch":1,
-  "changeable":1,
-  "filterable":1,
-  "ext":{
-	  "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
-	  "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-	  "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
-	  "site":"https://wooguc.nxog.eu.org",
-	  "danmu":true
-        }
-},
-{
   "key":"csp_woogkk",
   "name":"🐲夸快非会员4k",
   "type":3,
@@ -1275,20 +1231,6 @@
   "filterable":1,
   "changeable":1,
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/lb.json?"
-},
-{
-  "key":"搜索弹幕",
-  "name":"❤搜索弹幕",
-  "type":3,
-  "api":"csp_PanSearch",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "filterable":0,
-  "changeable":1,
-  "ext":{
-	  "token":"http://127.0.0.1:9978/file/TVbox/token.txt",
-	  "danmu":true
-        }
 },
 {
   "key": "木偶",
@@ -1431,21 +1373,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg9L+drzR5a6bo7DML9hTEHvIuMN0JxvcbUflFgvOz4etZ9cUsZ0b7NskUhkBZr0Id9PbDIgsZ9ekl9fNeS9q4Xipo9oU6Q5Q6atElwpmoHUGKPqBr5XvHEJiNqliypf3Ch+p8IfjaEUxnG3XYlNxjw3ciN36BLBmKbludBzyfsiGmglc5Hdmw/3KJo9M6OCUspScOAuOhnQIPCiP6a6PFuOOxS+7z5Z/FV0k3Ee9fQIVuwE7nNgRUFWRinsDSuhPjKBd/SrLfu0rxSNOfsukdYXkcvGadhMos8qXcpGJVZVLXOfgqfJkyrlbFa8XJWQ9m9bDjfSOZbHqtC5kNkxfArWP9v2MC2jUcC4cEXk8ANYyYBMcAfo/zIpXdTsEBNC3nyXfAz+PVcPD00bRb2eSgBaNi7EShnmcFJ07jecOaWoCcXiVUOJ6GEJa9G11HhGW4g="
-},
-{
-  "key":"夸克趣盘搜弹幕",
-  "name":"❤盘搜弹幕",
-  "type":3,
-  "api":"csp_QuPanSou",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":{
-	  "cookie":"http://127.0.0.1:9978/file/TVbox/quark.txt",
-	  "danmu":true
-        }
 },
 {
   "key": "二小",
@@ -2171,17 +2098,6 @@
   "ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
 },
 {
-  "key":"洽洽影视",
-  "name":"💡洽洽影视",
-  "type":3,
-  "api":"csp_AppGZ",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
-},
-{
   "key":"爱看机器人",
   "name":"💡爱看影视",
   "type":3,
@@ -2604,17 +2520,6 @@
   "type": 3,
   "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
   "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
-},
-{
-  "key":"三六零弹幕",
-  "name":"💘三六零弹幕",
-  "type":3,
-  "api":"csp_Sp360",
-  "jar": "https://xcz.funly.us/wzxo.php",
-  "searchable":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":{"danmu":true}
 },
 {
   "key": "可可影视",
@@ -3542,23 +3447,6 @@
   "quickSearch": 1,
   "changeable": 1
 },
-{
-  "key":"动漫大全",
-  "name":"🤣大全动漫",
-  "type":3,
-  "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo.php",	
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":{
-	  "简介":"⚠️小橙子特别提醒您⚠️请勿相信影片中的广告，以免上当受骗。+简介：&&</p>",
-	  "线路数组":"<aclass=\"hl-tabs-btnhl-slide-swiper\"&&</a>",
-	  "线路标题":"</i>&nbsp;&&</a>+集",
-	  "分类url":"https://dingdingdm.com/list/{cateId}-{catePg}.html",
-	  "分类":"动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"
-        }
-},	  
 {
   "key":"魔都资源",
   "name":"🤣魔都动漫",
