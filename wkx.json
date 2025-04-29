@@ -1116,9 +1116,9 @@
   "ext":{
 	  "site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],
 	  "url_key":"woog",
-	  "threadinfo":{"chunksize":228,"threads":10}
+	  "threadinfo":{"chunksize":216,"threads":10}
         }
-},	  
+},
 {
   "key":"欧哥",
   "name":"🐲小橙子4K弹幕备",
