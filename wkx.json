@@ -3084,6 +3084,7 @@
   "key": "极速资源",
   "name": "🍊极速采集",
   "type": 1,
+  "api": "https://jszyapi.com/api.php/provide/vod/",
   "jar": "https://xcz.funly.us/xczsvip.jar",
   "searchable": 1,
   "changeable": 1,
