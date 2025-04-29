@@ -2098,6 +2098,21 @@
   "ext":"jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTAvYXBpLnBocHxhc2djeGhqa3RzMTI0NTczfGFzZ2N4aGprdHMxMjQ1NzN8MTE5"
 },
 {
+  "key":"晴天",
+  "name":"💡晴天影视",
+  "type":3,
+  "quickSearch":1,
+  "api":"csp_AppGet",
+  "jar": "https://xcz.funly.us/wzxo20250428.php",
+  "ext":{
+	  "url":"https://appcms.sun4k.top",
+	  "dataKey":"b025dcd9c289cbb3",
+	  "dataIv":"b025dcd9c289cbb3",
+	  "deviceId":"",
+	  "version":""
+        }
+},
+{
   "key":"追忆",
   "name":"💡追忆影视",
   "type":3,
