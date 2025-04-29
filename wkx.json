@@ -2096,7 +2096,21 @@
   "jar": "https://xcz.funly.us/wzxo20250420.php",	
   "playerType":2,
   "ext":"jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTAvYXBpLnBocHxhc2djeGhqa3RzMTI0NTczfGFzZ2N4aGprdHMxMjQ1NzN8MTE5"
-},	  
+},
+{
+  "key":"追忆",
+  "name":"💡追忆影视",
+  "type":3,
+  "quickSearch":0,
+  "api":"csp_AppMiTo",
+  "jar": "https://xcz.funly.us/wzxo20250428.php",	
+  "ext":{
+	  "url":"http://110.42.7.130:1866",
+	  "dataKey":"aassddwwxxllsx1x",
+	  "playKey":"1bada76e67e1e7f9",
+	  "version":"1.2.0"
+        }
+},	  	  
 {
   "key":"优质",
   "name":"💡优质影视",
