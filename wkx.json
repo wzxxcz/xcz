@@ -1459,18 +1459,6 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/海绵.json?"
 },
 {
-  "key":"海绵",
-  "name":"❤海绵｜4K",
-  "type":3,
-  "api":"csp_PanWebShareCloudHM",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "style":{"type":"list","ratio":1.433},
-  "ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/hm.json"
-},
-{
   "key":"趣盘",
   "name":"🍊趣盘4K",
   "type":3,
