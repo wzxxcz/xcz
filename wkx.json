@@ -2117,12 +2117,13 @@
   "type":3,
   "quickSearch":1,
   "api":"csp_AppGet",
-  "jar": "https://xcz.funly.us/wzxo20250428.php",	
+  "jar": "https://xcz.funly.us/wzxo20250428.php",
   "ext":{
 	  "url":"https://apiapplbys.lbys.cc:5678",
 	  "dataKey":"apiapplbyskey168",
 	  "dataIv":"apiapplbyskey168",
-	  "deviceId":"","version":"107"
+	  "deviceId":"",
+	  "version":"107"
         }
 },
 {
