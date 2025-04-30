@@ -51,7 +51,8 @@
 	     {
                 "name": "小橙子台湾2",
                 "type": 0,
-                "url": "http://free.cnlive.club/litv.m3u",
+                "url": "http://cccccccoccccccc.ccccocccc.cc/uploads/TW.txt
+",
                 "playerType": 1,
                 "ua": "okhttp/3",
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -59,6 +60,15 @@
              },
 	     {
                 "name": "小橙子台湾3",
+                "type": 0,
+                "url": "http://free.cnlive.club/litv.m3u",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
+                "name": "小橙子台湾4",
                 "type": 0,
                 "url": "https://epg.pw/test_channels_taiwan.m3u",
                 "playerType": 1,
