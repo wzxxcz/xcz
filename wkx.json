@@ -1155,7 +1155,8 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/欧歌.json?"
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/欧歌.json"
 },
 {
   "key": "玩偶备用弹幕",
