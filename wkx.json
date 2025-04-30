@@ -1383,16 +1383,19 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/二小.json"
 },	  
 {
-  "key":"Pan1",
+  "key": "123",
   "name": "🍊1234K",
-  "type":3,
-  "api":"csp_PanWebShareCloud123",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "style":{"type":"list","ratio":1.433},
-  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/pan1.json"
+  "type": 3,
+  "api": "csp_PanWebShareCloud123",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "style": {
+            "type": "list",
+            "ratio": 1.433
+           },
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/123.json"
 },	  
 {
   "key": "盘库",
