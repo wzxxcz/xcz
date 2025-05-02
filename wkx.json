@@ -959,16 +959,6 @@
   "searchable": 0
 },
 {
-      "key": "update",
-      "name": "🎬️摸鱼┃电影┃预告",
-      "type": 3,
-      "api": "csp_YGPGuard",
-      "jar": "https://xcz.funly.us/moyu.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-{
   "key": "本地",
   "name": "🍊我的本地",
   "type": 3,
