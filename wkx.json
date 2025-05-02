@@ -194,15 +194,6 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
 	    {
-	        "name": "快直播体育",
-                "type":0,
- 	        "url": "https://xcz.funly.us/Download/kzbty.json",
-                "ua": "okhttp/3.15",
-                "playerType": 1,
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-	    },
-	    {
 	        "name": "V6范明明（需开启V6网络）",
                 "type":0,
  	        "url": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
