@@ -1867,14 +1867,6 @@
   "jar": "https://xcz.funly.us/wzxm20250426.jar"
 },
 {
-  "key": "面包影视",
-  "name": "🍞面包蓝光",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.funly.us/moyuer.php",
-  "ext": "https://xcz.funly.us/XBPQ/面包影视.json"
-},
-{
   "key": "贱贱",
   "name": "🐭荐片P2P",
   "type": 3,
@@ -2182,6 +2174,14 @@
   "searchable": 0,
   "changeable": 0,
   "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKewpvDncOpw57Cp8OnwphXXFDCoMOnw6PDqcKhbVBXwovlh77phZvmkJ/lkZzCpuWGn+S9h+WQp2rlv6roqLnotr7mvInnrZPCkFdcUMKgw5fDn8Ocw6zCrMKgwqR7w57DrMKhwrPCmlrCp8KlwqnDosKpwrDCr8KhwrA="
+},
+{
+  "key": "面包影视",
+  "name": "🍞面包蓝光",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/moyuer.php",
+  "ext": "https://xcz.funly.us/XBPQ/面包影视.json"
 },
 {
   "key": "步步",
