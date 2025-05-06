@@ -1518,27 +1518,6 @@
          }
 },
 {
-  "key": "双子",
-  "name": "🍊子星4K",
-  "type": 3,
-  "api": "http://38.165.20.168/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "http://38.165.20.168/js/子星.js"
-},
-{
-  "key": "双星",
-  "name": "🍊双星4K",
-  "type": 3,
-  "api": "http://38.165.20.168/js/cloud.min.js",
-  "ext": "http://38.165.20.168/js/双星.js",
-  "style": {
-             "type": "list"
-           }
-},
-{
   "key":"聚搜",
   "name": "🍊聚搜4K",
   "type":3,
