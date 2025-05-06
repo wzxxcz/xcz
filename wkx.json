@@ -1379,31 +1379,16 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/大玩.json?"
 },
 {
-  "key": "csp_Netfixtv",
+  "key": "至臻",
   "name": "🏆️至臻4K4K",
   "type": 3,
-  "changeable": "0",
+  "api": "csp_PanWebShare",
+  "searchable": 1,
   "quickSearch": 1,
-  "api": "csp_DuopanGuard",
-  "jar": "https://xcz.funly.us/wzxm20250426.jar",
   "filterable": 1,
-  "ext": {
-          "site_urls": [
-          "https://mihdr.top",
-          "https://www.mihdr.top",
-          "http://www.miqk.cc",
-          "https://www.zhizhenpan.fun"
-        ],
-        "url_key": "Netfixtv",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        }
-      }
-},
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/至臻.json"
+},	  
 {
   "key": "小米",
   "name": "🍚小米4K",
@@ -2643,18 +2628,6 @@
   "api": "https://gitee.com/wzbdyr/omg/raw/main/JS/drpy2.min.js",
   "ext": "https://gitee.com/wzbdyr/omg/raw/main/JS/优酷弹幕.js"
 },
-{
-  "key": "芒果",
-  "name": "🥭芒果(官)",
-  "type": 3,
-  "api": "http://38.165.20.168/js/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "http://38.165.20.168/js/芒果.js"
-},	  
 {
   "key": "搜狗",
   "name": "🍊搜狗(官)",
