@@ -1323,9 +1323,9 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "changeable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/json/hb.json"
-},
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/虎斑.json"
+},	  
 {
   "key":"蜡笔",
   "name": "👠蜡笔在线",
