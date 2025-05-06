@@ -1009,12 +1009,14 @@
   "searchable": 0
 },
 {
-  "key": "预告",
-  "name": "🍊新片预告",
+  "key": "YGP",
+  "name": "🍊小橙子新片预告",
   "type": 3,
-  "api": "csp_DouBan",
-  "jar": "https://xcz.funly.us/xczsvip.jar",
-  "searchable": 0
+  "api": "csp_YGPGuard",
+  "jar": "https://xcz.funly.us/wzxf20250504.txt",
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
 },
 {
   "key": "本地",
