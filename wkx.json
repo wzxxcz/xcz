@@ -155,7 +155,7 @@
              },
              {
                 "name": "yogurtTv",
-                "url": "https://xcz.funly.us/tvbus/yogurtTv.txt",
+                "url": "https://xcz.funly.us/tvbus/yogurtTvxcz20210311.txt",
                 "core": {
                          "auth": "local://tvbus",
                          "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
