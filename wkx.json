@@ -142,7 +142,7 @@
              },
 	     {
                "name": "小云TV直播",
-               "url": "https://xcz.funly.us/yogurtTvxcz202103111.txt",
+               "url": "https://xcz.funly.us/tvbus/yogurtTvxcz202103111.txt",
                "core": {
                          "auth": "local://tvbus",
                          "name": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
