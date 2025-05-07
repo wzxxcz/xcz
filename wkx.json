@@ -512,15 +512,6 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-	        "name": "AKTV5",
-                "type":0,
- 	        "url": "https://8142.kstore.space/1.txt",
-                "ua": "okhttp/3.15",
-                "playerType": 1,
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-	     },
-	     {
 	        "name": "AKTV6",
                 "type":0,
  	        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cqshushu/tvjk/refs/heads/main/gt.txt",
