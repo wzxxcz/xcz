@@ -1098,16 +1098,6 @@
   "changeable": 0
 },
 {
-      "key": "xpyg",
-      "name": "💖分享预告",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/lib/分享新片.json"
-    },
-
-{
   "key": "本地",
   "name": "🍊我的本地",
   "type": 3,
