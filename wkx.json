@@ -1108,18 +1108,17 @@
           ],
     
   "sites":[
-
 {
-      "key": "豆",
-      "name": "🍊小橙子影视欢迎您！",
-      "type": 3,
-      "api": "csp_DouDouGuard",
-      "jar": "https://xcz.funly.us/wzxf20250508.txt",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+  "key": "豆",
+  "name": "🍊小橙子影视欢迎您！",
+  "type": 3,
+  "api": "csp_DouDouGuard",
+  "jar": "https://xcz.funly.us/wzxf20250508.txt",
+  "indexs": 1,
+  "searchable": 0,
+  "quickSearch": 0,
+  "changeable": 0
+},
 {
   "key": "YGP",
   "name": "🍊小橙子新片预告",
