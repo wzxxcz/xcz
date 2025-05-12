@@ -1441,6 +1441,7 @@
   "name": "🐲小橙子夸克",
   "type": 3,
   "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
@@ -1494,22 +1495,25 @@
   "name": "🍛下饭4K弹幕",
   "type": 3,
   "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/下饭.json?"
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/下饭.json"
 },
 {
   "key": "虎斑",
   "name": "🐅虎斑4K弹幕",
   "type": 3,
   "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "changeable": 0,
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/虎斑.json"
-},	  
+},
 {
   "key": "蜡笔",
   "name": "👠蜡笔在线",
@@ -1551,32 +1555,37 @@
   "name": "🍊百家4K",
   "type": 3,
   "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/百家.json?"
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/百家.json"
 },
 {
   "key": "大玩",
   "name": "🍊大玩4K",
   "type": 3,
   "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/大玩.json?"
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/大玩.json"
 },
 {
   "key": "至臻",
   "name": "🏆️至臻4K4K",
   "type": 3,
   "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "changeable": 0,
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/至臻.json"
-},	  
+},
 {
   "key": "小米",
   "name": "🍚小米4K",
@@ -1645,27 +1654,29 @@
   "name": "🐂二小4K弹幕",
   "type": 3,
   "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "changeable": 0,
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/二小.json"
-},	  
+},
 {
   "key": "123",
   "name": "🍊1234K",
   "type": 3,
   "api": "csp_PanWebShareCloud123",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "changeable": 0,
   "style": {
-            "type": "list",
-            "ratio": 1.433
+                "type": "list",
+                "ratio": 1.433
            },
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/123.json"
-},	  
+},
 {
   "key": "盘库",
   "name": "🍊盘库4K",
@@ -1679,45 +1690,52 @@
          }
 },
 {
-  "key":"聚搜",
+  "key": "聚搜",
   "name": "🍊聚搜4K",
-  "type":3,
-  "api":"csp_PanWebSearch",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "style":{"type":"list","ratio":1.433},
-  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/aliyunpansearch.json"
+  "type": 3,
+  "api": "csp_PanWebSearch",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "style": {
+                "type": "list",
+                "ratio": 1.433
+           },
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/聚搜.json"
 },
 {
   "key": "雷鲸",
   "name": "🍊雷鲸4K",
   "type": 3,
   "api": "csp_PanWebShareCloudLJ",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "changeable": 1,
+  "changeable": 0,
   "style": {
-             "type": "rect",
-             "ratio": 1.433
+                "type": "rect",
+                "ratio": 1.433
            },
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/雷鲸.json?"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/雷鲸.json"
 },
 {
   "key": "海绵",
   "name": "🍊海绵4K",
   "type": 3,
   "api": "csp_PanWebShareCloudHM",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "changeable": 1,
+  "changeable": 0,
   "style": {
-             "type": "rect",
-             "ratio": 1.433
+                "type": "list",
+                "ratio": 1.433
            },
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/海绵.json?"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/海绵.json"
 },
 {
   "key":"趣盘",
