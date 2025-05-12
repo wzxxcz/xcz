@@ -1127,15 +1127,12 @@
     
   "sites":[
 {
-  "key": "豆",
+  "key": "豆瓣",
   "name": "🍊小橙子影视欢迎您！",
   "type": 3,
-  "api": "csp_DouDouGuard",
-  "jar": "https://xcz.funly.us/wzxo20250507.php",
-  "indexs": 1,
-  "searchable": 0,
-  "quickSearch": 0,
-  "changeable": 0
+  "api": "csp_Douban",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable": 0
 },
 {
   "key": "YGP",
