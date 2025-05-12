@@ -1482,10 +1482,12 @@
   "name": "⚡️闪电4K弹幕",
   "type": 3,
   "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/闪电.json?"
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/闪电.json"
 },
 {
   "key": "下饭",
@@ -1509,15 +1511,16 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/虎斑.json"
 },	  
 {
-  "key":"蜡笔",
+  "key": "蜡笔",
   "name": "👠蜡笔在线",
-  "type":3,
-  "api":"csp_PanWebShare",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "changeable":1,
-  "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/json/lb.json?"
+  "type": 3,
+  "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/蜡笔.json"
 },
 {
   "key": "木偶",
