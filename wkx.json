@@ -4204,7 +4204,7 @@
              "type": "list",
              "ratio": 1.433
            },
-  "ext": "http://38.165.20.168/json/夸克.json"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/夸克.json"
 },
 {
   "key": "UC",
@@ -4219,7 +4219,7 @@
              "type": "list",
              "ratio": 1.433
            },
-  "ext": "http://38.165.20.168/json/UC.json"
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/UC.json"
 },
 {
   "key": "百度云盘",
