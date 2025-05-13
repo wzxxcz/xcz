@@ -22,15 +22,6 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
-                "name": "小橙子自用电视",
-                "type": 0,
-                "url": "http://oxtvs.com/hualan2",
-                "playerType": 1,
-                "ua": "okhttp/3",
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-             },
-	     {
                 "name": "小橙子专用电视",
                 "type": 0,
                 "url": "https://fy.188766.xyz/?ip=home.kuaidi521.com",
@@ -314,6 +305,15 @@
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
+	    {
+                "name": "小橙子APTV",
+                "type": 0,
+                "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
 	    {
 	        "name": "小橙子Cx4x",
                 "type":0,
@@ -781,15 +781,6 @@
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
-	     {
-                "name": "小橙子APTV",
-                "type": 0,
-                "url": "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
-                "playerType": 1,
-                "ua": "okhttp/3",
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-             },
 	     {
                 "name": "小橙子拾光",
                 "type": 0,
