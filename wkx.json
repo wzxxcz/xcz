@@ -3907,6 +3907,16 @@
   "changeable": 1
 },
 {
+  "key": "✨理理短剧✨",
+  "name": "🍊理理短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/理理短剧.json"
+},
+{
   "key": "评书",
   "name": "🍊评书随听",
   "type": 3,
