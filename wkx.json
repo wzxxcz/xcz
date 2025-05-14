@@ -3920,6 +3920,15 @@
   "changeable": 1
 },
 {
+  "key": "咕咕",
+  "name": "🛹番剧1080P",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.funly.us/wzxm20250513.txt",
+  "ext": "sHR2rlsfjI4L3t4RXQMknxpaIJpWVf3QzJplZjkP8PMRCMAhDX6EuvKn3nmHvaAsNUZGiKejIkSYz7ryONX2fTpbNlJxpW1MZZY7Zt3lbwTJw/1s2QIhPpqxOmR/0EWAwYNShA0Asl0C1lkcmCbV6PsNna5kYEh7as/WabRCm9KrPTGJu6URWhPGeAaWchMgMYJlwNXFIeA2neoQGplg4A=="
+},
+{
   "key": "评书",
   "name": "🍊评书随听",
   "type": 3,
