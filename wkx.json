@@ -1584,6 +1584,18 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/大玩.json"
 },
 {
+  "key": "奥秘",
+  "name": "🍊奥秘4K",
+  "type": 3,
+  "api": "csp_PanWebShare",
+  "jar": "https://xcz.funly.us/wzxqh.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/奥秘.json"
+},
+{
   "key": "至臻",
   "name": "🏆️至臻4K4K",
   "type": 3,
