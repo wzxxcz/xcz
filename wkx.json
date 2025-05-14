@@ -1642,6 +1642,15 @@
          }
 },
 {
+  "key": "csp_MiSou",
+  "name": "🔍米搜盘聚",
+  "type": 3,
+  "quickSearch": 1,
+  "changeable": "0",
+  "api": "csp_MiSou",
+  "jar": "https://xcz.funly.us/wzxm20250513.txt"
+},
+{
   "key": "阿里合集",
   "name": "🦋阿里合集",
   "type": 3,
