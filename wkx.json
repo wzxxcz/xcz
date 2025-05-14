@@ -3911,6 +3911,7 @@
   "name": "🍊理理短剧",
   "type": 3,
   "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczdj.jar",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
