@@ -2007,12 +2007,12 @@
   "name":"🎃New6V磁力",
   "type":3,
   "api":"csp_New6v",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
   "ext":"https://www.xb6v.com"
-},	  
+},
 {
   "key":"天堂",
   "name":"🎃美剧磁力",
@@ -2022,7 +2022,17 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
-},	  
+},
+{
+  "key":"剧迷",
+  "name":"🎃剧迷磁力",
+  "type":3,
+  "api":"csp_MeijuMi",
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
 {
   "key": "迅雷吧",
   "name": "🍊迅雷吧磁力",
