@@ -2416,9 +2416,9 @@
   "name":"🧿海纳影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/海纳影视.json"
-},	  
+},
 {
   "key": "csp_Gz360",
   "name": "🍉瓜子1080P",
@@ -2874,7 +2874,7 @@
 },
 {
   "key":"猎手影视",
-  "name":"💡猎手影视",
+  "name":"🧡猎手影视",
   "type":3,
   "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/猎手影视.py",
   "jar": "https://xcz.funly.us/wzxo20250512.php",
@@ -2886,7 +2886,7 @@
 },
 {
   "key":"火车影视",
-  "name":"💡火车影视",
+  "name":"🧡火车影视",
   "type":3,
   "api":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/PY/plugin/app/火车太顺APP.py",
   "jar": "https://xcz.funly.us/wzxo20250512.php",
@@ -2907,6 +2907,18 @@
   "quickSearch": 1,
   "filterable": 1,
   "playerType": 2
+},
+{
+  "key":"边缘",
+  "name":"🧡边缘影视",
+  "type":3,
+  "api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/plugin/app/边缘影视APP.py",
+  "jar": "https://xcz.funly.us/xczsvip.jar",
+  "searchable":1,
+  "changeable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "playerType":2
 },
 {
   "key":"糯米影视",
@@ -3208,9 +3220,9 @@
   "name":"🍨雪糕影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/雪糕影视.json"
-},	  
+},
 {
   "key": "hipy_js_巨人影院",
   "name": "🍊巨人影视",
@@ -3590,7 +3602,7 @@
   "name":"🧿永乐影视",
   "type":3,
   "api":"csp_XBPQ",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",	
+  "jar": "https://xcz.funly.us/wzxo20250512.php",
   "ext":" https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XBPQ/永乐影视.json"
 },
 {
