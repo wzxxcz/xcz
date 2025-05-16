@@ -737,6 +737,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    }, 
 	    {
+	        "name": "AKTVku",
+                "type":0,
+ 	        "url": "http://ku9.fr.to/ku9/1747366963.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	    {
 	        "name": "AKTV",
                 "type":0,
  	        "url": "https://aktv.space/live.m3u",
@@ -2224,21 +2233,6 @@
   "jar": "https://xcz.funly.us/wzxm20250513.txt"
 },
 {
-            "key": "牛马",
-            "name": "牛马｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "https://xcz.funly.us/xczxs.jar",
-            "ext": {
-                "url": "http://nm.xxxc137.top",
-                "dataKey": "a006661b01bdebbd",
-                "dataIv": "a006661b01bdebbd",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-{
   "key": "贱贱",
   "name": "🐭荐片P2P",
   "type": 3,
@@ -2300,6 +2294,36 @@
   "jar": "https://xcz.funly.us/wzxo20250512.php",
   "searchable":1,
   "changeable":1
+},
+{
+  "key": "牛马",
+  "name": "🦬牛马影视",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": {
+          "url": "http://nm.xxxc137.top",
+          "dataKey": "a006661b01bdebbd",
+          "dataIv": "a006661b01bdebbd",
+          "deviceId": "",
+          "version": ""
+        }
+},
+{
+  "key": "集多",
+  "name": "集多影视",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": {
+          "url": "http://220.231.146.94:6261",
+          "dataKey": "hL7xN4P9rS2vK5Mq",
+          "dataIv": "hL7xN4P9rS2vK5Mq",
+          "deviceId": "",
+          "version": "200"
+        }
 },
 {
   "key":"蝴蝶",
