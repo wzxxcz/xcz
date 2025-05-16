@@ -2385,6 +2385,14 @@
   "ext":"https://www.91qkw.com"
 },
 {
+  "key": "饺子影视",
+  "name": "🥟饺子影视",
+  "type": 3,
+  "api": "csp_Jiaozi",
+  "playerType": 2,
+  "jar": "https://xcz.funly.us/xczxs.jar"
+},
+{
   "key":"鸭梨影视",
   "name":"🦢鸭梨影视",
   "type":3,
