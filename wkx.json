@@ -2297,7 +2297,7 @@
 },
 {
   "key": "牛马",
-  "name": "🦬牛马影视",
+  "name": "🍊牛马影视",
   "type": 3,
   "quickSearch": 1,
   "api": "csp_AppGet",
@@ -2312,7 +2312,7 @@
 },
 {
   "key": "集多",
-  "name": "集多影视",
+  "name": "🍊集多影视",
   "type": 3,
   "quickSearch": 1,
   "api": "csp_AppGet",
@@ -2323,6 +2323,21 @@
           "dataIv": "hL7xN4P9rS2vK5Mq",
           "deviceId": "",
           "version": "200"
+        }
+},
+{
+  "key": "鲶鱼",
+  "name": "🐟鲶鱼影视",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": {
+          "url": "http://47.122.22.78",
+          "dataKey": "1234567890123456",
+          "dataIv": "1234567890123456",
+          "deviceId": "",
+          "version": "119"
         }
 },
 {
