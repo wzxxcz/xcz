@@ -3088,6 +3088,21 @@
         }
 },
 {
+  "key": "鲨鱼",
+  "name": "🦈鲨鱼影视",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": {
+          "url": "https://cms.wlbbq.xyz",
+          "dataKey": "sdev15rwsa96fsde",
+          "dataIv": "sdev15rwsa96fsde",
+          "deviceId": "",
+          "version": "102"
+        }
+},
+{
   "key":"糯米影视",
   "name":"💡糯米影视",
   "type":3,
