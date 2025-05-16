@@ -2341,6 +2341,20 @@
         }
 },
 {
+  "key": "橘子",
+  "name": "🍊橘子影视",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "ext": {
+	  "url": "https://api1.bffree.cn",
+          "dataKey": "2015692015692015",
+          "dataIv": "2015692015692015",
+          "deviceId": "",
+          "version": "300"
+        }
+},
+{
   "key":"蝴蝶",
   "name":"🦋蝴蝶影视",
   "type":3,
