@@ -2912,6 +2912,13 @@
   "jar": "https://xcz.funly.us/wzxo20250512.php"
 },
 {
+  "key": "奇优影视",
+  "name": "💡奇优影视",
+  "type": 3,
+  "api": "csp_Qiyou",
+  "jar": "https://xcz.funly.us/xczxs.jar"
+},
+{
   "key":"雨滴",
   "name":"💡雨滴影视",
   "type":3,
