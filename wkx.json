@@ -3058,16 +3058,19 @@
   "playerType":2
 },
 {
-  "key":"若惜",
+  "key": "若惜",
   "name":"🧡若惜影视",
-  "type":3,
-  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/plugin/app/若惜追剧APP.py",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",
-  "searchable":1,
-  "changeable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "playerType":2
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": {
+          "url": "http://110.40.59.188:9527",
+          "dataKey": "ebad3f1a58b13933",
+          "dataIv": "ebad3f1a58b13933",
+          "deviceId": "",
+          "version": ""
+        }
 },
 {
   "key":"糯米影视",
