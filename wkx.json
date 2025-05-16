@@ -324,6 +324,24 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
 	    {
+	        "name": "小橙子2025live",
+                "type":0,
+ 	        "url": "http://211.154.28.50:5898/2025live.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+	    {
+	        "name": "小橙子512",
+                "type":0,
+ 	        "url": "http://tvbox.bplaced.net/index.php?key=512",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+	    {
                 "name": "小橙子APTV",
                 "type": 0,
                 "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u",
@@ -399,6 +417,15 @@
 	        "name": "小橙子咪咕体育",
                 "type":0,
  	        "url": "https://smart.pendy.dpdns.org/m3u/judy.m3u",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+	    {
+	        "name": "小橙子咪咕体育1",
+                "type":0,
+ 	        "url": "https://qu.ax/JtvsG.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -568,7 +595,16 @@
 	    {
 	        "name": "小橙子ipv4",
                 "type":0,
- 	        "url": "https://xcz.funly.us/优质央卫视.txt",
+ 	        "url": "https://www.iyouhun.com/tv/ipv4.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+	    {
+	        "name": "小橙子繁华线",
+                "type":0,
+ 	        "url": "https://gitee.com/qqyywb/250321/raw/master/123.json",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
