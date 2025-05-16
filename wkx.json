@@ -3001,10 +3001,16 @@
   "key": "米兔",
   "name": "🐰米兔1080P",
   "type": 3,
-  "api": "csp_Xdai",
-  "jar": "https://xcz.funly.us/xczsvip.jar",
-  "playerType": 1,
-  "ext": "jaHR0cHM6Ly93d3cuempjLmFwcHxhYjRlOWE0MjE2NzVmMTRifGFiNGU5YTQyMTY3NWYxNGJ8NDQy"
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": {
+          "url": "http://v.tkbot.fun",
+          "dataKey": "d032c12876bc6848",
+          "dataIv": "d032c12876bc6848",
+          "deviceId": "",
+          "version": "200"
+        }
 },
 {
   "key": "玉米",
