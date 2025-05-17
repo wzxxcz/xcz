@@ -3245,7 +3245,14 @@
   "api": "csp_XBPQ",
   "jar": "https://xcz.funly.us/xczsvip.jar",
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/可可影视.json"
-},	  
+},
+{
+  "key": "剧圈圈",
+  "name": "🍊剧圈圈影视",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/xczxs/raw/master/xiaosa/js/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/xczxs/raw/master/xiaosa/js/剧圈圈.js"
+},
 {
   "key": "华为采集资源",
   "name": "🍊华为吧",
