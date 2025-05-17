@@ -4248,15 +4248,19 @@
   "filterable":1
 },
 {
-  "key":"稀饭动漫",
+  "key": "稀饭动漫",
   "name":"🤣稀饭动漫",
-  "type":3,
-  "api":"csp_Xdai",
-  "jar": "https://xcz.funly.us/wzxo20250512.php",
-  "searchable":1,
-  "quickSearch":0,
-  "filterable":0,
-  "ext":"jaHR0cHM6Ly94ZmFwcC0xMzA1MzkwMDY1LmNvcy5hcC1ndWFuZ3pob3UubXlxY2xvdWQuY29tL2dldGFwcC50eHR8MXlaMlNwbjlrcm56VktvQ3wxeVoyU3BuOWtybnpWS29DfDEwMA=="
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": {
+           "url": "https://pzoap.moedot.net",
+           "dataKey": "1yZ2Spn9krnzVKoC",
+           "dataIv": "1yZ2Spn9krnzVKoC",
+           "deviceId": "",
+           "version": ""
+        }
 },
 {
   "key": "mutefun",
