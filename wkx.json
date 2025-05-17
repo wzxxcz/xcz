@@ -3177,6 +3177,14 @@
   "filterable":1
 },
 {
+  "key": "采集之王",
+  "name": "🍊采集合集",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/xczxs/raw/master/js/drpy2.min.js",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": "https://gitee.com/wzbdyr/xczxs/raw/master/js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+},
+{
   "key": "腾讯弹幕",
   "name": "🐧腾讯(官)",
   "type": 3,
