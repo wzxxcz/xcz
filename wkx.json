@@ -3200,7 +3200,7 @@
   "name": "🍊采集合集",
   "type": 3,
   "api": "https://gitee.com/wzbdyr/xczxs/raw/master/xiaosa/js/drpy2.min.js",
-  "ext": "https://gitee.com/wzbdyr/xczxs/raw/master/xiaosa/js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+  "ext": "https://gitee.com/wzbdyr/xczxs/raw/master/xiaosa/js/采集之王.js?type=url&params=../json/采集静态.json"
 },
 {
   "key": "腾讯弹幕",
