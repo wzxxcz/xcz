@@ -2739,6 +2739,14 @@
   "filterable":1
 },
 {
+  "key": "七七影视",
+  "name": "🍊七七影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "ext": "https://xcz.funly.us/XBPQ/七七影视.json"
+},
+{
   "key": "大梦",
   "name": "🏆悠悠1080P",
   "type": 3,
