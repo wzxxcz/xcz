@@ -2138,6 +2138,16 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/修罗影视.json"
 },
 {
+  "key": "七味",
+  "name": "🍊七味磁力",
+  "type": 3,
+  "api": "csp_QnMp4",
+  "jar": "https://xcz.funly.us/xczxs.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+{
   "key": "80S",
   "name": "🍊80S磁力",
   "type": 3,
