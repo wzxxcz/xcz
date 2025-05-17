@@ -4239,6 +4239,13 @@
   "changeable": 1
 },
 {
+  "key": "奇米动漫",
+  "name": "🤣奇米动漫",
+  "type": 3,
+  "api": "https://gitee.com/wzbdyr/xczxs/blob/master/xiaosa/js/drpy2.min.js",
+  "ext": "https://gitee.com/wzbdyr/xczxs/blob/master/xiaosa/js/奇米动漫.js"
+},
+{
   "key":"魔都资源",
   "name":"🤣魔都动漫",
   "type":1,
