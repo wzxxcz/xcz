@@ -1895,11 +1895,11 @@
   "quickSearch": 1,
   "filterable": 1,
   "style": {
-                "type": "list",
-                "ratio": 1.433
+             "type": "list",
+             "ratio": 1.433
            },
   "ext": {
-                "url": "https://www.qupanshe.com"
+            "url": "https://www.qupanshe.com"
          }
 },
 {
