@@ -2749,7 +2749,8 @@
 	  "url":"http://149.88.64.161:9525",
 	  "dataKey":"123456789ABCDEFG",
 	  "dataIv":"123456789ABCDEFG",
-	  "deviceId":"","version":""
+	  "deviceId":"",
+	  "version":""
         }
 },
 {
@@ -2901,8 +2902,7 @@
 	  "url":"http://59.153.167.137:8899",
 	  "dataKey":"4d83b87c4c5ea111",
 	  "dataIv":"4d83b87c4c5ea111",
-	  "deviceId":"",
-	  "version":"462"
+	  "deviceId":"","version":"462"
         }
 },
 {
@@ -3049,7 +3049,8 @@
 	  "url":"https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
 	  "dataKey":"k9o3p2c8b7m3z0o8",
 	  "dataIv":"k9o3p2c8b7m3z0o8",
-	  "deviceId":"","version":"100"
+	  "deviceId":"",
+	  "version":"100"
         }
 },
 {
