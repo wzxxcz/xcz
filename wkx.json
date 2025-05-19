@@ -396,6 +396,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
 	    {
+	        "name": "小橙子pan",
+                "type":0,
+ 	        "url": "http://pan.aa53.cn/down.php/5d88e3b534a976e9a95c39d7c5f2eec1.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+	    {
 	        "name": "小橙子看电视1",
                 "type":0,
  	        "url": "https://ghproxy.net/https://raw.githubusercontent.com/seadai794/tv/main/itvlist.txt",
@@ -780,20 +789,20 @@
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-	     },
+	    },
 	    {
-	        "name": "AKTV",
+	        "name": "AKTV港台",
                 "type":0,
- 	        "url": "https://aktv.space/live.m3u",
+ 	        "url": "http://cccccccoccccccc.ccccocccc.cc/uploads/2_%E6%89%B9%E9%87%8F%E6%B8%AF%E5%8F%B0.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	     },
 	     {
-	        "name": "AKTV1",
+	        "name": "AKTV港台1",
                 "type":0,
- 	        "url": "http://wx.thego.cn/ak.m3u",
+ 	        "url": "https://www.lichenggang.asia/f/lg3ie/%E7%94%9F%E6%B4%BB.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -866,6 +875,15 @@
 	        "name": "AKTV密码6688",
                 "type":0,
  	        "url": "https://11344.kstore.space/dd.txt",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	     },
+	     {
+	        "name": "AKTV123",
+                "type":0,
+ 	        "url": "http://123.iptv6.icu/view.php/825c7e86e090bd17a6448db7d858281b.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
