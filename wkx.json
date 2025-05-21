@@ -2217,7 +2217,7 @@
   "name":"🎃美剧磁力",
   "type":3,
   "api":"csp_MeijuTT",
-  "jar": "https://xcz.iptv365.org/wzxo20250516.php",
+  "jar": "https://xcz.iptv365.org/wzxo20250516.php",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1
@@ -2227,7 +2227,7 @@
   "name":"🎃剧迷磁力",
   "type":3,
   "api":"csp_MeijuMi",
-  "jar": "https://xcz.iptv365.org/wzxo20250516.php",
+  "jar": "https://xcz.iptv365.org/wzxo20250516.php",	
   "searchable":1,
   "quickSearch":1,
   "filterable":1
