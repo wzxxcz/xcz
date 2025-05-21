@@ -49,6 +49,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
+                "name": "小橙子专线港澳",
+                "type": 0,
+                "url": "http://zozo.work.gd/ys/i/?QQ=100",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
                 "name": "小橙子央卫咪咕体育",
                 "type": 0,
                 "url": "http://l.gmbbk.com/upload/24352435.txt",
