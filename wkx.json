@@ -3231,7 +3231,7 @@
   "key":"边缘",
   "name":"🧡边缘影视",
   "type":3,
-  "api":"https://gh-proxy.com/raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/main/plugin/app/边缘影视APP.py",
+  "api":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/plugin/app/边缘影视APP.py",
   "jar": "https://xcz.iptv365.org/wzxo20250516.php",
   "searchable":1,
   "changeable":1,
