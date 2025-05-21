@@ -3265,15 +3265,6 @@
   "ext":"https://www.wwgz.cn"
 },
 {
-  "key":"时常",
-  "name":"💡时常影视",
-  "type":3,
-  "api":"csp_Xdai",
-  "jar": "https://xcz.iptv365.org/wzxo20250516.php",
-  "playerType":1,
-  "ext":"jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8YXNnY3hoamt0czEyNDU3M3xhc2djeGhqa3RzMTI0NTczfDEwMQ=="
-},
-{
   "key":"热播影视",
   "name":"💡热播影视",
   "type":3,
