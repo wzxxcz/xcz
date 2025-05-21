@@ -2831,20 +2831,6 @@
         }
 },
 {
-  "key":"追忆",
-  "name":"💡追忆影视",
-  "type":3,
-  "quickSearch":0,
-  "api":"csp_AppMiTo",
-  "jar": "https://xcz.iptv365.org/wzxo20250516.php",
-  "ext":{
-	  "url":"http://110.42.7.130:1866",
-	  "dataKey":"aassddwwxxllsx1x",
-	  "playKey":"1bada76e67e1e7f9",
-	  "version":"1.2.0"
-        }
-},
-{
   "key":"三六零",
   "name":"💡三六零视频",
   "type":3,
