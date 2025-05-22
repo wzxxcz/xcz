@@ -1966,6 +1966,7 @@
   "name": "🍊聚搜4K",
   "type":3,
   "api":"csp_PanWebSearch",
+  "jar": "https://xcz.iptv365.org/wzxo20250516.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
