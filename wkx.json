@@ -390,15 +390,6 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
 	    {
-	        "name": "小橙子看电视",
-                "type":0,
- 	        "url": "http://211.154.28.50:5898/2025.txt",
-                "ua": "okhttp/3.15",
-                "playerType": 1,
-                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
-	    },
-	    {
 	        "name": "小橙子ggff",
                 "type":0,
  	        "url": "http://php.cqshushu.ggff.net/jzb.php?公众号【医工学习日志】",
@@ -3314,6 +3305,20 @@
   "searchable":1,
   "quickSearch":1,
   "filterable":1
+},
+{
+  "key": "樱花影视",
+  "name": "🌸樱花影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.mydangao.com/vodshow/{cateId}//page/{catePg}.html",
+                "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
+                "简介": "🍊凯少爷🍊水印广告勿信，谨防诈骗🍊"
+        }
 },
 {
   "key": "腾讯弹幕",
