@@ -1962,20 +1962,15 @@
          }
 },
 {
-  "key": "聚搜",
+  "key":"聚搜",
   "name": "🍊聚搜4K",
-  "type": 3,
-  "api": "csp_PanWebSearch",
-  "jar": "https://xcz.iptv365.org/wzxqh.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 0,
-  "style": {
-                "type": "list",
-                "ratio": 1.433
-           },
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/聚搜.json"
+  "type":3,
+  "api":"csp_PanWebSearch",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "style":{"type":"list","ratio":1.433},
+  "ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/json/aliyunpansearch.json"
 },
 {
   "key": "雷鲸",
