@@ -1632,6 +1632,18 @@
          }
 },
 {
+  "key": "玩偶1",
+  "name": "🐲玩偶4K",
+  "type": 3,
+  "api": "csp_PanWebShare",
+  "jar": "https://xcz.iptv365.org/wzxqh.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 0,
+  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/玩偶.json"
+},
+{
   "key":"csp_woog",
   "name": "🐲小橙子4K弹幕",
   "type":3,
