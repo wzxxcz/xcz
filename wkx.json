@@ -60,6 +60,15 @@
 	     {
                 "name": "小橙子专线港澳",
                 "type": 0,
+                "url": "https://pan.baidu.re/down.php/6a4917f92a37099ec24394d1e76ff7ba.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
+                "name": "小橙子专线港澳1",
+                "type": 0,
                 "url": "http://zozo.work.gd/ys/i/?QQ=100",
                 "playerType": 1,
                 "ua": "okhttp/3",
