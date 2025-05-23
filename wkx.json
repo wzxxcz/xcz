@@ -3475,16 +3475,16 @@
 },
 {
     "key": "悟空影院",
-    "name": "🐶🐶┃️新片影院",
+    "name": "🐷🐷┃️悟空影院",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
         "图片": "data-original=\"&&\"",
-        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#纪录片$5",
-        "分类url": "https://www.cqdfkgy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-        "简介": "🚫本站仅为影视聚合导航，🚫不存储任何资源，请支持正版"
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#纪录片$5#电影解说$6",  // 新增分类层级
+        "分类url": "https://www.cqdfkgy.com/vodshow/{cateId}/{area}/{by}/{class}/{lang}/{letter}/{catePg}/{year}.html",  // 修正URL路径格式
+        "简介": "🚫本平台为影视聚合导航，🚫不含任何资源存储，请访问正版站点"
     }
 },
 {
