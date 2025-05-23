@@ -3520,25 +3520,20 @@
          }
 },
 {
-            "key": "萌萌TV",
-            "name": "萌萌TV",
+            "key": "阿里影院",
+            "name": "🐷🐷┃阿里影院",
             "type": 3,
             "api": "csp_XBPQ",
-	    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "主页url": "https://aamwy.com",
-                "简介": "description\" content=\"&&\"",
-                "分类url": "https://aamwy.com/vodshow/{cateId}--------{catePg}---.html",
-                "分类数组": "<a&&/a>",
-                "分类标题": ">&&<",
-                "分类ID": "/vodshow/&&-----------.html"
+                "分类url": "https://alivod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#连续剧$2#综艺$3#动漫$4#理论片$20#",
+                "简介": "🍁知🍁水印广告勿信，谨防诈骗🍁"
             }
         },
+
 {
   "key": "可可影视",
   "name": "🍊可可影视",
