@@ -3474,6 +3474,20 @@
         }
 },
 {
+  "key": "8号TV影视",
+  "name": "🍊8号TV影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.8haotv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#",
+                "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+        }
+},
+{
   "key": "可可影视",
   "name": "🍊可可影视",
   "type": 3,
