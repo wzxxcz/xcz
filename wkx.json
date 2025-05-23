@@ -1672,7 +1672,7 @@
   "ext":{
 	  "site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw.xn--6qq986b3xl"],
 	  "url_key":"woog",
-	  "threadinfo":{"chunksize":269,"threads":15}
+	  "threadinfo":{"chunksize":268,"threads":15}
         }
 },
 {
@@ -1743,7 +1743,7 @@
   "ext":{
 	  "site_urls":["hhttps://ogkk.nxog.eu.org","https://ogkk.xn--dkw.xn--6qq986b3xl"],
 	  "url_key":"UC",
-	  "threadinfo":{"chunksize":259,"threads":60}
+	  "threadinfo":{"chunksize":253,"threads":60}
         }
 },
 {
@@ -2470,7 +2470,7 @@
   "key":"荐片",
   "name":"💡荐片影视",
   "api":"csp_Jianpian",
-  "jar": "https://xcz.iptv365.org/wzxo20250523.php",	
+  "jar": "https://xcz.iptv365.org/wzxo20250523.php",
   "type":3,
   "playerType":1,
   "ext":"http://api2.rinhome.com"
@@ -3104,7 +3104,7 @@
   "name": "💐来看1080P",
   "type":3,
   "api":"csp_Lkdy",
-  "jar": "https://xcz.iptv365.org/wzxo20250523.php",	
+  "jar": "https://xcz.iptv365.org/wzxo20250523.php",
   "searchable":1,
   "quickSearch":1,
   "filterable":1
