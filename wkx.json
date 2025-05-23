@@ -3474,7 +3474,7 @@
         }
 },
 {
-    "key": "新片影院",
+    "key": "悟空影院",
     "name": "🐶🐶┃️新片影院",
     "type": 3,
     "api": "csp_XBPQ",
@@ -3483,7 +3483,7 @@
         "编码": "UTF-8",
         "图片": "data-original=\"&&\"",
         "分类": "电影$1#连续剧$2#综艺$3#动漫$4#纪录片$5",
-        "分类url": "https://www.example.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类url": "https://www.cqdfkgy.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
         "简介": "🚫本站仅为影视聚合导航，🚫不存储任何资源，请支持正版"
     }
 },
