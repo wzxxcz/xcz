@@ -3488,19 +3488,19 @@
         }
 },
 {
-            "key": "乾坤影视",
-            "name": "🐷🐷┃乾坤影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
+  "key": "乾坤影视",
+  "name": "🍊乾坤影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+  "ext": {
+	        "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "分类url": "https://www.qiankun.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$movie#电视$tv#综艺$variety#动漫$anime#短剧$playlet#",
-                "简介": "🍁知🍁水印广告勿信，谨防诈骗🍁"
-            }
-        },
+                "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+         }
+},
 {
   "key": "可可影视",
   "name": "🍊可可影视",
