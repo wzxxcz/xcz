@@ -3243,6 +3243,17 @@
   "jar": "https://xcz.iptv365.org/wzxm20250513.txt"
 },
 {
+  "key":"骚火影视",
+  "name":"🧿骚火影视",
+  "type":3,
+  "api":"csp_XYQHiker",
+  "jar": "https://xcz.iptv365.org/wzxo20250523.php",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/tvbox/refs/heads/master/XYQHiker/骚火影视.json"
+},
+{
   "key": "米兔",
   "name": "🐰米兔1080P",
   "type": 3,
