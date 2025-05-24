@@ -103,9 +103,9 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
-	        "name": "小橙子myIPV4",
+	        "name": "小橙子肥羊",
                 "type":0,
- 	        "url": "https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+ 	        "url": "http://gg.7749.org/z/i/5788.txt",
                 "ua": "okhttp/3.15",
                 "playerType": 1,
                 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
