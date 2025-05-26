@@ -3694,8 +3694,8 @@
                 "图片": "data-original=\"&&\"",
                 "副标题": "text-center\">&&</",
                 "链接": "href=\"&&\"",
-                "分类url": "https://www.4kwudy.com/search.php?page={catePg}&searchtype=5&area={area}&tid={cateId}&year={year}",
-                "分类": "电影$20#剧集$21#短剧$24#动漫$22#综艺$23#资讯$26",
+                "分类url": "https://www.4kwudy.com/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area}",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$26",
                 "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
           }
 },
