@@ -3621,31 +3621,19 @@
            }
 },
 {
-            
-  "key": "5视02",
-            
-  "name": "四K-影视",
-            
-  "type": 3,
-            
-  "api": "csp_XBPQ",
-            
-  "ext": {
-                
-   "请求头": "User-Agent$MOBILE_UA",
- 
-   "编码": "UTF-8",
- 
-   "主页url": "https://www.4k4k.live/", 
-  "图片": "data-original=\"&&\"[替换:amp;>>空]",
-   "链接": "href=\"&&\"",     
-   "分类url": "https://www.4k4k.live/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
-            
-   "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-, 
-   "简介": "随缘提示：视频中广告勿信，守护好钱袋子!"
- }
-        
+    "key": "4KLIVE",
+    "name": "🍊4KLIVE",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "ext": {
+              "请求头": "User-Agent$MOBILE_UA",
+              "编码": "UTF-8",
+              "图片": "data-original=\"&&\"",
+              "分类url": "https://www.4k4k.live/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
+              "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+          "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+           }
 },
 {
   "key": "可可影视",
