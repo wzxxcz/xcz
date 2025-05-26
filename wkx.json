@@ -3694,7 +3694,22 @@
               "分类": "电影$1#电视剧$2#综艺$3#动漫$4短剧$5动漫片$6",
               "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
            }
-},	  
+},
+{
+    "key": "悟空影院",
+    "name": "🍊悟空影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://xcz.iptv365.org/xyqxbpq.jar",
+    "ext": {
+              "请求头": "User-Agent$MOBILE_UA",
+              "编码": "UTF-8",
+	      "图片": "data-original=\"&&\"",
+              "分类url": "https://www.cqdfkgy.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}",
+              "分类": "电影$1#连续剧$2#综艺$3#动漫$4电影解说$5体育赛事$6",
+              "简介": "🍊小橙子🍊水印广告勿信，谨防诈骗🍊"
+           }
+},	  	  
 {
   "key": "4k屋",
   "name": "🍊4k屋",
