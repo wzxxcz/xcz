@@ -3506,12 +3506,14 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "图片": "data-original=\"&&\"",
+	        "数组":"/voddetail/&&</a>",
+	        "图片":"data-original=\"&&\"",
+	        "链接":"/voddetail/+&&\"",
                 "分类url": "https://www.mydangao.com/vodshow/{cateId}/area/{area}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
         }
-},
+},  
 {
   "key": "8号TV影视",
   "name": "🍊8号TV影视",
