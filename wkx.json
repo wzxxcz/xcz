@@ -3724,14 +3724,14 @@
 },
 {
   "key": "帕皮牛影视",
-  "name": "🦬帕皮牛影视",
+  "name": "🍊帕皮牛影视",
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "https://xcz.iptv365.org/xczzx.jar",
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"class=\"item\">&&</a>",
+	        "数组":"class=\"stui-vodlist__item\">&&</a>",
 	        "标题":"title=\"&&\"",
 	        "图片": "src=\"&&\"",
 	        "链接":"href=\"&&\"",
