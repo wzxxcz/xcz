@@ -103,6 +103,24 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
+                "name": "小橙子专用电视3",
+                "type": 0,
+                "url": "https://gh-proxy.com/raw.githubusercontent.com/cqshushu/tvjk/master/zqyd.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
+                "name": "小橙子专用电视4",
+                "type": 0,
+                "url": "http://is.is-great.org//ii/1748307151.txt",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
 	        "name": "小橙子肥羊",
                 "type":0,
  	        "url": "http://gg.7749.org/z/i/5788.txt",
