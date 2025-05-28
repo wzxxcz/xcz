@@ -3749,7 +3749,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"class=\"li_clearfix\">&&</a>",
+	        "数组":"class=\"li_li clearfix\">&&</a>",
 	        "标题":"title=\"&&\"",
 	        "图片": "src=\"&&\"",
 	        "链接":"href=\"&&\"",
