@@ -3789,9 +3789,9 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"col-xs-4&&</li>",
+	        "数组":"lazyload&&</li>", 
 	        "标题":"title=\"&&\"",
-	        "图片": "data-original=\"&&\"",
+	        "图片": "data-original=\"&&\"[替换:amp;>>空]",
 	        "链接":"href=\"&&\"",
                 "分类url": "https://www.7.movie/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
 	        "分类": "电影$20#剧集$21#短剧$24#动漫$22#综艺$23#",
