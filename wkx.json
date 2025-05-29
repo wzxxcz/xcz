@@ -3910,7 +3910,7 @@
                 "编码": "UTF-8",
 	        "数组":"class=\"myui-vodlist__box\">&&</a>",
 	        "标题":"title=\"&&\"",
-	        "图片": "style=\"&&\"",
+	        "图片": "data-original=\"&&\"",
 	        "链接":"href=\"&&\"",
                 "分类url": "https://scfccw.com/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
 	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$34#",
