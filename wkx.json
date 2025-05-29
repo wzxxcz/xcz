@@ -3751,7 +3751,7 @@
                 "编码": "UTF-8",
 	        "数组":"class=\"module-item-cover\">&&</a>",
 	        "标题":"title=\"&&\"",
-	        "图片": "data-original\"&&\"",
+	        "图片": "data-original=\"&&\"",
 	        "链接":"href=\"&&\"",
                 "分类url": "https://lbys.app/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
 	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#动画片$31#电影解说$32#短剧$49#",
