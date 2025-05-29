@@ -3815,7 +3815,25 @@
 	        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
           }
-},	  	  
+},
+{
+  "key": "好影快看",
+  "name": "🍊好影快看",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组":"/video/&&</a>", 
+	        "标题":"title=\"&&\"",
+	        "图片": "src=\"&&\"",
+	        "链接":"/video/+&&\"",
+                "分类url": "https://www.hitv.app/show/{cateId}----{lang}----{catePg}---{year}.html",
+	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#儿童$58#",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
+          }
+},	  
 {
   "key": "可可影视",
   "name": "🍊可可影视",
