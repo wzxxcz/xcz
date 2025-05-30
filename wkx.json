@@ -4007,8 +4007,8 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"module-item&&</div>",
-	        "标题":"v-item-title=\"&&\"",
+	        "数组":"module-item&&</a>",
+	        "标题":"v-item-title\"&&\"",
 	        "图片": "data-original=\"&&\"",
 	        "链接":"href=\"&&\"",
                 "分类url": "https://www.ncat2.com/show/{cateId}--{area}-{lang}-{year}-1-{catePg}.html",
