@@ -4014,6 +4014,24 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/泥巴影视.json"
 },
 {
+  "key": "泥巴影院",
+  "name": "🍊泥巴影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组":"myui-vodlist__box\">&&</a>",
+	        "标题":"title=\"&&\"",
+	        "图片": "data-original=\"&&\"",
+	        "链接":"href=\"&&\"",
+                "分类url": "https://www.niuxiongdi.com/nivodshow/{cateId}--------{catePg}---{year}.html",
+	        "分类": "电影$1#电视剧$2#综艺$3#风车动漫$4#",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
+          }
+},	  	  
+{
   "key": "天空影院",
   "name": "🍊天空影院",
   "type": 3,
