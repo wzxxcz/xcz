@@ -3989,11 +3989,11 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组":"fed-list-pics fed-lazy fed-part-2by3&&</li>",
+	        "数组":"fed-lazy&&</li>",
 	        "标题":"part-eone\"*>&&<\"",
 	        "图片": "data-original=\"&&\"",
 	        "链接":"href=\"&&\"",
-                "分类url": "https://www.4kwudy.com/search.php?page={cateId}&searchtype=5&tid={catePg}&year={year}",
+                "分类url": "https://www.4kwudy.com/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}",
 	        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$26#",
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
           }
