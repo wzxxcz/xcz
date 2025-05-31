@@ -3625,7 +3625,7 @@
 },
 {
     "key": "4KLIVE",
-    "name": "🍊4KLIVE",
+    "name": "🍊4K影院",
     "type": 3,
     "api": "csp_XBPQ",
     "jar": "https://xcz.iptv365.org/xczzx.jar",
@@ -3633,7 +3633,8 @@
               "请求头": "User-Agent$MOBILE_UA",
               "编码": "UTF-8",
 	      "数组":"/voddetail/&&</a>",
-              "图片": "data-original=\"&&\"",
+	      "标题": "title=\"&&\"",
+              "图片": "data-src=\"&&\"",
 	      "链接":"/voddetail/+&&\"",
               "分类url": "https://www.4k4k.live/vodshow/{cateId}----{lang}----{catePg}---{year}/",
               "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
