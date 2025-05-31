@@ -3569,8 +3569,8 @@
         }
 },
 {
-  "key": "乾坤影视",
-  "name": "🍊乾坤影视",
+  "key": "乾坤影院",
+  "name": "🍊乾坤影院",
   "type": 3,
   "api": "csp_XBPQ",
   "jar": "https://xcz.iptv365.org/xczzx.jar",
@@ -3578,6 +3578,7 @@
 	        "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
 	        "数组":"/voddetail/&&</a>",
+	        "标题": "title=\"&&\"",
 	        "图片": "data-original=\"&&\"",
 	        "链接":"/voddetail/+&&\"",
                 "分类url": "https://www.qiankun.tv/vodshow/{cateId}--------{catePg}---{year}.html",
