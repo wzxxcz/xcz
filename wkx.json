@@ -4093,7 +4093,7 @@
   "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-	        "数组": "class=\"s6 m4 l2 post\"&&</div", 
+	        "数组": "s6&&</div", 
 	        "标题":"title=\"&&\"",
 	        "图片": "data-src=\"&&\"",
 	        "链接":"href=\"&&\"",
