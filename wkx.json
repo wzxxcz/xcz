@@ -2970,6 +2970,24 @@
   "ext": "sHR2rlsfjI4L3t4RXQMkn97DqO5wP33F1y10iaPo6JFu7Gir00j3R0d6YiQaenvx6EGiBJ/LlFQxikHgxre5aUQs2IWp/rVBIYH9Z5N2lw6Wr6XNDhBuprneT4IeVDEibuFC81JN91ioyOFhZ0Eay51Y9BbamMP6wCWeW6UKiIOLLKTzVCa8r7ptIZGmX6oDimujZatCIppyCf81QNmW2g=="
 },
 {
+  "key": "水滴",
+  "name": "💧水滴1080P",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet2",
+  "jar": "https://xcz.iptv365.org/wzxm20250530.jar",
+  "ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW"
+},
+{
+  "key": "咖啡",
+  "name": "☕️咖啡1080P",
+  "type": 3,
+  "quickSearch": 1,
+  "api": "csp_AppGet2",
+  "jar": "https://xcz.iptv365.org/wzxm20250530.jar",
+  "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrnchbMLbbfPL19q8ovW5h2m+h6Vc2ZfvuHR8URxTWX9fgAm0kDDPtgJttitzPQi4xPbaH/BOVSMXdJGDbrzM3VAoJEcX+yxPdaXkrxvaZdq0lCjldlb9yAWC8ZiHssSH+9EKI//ESHDquz0m1V5Bhe/W7UmkE2CRveFiiN2uJABZy1DE1fmdV0B+V+gwiUMKelPBhYA29qkB/0/MY0gVsENky2zTdTFCl4qaFGUz8+G6j6ze5mYO4KfuQ9soedmY0yeXNzPeMZ6rquyAGtngEkw"
+},
+{
   "key": "再看",
   "name": "🔭再看1080P",
   "type": 3,
@@ -3043,8 +3061,8 @@
   "quickSearch": 1,
   "api": "csp_AppGet",
   "jar": "https://xcz.iptv365.org/wzxm20250530.jar",
-  "ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW"
-},	  
+  "ext": "sHR2rlsfjI4L3t4RXQMknwVOqdD9gPzfYgo/IDVldfFlUVRxMhFa2sMsM3jbFDHf0JeBOxGU/o2kx5CXvQT/L2bX6V7O1a4e1OUxpnYI11YpBWQjTFE4gjUC579JwV+7XsWgMJ35bTzURfWg+DYOBr8Qaiyjp0ceuD6TwFyfcNku38N3wEf629K9W7TYaAEe"
+},
 {
   "key": "电影1",
   "name": "🎬电影影视",
@@ -3069,6 +3087,15 @@
   "quickSearch": 1,
   "api": "csp_Jpys",
   "jar": "https://xcz.iptv365.org/wzxm20250530.jar"
+},
+{
+  "key": "测试",
+  "name": "🐓剧霸1080P",
+  "type": 3,
+  "quickSearch": 0,
+  "api": "https://xcz.iptv365.org/lib/jubaba.py",
+  "jar": "https://xcz.iptv365.org/wzxm20250530.jar",
+  "ext": ""
 },
 {
   "key": "人人",
