@@ -112,6 +112,15 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
              },
 	     {
+                "name": "小橙子专用电视5",
+                "type": 0,
+                "url": "http://ys.my.to/i/?T=ydyw",
+                "playerType": 1,
+                "ua": "okhttp/3",
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+             },
+	     {
 	        "name": "小橙子肥羊",
                 "type":0,
  	        "url": "http://gg.7749.org/z/i/5788.txt",
@@ -463,6 +472,15 @@
             },
 	    {
 	        "name": "中天港澳体育",
+                "type":0,
+ 	        "url": "http://ys.my.to//i/?T=HK",
+                "ua": "okhttp/3.15",
+                "playerType": 1,
+                "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+     		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+	    },
+	    {
+	        "name": "中天港澳体育1",
                 "type":0,
  	        "url": "http://cccccccoccccccc.ccccocccc.cc/uploads/%E6%8A%AC%E6%89%9B_1.txt",
                 "ua": "okhttp/3.15",
