@@ -2030,22 +2030,6 @@
   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/二小.json"
 },
 {
-  "key": "123",
-  "name": "🍊1234K",
-  "type": 3,
-  "api": "csp_PanWebShareCloud123",
-  "jar": "https://xcz.iptv365.org/wzxqh.jar",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "changeable": 0,
-  "style": {
-                "type": "list",
-                "ratio": 1.433
-           },
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xcz/refs/heads/master/json/123.json"
-},
-{
   "key": "盘库",
   "name": "🍊盘库4K",
   "type": 3,
@@ -2284,6 +2268,17 @@
   "api": "http://38.165.20.168/js/cloud.min.js",
   "jar": "https://xcz.iptv365.org/wzxqh.jar",
   "ext": "http://38.165.20.168/js/双星.js",
+  "style": {
+             "type": "list"
+           }
+},
+{
+  "key": "懒盘",
+  "name": "🍊懒盘4K",
+  "type": 3,
+  "api": "http://38.165.20.168/lib/cloud.min.js",
+  "jar": "https://xcz.iptv365.org/wzxqh.jar",
+  "ext": "http://38.165.20.168/lib/懒盘.js",
   "style": {
              "type": "list"
            }
@@ -5963,35 +5958,6 @@
       "name":"Json并发",
       "type":2,
       "url":"Parallel"
-    },
-    {
-      "name": "小橙子4K",
-      "type": 1,
-      "url": "",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
     },
     {
       "name":"小橙子解析",
