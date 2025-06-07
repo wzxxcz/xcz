@@ -3602,6 +3602,33 @@
                 "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
                 "简介": "🍊小橙子为您介绍剧情👉+module-info-introduction-content\">&&</div>"
         }
+}, 
+{
+  "key": "看戏影院",
+  "name": "🍊看戏影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组": "class=\"stui-vodlist__box\"&&</a",
+	        "标题": "title=\"&&\"",
+	        "副标题": "<span class=\"pic-text text-right\">&&</span>", 
+	        "图片":"data-original=\"&&\"",
+	        "链接": "href=\"&&\"",
+	        "线路数组": "<h4>&&/h4>",
+	        "线路标题": "</i>&&<",
+	        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
+	        "搜索url":"https://www.kanxige.com/search/{wd}----------{pg}---.html",
+                "分类url": "https://www.kanxige.com/tags/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#排行榜$5#最近更新$6#",
+                "简介": "🍊小橙子为您介绍剧情👉+left data2\">&&</div>"
+        }
 },  
 {
   "key": "影趣网",
