@@ -3631,6 +3631,33 @@
         }
 }, 
 {
+  "key": "可可影视",
+  "name": "🍊可可影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组": "class=\"df8bc49af9f5ad83ae07349d0d4fbd58 stui-vodlist__box\"&&</a",
+	        "标题": "title=\"&&\"",
+	        "副标题": "<span class=\"pic-text text-right\">&&</span>", 
+	        "图片":"data-original=\"&&\"",
+	        "链接": "href=\"&&\"",
+	        "线路数组": "data-toggle&&</a>",
+	        "线路标题": ">&&</a",
+	        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
+	        "搜索url":"https://www.kmxibanyayu.com/vso/{wd}----------{pg}---.html",
+                "分类url": "https://www.kmxibanyayu.com/vs/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju#电影解说$dianyingjieshuo#",
+                "简介": "🍊小橙子为您介绍剧情👉+left\">&&</div>"
+        }
+},  
+{
   "key": "魅影视频",
   "name": "🍊魅影视频",
   "type": 3,
@@ -4385,14 +4412,6 @@
 
         }
 },  	  
-{
-  "key": "可可影视",
-  "name": "🍊可可影视",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "jar": "https://xcz.iptv365.org/xczsvip.jar",
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/wzxxcz/xczmy/refs/heads/maing/XBPQ/可可影视.json"
-},
 {
   "key": "剧圈圈",
   "name": "🍊剧圈圈影视",
