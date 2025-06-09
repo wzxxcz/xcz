@@ -3757,6 +3757,33 @@
         }
 }, 
 {
+  "key": "三九影院",
+  "name": "📽️三九影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组":"<li class=\"mo-paxs-5px mo-pamd-10px mo-cols-info mo-cols-xs4 mo-cols-sm3 mo-cols-lg2&&</li>",
+	        "标题": "mo-situ-name*>&&</a>",
+	        "副标题": "center\">&&</span>", 
+	        "图片":"data-original=\"&&\"",
+	        "链接": "href=\"&&\"",
+	        "线路数组": "<a class=\"mo-movs-btns&&/a>",
+	        "线路标题": "</i>&&<",
+	        "播放数组": "<ul class=\"mo-movs-item mo-sort-boxs&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
+	        "搜索url":"https://www.sanjiuyy.com/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://www.sanjiuyy.com/vodshow/{cateId}--------{catePg}---{year}.html",
+                "分类": "电影$dianying#连续剧$lianxuju#综艺$zonyi#动漫$dongman#体育赛事$tiyusaishi#",
+                "简介": "🍊小橙子为您介绍剧情👉+mo-paxs-5px mo-ptxs-0px\">&&</div>"
+        }
+}, 	  	  
+{
   "key": "魅影视频",
   "name": "🍊魅影视频",
   "type": 3,
