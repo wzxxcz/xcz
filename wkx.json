@@ -4186,25 +4186,6 @@
         }
 }, 	  	  
 {
-    "key": "看影网",
-    "name": "🍊看影网",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://xcz.iptv365.org/xczzx.jar",
-    "ext": {
-              "请求头": "User-Agent$MOBILE_UA",
-              "编码": "UTF-8",
-	      "数组": "class=\"myui-vodlist__box\"&&</a",
-	      "图片": "data-original=\"&&\"",
-	      "标题": "title=\"&&\"",
-	      "链接": "href=\"&&\"",
-	      "副标题": "<span class=\"pic-text text-right\">&&</span>",
-              "分类url": "https://www.kanying.pro/so/{cateId}/{area}---{lang}----{catePg}---{year}/",
-              "分类": "电影$movie#电视剧$tv#综艺$variety#动漫画$anime频道直播$live",
-              "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+<p&&</p >"
-           }
-},
-{
   "key": "1817影视",
   "name": "🍊1817影视",
   "type": 3,
