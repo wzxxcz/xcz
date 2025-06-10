@@ -4132,6 +4132,33 @@
            }
 },
 {
+  "key": "168影院",
+  "name": "▶️168影院",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组": "lazyload&&</a>",
+	        "标题": "title=\"&&\"",
+	        "副标题": "<span class=\"pic-text text-right\">&&</span>", 
+	        "图片":"data-original=\"&&\"",
+	        "链接": "href=\"&&\"",
+	        "线路数组": "#playlist&&</a>",
+	        "线路标题": ">&&</a",
+	        "播放数组": "stui-content__playlist&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
+	        "搜索url":"https://www.xzyx168.com/xzyxvc/{wd}-wdyswzqun{pg}num.html",
+                "分类url": "https://www.xzyx168.com/xzyxvs/{cateId}spsxdqlx{catePg}zmn.html",
+                "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju",
+                "简介": "🍊小橙子为您介绍剧情👉+left text-muted\">&&</div>"
+        }
+}, 	  	  
+{
     "key": "5点电影",
     "name": "🍊5点电影",
     "type": 3,
