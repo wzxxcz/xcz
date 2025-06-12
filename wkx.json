@@ -2622,13 +2622,32 @@
   "ext":"https://www.91qkw.com"
 },
 {
-  "key": "饺子影视",
-  "name": "🥟饺子影视",
+  "key": "饺子影院",
+  "name": "🥟饺子影院",
   "type": 3,
-  "api": "csp_Jiaozi",
-  "playerType": 2,
-  "jar": "https://xcz.iptv365.org/xczxs.jar"
-},
+  "api": "csp_XBPQ",
+  "jar": "https://xcz.iptv365.org/xczzx.jar",
+  "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+	        "数组": "class=\"myui-vodlist__box\"&&</a",
+	        "标题": "title=\"&&\"",
+	        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+	        "图片":"data-original=\"&&\"",
+	        "链接": "href=\"&&\"",
+	        "线路数组": "#playlist&&</a>",
+	        "线路标题": "tab\">&&</a",
+	        "播放数组": "<ul class=\"myui-content__list&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+	        "跳转播放链接": "var player_*\"url\":\"&&\"",
+	        "搜索url":"https://www.jiaozi.me/search.php?page={pg}&searchkey={wd}&searchtype=",
+                "分类url": "https://www.jiaozi.me/search.php?page={catePg}&searchtype=5&tid={cateId}",
+                "分类": "电影$1#剧集$2#动画$41#",
+                "简介": "🍊小橙子为您介绍剧情👉+text-muted col-pd\">&&</div>"
+        }
+},	  
 {
   "key":"绝对影视",
   "name":"💡绝对影视",
